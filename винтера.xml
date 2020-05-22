@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist>
+    <title>Интернет ТВ</title>
+    <fon>http://reklama.vintera.tv/img/otkluchi.png</fon>
+    <trackList>
+        <track>
+            <title>France 24 (Eng)</title>
+            <location>http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/FRANCE24.png</image>
+            <flag>http://img.vintera.tv/img/flag/fr.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Немецкая волна (Eng)</title>
+            <location>http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&amp;rebase=on?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/dw.png</image>
+            <flag>http://img.vintera.tv/img/flag/de.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>France 24</title>
+            <location>http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/FRANCE24.png</image>
+            <flag>http://img.vintera.tv/img/flag/fr.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>France 24 (Arabic)</title>
+            <location>http://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/FRANCE24.png</image>
+            <flag>http://img.vintera.tv/img/flag/fr.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Немецкая волна (Amer_De)</title>
+            <location>http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/dw.png</image>
+            <flag>http://img.vintera.tv/img/flag/de.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Немецкая волна</title>
+            <location>http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8?sd=10&amp;rebase=on&amp;hdntl=?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/dw.png</image>
+            <flag>http://img.vintera.tv/img/flag/de.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Немецкая волна (Espanol)</title>
+            <location>http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;rebase=on?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/dw.png</image>
+            <flag>http://img.vintera.tv/img/flag/de.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Немецкая волна (Arabic)</title>
+            <location>http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/dw.png</image>
+            <flag>http://img.vintera.tv/img/flag/de.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>CGTN(Рус.)</title>
+            <location>http://serv30.vintera.tv:8081/restream/cgtn_rus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/CGTNr.png</image>
+            <flag>http://img.vintera.tv/img/flag/ch.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>CCTV-4</title>
+            <location>http://serv30.vintera.tv:8081/restream/cctv4_china/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/CCTV4.png</image>
+            <flag>http://img.vintera.tv/img/flag/ch.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>CGTN</title>
+            <location>http://serv30.vintera.tv:8081/restream/cgtn_english/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/CGTN.png</image>
+            <flag>http://img.vintera.tv/img/flag/ch.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Aljazeera (Arabic)</title>
+            <location>http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/aljazeera.png</image>
+            <flag>http://img.vintera.tv/img/flag/qt.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Aljazeera Doc</title>
+            <location>http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/aljazeera.png</image>
+            <flag>http://img.vintera.tv/img/flag/qt.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Aljazeera</title>
+            <location>http://live-hls-web-aje.getaj.net/AJE/03.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/aljazeera.png</image>
+            <flag>http://img.vintera.tv/img/flag/qt.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Silence TV WORLD</title>
+            <location>http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/silence.png</image>
+            <flag>http://img.vintera.tv/img/flag/hnk.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Atameken Business Channel</title>
+            <location>http://live-atameken-vintera.cdnvideo.ru/atameken/atameken-vintera.sdp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/atameken2.png</image>
+            <flag>http://img.vintera.tv/img/flag/kz.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Arirang TV</title>
+            <location>http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/arirang.png</image>
+            <flag>http://img.vintera.tv/img/flag/y-koreya.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>NHK World</title>
+            <location>http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/nhk.png</image>
+            <flag>http://img.vintera.tv/img/flag/jp.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>KBS World</title>
+            <location>http://cdn.nexttvnet.ru/hlsl/provide/61394/KBSWorld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/KBS_World.png</image>
+            <flag>http://img.vintera.tv/img/flag/y-koreya.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>КиноМеню HD</title>
+            <location>http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/KinoMenuHD_rus.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>МультСезон</title>
+            <location>http://serv30.vintera.tv:8081/restream/multsezon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/mults.jpg</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Детское кино</title>
+            <location>http://serv30.vintera.tv:8081/restream/det_kino/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/detsk.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>1PHK</title>
+            <location>http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/logomini.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Ветта 24</title>
+            <location>http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/V24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>PeaceMan</title>
+            <location>http://serv30.vintera.tv:8081/lee/kontent1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/peaceman.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Перпетуум Мобиле</title>
+            <location>http://serv30.vintera.tv:8081/restream/pmobile/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/pmobile.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>HD Media</title>
+            <location>http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/hdmedia1.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Терра Инкогнита</title>
+            <location>http://serv25.vintera.tv:8081/restream/terra/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/TerraInk.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Неизвестная планета</title>
+            <location>http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/neplaneta1.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Классика Кино</title>
+            <location>http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/movieclassic.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Советское кино</title>
+            <location>http://serv30.vintera.tv:8081/restream/soviet_movs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/soviet_movies.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>КиноСезон</title>
+            <location>http://serv30.vintera.tv:8081/restream/kinosezon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/kinosezon.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Советские мультфильмы</title>
+            <location>http://serv30.vintera.tv:8081/restream/rusmult/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/soviet_cartoons.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Сказки Зайки</title>
+            <location>http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/mom.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Джой Кук</title>
+            <location>http://serv25.vintera.tv:8081/restream/joycook/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/JOY_COOK_ico.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ПолетТВ</title>
+            <location>http://serv30.vintera.tv:8081/restream/polet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/polet.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Детский мир</title>
+            <location>http://serv30.vintera.tv:8081/restream/detskiymir/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/detmir.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>CatholicTV</title>
+            <location>http://serv30.vintera.tv:8081/restream/katolik/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/catholic.png</image>
+            <flag>http://img.vintera.tv/img/flag/vat2.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Любимое кино </title>
+            <location>http://serv25.vintera.tv:8081/restream/lubimoe_kino/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/lubkino.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Мир Сериала</title>
+            <location>http://serv25.vintera.tv:8081/restream/mirseriala/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/mirser.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Рыбинск-40</title>
+            <location>http://serv30.vintera.tv:8081/restream/rybinsk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rybinsk.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Парламентское телевидение</title>
+            <location>http://serv30.vintera.tv:8081/parlament/parlament_stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/parlTV.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>К16</title>
+            <location>http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/k16.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>9 волна</title>
+            <location>http://serv25.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/acb-tv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>RussianMusicBox</title>
+            <location>http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rusmusbox.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Tunisie immobilier TV</title>
+            <location>http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/tunis.png</image>
+            <flag>http://img.vintera.tv/img/flag/tun.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Shoppinglive</title>
+            <location>http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/shl.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Европа ПлюсТВ</title>
+            <location>http://serv30.vintera.tv:8081/restream/europaplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/EPTV.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Путешествия+Приключения</title>
+            <location>http://serv30.vintera.tv:8081/restream/travel_adventure/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/pp.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Охота и Рыбалка</title>
+            <location>http://serv30.vintera.tv:8081/restream/ohotarib/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/ohota.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Урал-информ ТВ</title>
+            <location>http://serv30.vintera.tv:8081/ural/ural_inform/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/uralinf.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Усадьба</title>
+            <location>http://serv30.vintera.tv:8081/restream/usadba/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/usadba.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Ретро</title>
+            <location>http://serv30.vintera.tv:8081/restream/retro/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/retro.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Драйв</title>
+            <location>http://serv30.vintera.tv:8081/restream/drive/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/draiv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Беларусь 24</title>
+            <location>http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/be24.png</image>
+            <flag>http://img.vintera.tv/img/flag/bl.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Дон 24</title>
+            <location>http://donmedia.bonus-tv.ru/cdn/donmedia/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/don.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Мир Белогорья</title>
+            <location>http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/mir_belog.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ЮТВ</title>
+            <location>http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/utv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Новое телевидение (Kaz)</title>
+            <location>http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/newtv.png</image>
+            <flag>http://img.vintera.tv/img/flag/kz.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ТНТ MUSIC</title>
+            <location>http://serv30.vintera.tv:8081/restream/tntmusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/tnt_music.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Ювелирочка</title>
+            <location>http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/yuvelirochka.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ТопШоп ТВ</title>
+            <location>http://serv25.vintera.tv:8081/restream/topshop/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/topshop2.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Калейдоскоп ТВ</title>
+            <location>http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/kalejdoskop.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Russia Today Документальный</title>
+            <location>http://serv25.vintera.tv:8081/restream/rtdoc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rtd.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Russia Today (Eng)</title>
+            <location>http://rt-news-gd.secure2.footprint.net/1103_1600Kb.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rt.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Russia Today (Fra)</title>
+            <location>http://rt-france-gd.secure2.footprint.net/1107_1600Kb.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rt_fr.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Russia Today (Arabic)</title>
+            <location>http://rt-arab-gd.secure2.footprint.net/1104_1600Kb.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rt_arab.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Netviet</title>
+            <location>http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/netviet.png</image>
+            <flag>http://img.vintera.tv/img/flag/vn.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Public TV of Armenia</title>
+            <location>http://serv30.vintera.tv:8081/test/h1_arm/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/1.png</image>
+            <flag>http://img.vintera.tv/img/flag/arm.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Сочи24</title>
+            <location>http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/sochi24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Sochi Live</title>
+            <location>http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/sochilive.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Волгоград 24</title>
+            <location>http://serv30.vintera.tv:8081/volga24/volgograd24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/volgograd24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>СТВ</title>
+            <location>http://serv25.vintera.tv:8081/svoetv/stvsd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/svoetv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Губерния</title>
+            <location>http://moscow.gubernia.online/hls/live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/gubernia.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Хабар 24</title>
+            <location>http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/habar.png</image>
+            <flag>http://img.vintera.tv/img/flag/kz.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Казах ТВ</title>
+            <location>http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/Kazakhtv.png</image>
+            <flag>http://img.vintera.tv/img/flag/kz.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Казах ТВ (Рус.)</title>
+            <location>http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/Kazakhtv.png</image>
+            <flag>http://img.vintera.tv/img/flag/kz.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Казах ТВ (Eng)</title>
+            <location>http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/Kazakhtv.png</image>
+            <flag>http://img.vintera.tv/img/flag/kz.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Казах ТВ (Кирг)</title>
+            <location>http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/Kazakhtv.png</image>
+            <flag>http://img.vintera.tv/img/flag/kz.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Страна FM</title>
+            <location>http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/stranafm.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Нано</title>
+            <location>http://nano.teleservice.su:8080/hls/nano.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/nano.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Luxury</title>
+            <location>http://nano.teleservice.su:8080/hls/luxury.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/luxury.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Красная Линия</title>
+            <location>http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rline.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ЛДПР-ТВ</title>
+            <location>http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/ldpr.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ИЛЛИ</title>
+            <location>http://cdn.illi.tv/illitv_2000/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/illi.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Миллет</title>
+            <location>http://serv30.vintera.tv:8081/restream/millet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/millet.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Синергия ТВ</title>
+            <location>http://serv25.vintera.tv:8081/synergytv/synergytv_hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/sinergia.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>МТВ</title>
+            <location>http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/mtb.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>КРИК-ТВ</title>
+            <location>http://serv30.vintera.tv:8081/restream/scream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/krik.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>МАТУР ТВ</title>
+            <location>http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/matur1.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Три Ангела</title>
+            <location>http://serv25.vintera.tv:8081/restream/3angels/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/3angels_1.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Travel Guid-TV</title>
+            <location>http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/TGTV.png</image>
+            <flag>http://img.vintera.tv/img/flag/ukr.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>SahelTV</title>
+            <location>http://serv30.vintera.tv:8081/africa/saheltv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/SahelTV.png</image>
+            <flag>http://img.vintera.tv/img/flag/tun.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>БСТ</title>
+            <location>http://serv30.vintera.tv:8081/restream/bst_stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/bst.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Салям</title>
+            <location>http://serv30.vintera.tv:8081/restream/salyam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/salym.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>КУРАЙ-ТВ</title>
+            <location>http://serv30.vintera.tv:8081/restream/kurai_stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/kurai.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Тамыр</title>
+            <location>http://serv30.vintera.tv:8081/restream/tamyr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/tamyr.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Башкортостан 24</title>
+            <location>http://serv30.vintera.tv:8081/restream/b24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/b24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Продвижение</title>
+            <location>https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/promotion.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Первый Тульский</title>
+            <location>http://5.164.24.83/tula/1tv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/tula1tv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Жар птица</title>
+            <location>http://194.190.78.36:8081/zpnew/zp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/ptica.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>К24</title>
+            <location>http://serv25.vintera.tv:8081/restream/katun24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/k24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ОРТ</title>
+            <location>http://serv25.vintera.tv:8081/restream/ort/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/ort.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Арис 24</title>
+            <location>http://serv25.vintera.tv:8081/test/aris/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/aris.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Аист</title>
+            <location>http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/aist.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Томское время</title>
+            <location>http://serv25.vintera.tv:8081/restream/tomsk_time/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/tomsk.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Свобода</title>
+            <location>http://serv25.vintera.tv:8081/restream/svoboda/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/svoboda.png</image>
+            <flag>http://img.vintera.tv/img/flag/ua.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Инфо 24</title>
+            <location>http://serv25.vintera.tv:8081/restream/info_24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/info24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Удмуртия</title>
+            <location>http://serv25.vintera.tv:8081/restream/udmurtia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/udmurd.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>8 канал</title>
+            <location>http://80.65.18.213/8kanal-krsk_13kb.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/8kanal2.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Брянская Губерния</title>
+            <location>http://serv25.vintera.tv:8081/restream/bryanskaya_guberniya/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/brynsk.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Ноябрьск 24</title>
+            <location>http://serv25.vintera.tv:8081/restream/noyabrsk24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/noybrsk.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Время Арктики</title>
+            <location>http://serv25.vintera.tv:8081/restream/arctica24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/arctica.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Хузур ТВ</title>
+            <location>http://serv30.vintera.tv:8081/restream/huzur/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/huzur.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>LIFE TV PLUS</title>
+            <location>http://serv30.vintera.tv:8081/restream/lifetvplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/lifepl.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>LIFE TV</title>
+            <location>http://serv30.vintera.tv:8081/restream/lifetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/life.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Iniyan TV</title>
+            <location>http://serv30.vintera.tv:8081/restream/Iniyan_tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/iniyan.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ТМБ ТВ</title>
+            <location>http://serv30.vintera.tv:8081/restream/tmbtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/tmb2.png</image>
+            <flag>http://img.vintera.tv/img/flag/az.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>АзТВ</title>
+            <location>http://serv30.vintera.tv:8081/restream/aztv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/aztv2.png</image>
+            <flag>http://img.vintera.tv/img/flag/az.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Хазар ТВ</title>
+            <location>http://serv30.vintera.tv:8081/restream/xazer/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/xazar.png</image>
+            <flag>http://img.vintera.tv/img/flag/az.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>FixHD</title>
+            <location>http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/fix.png</image>
+            <flag>http://img.vintera.tv/img/flag/hu.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>АРБ ТВ</title>
+            <location>http://serv30.vintera.tv:8081/restream/arb/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/arb.png</image>
+            <flag>http://img.vintera.tv/img/flag/az.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Липецкое время</title>
+            <location>http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/LIPECK1.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Ocko TV Gold</title>
+            <location>http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/osko.png</image>
+            <flag>http://img.vintera.tv/img/flag/cr.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>АРБ24</title>
+            <location>http://serv30.vintera.tv:8081/restream/arb24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/arb24.png</image>
+            <flag>http://img.vintera.tv/img/flag/az.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Кузбасс 1</title>
+            <location>http://www.10kanal.ru/live/hls/k24.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/kuzbass1.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Телеканал С-1</title>
+            <location>http://serv30.vintera.tv:8081/restream/tv_c1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/c1.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Телеканал 86</title>
+            <location>http://serv30.vintera.tv:8081/restream/tv86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/86.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Егорьевское Телевидение</title>
+            <location>http://video.platformcraft.ru/hls/etv/egorievsk-tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/egor.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Angel TV(India)</title>
+            <location>http://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/angel_in.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>KTISMA TV</title>
+            <location>http://serv30.vintera.tv:8081/restream/ktismatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/KTISMA.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Angel TV(Chinese)</title>
+            <location>http://wowzaprod270-i.akamaihd.net/hls/live/1007388/0109681f/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/angel_ch.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Angel TV(русский)</title>
+            <location>http://wowzaprod270-i.akamaihd.net/hls/live/1007388/9bb3a293/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/angel_ru.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Angel TV(Eng)</title>
+            <location>http://wowzaprod270-i.akamaihd.net/hls/live/1007388/fd9acaeb/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/angel_en.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>TCBN TV</title>
+            <location>http://serv25.vintera.tv:8081/restream/tcbntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/TCBN.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>K NEWS-INDIA</title>
+            <location>http://knews.livebox.co.in/youtubehls/live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/knews.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Thuthi TV</title>
+            <location>http://thuthitvlive.in/thuthitvhls/live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/thuthitv.png</image>
+            <flag>http://img.vintera.tv/img/flag/in.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Светлое ТВ</title>
+            <location>http://194.158.218.123:1000/hls/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/svetloe.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ТВ ЭКСТРА</title>
+            <location>http://live-1.otcnet.ru:80/tvextra720b/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/extra.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Якутия 24</title>
+            <location>http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/jak24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>НВК Саха</title>
+            <location>http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/saha24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Дагестан</title>
+            <location>http://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/dag.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Муз ТВ</title>
+            <location>http://serv25.vintera.tv:8081/restream/muztv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/muz_tv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Дорама</title>
+            <location>http://serv25.vintera.tv:8081/restream/dorama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/dorama.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Кавказ 24</title>
+            <location>http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/kavkaz.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Мордовия 24</title>
+            <location>http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/mord.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Евроновости</title>
+            <location>http://serv30.vintera.tv:8081/restream/evronovosti/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/evronov.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Русский экстрим Ретро</title>
+            <location>http://serv30.vintera.tv:8081/restream/rus_extream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rus_extream.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>НТС</title>
+            <location>http://serv30.vintera.tv:8081/restream/nts_tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/nts.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Телевизионная станция "МИР"</title>
+            <location>http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/mir3.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Краснодар</title>
+            <location>http://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/krasnodar.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>ЛенТВ 24</title>
+            <location>http://serv30.vintera.tv:8081/restream/lentv_24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/lentv24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Теледом</title>
+            <location>http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/teledom2.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Первый канал</title>
+            <location>http://serv25.vintera.tv:8081/restream/pervij/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/1_hd.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Россия 1 (500 кб/с)</title>
+            <location>http://serv25.vintera.tv:8081/500/rus1-500df/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/russia1.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Россия 1</title>
+            <location>http://serv30.vintera.tv:8081/restream/rus1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/russia1.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Звезда</title>
+            <location>http://serv30.vintera.tv:8081/restream/zvezda/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/zvezda.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>НТВ</title>
+            <location>http://serv25.vintera.tv:8081/restream/ntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/ntv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>НТВ  (500 кб/с)</title>
+            <location>http://serv25.vintera.tv:8081/500/ntv-500q/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/ntv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Пятый канал</title>
+            <location>http://serv30.vintera.tv:8081/restream/5ch/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/5spb.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Россия 24</title>
+            <location>http://serv30.vintera.tv:8081/restream/rus24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/russia24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Россия 24 (500 кб/с)</title>
+            <location>http://serv25.vintera.tv:8081/500/rus24-500w/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/russia24.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>СТС</title>
+            <location>http://serv30.vintera.tv:8081/restream/sts3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/sts.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Че</title>
+            <location>http://serv25.vintera.tv:8081/restream/che23/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/che.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>РЕН ТВ  (500 кб/с)</title>
+            <location>http://serv25.vintera.tv:8081/500/rentv-500q/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rentv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>РЕН ТВ</title>
+            <location>http://serv25.vintera.tv:8081/restream/rentv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rentv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Россия Культура</title>
+            <location>http://serv25.vintera.tv:8081/restream/rusk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/kultura.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>RU TV</title>
+            <location>http://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/rutv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Карусель</title>
+            <location>http://serv25.vintera.tv:8081/restream/karusel23/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/karusel.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+        <track>
+            <title>Шансон ТВ</title>
+            <location>http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDY6MTQ6MzkgUE0maGFzaF92YWx1ZT1qSDZiSU5RY3NKNUFxSHhBN1NrOEdRPT0mdmFsaWRtaW51dGVzPTQ4MA==</location>
+            <image>http://img.vintera.tv/img/ico/shansontv.png</image>
+            <flag>http://img.vintera.tv/img/flag/ru.png</flag>
+            <desc></desc>
+        </track>
+    </trackList>
+</playlist>
