@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <playlist>
-    <adFullScreenSettings>
-      <amountStepsShowAD>1</amountStepsShowAD>
-      <timeShowAd>10000</timeShowAd>
-    </adFullScreenSettings>
-    <urgentUpdate>false</urgentUpdate>
-    <timeBuffering>6</timeBuffering>
     <title>ТВ онлайн</title>
     <fon>http://s.glaz.tv/images/favicon/ms-icon-144x144.png</fon>
     <trackList>
