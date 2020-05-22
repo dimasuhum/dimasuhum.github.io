@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <playlist>
-    <title>online-tv</title>
+    <adFullScreenSettings>
+      <amountStepsShowAD>1</amountStepsShowAD>
+      <timeShowAd>10000</timeShowAd>
+    </adFullScreenSettings>
+    <urgentUpdate>false</urgentUpdate>
+    <timeBuffering>6</timeBuffering>
+    <title>ТВ онлайн - Смотреть прямой эфир бесплатно. ТОП-50 каналов.</title>
     <fon>http://s.glaz.tv/images/favicon/ms-icon-144x144.png</fon>
-    <channelslist>
+    <channels-list>
         <channels>
             <id>659</id>
             <name>ТНТ</name>
@@ -421,5 +427,5 @@
 			<flag>https://www.glaz.tv/images/flags/ru.png</flag>
 			<desc></desc>
         </channels>
-    </channelslist>
+    </channels-list>
 </playlist>
