@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <item>
+        <key>Sbornik-forever</key>
+        <value>https://webhalpme.ru/if.m3u</value>
+    </item>
+	<item>
+        <key>Kino+mult</key>
+        <value>http://bluecrabstv.do.am/kinocrabs.m3u</value>
+    </item>
+	<item>
+        <key>Kanali g.Odessi</key>
+        <value>http://ettytv.com/playlist/odessa_tv.m3u</value>
+    </item>
+        <item>
+        <key>LLC_Uplink (m3u8)</key>
+        <value>http://ettytv.com/playlist/LLC_Uplink.m3u8</value>
+    </item>
+	<item>
+        <key>Filmy</key>
+        <value>https://smarttvnews.ru/apps/Films.m3u</value>
+    </item>
+</list>
