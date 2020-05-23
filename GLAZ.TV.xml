@@ -23,11 +23,11 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>534</id>
+            <id>videoplayer</id>
             <name>Первый канал</name>
-            <logo>http://s.glaz.tv/images/logos/tv/big/pervyi-kanal.jpg</logo>
+            <logo>http://chas.tv/img/channel/pervyi.png</logo>
             <stream>http://178.162.218.83:8081/chromecast/pervyi-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDE6Mzg6MTcgUE0maGFzaF92YWx1ZT13WWxaa24xdEU5WDd2K04wT2ZWZUxnPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
-            <stream_array>http://178.162.218.87:8081/andr/pervyib-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDE6Mzg6MTcgUE0maGFzaF92YWx1ZT13WWxaa24xdEU5WDd2K04wT2ZWZUxnPT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
+            <stream_array>http://178.162.218.85:8081/chas/pervyi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6NDE6MjMgUE0maGFzaF92YWx1ZT1vRU1oWEtRU05wd21JVGZ2OHNVSGxBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
@@ -404,7 +404,7 @@
 		<channels>
             <id>player</id>
             <name>Bridge TV Classic</name>
-            <logo>https://federal.tv/i/tntmusic.png</logo>
+            <logo>https://federal.tv/i/bridgetvclassic.png</logo>
             <stream>https://s3.federal.tv:8082/fed/bridgeclassictv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDI6MTggUE0maGFzaF92YWx1ZT1ndEdDeENDTlZxKzBCSVJpUFBIUC93PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
@@ -412,7 +412,7 @@
 		<channels>
             <id>player</id>
             <name>ТНТ Music</name>
-            <logo>https://federal.tv/i/bridgetvhits.png</logo>
+            <logo>https://federal.tv/i/tntmusic.png</logo>
             <stream>https://s3.federal.tv:8082/fed/tntmusictv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDI6MjYgUE0maGFzaF92YWx1ZT0vR2o1a0tEK0p2aWwrNGtSdGN2T0l3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
