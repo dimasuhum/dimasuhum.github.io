@@ -29,7 +29,7 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>stream</id>
+            <id>player.html</id>
             <name>Рен-ТВ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/ren-tv.jpg</logo>
             <stream>https://player.mediavitrina.ru/rentv/rentv/chas_tv_web/player.html</stream>
