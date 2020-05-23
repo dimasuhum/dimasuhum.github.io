@@ -26,7 +26,7 @@
             <id>534</id>
             <name>Первый канал</name>
             <logo>https://glaz.tv/logos/500/pervyi.png</logo>
-            <stream>http://178.162.218.85:8081/chromecast/pervyi-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDIwIDU6MjA6MTEgUE0maGFzaF92YWx1ZT1YTDhZWGowdUo0RkwvZUQ4SHpJVnpRPT0mdmFsaWRtaW51dGVzPTIwMA=</stream>
+            <stream>http://178.162.218.85:8081/chromecast/pervyi-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDE6Mzg6MTcgUE0maGFzaF92YWx1ZT13WWxaa24xdEU5WDd2K04wT2ZWZUxnPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
             <stream_array>http://178.162.218.87:8081/andr/pervyib-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDI6NDM6MDIgUE0maGFzaF92YWx1ZT1iL0pTNmlkMzAwUFVaRU1STzRqUWRnPT0mdmFsaWRtaW51dGVzPTIwMDA=</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
