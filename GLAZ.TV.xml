@@ -29,10 +29,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>556</id>
+            <id>player</id>
             <name>Рен-ТВ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/ren-tv.jpg</logo>
-            <stream>http://178.162.218.85:8081/chromecast/rentv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MjQ6NDUgUE0maGFzaF92YWx1ZT1UU3p5bDFkWFdtS2MrU1VZbWd1SThRPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>https://player.mediavitrina.ru/rentv/rentv/chas_tv_web/player.html</stream>
             <stream_array>https://strm.yandex.ru/kal/rentv_ad/rentv_ad0_169_270p.json/index-v1-a1.m3u8</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
