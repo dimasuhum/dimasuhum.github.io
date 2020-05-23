@@ -133,10 +133,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>455</id>
+            <id>player</id>
             <name>Пятница</name>
-            <logo>https://glaz.tv/logos/500/pyatnica.png</logo>
-            <stream>http://178.162.205.119:8081/chromecast/pyatnica-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6NDA6MTEgUE0maGFzaF92YWx1ZT0wUi9lanlxOGhHNXc4NXY4eDdXVHhRPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <logo>https://federal.tv/i/friday.png</logo>
+            <stream>https://s5.federal.tv:8082/fed/pyatnicatv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MTk6NDEgUE0maGFzaF92YWx1ZT12TEh5NWJvZ2s0UzBIaVptY01uVEt3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
@@ -144,17 +144,16 @@
             <id>681</id>
             <name>2x2</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/2x2.jpg</logo>
-            <stream>http://178.162.218.87:8081/chromecast/dva-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDI6NDM6MDIgUE0maGFzaF92YWx1ZT1iL0pTNmlkMzAwUFVaRU1STzRqUWRnPT0mdmFsaWRtaW51dGVzPTIwMDA==</stream>
 			<stream>
 			https://uma.media/play/embed/dcab9b90a33239837c0f71682d6606da?autoPlay=true&wmode=opaque&fakeFullscreen=1</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
         <channels>
-            <id>811</id>
+            <id>player</id>
             <name>Супер!</name>
-            <logo>http://s.glaz.tv/images/logos/tv/big/super.jpg</logo>
-            <stream>http://178.162.205.85:8081/chromecast/ssuper-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDI6NDM6MDIgUE0maGFzaF92YWx1ZT1iL0pTNmlkMzAwUFVaRU1STzRqUWRnPT0mdmFsaWRtaW51dGVzPTIwMDA==</stream>
+            <logo>https://federal.tv/i/super.png</logo>
+            <stream>https://s4.federal.tv:8082/fed/supertv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MTk6NTkgUE0maGFzaF92YWx1ZT1tYkxqTzUrZkNsbjF3ME5HdzdRcVdBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
 			<stream>
 			https://uma.media/play/embed/4ca525c601cc011f61348465fc6c09da?autoPlay=true&wmode=opaque&fakeFullscreen=1</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
@@ -401,12 +400,20 @@
             <stream>https://s4.federal.tv:8082/fed/bridgetvhitstv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDI6MDcgUE0maGFzaF92YWx1ZT1vQmlOSWZLQVkwNmhEaERraWhhMVpnPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
-        </channels>
+        </channels>	
 		<channels>
             <id>player</id>
             <name>Bridge TV Classic</name>
-            <logo>https://federal.tv/i/bridgetvclassic.png</logo>
+            <logo>https://federal.tv/i/tntmusic.png</logo>
             <stream>https://s3.federal.tv:8082/fed/bridgeclassictv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDI6MTggUE0maGFzaF92YWx1ZT1ndEdDeENDTlZxKzBCSVJpUFBIUC93PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
+			<desc></desc>
+        </channels>
+		<channels>
+            <id>player</id>
+            <name>ТНТ Music</name>
+            <logo>https://federal.tv/i/bridgetvhits.png</logo>
+            <stream>https://s3.federal.tv:8082/fed/tntmusictv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MDI6MjYgUE0maGFzaF92YWx1ZT0vR2o1a0tEK0p2aWwrNGtSdGN2T0l3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
