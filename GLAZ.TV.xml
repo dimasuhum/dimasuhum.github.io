@@ -6,7 +6,7 @@
             <id>659</id>
             <name>ТНТ</name>
             <logo>https://glaz.tv/logos/500/tnt.png</logo>
-            <stream>http://178.162.218.87:8081/chromecast/tnt-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDIwIDQ6NDU6MjMgUE0maGFzaF92YWx1ZT1FbktMekVVaGRhdHloU1hSdVlJV0JRPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://178.162.218.87:8081/chromecast/tnt-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDE6MjU6NTcgUE0maGFzaF92YWx1ZT1Jb2xRbGI4U3F4SndZbGxJSktERFBBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
             <stream_array>http://178.162.218.87:8081/andr/tntb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDI6NDM6MDIgUE0maGFzaF92YWx1ZT1iL0pTNmlkMzAwUFVaRU1STzRqUWRnPT0mdmFsaWRtaW51dGVzPTIwMDA==</stream_array>
             <stream_array>https://strm.yandex.ru/dvr/tnt/tnt0_169_720p.m3u8</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
