@@ -24,7 +24,7 @@
             <id>534</id>
             <name>Первый канал</name>
             <logo>http://chas.tv/img/channel/pervyi.png</logo>
-            <stream>http://178.162.218.83:8081/chromecast/pervyi-hq.stream/playlist.m3u8?wmsAuthSign=" + signature</stream>
+            <stream>http://178.162.218.83:8081/chromecast/pervyi-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDM6MDU6NTcgUE0maGFzaF92YWx1ZT1IY0xtRjVQY1dnWEVEVzcwSmpjazhBPT0mdmFsaWRtaW51dGVzPTIwMA=</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
