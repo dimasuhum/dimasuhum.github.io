@@ -279,10 +279,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>727</id>
+            <id>player</id>
             <name>Русский иллюзион</name>
-            <logo>https://glaz.tv/logos/500/rusillyuzion.png</logo>
-            <stream>http://178.162.205.85:8081/chromecast/rusillyuzion-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDI6NDM6MDIgUE0maGFzaF92YWx1ZT1iL0pTNmlkMzAwUFVaRU1STzRqUWRnPT0mdmFsaWRtaW51dGVzPTIwMDA==</stream>
+            <logo></logo>
+            <stream>http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
