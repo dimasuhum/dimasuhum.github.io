@@ -152,7 +152,7 @@
             <id>player</id>
             <name>Супер!</name>
             <logo>https://federal.tv/i/super.png</logo>
-            <stream>https://s4.federal.tv:8082/fed/supertv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6MTk6NTkgUE0maGFzaF92YWx1ZT1tYkxqTzUrZkNsbjF3ME5HdzdRcVdBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://85.112.114.11:8086/udp/238.2.49.249:1234</stream>
 			<stream>
 			https://uma.media/play/embed/4ca525c601cc011f61348465fc6c09da?autoPlay=true&wmode=opaque&fakeFullscreen=1</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
