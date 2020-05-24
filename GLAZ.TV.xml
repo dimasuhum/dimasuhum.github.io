@@ -3,7 +3,7 @@
     <title>ТВ онлайн</title>
     <fon>http://s.glaz.tv/images/favicon/ms-icon-144x144.png</fon>
         <channels>
-            <id>PlayerItem</id>
+            <id>videoplayer</id>
             <name>ТНТ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/tnt-online.jpg</logo>
             <stream>https://uma.media/play/embed/4e4e37727e07a7124cd7b29f2975e295?autoPlay=true&%20wmode=opaque&fakeFullscreen=1?autoPlay=true&%20wmode=opaque&fakeFullscreen=1</stream>
@@ -11,20 +11,20 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>videoplayer</id>
+            <id>636</id>
             <name>НТВ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/ntv.jpg</logo>
-            <stream>http://178.162.218.85:8081/chas/ntv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6NTQ6MDIgUE0maGFzaF92YWx1ZT1wOWkwdzdha3p5c2lVamY2R3lUdGdBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://gorod.tv/s/live/4/ssiptv/0/0.m3u8</stream>
             <stream_array>http://178.162.218.87:8081/andr/ntvb.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MDI6NTUgUE0maGFzaF92YWx1ZT1iNUVPUUYxNVF5clNPK21uQS9zYXdBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
             <stream_array>http://strm.yandex.ru/kal/ntv_cv/ntv_cv0_169_480p.json/index-v1-a1.m3u8</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
         <channels>
-            <id>PlayerItem</id>
+            <id>534</id>
             <name>Первый канал</name>
             <logo>http://chas.tv/img/channel/pervyi.png</logo>
-            <stream>https://www.1tv.ru/iframed/eump-embedlive_pdn.html?__dvr=yes</stream>
+            <stream>http://178.162.218.83:8081/chromecast/pervyi-hq.stream/playlist.m3u8?wmsAuthSign=" + signature</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
