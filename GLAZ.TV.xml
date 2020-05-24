@@ -63,7 +63,7 @@
             <id>577</id>
             <name>Матч-ТВ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/match-tv.jpg</logo>
-            <stream>https://www.glaz.tv/iframes/match-tv.html</stream>
+            <stream>http://178.162.205.119:8081/chromecast/rossiya2-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDQ6MDE6NTkgUE0maGFzaF92YWx1ZT1NR0xuWTdCWWgzaUtoSWNEMGRWSmp3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
             <stream_array>https://www.glaz.tv/iframes/match-tv.html</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
