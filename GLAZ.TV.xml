@@ -3,10 +3,10 @@
     <title>ТВ онлайн</title>
     <fon>http://s.glaz.tv/images/favicon/ms-icon-144x144.png</fon>
         <channels>
-            <id>player</id>
+            <id>input-reason-620</id>
             <name>ТНТ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/tnt-online.jpg</logo>
-            <stream>https://s4.federal.tv:8082/fed/tnttv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6NTY6NTYgUE0maGFzaF92YWx1ZT1zaFNWbmpMd1NMQ2h3eFNIQ3pVQnV3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>//uma.media/play/embed/4e4e37727e07a7124cd7b29f2975e295?autoPlay=true& wmode=opaque&fakeFullscreen=1</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
