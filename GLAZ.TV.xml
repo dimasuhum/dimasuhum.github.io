@@ -3,10 +3,11 @@
     <title>ТВ онлайн</title>
     <fon>http://s.glaz.tv/images/favicon/ms-icon-144x144.png</fon>
         <channels>
-            <id>videoplayer</id>
+            <id>659</id>
             <name>ТНТ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/tnt-online.jpg</logo>
-            <stream>https://uma.media/play/embed/4e4e37727e07a7124cd7b29f2975e295?autoPlay=true&%20wmode=opaque&fakeFullscreen=1?autoPlay=true&%20wmode=opaque&fakeFullscreen=1</stream>
+            <stream>http://178.162.218.87:8081/chromecast/tnt-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDM6MTk6MzMgUE0maGFzaF92YWx1ZT1CSkdMaHhFMkJUd0NkZ2xLVkNBbnBBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+			<stream_array>https://uma.media/play/embed/4e4e37727e07a7124cd7b29f2975e295?autoPlay=true&%20wmode=opaque&fakeFullscreen=1?autoPlay=true&%20wmode=opaque&fakeFullscreen=1</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
@@ -24,7 +25,7 @@
             <id>534</id>
             <name>Первый канал</name>
             <logo>http://chas.tv/img/channel/pervyi.png</logo>
-            <stream>http://178.162.218.83:8081/chromecast/pervyi-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDM6MDU6NTcgUE0maGFzaF92YWx1ZT1IY0xtRjVQY1dnWEVEVzcwSmpjazhBPT0mdmFsaWRtaW51dGVzPTIwMA=</stream>
+            <stream>http://178.162.218.83:8081/chromecast/pervyi-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDM6MDU6NTcgUE0maGFzaF92YWx1ZT1IY0xtRjVQY1dnWEVEVzcwSmpjazhBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
