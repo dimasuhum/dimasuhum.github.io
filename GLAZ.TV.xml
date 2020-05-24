@@ -29,10 +29,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>player.api</id>
+            <id>1738</id>
             <name>Рен-ТВ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/ren-tv.jpg</logo>
-            <stream>https://ren.tv/live</stream>
+            <stream>http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01</stream>
             <stream_array>https://strm.yandex.ru/kal/rentv_ad/rentv_ad0_169_270p.json/index-v1-a1.m3u8</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
