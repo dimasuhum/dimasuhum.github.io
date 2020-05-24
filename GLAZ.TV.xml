@@ -76,10 +76,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>601</id>
+            <id>player</id>
             <name>СТС</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/sts.jpg</logo>
-            <stream>http://178.162.218.87:8081/chromecast/sts-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MzM6NDEgUE0maGFzaF92YWx1ZT1HSTUvdFJmNm1uR0tieTJyMEYxaklBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://51.15.82.174:8081/tv/sts/chunks.m3u8?nimblesessionid=13970327</stream>
             <stream_array>http://178.162.218.87:8081/chromecast/stsb-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MzM6NDEgUE0maGFzaF92YWx1ZT1HSTUvdFJmNm1uR0tieTJyMEYxaklBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
@@ -113,10 +113,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>677</id>
+            <id>player</id>
             <name>ТВ-3</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/tv-3.jpg</logo>
-            <stream>http://178.162.218.83:8081/chromecast/tvtri-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDM6Mjk6NTcgUE0maGFzaF92YWx1ZT10emM0VFNlZmxlTDRpN3h6UE1OdHl3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>https://ok.ru/videoembed/1061877194420?nochat=1&autoplay=1</stream>
             <stream_array>http://178.162.218.87:8081/chromecast/tvtrib-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDM6Mjk6NTcgUE0maGFzaF92YWx1ZT10emM0VFNlZmxlTDRpN3h6UE1OdHl3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
             <stream_array>https://strm.yandex.ru/dvr/tv3/tv30_169_720p.m3u8</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
