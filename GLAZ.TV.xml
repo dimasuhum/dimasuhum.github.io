@@ -3,10 +3,10 @@
     <title>ТВ онлайн</title>
     <fon>http://s.glaz.tv/images/favicon/ms-icon-144x144.png</fon>
         <channels>
-            <id>659</id>
+            <id></id>
             <name>ТНТ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/tnt-online.jpg</logo>
-            <stream>http://178.162.218.87:8081/chromecast/tnt-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDM6MTk6MzMgUE0maGFzaF92YWx1ZT1CSkdMaHhFMkJUd0NkZ2xLVkNBbnBBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8</stream>
 			<stream_array>https://uma.media/play/embed/4e4e37727e07a7124cd7b29f2975e295?autoPlay=true&%20wmode=opaque&fakeFullscreen=1?autoPlay=true&%20wmode=opaque&fakeFullscreen=1</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
@@ -39,10 +39,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>578</id>
+            <id></id>
             <name>Россия-24</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/rossiya-24.jpg</logo>
-            <stream>http://178.162.218.87:8081/chromecast/rossiya24-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MjY6MDkgUE0maGFzaF92YWx1ZT1iUU5mN25XQmZETG1kbTgrL2NWbFRBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://uiptv.do.am/1ufc/000000006/playlist.m3u8</stream>
             <stream_array>http://178.162.218.87:8081/chromecast/rossiya24b-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MjY6MDkgUE0maGFzaF92YWx1ZT1iUU5mN25XQmZETG1kbTgrL2NWbFRBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
             <stream_array>https://strm.yandex.ru/dvr/russia24/russia240_169_360p.m3u8</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
@@ -53,25 +53,25 @@
             <name>Россия-1</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/rossiya-1.jpg</logo>
 			<stream>
-			http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8</stream>
+			http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8</stream>
             <stream_array>http://178.162.218.87:8081/chromecast/rossiya1b-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6Mjc6NTIgUE0maGFzaF92YWx1ZT0yMlp6NXhramt5MTNmRmkyN2hZUG53PT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
         <channels>
-            <id>577</id>
+            <id>группа "match-tv"</id>
             <name>Матч-ТВ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/match-tv.jpg</logo>
-            <stream>http://178.162.205.119:8081/chromecast/rossiya2-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIwIDQ6MDE6NTkgUE0maGFzaF92YWx1ZT1NR0xuWTdCWWgzaUtoSWNEMGRWSmp3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://uiptv.do.am/1ufc/000000003/playlist.m3u8</stream>
             <stream_array>https://www.glaz.tv/iframes/match-tv.html</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
         <channels>
-            <id>764</id>
+            <id></id>
             <name>ТНТ-Comedy</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/comedy-tv.jpg</logo>
-            <stream>http://178.162.205.119:8081/chromecast/comedytv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MzE6NTAgUE0maGFzaF92YWx1ZT1Mdm1pYVVha1B1azFKaHlmVDdoMlpBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://85.112.114.11:8086/udp/233.170.170.130:58631</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
@@ -79,16 +79,25 @@
             <id>player</id>
             <name>СТС</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/sts.jpg</logo>
-            <stream>http://51.15.82.174:8081/tv/sts/chunks.m3u8?nimblesessionid=13970327</stream>
+            <stream>https://sc.id-tv.kz/STS_38_39.m3u8</stream>
+            <stream_array>http://178.162.218.87:8081/chromecast/stsb-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MzM6NDEgUE0maGFzaF92YWx1ZT1HSTUvdFJmNm1uR0tieTJyMEYxaklBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
+			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
+			<desc></desc>
+        </channels>
+		<channels>
+            <id></id>
+            <name>СТС прима</name>
+            <logo>http://s.glaz.tv/images/logos/tv/big/sts.jpg</logo>
+            <stream>http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8</stream>
             <stream_array>http://178.162.218.87:8081/chromecast/stsb-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MzM6NDEgUE0maGFzaF92YWx1ZT1HSTUvdFJmNm1uR0tieTJyMEYxaklBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
         <channels>
-            <id>460</id>
+            <id>звезда</id>
             <name>Звезда</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/zvezda.jpg</logo>
-            <stream>http://178.162.218.85:8081/chromecast/zvezda-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MzQ6NDggUE0maGFzaF92YWx1ZT1rNEI2anhnamFnSklWVEF3YXpPcWZBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>https://strm.yandex.ru/kal/zvezda_supres/zvezda_supres0.m3u8</stream>
             <stream_array>http://178.162.218.87:8081/chromecast/zvezdab-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6MzQ6NDggUE0maGFzaF92YWx1ZT1rNEI2anhnamFnSklWVEF3YXpPcWZBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
@@ -123,10 +132,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>708</id>
+            <id></id>
             <name>ТВ-Центр</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/tv-centr.jpg</logo>
-            <stream>http://178.162.218.87:8081/chromecast/tvc-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6Mzk6MTUgUE0maGFzaF92YWx1ZT01MS9zQUI4R3VDV3NkeUdsSWV1U1V3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8</stream>
             <stream_array>http://178.162.218.87:8081/chromecast/tvcb-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6Mzk6MTUgUE0maGFzaF92YWx1ZT01MS9zQUI4R3VDV3NkeUdsSWV1U1V3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
@@ -153,8 +162,6 @@
             <name>Супер!</name>
             <logo>https://federal.tv/i/super.png</logo>
             <stream>http://85.112.114.11:8086/udp/238.2.49.249:1234</stream>
-			<stream>
-			https://uma.media/play/embed/4ca525c601cc011f61348465fc6c09da?autoPlay=true&wmode=opaque&fakeFullscreen=1</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
@@ -217,7 +224,7 @@
             <name>Россия Культура</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/rossiya-k.jpg</logo>
 			<stream>
-			https://www.glaz.tv/iframes/rossiya-kultura.html?v=2</stream>
+			http://uiptv.do.am/1ufc/000000005/playlist.m3u8
             <stream>http://178.162.205.85:8081/chromecast/rossiyak-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDM6MTM6NTcgUE0maGFzaF92YWx1ZT1pc0QxOUErbFRTNHVVcnpCK0V5TjFBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
@@ -231,18 +238,18 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>651</id>
+            <id>radio-shanson</id>
             <name>Шансон ТВ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/shanson-tv.jpg</logo>
-            <stream>http://178.162.205.85:8081/chromecast/.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDY6MjY6MzYgUE0maGFzaF92YWx1ZT1leFJuN0gyRDBtZ3Z1Q1dMSzBveXV3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
 		<channels>
-            <id>667</id>
+            <id>russian-musicbox</id>
             <name>Russian Music Box</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/russian-music-box.jpg</logo>
-            <stream>http://178.162.205.85:8081/chromecast/musicbox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDY6MzM6MzAgUE0maGFzaF92YWx1ZT0zWHFjTkNFSFdYNG9TOWRCRjZOMzd3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
@@ -303,18 +310,18 @@
 			<desc></desc>
         </channels>
 		<channels>
-            <id>502</id>
+            <id>mir</id>
             <name>Мир</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/mir.jpg</logo>
-            <stream>http://178.162.205.85:8081/chromecast/.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDY6NDM6MzcgUE0maGFzaF92YWx1ZT00dG45eDNqNU92cFlCYjJKdDF6dUJ3PT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
         <channels>
-            <id>673</id>
+            <id>ru-tv</id>
             <name>RU.TV</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/ru-tv.jpg</logo>
-            <stream>http://178.162.205.85:8081/chromecast/rutv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDI6NDM6MDIgUE0maGFzaF92YWx1ZT1iL0pTNmlkMzAwUFVaRU1STzRqUWRnPT0mdmFsaWRtaW51dGVzPTIwMDA==</stream>
+            <stream>https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8</stream>
 			<stream>
 			http://rosshow.ru/iframe/rutv/</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
@@ -369,10 +376,10 @@
 			<desc></desc>
         </channels>
 		<channels>
-            <id>508</id>
+            <id>muztv</id>
             <name>Муз-ТВ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/muz-tv.jpg</logo>
-            <stream>http://178.162.205.85:8081/chromecast/muztv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDQ6NTk6MzggUE0maGFzaF92YWx1ZT1GaFIyYzRkWWZuOWVaeGllWVVoMFhnPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
@@ -456,12 +463,12 @@
             <id>760</id>
             <name>Охотник и рыболов</name>
             <logo>https://glaz.tv/logos/500/ohotnik.png</logo>
-            <stream>http://178.162.205.85:8081/chromecast/rybalka-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDI6NDM6MDIgUE0maGFzaF92YWx1ZT1iL0pTNmlkMzAwUFVaRU1STzRqUWRnPT0mdmFsaWRtaW51dGVzPTIwMDA==</stream>
+            <stream>https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
         <channels>
-            <id>796</id>
+            <id>oxotnik-i-rybolov-int</id>
             <name>Охота и рыбалка</name>
             <logo>https://glaz.tv/logos/500/ohota.png</logo>
             <stream>http://178.162.205.85:8081/chromecast/ohota-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIwIDI6NDM6MDIgUE0maGFzaF92YWx1ZT1iL0pTNmlkMzAwUFVaRU1STzRqUWRnPT0mdmFsaWRtaW51dGVzPTIwMDA==</stream>
@@ -493,10 +500,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>553</id>
+            <id>rbk</id>
             <name>РБК</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/rbk.jpg</logo>
-            <stream>http://178.162.205.85:8081/chromecast/rbk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDU6MDY6MjcgUE0maGFzaF92YWx1ZT1RNUx0aWdpSUI2Y09WUk9CT3E4cVBBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
