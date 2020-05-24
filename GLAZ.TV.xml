@@ -149,7 +149,7 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>player</id>
+            <id></id>
             <name>Супер!</name>
             <logo>https://federal.tv/i/super.png</logo>
             <stream>http://85.112.114.11:8086/udp/238.2.49.249:1234</stream>
@@ -279,9 +279,9 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>player</id>
+            <id></id>
             <name>Русский иллюзион</name>
-            <logo></logo>
+            <logo>http://s.glaz.tv/images/logos/tv/big/russkiy-illyuzion.jpg</logo>
             <stream>http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
