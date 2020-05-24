@@ -3,7 +3,7 @@
     <title>ТВ онлайн</title>
     <fon>http://s.glaz.tv/images/favicon/ms-icon-144x144.png</fon>
         <channels>
-            <id>620</id>
+            <id>player</id>
             <name>ТНТ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/tnt-online.jpg</logo>
             <stream>//uma.media/play/embed/4e4e37727e07a7124cd7b29f2975e295?autoPlay=true& wmode=opaque&fakeFullscreen=1</stream>
@@ -21,10 +21,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>videoplayer</id>
+            <id>player</id>
             <name>Первый канал</name>
             <logo>http://chas.tv/img/channel/pervyi.png</logo>
-            <stream>http://178.162.218.85:8081/chas/pervyi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDc6NDE6MjMgUE0maGFzaF92YWx1ZT1vRU1oWEtRU05wd21JVGZ2OHNVSGxBPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>https://stream.1tv.ru/embed</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
