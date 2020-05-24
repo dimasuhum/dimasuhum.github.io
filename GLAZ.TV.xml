@@ -24,7 +24,7 @@
             <id>IFRAME</id>
             <name>Первый канал</name>
             <logo>http://chas.tv/img/channel/pervyi.png</logo>
-            <stream>https://stream.1tv.ru/embed</stream>
+            <stream>https://www.1tv.ru/iframed/eump-embedlive_pdn.html?__dvr=yes</stream>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
         </channels>
