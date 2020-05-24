@@ -207,10 +207,10 @@
 			<desc></desc>
         </channels>
         <channels>
-            <id>748</id>
+            <id>player</id>
             <name>НСТ</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/nst.jpg</logo>
-            <stream>http://178.162.205.85:8081/chromecast/nst-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDM6MTI6NDEgUE0maGFzaF92YWx1ZT1iK1Y0bXNDa3VZZW1TN3BNMjY4NC9nPT0mdmFsaWRtaW51dGVzPTIwMA==</stream>
+            <stream>http://ott-cdn.ucom.am/s87/index.m3u8</stream>
         </channels>
         <channels>
             <id>680</id>
