@@ -53,7 +53,7 @@
             <name>Россия-1</name>
             <logo>http://s.glaz.tv/images/logos/tv/big/rossiya-1.jpg</logo>
 			<stream>
-			https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8</stream>
+			http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8</stream>
             <stream_array>http://178.162.218.87:8081/chromecast/rossiya1b-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIwIDI6Mjc6NTIgUE0maGFzaF92YWx1ZT0yMlp6NXhramt5MTNmRmkyN2hZUG53PT0mdmFsaWRtaW51dGVzPTIwMA==</stream_array>
 			<flag>https://www.glaz.tv/logos/flags/ru.png</flag>
 			<desc></desc>
