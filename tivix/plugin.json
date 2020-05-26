@@ -1,0 +1,15 @@
+{
+	"description": "<p>Tivix : Watch free channels<p>For additional information, visit <a href=\"https://tivix.co\">https://tivix..co</a>",
+	"author": "czz78",
+	"homepage": "http://github.com/czz/movian-plugin-tivix",
+	"title": "Tivix",
+	"synopsis": "Tivix",
+	"version": "0.1.0",
+        "file": "tivix.js",
+	"showtimeVersion": "5.0.100",
+	"type": "ecmascript",
+	"icon": "logo.png",
+	"id": "tivix",
+	"category": "video",
+        "apiversion": 2
+}
