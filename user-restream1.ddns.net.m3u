@@ -35,7 +35,7 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/871.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/872.m3u8
 #EXTINF:-1,Boomerang
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/874.m3u8
-#EXTINF:-1,Disney
+#EXTINF:-1,Disney Channel
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/873.m3u8
 #EXTINF:-1,TiJi
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/875.m3u8
@@ -43,7 +43,7 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/875.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/876.m3u8
 #EXTINF:-1,Baby TV
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/877.m3u8
-#EXTINF:-1,CN
+#EXTINF:-1,Cartoon Network
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/878.m3u8
 #EXTINF:-1,Nick Kids HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/880.m3u8
@@ -65,13 +65,13 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/884.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/893.m3u8
 #EXTINF:-1,Ani
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/897.m3u8
-#EXTINF:-1,Плюс Плюс
+#EXTINF:-1,ПлюсПлюс
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/896.m3u8
-#EXTINF:-1,Пиксель ТВ HD
+#EXTINF:-1,Пiксель ТВ HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/895.m3u8
 #EXTINF:-1,2х2
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/899.m3u8
-#EXTINF:-1,900
+#EXTINF:-1,МАМА
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/900.m3u8
 #EXTINF:-1,Капитан Фантастика HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/898.m3u8
@@ -81,13 +81,13 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/902.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/903.m3u8
 #EXTINF:-1,TV1000 HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/905.m3u8
-#EXTINF:-1,901
+#EXTINF:-1,Радость Моя
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/901.m3u8
 #EXTINF:-1,TV1000 Action
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/906.m3u8
 #EXTINF:-1,TV1000
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/904.m3u8
-#EXTINF:-1,908
+#EXTINF:-1,TV1000 World kino
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/908.m3u8
 #EXTINF:-1,TV1000 Action HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/907.m3u8
@@ -187,7 +187,7 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/962.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/960.m3u8
 #EXTINF:-1,963
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/963.m3u8
-#EXTINF:-1,964
+#EXTINF:-1,КиноСат
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/964.m3u8
 #EXTINF:-1,Кино ТВ HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/965.m3u8
@@ -233,9 +233,9 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1036.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1037.m3u8
 #EXTINF:-1,Индийское Кино
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1038.m3u8
-#EXTINF:-1,Феникс + HD
+#EXTINF:-1,Феникс плюс HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1039.m3u8
-#EXTINF:-1,ТВ 3
+#EXTINF:-1,ТВ-3
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1040.m3u8
 #EXTINF:-1,НСТ
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1041.m3u8
@@ -425,7 +425,7 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1166.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1167.m3u8
 #EXTINF:-1,ZOOM HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1165.m3u8
-#EXTINF:-1,1169
+#EXTINF:-1,Первый Городской
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1169.m3u8
 #EXTINF:-1,1171
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1171.m3u8
@@ -435,7 +435,7 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1170.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1168.m3u8
 #EXTINF:-1,7 канал (Одесса) HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1172.m3u8
-#EXTINF:-1,1173
+#EXTINF:-1,Круг
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1173.m3u8
 #EXTINF:-1,СВАРОЖИЧИ HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1174.m3u8
@@ -459,7 +459,7 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1182.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1184.m3u8
 #EXTINF:-1,МУЗ ТВ
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1183.m3u8
-#EXTINF:-1,Европа плюс
+#EXTINF:-1,Europa Plus TV
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1185.m3u8
 #EXTINF:-1,Trace Urban HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1186.m3u8
@@ -495,141 +495,141 @@ http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1206.m3u8
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1207.m3u8
 #EXTINF:-1,ЕТНО HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1208.m3u8
-#EXTINF:-1,1209
+#EXTINF:-1,Русская ночь
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1209.m3u8
-#EXTINF:-1,1210
+#EXTINF:-1,blue HUSTLER
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1210.m3u8
-#EXTINF:-1,1211
+#EXTINF:-1,Playboy ТV
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1211.m3u8
-#EXTINF:-1,1214 HD
+#EXTINF:-1,O-la-la HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1214.m3u8
-#EXTINF:-1,1215
+#EXTINF:-1,Brazzers TV
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1215.m3u8
-#EXTINF:-1,1216
+#EXTINF:-1,Bakery Legal TV
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1216.m3u8
-#EXTINF:-1,1217 HD
+#EXTINF:-1,Redlight HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1217.m3u8
 #EXTINF:-1,1218
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1218.m3u8
-#EXTINF:-1,1213
+#EXTINF:-1,DORSEL
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1213.m3u8
-#EXTINF:-1,1212 HD
+#EXTINF:-1,HUSTLER HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1212.m3u8
-#EXTINF:-1,1219 HD
+#EXTINF:-1,PENTHOUSE Passion HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1219.m3u8
-#EXTINF:-1,1220 HD
+#EXTINF:-1,PENTHOUSE Gold HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1220.m3u8
-#EXTINF:-1,1222
+#EXTINF:-1,365 дней ТВ
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1222.m3u8
-#EXTINF:-1,1224
+#EXTINF:-1,DTX
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1224.m3u8
-#EXTINF:-1,1223 HD
+#EXTINF:-1,Animal Planet HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1223.m3u8
-#EXTINF:-1,1225
+#EXTINF:-1,Da Vinci Kids
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1225.m3u8
-#EXTINF:-1,1226 HD
+#EXTINF:-1,Discovery HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1226.m3u8
-#EXTINF:-1,1227 HD
+#EXTINF:-1,Discovery Science HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1227.m3u8
-#EXTINF:-1,1228 HD
+#EXTINF:-1,English Club HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1228.m3u8
-#EXTINF:-1,1230
+#EXTINF:-1,Galaxy
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1230.m3u8
-#EXTINF:-1,1232 HD
+#EXTINF:-1,HD Media HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1232.m3u8
-#EXTINF:-1,1233 HD
+#EXTINF:-1,HGTV HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1233.m3u8
-#EXTINF:-1,1234 HD
+#EXTINF:-1,History HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1234.m3u8
-#EXTINF:-1,1237
+#EXTINF:-1,National Geographic
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1237.m3u8
-#EXTINF:-1,1235
+#EXTINF:-1,ID
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1235.m3u8
-#EXTINF:-1,1236 HD
+#EXTINF:-1,National Geographic Wild HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1236.m3u8
-#EXTINF:-1,1240
+#EXTINF:-1,RTG TV
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1240.m3u8
-#EXTINF:-1,1239
+#EXTINF:-1,OCEAN TV
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1239.m3u8
-#EXTINF:-1,1242 HD
+#EXTINF:-1,TLC HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1242.m3u8
-#EXTINF:-1,1243 HD
+#EXTINF:-1,Travel Channel HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1243.m3u8
-#EXTINF:-1,1244 HD
+#EXTINF:-1,Travel+adventure HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1244.m3u8
-#EXTINF:-1,1245 HD
+#EXTINF:-1,Viasat Explore HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1245.m3u8
-#EXTINF:-1,1246 HD
+#EXTINF:-1,Viasat History HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1246.m3u8
-#EXTINF:-1,1247 HD
+#EXTINF:-1,Viasat History HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1247.m3u8
-#EXTINF:-1,1248 HD
+#EXTINF:-1,Viasat Nature HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1248.m3u8
-#EXTINF:-1,1250
+#EXTINF:-1,Авто 24
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1250.m3u8
-#EXTINF:-1,1252 HD
+#EXTINF:-1,Арсенал HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1252.m3u8
-#EXTINF:-1,1253
+#EXTINF:-1,Бобер
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1253.m3u8
-#EXTINF:-1,1249
+#EXTINF:-1,Зоопарк
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1249.m3u8
-#EXTINF:-1,1255 HD
+#EXTINF:-1,В мире животных HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1255.m3u8
-#EXTINF:-1,1251
+#EXTINF:-1,Авто плюс
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1251.m3u8
-#EXTINF:-1,1256
+#EXTINF:-1,Время
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1256.m3u8
-#EXTINF:-1,1257 HD
+#EXTINF:-1,Глазами туриста HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1257.m3u8
-#EXTINF:-1,1259 HD
+#EXTINF:-1,Дикая охота HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1259.m3u8
-#EXTINF:-1,1261
+#EXTINF:-1,Дикий
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1261.m3u8
-#EXTINF:-1,1260 HD
+#EXTINF:-1,Дикая рыбалка HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1260.m3u8
-#EXTINF:-1,1258
+#EXTINF:-1,Диалоги о рыбалке
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1258.m3u8
-#EXTINF:-1,1262
+#EXTINF:-1,Доктор
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1262.m3u8
-#EXTINF:-1,1263
+#EXTINF:-1,Домашние животные
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1263.m3u8
-#EXTINF:-1,1264
+#EXTINF:-1,Драйв
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1264.m3u8
-#EXTINF:-1,1265 HD
+#EXTINF:-1,ЕДА Премиум HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1265.m3u8
-#EXTINF:-1,1266
+#EXTINF:-1,Живая планета
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1266.m3u8
-#EXTINF:-1,1267 HD
+#EXTINF:-1,Живая природа HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1267.m3u8
-#EXTINF:-1,1269
+#EXTINF:-1,Здоровье ТВ
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1269.m3u8
-#EXTINF:-1,1270
+#EXTINF:-1,История
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1270.m3u8
-#EXTINF:-1,1271
+#EXTINF:-1,Кто есть Кто
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1271.m3u8
-#EXTINF:-1,1272
+#EXTINF:-1,Кухня ТВ
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1272.m3u8
-#EXTINF:-1,1273
+#EXTINF:-1,Моя стихия
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1273.m3u8
-#EXTINF:-1,1276
+#EXTINF:-1,НТВ Стиль
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1276.m3u8
-#EXTINF:-1,1274
+#EXTINF:-1,Моя Планета
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1274.m3u8
-#EXTINF:-1,1275
+#EXTINF:-1,НТВ Сериал
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1275.m3u8
 #EXTINF:-1,1277
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1277.m3u8
-#EXTINF:-1,1279
+#EXTINF:-1,Охота и рыбалка
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1279.m3u8
-#EXTINF:-1,1278
+#EXTINF:-1,Оружие
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1278.m3u8
-#EXTINF:-1,1282
+#EXTINF:-1,Первый Городской
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1282.m3u8
-#EXTINF:-1,1283
+#EXTINF:-1,Flix Snip
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1283.m3u8
-#EXTINF:-1,1280 HD
+#EXTINF:-1,Охотник и рыболов HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1280.m3u8
-#EXTINF:-1,1281 HD
+#EXTINF:-1,Охотник и рыболов HD
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1281.m3u8
 #EXTINF:-1,1286
 http://user-restream1.ddns.net:9000/purpu460/oEgA42O8Xk/1286.m3u8
