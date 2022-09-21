@@ -1,0 +1,1169 @@
+#EXTM3U url-tvg="http://myott.top/api/epg.xml.gz,http://epg.g-cdn.app/xmltv.xml.gz"
+#EXTINF:-1 catchup="default" catchup-days="21" tvg-id="pervy-kanal-eu" stream-id="4" catchup-source="http://hez1-flu.iptvstream.site/4/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/Pervyi_kanal.png",Первый канал Всемирная сеть
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/4/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="pervy" stream-id="5" catchup-source="http://hez1-flu.iptvstream.site/5/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/Pervyi_kanal.png",Первый HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/5/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="rossia1" stream-id="7" catchup-source="http://hez1-flu.iptvstream.site/7/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/Rossiya1.png",Россия 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/7/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="21" tvg-id="ntv" stream-id="8" catchup-source="http://hez1-flu.iptvstream.site/8/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/NTV.png",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/8/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="ntv" stream-id="9" catchup-source="http://hez1-flu.iptvstream.site/9/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/NTVHD.png",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/9/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="tnt" stream-id="10" catchup-source="http://hez1-flu.iptvstream.site/10/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/TNTHD.png",ТНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/10/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="tnt4" stream-id="11" catchup-source="http://hez1-flu.iptvstream.site/11/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/TNT4.png",ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/11/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="rentv" stream-id="13" catchup-source="http://hez1-flu.iptvstream.site/13/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/RENTV.png",РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/13/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="sts" stream-id="14" catchup-source="http://hez1-flu.iptvstream.site/14/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/STS.png",СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/14/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="21" tvg-id="domashny" stream-id="15" catchup-source="http://hez1-flu.iptvstream.site/15/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/Domashniy.png",Домашний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/15/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="5kanal-ru" stream-id="16" catchup-source="http://hez1-flu.iptvstream.site/16/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/5channel.png",5 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/16/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="rtvi" stream-id="17" catchup-source="http://hez1-flu.iptvstream.site/17/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/RTVI.png",RTVI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/17/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="perec-int" stream-id="18" catchup-source="http://hez1-flu.iptvstream.site/18/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/perec_inter.png",Перец International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/18/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="tv3-ru" stream-id="19" catchup-source="http://hez1-flu.iptvstream.site/19/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/TV3.png",ТВ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/19/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="8kanal-eu" stream-id="20" catchup-source="http://hez1-flu.iptvstream.site/20/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/8channel.png",8 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/20/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="mir" stream-id="21" catchup-source="http://hez1-flu.iptvstream.site/21/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/Mir.png",Мир HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/21/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="otr" stream-id="22" catchup-source="http://hez1-flu.iptvstream.site/22/index-${start}-${offset}.m3u8" group-title="Общероссийские" tvg-logo="http://static.telestars.tv/logos/OTR.png",ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/22/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="piatnica" stream-id="23" catchup-source="http://hez1-flu.iptvstream.site/23/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Pyatnica.png",Пятница
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/23/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="che" stream-id="24" catchup-source="http://hez1-flu.iptvstream.site/24/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Che.png",ЧЕ!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/24/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="yu" stream-id="25" catchup-source="http://hez1-flu.iptvstream.site/25/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/UTV.png",Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/25/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="100016" stream-id="26" catchup-source="http://hez1-flu.iptvstream.site/26/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Nostalgiya.png",Ностальгия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/26/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="retro-tv" stream-id="27" catchup-source="http://hez1-flu.iptvstream.site/27/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Retro.png",Ретро
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/27/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="mama" stream-id="28" catchup-source="http://hez1-flu.iptvstream.site/28/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Mama.png",Мама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/28/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="kto-est-kto" stream-id="29" catchup-source="http://hez1-flu.iptvstream.site/29/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/KtoEstKto.png",Кто есть кто
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/29/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="vremia" stream-id="30" catchup-source="http://hez1-flu.iptvstream.site/30/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Vremya.png",Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/30/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2136" stream-id="31" catchup-source="http://hez1-flu.iptvstream.site/31/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/EChannel.png",Ё
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/31/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="sarafan" stream-id="32" catchup-source="http://hez1-flu.iptvstream.site/32/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Sarafan.png",Сарафан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/32/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="sovsek" stream-id="33" catchup-source="http://hez1-flu.iptvstream.site/33/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/SovershennoSecret.png",Совершенно Секретно
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/33/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="585" stream-id="34" catchup-source="http://hez1-flu.iptvstream.site/34/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/KuhnyaTV2.png",Кухня ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/34/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="714" stream-id="35" catchup-source="http://hez1-flu.iptvstream.site/35/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/PerviyAvtomobilniy_2.png",Первый автомобильный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/35/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="2338" stream-id="36" catchup-source="http://hez1-flu.iptvstream.site/36/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Subbota.png",Суббота
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/36/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="981" stream-id="37" catchup-source="http://hez1-flu.iptvstream.site/37/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Eda.png",Еда HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/37/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="2na2" stream-id="38" catchup-source="http://hez1-flu.iptvstream.site/38/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/2x2.png",2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/38/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2035" stream-id="39" catchup-source="http://hez1-flu.iptvstream.site/39/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Bober.png",Бобер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/39/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="muzhskoy" stream-id="40" catchup-source="http://hez1-flu.iptvstream.site/40/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Muzhskoy.png",Мужской
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/40/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="100045" stream-id="41" catchup-source="http://hez1-flu.iptvstream.site/41/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/FashionTV.png",Fashion TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/41/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1786" stream-id="42" catchup-source="http://hez1-flu.iptvstream.site/42/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Avto24.png",Авто 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/42/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="553" stream-id="43" catchup-source="http://hez1-flu.iptvstream.site/43/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Avto_plyus.png",Авто Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/43/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1872" stream-id="45" catchup-source="http://hez1-flu.iptvstream.site/45/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/TochkaTV.png",Точка ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/45/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="636" stream-id="46" catchup-source="http://hez1-flu.iptvstream.site/46/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/oceantv.png",Ocean TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/46/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2216" stream-id="47" catchup-source="http://hez1-flu.iptvstream.site/47/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/NTVStyle.png",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/47/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1071" stream-id="48" catchup-source="http://hez1-flu.iptvstream.site/48/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Oruzhie.png",Оружие
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/48/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="432" stream-id="49" catchup-source="http://hez1-flu.iptvstream.site/49/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Usadba.png",Усадьба
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/49/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2153" stream-id="50" catchup-source="http://hez1-flu.iptvstream.site/50/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/KVN.png",КВН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/50/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1567" stream-id="51" catchup-source="http://hez1-flu.iptvstream.site/51/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/Teatr.png",Театр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/51/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="7d7" stream-id="52" catchup-source="http://hez1-flu.iptvstream.site/52/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/7tv.png",7D7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/52/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="russkaya-komedia" stream-id="53" catchup-source="http://hez1-flu.iptvstream.site/53/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/RussianComedy.png",Русская комедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/53/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="21" tvg-id="russky-bestseller" stream-id="54" catchup-source="http://hez1-flu.iptvstream.site/54/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/RusBestseller.png",Русский Бестселлер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/54/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="21" tvg-id="russky-detektiv" stream-id="55" catchup-source="http://hez1-flu.iptvstream.site/55/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/RusDetektiv.png",Русский Детектив
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/55/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="russky-illuzion" stream-id="56" catchup-source="http://hez1-flu.iptvstream.site/56/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/RusIllyuzion.png",Русский иллюзион
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/56/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="russky-roman" stream-id="57" catchup-source="http://hez1-flu.iptvstream.site/57/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/RusRoman.png",Русский роман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/57/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="domkino" stream-id="58" catchup-source="http://hez1-flu.iptvstream.site/58/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/DomKino.png",Дом Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/58/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="domkino-premium" stream-id="59" catchup-source="http://hez1-flu.iptvstream.site/59/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/DOmKinoHDpremium.png",Дом Кино и сериалы премиум HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/59/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="zvezda" stream-id="60" catchup-source="http://hez1-flu.iptvstream.site/60/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Zvezda.png",Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/60/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="pobeda" stream-id="61" catchup-source="http://hez1-flu.iptvstream.site/61/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/pobeda.png",Победа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/61/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="tv1000-russkoe-kino" stream-id="62" catchup-source="http://hez1-flu.iptvstream.site/62/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/TV1000_Rus.png",TV1000 Русское Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/62/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="mosfilm" stream-id="63" catchup-source="http://hez1-flu.iptvstream.site/63/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Mosfilm.png",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/63/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="enter-film" stream-id="64" catchup-source="http://hez1-flu.iptvstream.site/64/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Enter-film.png",Enter-фільм
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/64/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="21" tvg-id="ntv-serial" stream-id="65" catchup-source="http://hez1-flu.iptvstream.site/65/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/NTVSerial.png",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/65/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="ntv-xit" stream-id="66" catchup-source="http://hez1-flu.iptvstream.site/66/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/NTVHit.png",НТВ ХИТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/66/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="illuzion-plus" stream-id="67" catchup-source="http://hez1-flu.iptvstream.site/67/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/IllusionPlus.png",Иллюзион+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/67/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="1653" stream-id="68" catchup-source="http://hez1-flu.iptvstream.site/68/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/KinoTV.png",Кино и сериалы ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/68/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="kinokomedia" stream-id="69" catchup-source="http://hez1-flu.iptvstream.site/69/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Kinokomedia.png",Кино и сериалыкомедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/69/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="kinomiks" stream-id="70" catchup-source="http://hez1-flu.iptvstream.site/70/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Kinomiks.png",Кино и сериалымикс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/70/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="666" stream-id="71" catchup-source="http://hez1-flu.iptvstream.site/71/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Kinopokaz.png",Кино и сериалыпоказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/71/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="kinopremiera-hd" stream-id="72" catchup-source="http://hez1-flu.iptvstream.site/72/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/KinopremeraHD.png",Кино и сериалыпремьера
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/72/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="kinosemiya" stream-id="73" catchup-source="http://hez1-flu.iptvstream.site/73/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Kinosemya.png",Кино и сериалысемья
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/73/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="558" stream-id="74" catchup-source="http://hez1-flu.iptvstream.site/74/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Kinoseriya.png",Кино и сериалыСЕРИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/74/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="kinoxit" stream-id="75" catchup-source="http://hez1-flu.iptvstream.site/75/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Kinohit.png",Кино и сериалыхит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/75/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="kinosvidanie" stream-id="76" catchup-source="http://hez1-flu.iptvstream.site/76/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Kinosvidanie.png",Кино и сериалыСВИДАНИЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/76/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="komedijnoe-hd" stream-id="77" catchup-source="http://hez1-flu.iptvstream.site/77/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Komediynoe.png",Комедийное
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/77/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="lubimoe-kino" stream-id="78" catchup-source="http://hez1-flu.iptvstream.site/78/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/LubimoeKino.png",Любимое Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/78/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="muzhskoe-kino" stream-id="79" catchup-source="http://hez1-flu.iptvstream.site/79/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/MuzhskoeKino.png",Мужское Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/79/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="nashe-novoe-kino" stream-id="80" catchup-source="http://hez1-flu.iptvstream.site/80/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/NasheNovoeKino.png",Наше новое Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/80/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="nst" stream-id="81" catchup-source="http://hez1-flu.iptvstream.site/81/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/NST.png",НСТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/81/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="rodnoe-kino" stream-id="82" catchup-source="http://hez1-flu.iptvstream.site/82/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/RodnoeKino.png",Родное Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/82/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="sts-love" stream-id="83" catchup-source="http://hez1-flu.iptvstream.site/83/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/STSLove.png",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/83/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="dushevnoe-hd" stream-id="84" catchup-source="http://hez1-flu.iptvstream.site/84/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Dushevnoe.png",Душевное HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/84/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="2209" stream-id="85" catchup-source="http://hez1-flu.iptvstream.site/85/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/NasheLubimoe.png",Наше любимое HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/85/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="nashehd" stream-id="86" catchup-source="http://hez1-flu.iptvstream.site/86/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/NasheKrutoe.png",Наше HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/86/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="tv1000-action" stream-id="87" catchup-source="http://hez1-flu.iptvstream.site/87/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/TV1000Action.png",TV1000 Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/87/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="tv1000" stream-id="88" catchup-source="http://hez1-flu.iptvstream.site/88/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/TV1000.png",TV1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/88/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="nash-kinopokaz-hd" stream-id="89" catchup-source="http://hez1-flu.iptvstream.site/89/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/NashKinopokaz.png",Наш Кино и сериалыпоказ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/89/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="nashe-muzhskoe-hd" stream-id="92" catchup-source="http://hez1-flu.iptvstream.site/92/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/NasheMuzhskoe.png",Наше Мужское HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/92/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="pro-lyubov" stream-id="94" catchup-source="http://hez1-flu.iptvstream.site/94/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/ProLubov.png",Про Любовь HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/94/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="300115" stream-id="95" catchup-source="http://hez1-flu.iptvstream.site/95/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/VIPMegahit.png",VIP Megahit HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/95/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bolt" stream-id="96" catchup-source="http://hez1-flu.iptvstream.site/96/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Bolt.png",Болт HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/96/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="mir-seriala" stream-id="97" catchup-source="http://hez1-flu.iptvstream.site/97/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/MirSeriala.png",Мир сериала
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/97/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="zee-tv" stream-id="98" catchup-source="http://hez1-flu.iptvstream.site/98/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/ZeeTV.png",ZEE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/98/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="khit-hd" stream-id="99" catchup-source="http://hez1-flu.iptvstream.site/99/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/Hit.png",Хит HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/99/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="400009" stream-id="100" catchup-source="http://hez1-flu.iptvstream.site/100/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/mir-24.png",Мир 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/100/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="euronews" stream-id="101" catchup-source="http://hez1-flu.iptvstream.site/101/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/Euronews.png",EuroNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/101/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="rbk" stream-id="104" catchup-source="http://hez1-flu.iptvstream.site/104/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/RBK.png",РБК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/104/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="106" stream-id="105" catchup-source="http://hez1-flu.iptvstream.site/105/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/Moskva24.png",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/105/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2290" stream-id="106" catchup-source="http://hez1-flu.iptvstream.site/106/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/Izvestiya.png",Известия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/106/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2404" stream-id="107" catchup-source="http://hez1-flu.iptvstream.site/107/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/360news.png",360 Информационные HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/107/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1811" stream-id="109" catchup-source="http://hez1-flu.iptvstream.site/109/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/KrikTV.png",Крик-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/109/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1307" stream-id="110" catchup-source="http://hez1-flu.iptvstream.site/110/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/SaintPetersburg.png",Санкт-Петербург
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/110/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="nastoyaschee-vremia" stream-id="113" catchup-source="http://hez1-flu.iptvstream.site/113/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/NastoyasheeVremya.png",Настоящее время HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/113/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="kultura" stream-id="114" catchup-source="http://hez1-flu.iptvstream.site/114/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/rossiyak.png",Россия К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/114/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="400009" stream-id="115" catchup-source="http://hez1-flu.iptvstream.site/115/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/mir-24.png",Мир 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/115/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="karusel" stream-id="117" catchup-source="http://hez1-flu.iptvstream.site/117/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/karusel.png",Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/117/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="multimania-lv" stream-id="118" catchup-source="http://hez1-flu.iptvstream.site/118/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/Multimaniya.png",Мультимания
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/118/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="o_" stream-id="119" catchup-source="http://hez1-flu.iptvstream.site/119/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/O.png",О!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/119/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="v-gostiax-u-skazki" stream-id="120" catchup-source="http://hez1-flu.iptvstream.site/120/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/VGostyahUSkazki.png",В гостях у сказки
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/120/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="multimuzyka" stream-id="121" catchup-source="http://hez1-flu.iptvstream.site/121/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/mult-i-muzika.png",Мультимузыка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/121/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="malysh" stream-id="123" catchup-source="http://hez1-flu.iptvstream.site/123/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/MalishTV.png",Малыш
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/123/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="detsky-mir" stream-id="124" catchup-source="http://hez1-flu.iptvstream.site/124/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/DetskiyMir.png",Детский мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/124/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="sts-kids-hd" stream-id="125" catchup-source="http://hez1-flu.iptvstream.site/125/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/STSkids.png",СТС Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/125/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2042" stream-id="126" catchup-source="http://hez1-flu.iptvstream.site/126/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/ani.png",Ani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/126/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="100054" stream-id="127" catchup-source="http://hez1-flu.iptvstream.site/127/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/tiji.png",TiJi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/127/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1767" stream-id="128" catchup-source="http://hez1-flu.iptvstream.site/128/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/PixelTV.png",Пиксель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/128/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1534" stream-id="129" catchup-source="http://hez1-flu.iptvstream.site/129/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/PlusPlus.png",ПлюсПлюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/129/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="300149" stream-id="130" catchup-source="http://hez1-flu.iptvstream.site/130/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/Unikum.png",Уникум
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/130/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="21" tvg-id="match-tv" stream-id="131" catchup-source="http://hez1-flu.iptvstream.site/131/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/Match.png",Матч! ТВ (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/131/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="match-tv" stream-id="132" catchup-source="http://hez1-flu.iptvstream.site/132/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MatchTV.png",Матч! ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/132/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="21" tvg-id="match-premier" stream-id="133" catchup-source="http://hez1-flu.iptvstream.site/133/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MatchPremier.png",Матч! Премьер (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/133/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="match-premier" stream-id="134" catchup-source="http://hez1-flu.iptvstream.site/134/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MatchPremier.png",Матч! Премьер HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/134/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="match-football1" stream-id="135" catchup-source="http://hez1-flu.iptvstream.site/135/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MatchFootball1.png",Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/135/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="match-football2" stream-id="136" catchup-source="http://hez1-flu.iptvstream.site/136/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MatchFootball2.png",Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/136/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="match-football3" stream-id="137" catchup-source="http://hez1-flu.iptvstream.site/137/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MatchFootball3.png",Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/137/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="match-arena" stream-id="138" catchup-source="http://hez1-flu.iptvstream.site/138/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MatchArena.png",Матч! Арена HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/138/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="match-boets" stream-id="139" catchup-source="http://hez1-flu.iptvstream.site/139/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/match_boec.png",Матч! Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/139/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="match-igra" stream-id="140" catchup-source="http://hez1-flu.iptvstream.site/140/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MatchIgra.png",Матч! Игра HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/140/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="2042" stream-id="141" catchup-source="http://hez1-flu.iptvstream.site/141/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MatchStrana.png",Матч! Страна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/141/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="kxl-hd" stream-id="142" catchup-source="http://hez1-flu.iptvstream.site/142/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/KHL.png",КХЛ ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/142/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="box-tv" stream-id="144" catchup-source="http://hez1-flu.iptvstream.site/144/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/BoxTV.png",Бокс ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/144/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="konny-mir" stream-id="145" catchup-source="http://hez1-flu.iptvstream.site/145/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/KonnyyMir.png",Конный мир HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/145/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="motorsportv-tv" stream-id="146" catchup-source="http://hez1-flu.iptvstream.site/146/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/Motosport.png",Моторспорт ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/146/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="football-ru" stream-id="147" catchup-source="http://hez1-flu.iptvstream.site/147/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/Football.png",Футбол HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/147/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="tochka-otryva" stream-id="148" catchup-source="http://hez1-flu.iptvstream.site/148/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/TochkaOtriva.png",Точка отрыва
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/148/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="mir-basketbola" stream-id="149" catchup-source="http://hez1-flu.iptvstream.site/149/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/MirBasketbola.png",Мир баскетбола
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/149/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="russky-ekstrim" stream-id="150" catchup-source="http://hez1-flu.iptvstream.site/150/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/RusskiyExtrimHD.png",Русский Экстрим
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/150/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="eurosport1" stream-id="151" catchup-source="http://hez1-flu.iptvstream.site/151/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/Eurosport1HD.png",Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/151/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="eurosport2" stream-id="152" catchup-source="http://hez1-flu.iptvstream.site/152/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/Eurosport2HD.png",Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/152/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="sport1-ua" stream-id="153" catchup-source="http://hez1-flu.iptvstream.site/153/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/Sport1.png",Спорт 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/153/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="football1-ua" stream-id="155" catchup-source="http://hez1-flu.iptvstream.site/155/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/footbol1.png",Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/155/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="football2-ua" stream-id="156" catchup-source="http://hez1-flu.iptvstream.site/156/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/footbol2.png",Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/156/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="football3-ua" stream-id="157" catchup-source="http://hez1-flu.iptvstream.site/157/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/footbol3.png",Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/157/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="setanta-ua" stream-id="158" catchup-source="http://hez1-flu.iptvstream.site/158/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/SetantaSport1.png",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/158/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="setanta-plus-ua" stream-id="160" catchup-source="http://hez1-flu.iptvstream.site/160/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/SetantaSportPlus.png",Setanta Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/160/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="xsport-ua" stream-id="161" catchup-source="http://hez1-flu.iptvstream.site/161/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/XsportUA.png",XSport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/161/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1900" stream-id="162" catchup-source="http://hez1-flu.iptvstream.site/162/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/MuzTV.png",МУЗ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/162/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="100032" stream-id="163" catchup-source="http://hez1-flu.iptvstream.site/163/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/MuzikaPervogo.png",Музыка Первого
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/163/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="5" tvg-id="tnt-music" stream-id="164" catchup-source="http://hez1-flu.iptvstream.site/164/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/tntmusic.png",ТНТ-Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/164/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="5" tvg-id="shanson-tv" stream-id="165" catchup-source="http://hez1-flu.iptvstream.site/165/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/ShansonTV.png",Шансон ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/165/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="5" tvg-id="europa-plus-tv" stream-id="166" catchup-source="http://hez1-flu.iptvstream.site/166/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/EuropaPlusTV_2.png",Europa Plus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/166/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="100046" stream-id="167" catchup-source="http://hez1-flu.iptvstream.site/167/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/RUTV.png",RU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/167/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="557" stream-id="168" catchup-source="http://hez1-flu.iptvstream.site/168/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/Lyaminor.png",Ля-минор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/168/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="5" tvg-id="musicbox" stream-id="169" catchup-source="http://hez1-flu.iptvstream.site/169/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/MusicBox.png",MusicBox RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/169/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="5" tvg-id="zhara" stream-id="170" catchup-source="http://hez1-flu.iptvstream.site/170/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/ZharaTV.png",Жара
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/170/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1035" stream-id="171" catchup-source="http://hez1-flu.iptvstream.site/171/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/BridgeTVRusHit.png",Bridge TV Русский хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/171/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1275" stream-id="173" catchup-source="http://hez1-flu.iptvstream.site/173/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/MTVLiveHD.png",MTV Live HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/173/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1570" stream-id="174" catchup-source="http://hez1-flu.iptvstream.site/174/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/iConcerts.png",iConcerts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/174/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300037" stream-id="175" catchup-source="http://hez1-flu.iptvstream.site/175/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/BridgeTVHD.png",Bridge HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/175/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="556" stream-id="176" catchup-source="http://hez1-flu.iptvstream.site/176/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/365Dney.png",365 дней ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/176/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1078" stream-id="177" catchup-source="http://hez1-flu.iptvstream.site/177/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/ZagorodnayaZhizn.png",Загородная жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/177/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1700" stream-id="178" catchup-source="http://hez1-flu.iptvstream.site/178/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/OhotnicIRibolov.png",Охотник и Рыболов HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/178/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300101" stream-id="179" catchup-source="http://hez1-flu.iptvstream.site/179/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/DomashnieZhivotnie.png",Домашние животные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/179/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="2273" stream-id="180" catchup-source="http://hez1-flu.iptvstream.site/180/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/Doctor.png",Доктор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/180/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="222" stream-id="181" catchup-source="http://hez1-flu.iptvstream.site/181/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/spas.png",Спас
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/181/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="1968" stream-id="182" catchup-source="http://hez1-flu.iptvstream.site/182/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/ZhivayaPlaneta.png",Живая планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/182/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="529" stream-id="183" catchup-source="http://hez1-flu.iptvstream.site/183/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/ZdorovieTV.png",Здоровое ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/183/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="400001" stream-id="184" catchup-source="http://hez1-flu.iptvstream.site/184/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/MoyaPlaneta.png",Моя планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/184/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300105" stream-id="185" catchup-source="http://hez1-flu.iptvstream.site/185/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/Nauka20.png",Наука 2.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/185/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="oxota-i-rybalka" stream-id="186" catchup-source="http://hez1-flu.iptvstream.site/186/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/OhotaIRibalka.png",Охота и Рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/186/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="958" stream-id="187" catchup-source="http://hez1-flu.iptvstream.site/187/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/English_Club.png",English Club TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/187/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300107" stream-id="188" catchup-source="http://hez1-flu.iptvstream.site/188/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/AnimalPlanetHD.png",Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/188/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300134" stream-id="189" catchup-source="http://hez1-flu.iptvstream.site/189/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/DiscoveryChannelHD.png",Discovery HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/189/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="224" stream-id="190" catchup-source="http://hez1-flu.iptvstream.site/190/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/DiscoveryScienceChannelHD.png",Discovery Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/190/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300104" stream-id="191" catchup-source="http://hez1-flu.iptvstream.site/191/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/NatGeoWildHD.png",Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/191/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300050" stream-id="192" catchup-source="http://hez1-flu.iptvstream.site/192/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/NatGeoHD.png",National Geographic HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/192/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="100081" stream-id="193" catchup-source="http://hez1-flu.iptvstream.site/193/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/TravelChannelHD.png",Travel Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/193/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1521" stream-id="194" catchup-source="http://hez1-flu.iptvstream.site/194/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/TravelAdventureChannelHD.png",Travel+Adventure HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/194/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="324" stream-id="195" catchup-source="http://hez1-flu.iptvstream.site/195/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/ViasatExplore.png",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/195/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2186" stream-id="196" catchup-source="http://hez1-flu.iptvstream.site/196/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/ViasatHistory.png",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/196/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1009" stream-id="197" catchup-source="http://hez1-flu.iptvstream.site/197/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/ViasatNature.png",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/197/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2214" stream-id="198" catchup-source="http://hez1-flu.iptvstream.site/198/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/NTVPravo.png",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/198/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300117" stream-id="199" catchup-source="http://hez1-flu.iptvstream.site/199/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/ViasatNatureHistory.png",Viasat Nature/History HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/199/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="9kanal-israel" stream-id="201" catchup-source="http://hez1-flu.iptvstream.site/201/index-${start}-${offset}.m3u8" group-title="Израиль" tvg-logo="http://static.telestars.tv/logos/9Channel.png",Channel 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/201/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300039" stream-id="202" catchup-source="http://hez1-flu.iptvstream.site/202/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/1Plus1.png",1+1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/202/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="300016" stream-id="203" catchup-source="http://hez1-flu.iptvstream.site/203/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/Inter.png",Интер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/203/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="318" stream-id="204" catchup-source="http://hez1-flu.iptvstream.site/204/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/STB.png",СТБ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/204/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="24news-ua" stream-id="205" catchup-source="http://hez1-flu.iptvstream.site/205/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/Ukraine24.png",Украинские 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/205/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2plus2" stream-id="207" catchup-source="http://hez1-flu.iptvstream.site/207/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/2Plus2.png",2+2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/207/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300062" stream-id="208" catchup-source="http://hez1-flu.iptvstream.site/208/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/NTN.png",НТН
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/208/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="319" stream-id="210" catchup-source="http://hez1-flu.iptvstream.site/210/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/tetUA.png",ТЕТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/210/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="espreso-tv" stream-id="211" catchup-source="http://hez1-flu.iptvstream.site/211/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/Espresso.png",Еспрессо TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/211/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300059" stream-id="212" catchup-source="http://hez1-flu.iptvstream.site/212/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/ICTV.png",ICTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/212/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300077" stream-id="213" catchup-source="http://hez1-flu.iptvstream.site/213/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/K1.png",K1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/213/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300078" stream-id="214" catchup-source="http://hez1-flu.iptvstream.site/214/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/K2.png",K2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/214/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="321" stream-id="215" catchup-source="http://hez1-flu.iptvstream.site/215/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/Ukraine.png",Україна
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/215/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="newsnetwork" stream-id="216" catchup-source="http://hez1-flu.iptvstream.site/216/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/NewsNetwork.png",News Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/216/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="kvartal-tv" stream-id="218" catchup-source="http://hez1-flu.iptvstream.site/218/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/KvartalTV.png",Квартал ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/218/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1439" stream-id="219" catchup-source="http://hez1-flu.iptvstream.site/219/index-${start}-${offset}.m3u8" group-title="Украинские" tvg-logo="http://static.telestars.tv/logos/UFOTV.png",НЛО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/219/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="kazakh-tv" stream-id="222" catchup-source="http://hez1-flu.iptvstream.site/222/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/KazakhTV.png",Kazakh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/222/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="astana" stream-id="223" catchup-source="http://hez1-flu.iptvstream.site/223/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/AstanaTV.png",Astana TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/223/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="kazakhstan" stream-id="225" catchup-source="http://hez1-flu.iptvstream.site/225/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/Qazaqstan.png",Казахстан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/225/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="5" tvg-id="1517" stream-id="226" catchup-source="http://hez1-flu.iptvstream.site/226/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/SedmoyKanal.png",Седьмой канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/226/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="publika-tv" stream-id="227" catchup-source="http://hez1-flu.iptvstream.site/227/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/PublicaTV.png",Publika TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/227/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="5" tvg-id="jurnaltv" stream-id="228" catchup-source="http://hez1-flu.iptvstream.site/228/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/JurnalTV.png",Jurnal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/228/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="das-erste" stream-id="229" catchup-source="http://hez1-flu.iptvstream.site/229/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/DasErsteHD.png",ARD Das Erste HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/229/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="502011" stream-id="230" catchup-source="http://hez1-flu.iptvstream.site/230/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/N-tv.png",n-tv HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/230/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="no_epg" stream-id="231" catchup-source="http://hez1-flu.iptvstream.site/231/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/WELTHD.png",Welt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/231/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="502006" stream-id="232" catchup-source="http://hez1-flu.iptvstream.site/232/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/RTL.png",RTL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/232/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="502004" stream-id="233" catchup-source="http://hez1-flu.iptvstream.site/233/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/Sat.1HD.png",Sat.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/233/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="502001" stream-id="234" catchup-source="http://hez1-flu.iptvstream.site/234/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/ZDF.png",ZDF HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/234/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="502013" stream-id="237" catchup-source="http://hez1-flu.iptvstream.site/237/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/KabelEinsHD.png",Kabel Eins HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/237/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="502002" stream-id="238" catchup-source="http://hez1-flu.iptvstream.site/238/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/KiKAHD.png",KIKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/238/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="no_epg" stream-id="239" catchup-source="http://hez1-flu.iptvstream.site/239/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/NDRHD.png",NDR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/239/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="502005" stream-id="240" catchup-source="http://hez1-flu.iptvstream.site/240/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/ProSiebenHD.png",ProSieben HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/240/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="rtl2" stream-id="241" catchup-source="http://hez1-flu.iptvstream.site/241/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/Rtl2.png",RTL 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/241/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="502021" stream-id="242" catchup-source="http://hez1-flu.iptvstream.site/242/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/SixxHD.png",SIXX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/242/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="super-rtl-hd" stream-id="243" catchup-source="http://hez1-flu.iptvstream.site/243/index-${start}-${offset}.m3u8" group-title="Немецкие" tvg-logo="http://static.telestars.tv/logos/superrtlHD.png",Super RTL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/243/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="aztv" stream-id="244" catchup-source="http://hez1-flu.iptvstream.site/244/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/AZTV.png",AZTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/244/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="xezer" stream-id="245" catchup-source="http://hez1-flu.iptvstream.site/245/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/XezerTV.png",Xazar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/245/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="shant-news-hd" stream-id="248" catchup-source="http://hez1-flu.iptvstream.site/248/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/Shant.png",Shant
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/248/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300003" stream-id="249" catchup-source="http://hez1-flu.iptvstream.site/249/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/Belarus24.png",Беларусь 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/249/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="300071" stream-id="250" catchup-source="http://hez1-flu.iptvstream.site/250/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/Belarus1.png",Беларусь 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/250/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="400020" stream-id="251" catchup-source="http://hez1-flu.iptvstream.site/251/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/Belarus5.png",Беларусь 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/251/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="ltv1" stream-id="254" catchup-source="http://hez1-flu.iptvstream.site/254/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/LTV1.png",LTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/254/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="503301" stream-id="255" catchup-source="http://hez1-flu.iptvstream.site/255/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/LNK.png",LNK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/255/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="503306" stream-id="256" catchup-source="http://hez1-flu.iptvstream.site/256/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/LRTHD.png",LRT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/256/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="no_epg" stream-id="259" catchup-source="http://hez1-flu.iptvstream.site/259/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/Uzbekistan.png",Uzbekistan 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/259/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="555" stream-id="260" catchup-source="http://hez1-flu.iptvstream.site/260/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/RusskayaNoch.png",Русская ночь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/260/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="dorcel" stream-id="261" catchup-source="http://hez1-flu.iptvstream.site/261/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/DORCELTVHD.png",Dorcel TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/261/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="100042" stream-id="263" catchup-source="http://hez1-flu.iptvstream.site/263/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/BlueHustler.png",Blue Hustler
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/263/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="barely-legal" stream-id="265" catchup-source="http://hez1-flu.iptvstream.site/265/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/BarelyLegal.png",Barely Legal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/265/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="o-la-la" stream-id="266" catchup-source="http://hez1-flu.iptvstream.site/266/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/Olala.png",O-la-la
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/266/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1511" stream-id="267" catchup-source="http://hez1-flu.iptvstream.site/267/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/HustlerHD.png",Hustler HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/267/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1378" stream-id="268" catchup-source="http://hez1-flu.iptvstream.site/268/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/PlayboyTV.png",Playboy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/268/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="passionxxx" stream-id="269" catchup-source="http://hez1-flu.iptvstream.site/269/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/PassionXXX.png",Passion XXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/269/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2755" stream-id="271" catchup-source="http://hez1-flu.iptvstream.site/271/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/RedlightHD.png",Redlight HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/271/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="" stream-id="274" catchup-source="http://hez1-flu.iptvstream.site/274/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/deluxe_music.png",Deluxe Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/274/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="300027" stream-id="275" catchup-source="http://hez1-flu.iptvstream.site/275/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/baby-tv.png",Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/275/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2424" stream-id="276" catchup-source="http://hez1-flu.iptvstream.site/276/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/sovetskie_multfilmy.png",Советские мультфильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/276/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="mult" stream-id="283" catchup-source="http://hez1-flu.iptvstream.site/283/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/mult.png",Мульт HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/283/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="strashnoe-hd" stream-id="287" catchup-source="http://hez1-flu.iptvstream.site/287/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/strashnoe-hd.png",Страшное HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/287/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="672" stream-id="290" catchup-source="http://hez1-flu.iptvstream.site/290/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/zhivi.png",Живи!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/290/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="315" stream-id="291" catchup-source="http://hez1-flu.iptvstream.site/291/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/novy.png",Новий канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/291/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="ostrosiuzhetnoe-hd" stream-id="294" catchup-source="http://hez1-flu.iptvstream.site/294/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/ostrosiuzhetnoe-hd.png",Остросюжетное HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/294/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-history" stream-id="295" catchup-source="http://hez1-flu.iptvstream.site/295/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_13.png",BCU History HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/295/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="bcu-russian" stream-id="296" catchup-source="http://hez1-flu.iptvstream.site/296/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_12.png",BCU Russian HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/296/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="bcu-ruserial" stream-id="297" catchup-source="http://hez1-flu.iptvstream.site/297/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1413.png",BCU Ruserial HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/297/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-sssr" stream-id="298" catchup-source="http://hez1-flu.iptvstream.site/298/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_7.png",BCU СССР HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/298/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="star-family" stream-id="300" catchup-source="http://hez1-flu.iptvstream.site/300/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/star-family.png",Star Family HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/300/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="star-cinema" stream-id="301" catchup-source="http://hez1-flu.iptvstream.site/301/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/star-cinema.png",Star Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/301/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="21" tvg-id="filmua-drama" stream-id="302" catchup-source="http://hez1-flu.iptvstream.site/302/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/filmuadrama.png",FilmUA Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/302/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="evrokino" stream-id="303" catchup-source="http://hez1-flu.iptvstream.site/303/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/eurokino.png",ЕвроКино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/303/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="2423" stream-id="304" catchup-source="http://hez1-flu.iptvstream.site/304/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/sovetskoekino.png",Советское Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/304/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="300025" stream-id="305" catchup-source="http://hez1-flu.iptvstream.site/305/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/feniks-plus-kino.png",Феникс+ Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/305/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300082" stream-id="306" catchup-source="http://hez1-flu.iptvstream.site/306/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/gulligirl.png",Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/306/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="100049" stream-id="307" catchup-source="http://hez1-flu.iptvstream.site/307/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/jimjam.png",Jim Jam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/307/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="bcu-kids" stream-id="308" catchup-source="http://hez1-flu.iptvstream.site/308/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/BCU/ch_9.png",BCU Kids HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/308/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="bcu-multserial" stream-id="309" catchup-source="http://hez1-flu.iptvstream.site/309/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/BCU/ch_10.png",BCU Мультсериал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/309/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="bcu-kids-plus" stream-id="310" catchup-source="http://hez1-flu.iptvstream.site/310/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/BCU/1401.png",BCU Kids+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/310/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="1818" stream-id="312" catchup-source="http://hez1-flu.iptvstream.site/312/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/viasat-sport.png",Viasat Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/312/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="setanta-sports" stream-id="313" catchup-source="http://hez1-flu.iptvstream.site/313/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/SetantaEurasiaPlus.png",Setanta Eurasia+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/313/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="setanta-sports-plus" stream-id="314" catchup-source="http://hez1-flu.iptvstream.site/314/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/SetantaEurasia.png",Setanta Eurasia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/314/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2413" stream-id="315" catchup-source="http://hez1-flu.iptvstream.site/315/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/glazami-turista.png",Глазами туриста HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/315/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="2296" stream-id="317" catchup-source="http://hez1-flu.iptvstream.site/317/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/dikiy.png",Дикий
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/317/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="no_epg" stream-id="318" catchup-source="http://hez1-flu.iptvstream.site/318/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/pervy-obrazovatelny.png",Первый образовательный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/318/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="300099" stream-id="319" catchup-source="http://hez1-flu.iptvstream.site/319/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/psy21.png",Психология 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/319/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300011" stream-id="320" catchup-source="http://hez1-flu.iptvstream.site/320/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/ZOOPark.png",Зоопарк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/320/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="xabar24" stream-id="321" catchup-source="http://hez1-flu.iptvstream.site/321/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/xabar24.png",Хабар 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/321/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="French Lover" stream-id="328" catchup-source="http://hez1-flu.iptvstream.site/328/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/french-lover.png",French Lover
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/328/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-kinozal-prem-1" stream-id="329" catchup-source="http://hez1-flu.iptvstream.site/329/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_11.png",BCU Кино и сериалызал Premiere 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/329/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-kinozal-prem-2" stream-id="330" catchup-source="http://hez1-flu.iptvstream.site/330/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_11.png",BCU Кино и сериалызал Premiere 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/330/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-kinozal-prem-3" stream-id="331" catchup-source="http://hez1-flu.iptvstream.site/331/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_11.png",BCU Кино и сериалызал Premiere 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/331/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-action" stream-id="332" catchup-source="http://hez1-flu.iptvstream.site/332/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_14.png",BCU Action HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/332/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-catastrophe" stream-id="333" catchup-source="http://hez1-flu.iptvstream.site/333/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_15.png",BCU Catastrophe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/333/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-cinema" stream-id="334" catchup-source="http://hez1-flu.iptvstream.site/334/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_0.png",BCU Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/334/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-cinemaplus" stream-id="335" catchup-source="http://hez1-flu.iptvstream.site/335/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_0.png",BCU Cinema+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/335/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-comedy" stream-id="336" catchup-source="http://hez1-flu.iptvstream.site/336/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_3.png",BCU Comedy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/336/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-fantastic" stream-id="337" catchup-source="http://hez1-flu.iptvstream.site/337/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_2.png",BCU Fantastic HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/337/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-filmystic" stream-id="338" catchup-source="http://hez1-flu.iptvstream.site/338/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_1.png",BCU FilMystic HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/338/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-kinorating" stream-id="339" catchup-source="http://hez1-flu.iptvstream.site/339/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_4.png",BCU Kinorating HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/339/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-marvel" stream-id="340" catchup-source="http://hez1-flu.iptvstream.site/340/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_5.png",BCU Marvel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/340/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-premiere" stream-id="341" catchup-source="http://hez1-flu.iptvstream.site/341/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_11.png",BCU Premiere HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/341/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-romantic" stream-id="342" catchup-source="http://hez1-flu.iptvstream.site/342/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_16.png",BCU Romantic HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/342/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-vhs" stream-id="343" catchup-source="http://hez1-flu.iptvstream.site/343/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_6.png",BCU VHS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/343/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-stars" stream-id="344" catchup-source="http://hez1-flu.iptvstream.site/344/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1386.png",BCU Stars HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/344/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-svaty" stream-id="345" catchup-source="http://hez1-flu.iptvstream.site/345/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_8.png",BCU Сваты HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/345/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-criminal" stream-id="346" catchup-source="http://hez1-flu.iptvstream.site/346/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1416.png",BCU Criminal HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/346/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-reality" stream-id="347" catchup-source="http://hez1-flu.iptvstream.site/347/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1428.png",BCU Reality HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/347/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-survival" stream-id="348" catchup-source="http://hez1-flu.iptvstream.site/348/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1426.png",BCU Survival HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/348/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-cosmo" stream-id="349" catchup-source="http://hez1-flu.iptvstream.site/349/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1430.png",BCU Cosmo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/349/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-trumotion" stream-id="350" catchup-source="http://hez1-flu.iptvstream.site/350/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1434.png",BCU TruMotion HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/350/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-charm" stream-id="351" catchup-source="http://hez1-flu.iptvstream.site/351/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/256.png",BCU Charm HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/351/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="7" tvg-id="BCUMEDIA HD" stream-id="352" catchup-source="http://hez1-flu.iptvstream.site/352/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/256.png",BCUMEDIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/352/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300108" stream-id="353" catchup-source="http://hez1-flu.iptvstream.site/353/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/Dozhd.png",Дождь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/353/index.m3u8
+#EXTINF:-1 catchup="default" catchup-days="14" tvg-id="belarus3" stream-id="354" catchup-source="http://hez1-flu.iptvstream.site/354/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/Belarus3.png",Беларусь 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://player.telestars.tv/
+http://hez1-flu.iptvstream.site/354/index.m3u8
