@@ -1,11 +1,12 @@
-#EXTM3U 
-#EXTINF:-1 tvg-name=anwap, 
+#EXTM3U m3uautoload=1 cache=500 deinterlace=0 aspect-ratio=16:9
+
+#EXTINF:-1 ,anwap 
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/anwap.IMC.zip
 nms-ru-v1-a1.m3u
-#EXTINF:-1 tvg-name=TEVAS, 
+#EXTINF:-1 ,TEVAS
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/TEVAS.IMC.zip
 nms-ru-v1-a1.m3u
-#EXTINF:-1 tvg-name=kadu, 
+#EXTINF:-1 ,kadu
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/kadu.IMC.zip
-#EXTINF:-1 tvg-name=kinotik, 
+#EXTINF:-1 ,kinotik 
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/kinotik.IMC.zip
