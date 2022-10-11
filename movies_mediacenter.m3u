@@ -1,4 +1,3 @@
-#EXTM3U m3uautoload=0 
 #EXTINF:-1 ,anwap 
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/anwap.IMC.zip
 nms-ru-v1-a1.m3u
@@ -11,3 +10,5 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/kadu.IMC.zip
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/kinotik.IMC.zip
 #EXTINF:-1 ,Octopus 
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/Octopus.IMC.zip
+#EXTINF:-1 ,fastfilm 
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/fastfilm.IMC.zip
