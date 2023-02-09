@@ -37,7 +37,9 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/onlinetv.IMC.zip
 #EXTINF:-1 ,kino.watch
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/kinowatch.IMC.zip
 #EXTINF:-1 ,PiTV
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/pixeltv.IMC.zip
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/tvshare.IMC.zip
+#EXTINF:-1 ,PiTV
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/tvshare.IMC.zip
 #EXTINF:-1 ,BACKUSTV
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/backustv.IMC.zip
 #EXTINF:-1 ,RUTVStream
