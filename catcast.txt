@@ -1,0 +1,189 @@
+<div class="channel-item"><a href="/%D1%81%D0%B8%D1%82%D0%B8-%D1%8D%D0%B4%D0%B5%D0%BC-%D0%BA%D0%B8%D0%BD%D0%BE%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2"
+class="channel-item__name">Сити Эдем - КиноДетектив</div>
+
+
+<div class="channel-item"><a href="/city_edem_tv" class="channel-item__name">Сити Эдем - ТВ</div>
+
+<div class="channel-item"><a href="/cityeden-Mystic"  class="channel-item__name">Сити Эдем - КиноМистика</div>
+
+
+<div class="channel-item"><a href="/%D1%81%D0%B8%D1%82%D0%B8-%D1%8D%D0%B4%D0%B5%D0%BC-%D0%BA%D0%B8%D0%BD%D0%BE%D1%8D%D0%BA%D1%88%D0%B5%D0%BD"  class="channel-item__name">Сити Эдем - КиноЭкшен</div>
+
+
+<div class="channel-item"><a href="/siti_edem_kinoklassika"  class="channel-item__name">Сити Эдем - КиноКлассика</div>
+
+
+<div class="channel-item"><a href="/arttv"  class="channel-item__name">Сити Эдем - ART Cити TV</div>
+
+<div class="channel-item"><a href="/%D1%81%D0%B8%D1%82%D0%B8-%D1%8D%D0%B4%D0%B5%D0%BC-%D0%BA%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F"  class="channel-item__name">Сити Эдем - КиноКомедия</div>
+
+
+<div class="channel-item"><a href="/%D0%BA%D0%B8%D0%BD%D0%BE-1" class="channel-item__name">Кино 1 International</div>
+
+<div class="channel-item"><a href="/vhs-90s"  class="channel-item__name">Видеокассета VHS</div>
+
+
+<div class="channel-item"><a href="/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20%20VHS" class="channel-item__name">Канал VHS</div>
+
+
+<div class="channel-item"><a href="/%D1%83%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BA" class="channel-item__name">IPTVPLAY УЖАСТИК</div>
+
+<div class="channel-item"><a href="/%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C" class="channel-item__name">IPTVPLAY ПАМЯТЬ</div>
+
+<div class="channel-item"><a href="/%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20sci-fi" class="channel-item__name">IPTVPLAY ФАНТАСТИКА</div>
+
+
+<div class="channel-item"><a href="/iptvplay_promo" class="channel-item__name">IPTVPLAY PROMO</div>
+
+
+<div class="channel-item"><a href="/%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8"   class="channel-item__name">IPTVPLAY МультСказки</div>
+
+<div class="channel-item"><a href="/%D0%BA%D0%B8%D0%BD%D0%BE%D0%BA%D0%BB%D1%83%D0%B1" class="channel-item__name">КИНОКЛУБ</div>
+
+<div class="channel-item"><a href="/%D0%9C%D0%B0%D0%BB%D0%B4%D0%B5%D1%80%20%D0%A2%D0%92%20%20%D0%A5%D0%98%D0%A2%20HD"  class="channel-item__name">Малдер ТВ  ХИТ HD</div>
+
+
+<div class="channel-item"><a href="/%D0%BC%D0%B0%D0%BB%D0%B4%D0%B5%D1%80-%D1%82%D0%B2%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D1%8B" class="channel-item__name">Малдер тв. Ужасы франшизы</div>
+
+
+<div class="channel-item"><a href="/%D0%BC%D0%B0%D0%BB%D0%B4%D0%B5%D1%80-%D1%82%D0%B2%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5" class="channel-item__name">Малдер тв:Советское</div>
+
+
+<div class="channel-item"><a href="/%D0%BC%D0%B0%D0%BB%D0%B4%D0%B5%D1%80-%D1%82%D0%B2%20%D0%93%D0%B0%D1%80%D1%80%D0%B8%20%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%20%20%D0%B8%20%D0%A5%D0%BE%D0%B1%D0%B1"  class="channel-item__name">Малдер тв Гарри Поттер  и Хоббит</div>
+
+
+<div class="channel-item"><a href="/fullhd"  class="channel-item__name">Фильмы и сериалы HD</div>
+
+
+<div class="channel-item"><a href="/music1"
+class="channel-item__name">Музыка 1 International</div>
+
+<div class="channel-item"><a href="/Music2"  class="channel-item__name">Музыка 2 International</div>
+
+
+
+
+<div class="channel-item"><a href="/musickino"  class="channel-item__name">Музыка Кино International</div>
+
+
+<div class="channel-item"><a href="/%D0%B2%D0%BE%D1%81%D1%85%D0%BE%D0%B4"  class="channel-item__name">Восход ТВ</div>
+
+
+<div class="channel-item"><a href="/SharaNews_HD" class="channel-item__name">ШараNews HD</div>
+
+
+
+<div class="channel-item"><a href="/tranceisstar"  class="channel-item__name">TRANCE IS STAR TV</div>
+
+<div class="channel-item"><a href="/cherry" class="channel-item__name">Cherry1</div>
+
+
+<div class="channel-item"><a href="/retro-80stv" class="channel-item__name">Retro 80s TV</div>
+
+
+<div class="channel-item"><a href="/topmusictv"  class="channel-item__name">TopMusicTV</div>
+
+
+
+
+<div class="channel-item"><a href="/wintv"  class="channel-item__name">WinTV</div>
+
+
+<div class="channel-item"><a href="/zigzaphungary"  class="channel-item__name">ZigZapHungary</div>
+
+
+<div class="channel-item"><a href="/nt4-iptv" class="channel-item__name">NT4-IPTV</div>
+
+
+<div class="channel-item"><a href="/kinomagiya"  class="channel-item__name">КиноМагия</div>
+
+<div class="channel-item"><a href="/anixtvofficial"  class="channel-item__name">ANIX TV</div>
+
+<div class="channel-item"><a href="/tini-channel"  class="channel-item__name">TINI Channel</div>
+
+<div class="channel-item"><a href="/music-max" class="channel-item__name">MUSIC MAX</div>
+
+<div class="channel-item"><a href="/premierehd1" class="channel-item__name">Premiere HD1</div>
+
+
+
+<div class="channel-item"><a href="/film"  class="channel-item__name">Film TV</div>
+
+<div class="channel-item"><a href="/filmtv-kids" class="channel-item__name">film tv kids</div>
+
+
+<div class="channel-item"><a href="/fork-portal" class="channel-item__name">Fork-portal</div>
+
+
+<div class="channel-item"><a href="/fork-portal-stream"  class="channel-item__name">Fork-portal stream</div>
+
+<div class="channel-item"><a href="/iptv_top"  class="channel-item__name">IPTV IMDB TOP</div>
+
+
+<div class="channel-item"><a href="/mistik"  class="channel-item__name">Mistik</div>
+
+
+<div class="channel-item"><a href="/semejnyj"  class="channel-item__name">Семейный</div>
+
+
+
+<div class="channel-item"><a href="/nickelodeon-live" class="channel-item__name">Nickelodeon live</div>
+
+
+<div class="channel-item"><a href="/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5-24" class="channel-item__name">Аниме 24</div>
+
+<div class="channel-item"><a href="/firsttv" 
+class="channel-item__name">FirstTV</div>
+
+<div class="channel-item"><a href="/viva-tvrussia" class="channel-item__name">VIVA TV Russia</div>
+
+
+
+<div class="channel-item"><a href="/wwerussian" class="channel-item__name">WWE Russian</div>
+
+
+<div class="channel-item"><a href="/dancehits80" class="channel-item__name">dancehits80</div>
+
+<div class="channel-item"><a href="/iptvteam" class="channel-item__name">СТРАХ HD</div>
+
+
+
+<div class="channel-item"><a href="/disney-channelrussia" class="channel-item__name">Disney Channel Russia</div>
+
+
+
+<div class="channel-item"><a href="/kids4ever"  class="channel-item__name">Kids4EVER</div>
+
+
+
+<div class="channel-item"><a href="/cinema-international"  class="channel-item__name">Кино-International</div>
+
+<div class="channel-item"><a href="/_onlajn_kino_"  class="channel-item__name">|ОНЛАЙН|КИНО|</div>
+
+<div class="channel-item"><a href="/koshmar-hd"  class="channel-item__name">КОШМАР HD</div>
+
+
+<div class="channel-item"><a href="/BIT" class="channel-item__name">Back In Time</div>
+
+<div class="channel-item"><a href="/zigfreed-tv"  class="channel-item__name">Zigfreed TV</div>
+
+<div class="channel-item"><a href="/kinovselennajatv"  class="channel-item__name">КИНОВСЕЛЕННАЯ_ТВ</div>
+
+
+
+<div class="channel-item"><a href="/kinovselennajatv1"  class="channel-item__name">КИНОВСЕЛЕННАЯ_ТВ1</div>
+
+<div class="channel-item"><a href="/kinovselennajatv2"  class="channel-item__name">КИНОВСЕЛЕННАЯ_ТВ2</div>
+
+
+<div class="channel-item"><a href="/kinovselennajatv3"  class="channel-item__name">КИНОВСЕЛЕННАЯ_ТВ3</div>
+
+<div class="channel-item"><a href="/kinovselennajatv4"  class="channel-item__name">КИНОВСЕЛЕННАЯ_ТВ4</div>
+
+<div class="channel-item"><a href="/kinovselennajatv5"  class="channel-item__name">КИНОВСЕЛЕННАЯ_ТВ5</div>
+
+
+
+
+<div class="channel-item"><a href="/KF"  class="channel-item__name">★КИНО ФАЙЛ★</div>
+
