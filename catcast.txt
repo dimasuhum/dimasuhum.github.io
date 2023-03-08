@@ -58,8 +58,14 @@ class="channel-item__name">Сити Эдем - КиноДетектив</div>
 
 <div class="channel-item"><a href="/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5-%D0%BA%D0%B8%D0%BD%D0%BE-international"
 
+<div class="channel-item"><a href="/fenix-sssr"
+
+<div class="channel-item"><a href="/fenix-fantastic"
 
 <div class="channel-item"><a href="/fenix-comedy"
+
+<div class="channel-item"><a href="/fenix-kids"
+
 
 <div class="channel-item"><a href="/romanticballads"
 
