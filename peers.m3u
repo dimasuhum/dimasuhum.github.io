@@ -375,6 +375,8 @@ http://api.peers.tv/timeshift/match_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI0NDI0MDQsImlhdCI6MTYyMjM1NjAwNCwiY2lkIjo2LCJ1aWQiOjQyMjQ5OTgwNCwicmVnIjpmYWxzZSwiaXAiOjI1NDk3MjI0NjV9.px3aCyc1AhPnQSNx3Xl1jOZ65JoIe7miU0AJhpY3AfI&offset=0001
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://peers.tv/data/illustrations/ills/2013/11/06/25843/25843823.png",Россия HD
 http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI0NDI0MDQsImlhdCI6MTYyMjM1NjAwNCwiY2lkIjo2LCJ1aWQiOjQyMjQ5OTgwNCwicmVnIjpmYWxzZSwiaXAiOjI1NDk3MjI0NjV9.px3aCyc1AhPnQSNx3Xl1jOZ65JoIe7miU0AJhpY3AfI&offset=0001
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="https://smotret.tv/images/scream.jpg",Scream HD
+https://nsk19.peers.tv/streaming/scream_hd/16/gvh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NzgzODQ5NjAsImlhdCI6MTY3ODI5ODU2MCwiY2lkIjo4MSwidWlkIjo1NjM1MTkwNzUsInJlZyI6ZmFsc2UsImlwIjoxNjA0NTc4NjQxfQ.kFH7vzcJ1Aj6m0wITgNWYiQxDMEkxstJLMm8GbciYtE
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/03/198498/198498426.png",Fox HD
 http://api.peers.tv/timeshift/fox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI0NDI0MDQsImlhdCI6MTYyMjM1NjAwNCwiY2lkIjo2LCJ1aWQiOjQyMjQ5OTgwNCwicmVnIjpmYWxzZSwiaXAiOjI1NDk3MjI0NjV9.px3aCyc1AhPnQSNx3Xl1jOZ65JoIe7miU0AJhpY3AfI&offset=0001
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="https://peers.tv/data/illustrations/ills/2020/03/23/197215/197215066.png",Fox Life HD
