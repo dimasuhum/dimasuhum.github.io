@@ -99,6 +99,9 @@ class="channel-item__name">Сити Эдем - КиноДетектив</div>
 
 <div class="channel-item"><a href="/%D0%BA%D0%B8%D0%BD%D0%BE%D0%BA%D0%BB%D1%83%D0%B1" class="channel-item__name">КИНОКЛУБ</div>
 
+<div class="channel-item"><a href="/serialoman"
+
+
 <div class="channel-item"><a href="/%D0%9C%D0%B0%D0%BB%D0%B4%D0%B5%D1%80%20%D0%A2%D0%92%20%20%D0%A5%D0%98%D0%A2%20HD"  class="channel-item__name">Малдер ТВ  ХИТ HD</div>
 
 
