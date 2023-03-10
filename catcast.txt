@@ -1,3 +1,4 @@
+<ul class="channels">
 <div class="channel-item"><a href="/retro-gmistv" class="channel-item__name">42294</div>
 
 
@@ -297,15 +298,11 @@ class="channel-item__name">37745</div>
 
 <div class="channel-item"><a href="/kinovselennajatv2"  class="channel-item__name">42418</div>
 
-
 <div class="channel-item"><a href="/kinovselennajatv3"  class="channel-item__name">42419</div>
 
 <div class="channel-item"><a href="/kinovselennajatv4"  class="channel-item__name">42420</div>
 
 <div class="channel-item"><a href="/kinovselennajatv5"  class="channel-item__name">42421</div>
-
-
-
-
 <div class="channel-item"><a href="/KF"  class="channel-item__name">39156/div>
 
+</ul>
