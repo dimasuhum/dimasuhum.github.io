@@ -1,8 +1,4 @@
 <ul class="channels">
-<div class="channel-item"><a href="/retro-gmistv" class="channel-item__name">42294</div>
-
-
-
 
 <div class="channel-item"><a href="/prokop-tvhistory" class="channel-item__name">41455</div>
 
