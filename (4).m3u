@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0   tvg-name="Eye Media" tvg-logo="http://iptvcinema.ru/channels/eyemedia.png",Eye Media
+http://46.17.250.60:80/eyemedia/index.m3u8?token=mediacenter
+#EXTINF:0   tvg-name="Eye Oscar" tvg-logo="http://iptvcinema.ru/channels/eyeoscar.png",Eye Oscar
+http://46.17.250.60:80/eyeoscar/index.m3u8?token=mediacenter
+#EXTINF:0   tvg-name="Eye Frozen" tvg-logo="http://iptvcinema.ru/channels/eyefrozen.png",Eye Frozen
+http://46.17.250.60:80/eyefrozen/index.m3u8?token=mediacenter
+#EXTINF:0   tvg-name="Eye Criminal" tvg-logo="http://iptvcinema.ru/channels/eyecriminal.png",Eye Criminal
+http://46.17.250.60:80/eyecriminal/index.m3u8?token=mediacenter
+#EXTINF:0   tvg-name="Eye Modern" tvg-logo="http://iptvcinema.ru/channels/eyemodern.png",Eye Modern
+http://46.17.250.60:80/eyemodern/index.m3u8?token=mediacenter
+#EXTINF:0   tvg-name="Eye Family" tvg-logo="http://iptvcinema.ru/channels/eyemedia.png",Eye Family
+http://46.17.250.60:80/eyefamily/index.m3u8?token=mediacenter
+#EXTINF:0   tvg-name="Eye History" tvg-logo="http://iptvcinema.ru/channels/eyeoscar.png",Eye History
+http://46.17.250.60:80/eyehistory/index.m3u8?token=mediacenter
+#EXTINF:0   tvg-name="Eye Western" tvg-logo="http://iptvcinema.ru/channels/eyefrozen.png",Eye Western
+http://46.17.250.60:80/eyewestern/index.m3u8?token=mediacenter
+#EXTINF:0   tvg-name="Eye Drive" tvg-logo="http://iptvcinema.ru/channels/eyecriminal.png",Eye Drive
+http://46.17.250.60:80/eyedrive/index.m3u8?token=mediacenter
+#EXTINF:0   tvg-name="Eye Cyber" tvg-logo="http://iptvcinema.ru/channels/eyemodern.png",Eye Cyber
+http://46.17.250.60:80/eyecyber/index.m3u8?token=mediacenter
