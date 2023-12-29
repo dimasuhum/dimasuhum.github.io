@@ -4,7 +4,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -77,7 +76,7 @@ http://iptv.cyxym.net/lb0/tv_rentv_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="16109" group-title="Эфирные", Домашний
 http://iptv.cyxym.net/lb0/tv_domashniy_hd/index.m3u8
 #EXTINF:-1 tvg-id="10303" group-title="Эфирные", ПЯТНИЦА
-http://iptv.cyxym.net/lb0/tv_piatnitsa_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_piatnitsa_hd/index.m3u8
 #EXTINF:-1 tvg-id="10309" group-title="Эфирные", Звезда
 http://iptv.cyxym.net/lb0/tv_zvezda_sd/index.m3u8
 #EXTINF:-1 tvg-id="10309" group-title="Эфирные", Звезда +2
@@ -511,7 +510,7 @@ http://iptv.cyxym.net/lb0/tv_hollywood_hd/index.m3u8
 #EXTINF:-1 tvg-id="2215" group-title="Кино", FAN HD
 http://iptv.cyxym.net/lb0/tv_fan_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Синема
-http://iptv.cyxym.net/lb0/tv_sinema_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_sinema_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Cinema HD
 http://iptv.cyxym.net/lb0/tv_star_sinema_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Family HD
@@ -527,25 +526,25 @@ http://iptv.cyxym.net/lb0/tv_a1_hd/index.m3u8
 #EXTINF:-1 tvg-id="16102" group-title="Кино", AMEDIA 2
 http://iptv.cyxym.net/lb0/tv_a2_hd/index.m3u8
 #EXTINF:-1 tvg-id="21112" group-title="Кино", AMEDIA HIT
-http://iptv.cyxym.net/lb0/tv_amedia_hit_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_amedia_hit_hd/index.m3u8
 #EXTINF:-1 tvg-id="26003" group-title="Кино", Amedia Premium hd
 http://iptv.cyxym.net/lb0/tv_amedia_premium_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
-http://iptv.cyxym.net/lb0/tv_dorama_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_dorama_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Spike
-http://iptv.cyxym.net/lb0/tv_spike_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_spike_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Супер
-http://iptv.cyxym.net/lb0/tv_super_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_super_hd/index.m3u8
 #EXTINF:-1 tvg-id="10204" group-title="Кино", ИНДИЙСКОЕ КИНО
 http://iptv.cyxym.net/lb0/tv_india_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", ZEE TV
 http://iptv.cyxym.net/lb0/tv_zee_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Техно 24
-http://iptv.cyxym.net/lb0/tv_t24_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_t24_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", НТВ‑ХИТ
-http://iptv.cyxym.net/lb0/tv_ntv_hit_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_ntv_hit_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", НТВ Сериал
-http://iptv.cyxym.net/lb0/tv_ntv_serial_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_ntv_serial_hd/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Detective Jam
 http://iptv.cyxym.net/lb0/tv_detective_jam_hd/index.m3u8
@@ -602,19 +601,19 @@ http://iptv.cyxym.net/lb0/tv_mir_seriala_sd/index.m3u8
 #EXTINF:-1 tvg-id="710" group-title="Кино", Sony Chanel HD
 http://iptv.cyxym.net/lb0/tv_sony_channel_hd/index.m3u8
 #EXTINF:-1 tvg-id="711" group-title="Кино", Sony Sci-fi
-http://iptv.cyxym.net/lb0/tv_sony_scifi_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_sony_scifi_hd/index.m3u8
 #EXTINF:-1 tvg-id="712" group-title="Кино", Sony Turbo
-http://iptv.cyxym.net/lb0/tv_sony_turbo_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_sony_turbo_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Yerkir Media
 http://iptv.cyxym.net/lb0/tv_erkir_media_sd/index.m3u8
 #EXTINF:-1 tvg-id="20617" group-title="Кино", AMC
-http://iptv.cyxym.net/lb0/tv_amc_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_amc_hd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", MGM hd
 http://iptv.cyxym.net/lb0/tv_mgm_hd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Живи
 http://iptv.cyxym.net/lb0/tv_zhivi_sd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", ПОБЕДА
-http://iptv.cyxym.net/lb0/tv_pobeda_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_pobeda_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Арсенал ТВ
 http://iptv.cyxym.net/lb0/tv_arsenal_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Ретро ТВ
