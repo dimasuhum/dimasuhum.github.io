@@ -70,8 +70,7 @@ http://iptv.cyxym.net/lb0/tv_rentv_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_rentv_sd/index.m3u8
 #EXTINF:-1 tvg-id="10108" group-title="Эфирные", РЕН ТВ +2
 http://iptv.cyxym.net/lb0/tv_rentv_sd_plus2/index.m3u8
-#EXTINF:-1 tvg-id="16109" group-title="Эфирные", Домашний
-http://iptv.cyxym.net/lb0/tv_domashniy_sd/index.m3u8
+
 #EXTINF:-1 tvg-id="16109" group-title="Эфирные", Домашний
 http://iptv.cyxym.net/lb0/tv_domashniy_hd/index.m3u8
 #EXTINF:-1 tvg-id="10303" group-title="Эфирные", ПЯТНИЦА
@@ -544,6 +543,49 @@ http://iptv.cyxym.net/lb0/tv_t24_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_ntv_hit_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", НТВ Сериал
 http://iptv.cyxym.net/lb0/tv_ntv_serial_sd/index.m3u8
+
+#EXTINF:-1 group-title="Кино", Detective Jam
+http://iptv.cyxym.net/lb0/tv_detective_jam_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Про любовь
+http://iptv.cyxym.net/lb0/tv_pro_lubov_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Наше муржское
+http://iptv.cyxym.net/lb0/tv_nashe_muzhskoe_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Start world
+http://iptv.cyxym.net/lb0/tv_start_world_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Curiosity stream
+http://iptv.cyxym.net/lb0/tv_curiosity_stream_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", O!Kino
+http://iptv.cyxym.net/lb0/tv_o_kino_sd/index.m3u8
+#EXTINF:-1 group-title="Кино", Криминальное HD
+http://iptv.cyxym.net/lb0/tv_kriminalnoe_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Kino Jam 1
+http://iptv.cyxym.net/lb0/tv_kino_jam_1_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Kino Jam 2
+http://iptv.cyxym.net/lb0/tv_kino_jam_2_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Наше HD
+http://iptv.cyxym.net/lb0/tv_nashe_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Блокбастер HD
+http://iptv.cyxym.net/lb0/tv_blokbaster_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Душевное HD
+http://iptv.cyxym.net/lb0/tv_dushevnoe_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Наше любимое HD
+http://iptv.cyxym.net/lb0/tv_nashe_lubimoe_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Наш кинопоказ HD
+http://iptv.cyxym.net/lb0/tv_nash_kinopokaz_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинеко HD
+http://iptv.cyxym.net/lb0/tv_kineko_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Trash HD
+http://iptv.cyxym.net/lb0/tv_trash_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Романтичное HD
+http://iptv.cyxym.net/lb0/tv_romantichnoe_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Flixsnip HD
+http://iptv.cyxym.net/lb0/tv_flixsnip_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Flixsnip HD
+http://iptv.cyxym.net/lb0/tv_flixsnip_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Остросюжетное HD
+http://iptv.cyxym.net/lb0/tv_ostrosuzhetnoe_hd/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Мосфильм.Золотая коллекция
