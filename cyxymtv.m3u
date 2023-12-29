@@ -1,5 +1,6 @@
 ﻿#EXTM3U m3uautoload=1 cache=500 deinterlace=0 aspect-ratio=16:9
-  
+
+
 
 
 
@@ -99,7 +100,7 @@ http://iptv.cyxym.net/lb0/tv_tvoy_dom_hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Эфирные", 1+1
-http://iptv.cyxym.net/lb0/tv_1_+_1_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_1_+_1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="10307" group-title="Новости", Россия 24
@@ -162,6 +163,9 @@ http://iptv.cyxym.net/lb0/tv_match_football_1_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_match_football_2_hd/index.m3u8
 #EXTINF:-1 tvg-id="17101" group-title="Спорт", Матч! Футбол 3 hd
 http://iptv.cyxym.net/lb0/tv_match_football_3_hd/index.m3u8
+#EXTINF:-1 tvg-id="20104" group-title="Спорт", Футбольный HD
+http://iptv.cyxym.net/lb0/tv_footbolniy_hd/index.m3u8
+
 #EXTINF:-1 group-title="Спорт", Real Madrid TV
 http://iptv.cyxym.net/lb0/tv_real_madrid_hd/index.m3u8
 #EXTINF:-1 tvg-id="20103" group-title="Спорт", Матч! Арена hd
@@ -281,7 +285,7 @@ http://iptv.cyxym.net/lb0/tv_365_dney_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Еда Премиум
 http://iptv.cyxym.net/lb0/tv_eda_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="10209" group-title="Познавательное", Кухня ТВ
-http://iptv.cyxym.net/lb0/tv_kuhnya_tv_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_kuhnya_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="10209" group-title="Познавательное", Food Network
 http://iptv.cyxym.net/lb0/tv_food_network_hd/index.m3u8
 #EXTINF:-1 tvg-id="10212" group-title="Познавательное", Авто Плюс
