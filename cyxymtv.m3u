@@ -2,6 +2,8 @@
   
 
 
+
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -580,8 +582,14 @@ http://iptv.cyxym.net/lb0/tv_trash_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_romantichnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Flixsnip HD
 http://iptv.cyxym.net/lb0/tv_flixsnip_hd/index.m3u8
-#EXTINF:-1 group-title="Кино", Flixsnip HD
-http://iptv.cyxym.net/lb0/tv_flixsnip_hd/index.m3u8
+
+#EXTINF:-1 group-title="Кино", Премиальное HD
+http://iptv.cyxym.net/lb0/tv_premialnoe_hd/index.m3u8
+
+
+#EXTINF:-1 group-title="Кино", Остросюжетное HD
+http://iptv.cyxym.net/lb0/tv_ostrosjuzhetnoe_hd/index.m3u8
+
 #EXTINF:-1 group-title="Кино", Остросюжетное HD
 http://iptv.cyxym.net/lb0/tv_ostrosuzhetnoe_hd/index.m3u8
 
