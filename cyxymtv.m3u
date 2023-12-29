@@ -4,6 +4,7 @@
 
 
 
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -442,13 +443,13 @@ http://iptv.cyxym.net/lb0/tv_kinopremiera_hd/index.m3u8
 #EXTINF:-1 tvg-id="16112" group-title="Кино", Кинохит
 http://iptv.cyxym.net/lb0/tv_kinohit_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
-http://iptv.cyxym.net/lb0/tv_kinomiks_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_kinomiks_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://iptv.cyxym.net/lb0/tv_kinokomediya_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_kinokomedia_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
 http://iptv.cyxym.net/lb0/tv_kinosvidanie_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", КИНОСЕРИЯ
-http://iptv.cyxym.net/lb0/tv_kinoseriya_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_kinoseriya_hd/index.m3u8
 #EXTINF:-1 tvg-id="19102" group-title="Кино", TV 1000
 http://iptv.cyxym.net/lb0/tv_tv_1000_hd/index.m3u8
 #EXTINF:-1 tvg-id="19103" group-title="Кино", TV 1000 Action
@@ -470,31 +471,31 @@ http://iptv.cyxym.net/lb0/tv_russian_comedy_sd/index.m3u8
 #EXTINF:-1 tvg-id="10308" group-title="Кино", ТВ-21M
 http://iptv.cyxym.net/lb0/tv_tv_21m_sd/index.m3u8
 #EXTINF:-1 tvg-id="16113" group-title="Кино", Наше Новое Кино
-http://iptv.cyxym.net/lb0/tv_nashe_novoe_kino_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_nashe_novoe_kino_hd/index.m3u8
 #EXTINF:-1 tvg-id="10808" group-title="Кино", Дом Кино
 http://iptv.cyxym.net/lb0/tv_dom_kino_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом Кино Премиум hd
 http://iptv.cyxym.net/lb0/tv_dom_kino_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="10803" group-title="Кино", Иллюзион+
-http://iptv.cyxym.net/lb0/tv_illuzion_plus_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_illuzion_plus_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
 http://iptv.cyxym.net/lb0/tv_bolt_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино
-http://iptv.cyxym.net/lb0/tv_lubimoe_kino_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_lubimoe_kino_hd/index.m3u8
 #EXTINF:-1 tvg-id="10802" group-title="Кино", Русский Иллюзион
-http://iptv.cyxym.net/lb0/tv_russian_illuzion_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_russian_illuzion_hd/index.m3u8
 #EXTINF:-1 tvg-id="10802" group-title="Кино", Русский роман
 http://iptv.cyxym.net/lb0/tv_russkiy_roman_hd/index.m3u8
 #EXTINF:-1 tvg-id="10802" group-title="Кино", Русский бестселлер
 http://iptv.cyxym.net/lb0/tv_russian_bestseller_sd/index.m3u8
 #EXTINF:-1 tvg-id="10806" group-title="Кино", ЕвроКино
-http://iptv.cyxym.net/lb0/tv_eurokino_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_eurokino_hd/index.m3u8
 #EXTINF:-1 tvg-id="703" group-title="Кино", Детский мир/Телеклуб
 http://iptv.cyxym.net/lb0/tv_detskiy_mir_teleclub_sd/index.m3u8
 #EXTINF:-1 tvg-id="19104" group-title="Кино", TB 1000 Русское кино
 http://iptv.cyxym.net/lb0/tv_tv_1000_russkoe_kino_hd/index.m3u8
 #EXTINF:-1 tvg-id="10208" group-title="Кино", Мужское кино
-http://iptv.cyxym.net/lb0/tv_muzhskoe_kino_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_muzhskoe_kino_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино тв
 http://iptv.cyxym.net/lb0/tv_kino_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="1511" group-title="Кино", Paramount Comedy
@@ -588,17 +589,10 @@ http://iptv.cyxym.net/lb0/tv_premialnoe_hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Остросюжетное HD
-http://iptv.cyxym.net/lb0/tv_ostrosjuzhetnoe_hd/index.m3u8
-
-#EXTINF:-1 group-title="Кино", Остросюжетное HD
-http://iptv.cyxym.net/lb0/tv_ostrosuzhetnoe_hd/index.m3u8
-
-
-
+http://iptv.cyxym.net/lb0/tv_ostrosyuzhetnoe_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Мосфильм.Золотая коллекция
-http://iptv.cyxym.net/lb0/tv_mosfilm_zolotay_kolekciy_hd/index.m3u8
-
+http://iptv.cyxym.net/lb0/tv_mosfilm_zolotay_kollekciay_hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
