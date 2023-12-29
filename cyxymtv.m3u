@@ -25,7 +25,7 @@ http://iptv.cyxym.net/lb0/tv_perviy_kanal_sd/index.m3u8
 #EXTINF:-1 tvg-id="20105" group-title="Эфирные", Первый hd
 http://iptv.cyxym.net/lb0/tv_perviy_kanal_hd/index.m3u8
 #EXTINF:-1 tvg-id="10106" group-title="Эфирные", Первый канал +2
-http://iptv.cyxym.net/lb0/tv_perviy_kanal_plus2_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_perviy_kanal_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="10304" group-title="Эфирные", Россия 1
 http://iptv.cyxym.net/lb0/tv_russia_1_sd/index.m3u8
 #EXTINF:-1 tvg-id="20106" group-title="Эфирные", Россия hd
@@ -39,7 +39,9 @@ http://iptv.cyxym.net/lb0/tv_ntv_hd/index.m3u8
 #EXTINF:-1 tvg-id="10301" group-title="Эфирные", НТВ +2
 http://iptv.cyxym.net/lb0/tv_ntv_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="13102" group-title="Эфирные", ТВЦ
-http://iptv.cyxym.net/lb0/tv_tvc_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_tvc_hd/index.m3u8
+#EXTINF:-1 tvg-id="13102" group-title="Эфирные", ТВЦ +2
+http://iptv.cyxym.net/lb0/tv_tvc_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="31006" group-title="Эфирные", Пятый канал
 http://iptv.cyxym.net/lb0/tv_5_sd/index.m3u8
 #EXTINF:-1 tvg-id="31006" group-title="Эфирные", Пятый канал +2
