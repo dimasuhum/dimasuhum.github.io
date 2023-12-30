@@ -446,6 +446,8 @@ http://iptv.cyxym.net/lb0/tv_strashnoe_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_komediynoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее hd
 http://iptv.cyxym.net/lb0/tv_shokiruushee_hd/index.m3u8
+#EXTINF:-1 tvg-id="10308" group-title="Кино", Камеди HD
+http://iptv.cyxym.net/lb0/tv_comedy_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Ultra HD Cinema
 http://iptv.cyxym.net/lb0/tv_ultra_hd_cinema_uhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Настоящее Страшное ТВ
