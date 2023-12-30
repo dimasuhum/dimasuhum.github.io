@@ -3,8 +3,6 @@
 
 
 
-
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -214,8 +212,12 @@ http://iptv.cyxym.net/lb0/tv_nba/index.m3u8
 http://iptv.cyxym.net/lb0/tv_start_sd/index.m3u8
 #EXTINF:-1 tvg-id="14104" group-title="Познавательное", Animal Planet hd
 http://iptv.cyxym.net/lb0/tv_animal_planet_hd/index.m3u8
-#EXTINF:-1 group-title="Познавательное", Eureka HD
-http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/eurekahd/chunklist.m3u8
+#EXTINF:-1 tvg-id="17105" group-title="Познавательное", Terra HD
+http://iptv.cyxym.net/lb0/tv_terra_hd/index.m3u8
+#EXTINF:-1 tvg-id="17105" group-title="Познавательное", Big planet HD
+http://iptv.cyxym.net/lb0/tv_big_planet_hd/index.m3u8
+#EXTINF:-1 tvg-id="17105" group-title="Познавательное", NASA TV UHD
+http://iptv.cyxym.net/lb0/tv_nasa_tv_uhd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Galaxy
 http://178.163.16.166:4022/udp/234.0.0.111:2000
 #EXTINF:-1 group-title="Познавательное", Russian Extreme Ultra
@@ -492,6 +494,10 @@ http://iptv.cyxym.net/lb0/tv_russkiy_roman_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_russian_bestseller_sd/index.m3u8
 #EXTINF:-1 tvg-id="10806" group-title="Кино", ЕвроКино
 http://iptv.cyxym.net/lb0/tv_eurokino_hd/index.m3u8
+#EXTINF:-1 tvg-id="20104" group-title="Кино", Serial UHD
+http://iptv.cyxym.net/lb0/tv_serial_uhd/index.m3u8
+#EXTINF:-1 tvg-id="20104" group-title="Кино", Start Air HD
+http://iptv.cyxym.net/lb0/tv_start_air_hd/index.m3u8
 #EXTINF:-1 tvg-id="703" group-title="Кино", Детский мир/Телеклуб
 http://iptv.cyxym.net/lb0/tv_detskiy_mir_teleclub_sd/index.m3u8
 #EXTINF:-1 tvg-id="19104" group-title="Кино", TB 1000 Русское кино
