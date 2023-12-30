@@ -179,10 +179,12 @@ http://iptv.cyxym.net/lb0/tv_match_igra_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_match_strana_sd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 http://iptv.cyxym.net/lb0/tv_match_planeta_sd/index.m3u8
+#EXTINF:-1 tvg-id="12104" group-title="Спорт", Okko sport hd
+http://iptv.cyxym.net/lb0/tv_okko_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="13101" group-title="Спорт", Телеканал КХЛ
-http://iptv.cyxym.net/lb0/tv_telekanal_khl_sd/index.m3u8
-#EXTINF:-1 tvg-id="2202" group-title="Спорт", КХЛ hd
-http://iptv.cyxym.net/lb0/tv_khl_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_telekanal_khl_hd/index.m3u8
+#EXTINF:-1 tvg-id="2202" group-title="Спорт", КХЛ prime HD
+http://iptv.cyxym.net/lb0/tv_khl_prime_hd/index.m3u8
 #EXTINF:-1 tvg-id="2203" group-title="Спорт", Конный мир hd
 http://iptv.cyxym.net/lb0/tv_konniy_mir_hd/index.m3u8
 #EXTINF:-1 tvg-id="19110" group-title="Спорт", Русский Экстрим
@@ -505,6 +507,8 @@ http://iptv.cyxym.net/lb0/tv_eurokino_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_serial_uhd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Start Air HD
 http://iptv.cyxym.net/lb0/tv_start_air_hd/index.m3u8
+
+
 #EXTINF:-1 tvg-id="703" group-title="Кино", Детский мир/Телеклуб
 http://iptv.cyxym.net/lb0/tv_detskiy_mir_teleclub_sd/index.m3u8
 #EXTINF:-1 tvg-id="19104" group-title="Кино", TB 1000 Русское кино
