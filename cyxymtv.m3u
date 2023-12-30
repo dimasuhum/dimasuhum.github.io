@@ -146,6 +146,10 @@ http://iptv.cyxym.net/lb0/tv_eurosport_1_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_eurosport_2_hd/index.m3u8
 #EXTINF:-1 tvg-id="19108" group-title="Спорт", БОКС ТВ
 http://iptv.cyxym.net/lb0/tv_boxtv_sd/index.m3u8
+#EXTINF:-1 tvg-id="12104" group-title="Спорт", Удар hd
+http://iptv.cyxym.net/lb0/tv_udar_hd/index.m3u8
+#EXTINF:-1 tvg-id="12104" group-title="Спорт", MMA TV HD
+http://iptv.cyxym.net/lb0/tv_mma_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="17106" group-title="Спорт", Viasat Sport hd
 http://iptv.cyxym.net/lb0/tv_viasat_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="2204" group-title="Спорт", МАТЧ ТВ
@@ -574,6 +578,8 @@ http://iptv.cyxym.net/lb0/tv_dorama_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_spike_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Супер
 http://iptv.cyxym.net/lb0/tv_super_hd/index.m3u8
+#EXTINF:-1 tvg-id="10308" group-title="Кино", Bollywood HD
+http://iptv.cyxym.net/lb0/tv_bollywood_hd/index.m3u8
 #EXTINF:-1 tvg-id="10204" group-title="Кино", ИНДИЙСКОЕ КИНО
 http://iptv.cyxym.net/lb0/tv_india_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", ZEE TV
