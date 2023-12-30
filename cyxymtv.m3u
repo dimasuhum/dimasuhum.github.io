@@ -1,7 +1,4 @@
-﻿#EXTM3U m3uautoload=1 cache=500 deinterlace=0 aspect-ratio=16:9
-
-
-
+﻿#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz" m3uautoload=1 cache=500 deinterlace=0 aspect-ratio=16:9
 
 
 
@@ -175,7 +172,7 @@ http://iptv.cyxym.net/lb0/tv_real_madrid_hd/index.m3u8
 #EXTINF:-1 tvg-id="20103" group-title="Спорт", Матч! Арена hd
 http://iptv.cyxym.net/lb0/tv_match_arena_hd/index.m3u8
 #EXTINF:-1 tvg-id="10211" group-title="Спорт", Матч! Боец
-http://iptv.cyxym.net/lb0/tv_match_boets_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_match_boets_hd/index.m3u8
 #EXTINF:-1 tvg-id="10211" group-title="Спорт", Матч! Игра hd
 http://iptv.cyxym.net/lb0/tv_match_igra_hd/index.m3u8
 #EXTINF:-1 tvg-id="11109" group-title="Спорт", Матч! Страна
