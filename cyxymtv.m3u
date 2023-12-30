@@ -3,6 +3,8 @@
 
 
 
+
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -292,6 +294,8 @@ http://iptv.cyxym.net/lb0/tv_365_dney_tv_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_eda_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="10209" group-title="Познавательное", Кухня ТВ
 http://iptv.cyxym.net/lb0/tv_kuhnya_tv_hd/index.m3u8
+#EXTINF:-1 tvg-id="12104" group-title="Познавательное", Luxury HD
+http://iptv.cyxym.net/lb0/tv_luxury_hd/index.m3u8
 #EXTINF:-1 tvg-id="10209" group-title="Познавательное", Food Network
 http://iptv.cyxym.net/lb0/tv_food_network_hd/index.m3u8
 #EXTINF:-1 tvg-id="10212" group-title="Познавательное", Авто Плюс
@@ -539,7 +543,10 @@ http://iptv.cyxym.net/lb0/tv_trash_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_romantichnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Flixsnip HD
 http://iptv.cyxym.net/lb0/tv_flixsnip_hd/index.m3u8
-
+#EXTINF:-1 tvg-id="12104" group-title="кино", Хит HD
+http://iptv.cyxym.net/lb0/tv_hit_hd/index.m3u8
+#EXTINF:-1 tvg-id="12104" group-title="кино", Plan B HD
+http://iptv.cyxym.net/lb0/tv_plan_b_hd/index.m3u8
 #EXTINF:-1 tvg-id="1511" group-title="Кино", Paramount Comedy
 http://iptv.cyxym.net/lb0/tv_paramount_comedy_hd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Кино", Paramount Channel
