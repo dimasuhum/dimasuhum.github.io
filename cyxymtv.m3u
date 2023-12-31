@@ -3,6 +3,9 @@
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -11,12 +14,7 @@ http://iptv.cyxym.net/lb0/tv_abaza_tv/index.m3u8
 http://iptv.cyxym.net/lb0/tv_gagra_tv/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", ГАЛ TV
 http://iptv.cyxym.net/lb0/tv_gal_tv/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Абхазские", ГАЛ hd
-http://iptv.cyxym.net/lb0/tv_gal_tv_hd/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Абхазские", Рица-ТВ
-http://iptv.cyxym.net/lb0/tv_ritsa_tv_hd/index.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Абхазские", Гудаута-ТВ
-http://iptv.cyxym.net/lb0/tv_tv12_gudauta_hd/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="10106" group-title="Эфирные", Первый канал
@@ -363,6 +361,8 @@ http://iptv.cyxym.net/lb0/tv_love_nature_4k_uhd/index.m3u8
 
 #EXTINF:-1 tvg-id="20502" group-title="Музыка", MTV
 http://iptv.cyxym.net/lb0/tv_mtv_hd/index.m3u8
+#EXTINF:-1 tvg-id="20502" group-title="Музыка", MTV 90s
+http://iptv.cyxym.net/lb0/tv_mtv_90s_sd/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Live International HD
 http://iptv.cyxym.net/lb0/tv_mtv_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="20618" group-title="Музыка", MTV Dance
@@ -651,6 +651,8 @@ http://iptv.cyxym.net/lb0/tv_krasnaya_liniya_sd/index.m3u8
 
 #EXTINF:-1 group-title="Детям", Киносемья
 http://iptv.cyxym.net/lb0/tv_kinosemiya_sd/index.m3u8
+#EXTINF:-1 group-title="Детям", Family Jam HD
+http://iptv.cyxym.net/lb0/tv_family_jam_hd/index.m3u8
 #EXTINF:-1 group-title="Детям", Рыжий
 http://iptv.cyxym.net/lb0/tv_ryzhiy_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Капитан Фантастика HD
