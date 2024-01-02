@@ -4,6 +4,8 @@
 
 
 
+
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -40,12 +42,9 @@ http://iptv.cyxym.net/lb0/tv_tvc_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_5_sd/index.m3u8
 #EXTINF:-1 tvg-id="31006" group-title="Эфирные", Пятый канал +2
 http://iptv.cyxym.net/lb0/tv_5_sd_plus2/index.m3u8
-#EXTINF:-1 group-title="Эфирные", Мир
-http://iptv.cyxym.net/lb0/tv_mir_sd/index.m3u8
-#EXTINF:-1 group-title="Эфирные", Мир HD
-http://iptv.cyxym.net/lb0/tv_mir_hd/index.m3u8
-#EXTINF:-1 tvg-id="10305" group-title="Эфирные", Россия-Культура
-http://iptv.cyxym.net/lb0/tv_russia_k_sd/index.m3u8
+#EXTINF:-1 tvg-id="10106" group-title="Эфирные", Солнце
+http://iptv.cyxym.net/lb0/tv_solntse_sd/index.m3u8
+
 #EXTINF:-1 tvg-id="10302" group-title="Эфирные", ТНТ
 http://iptv.cyxym.net/lb0/tv_tnt_sd/index.m3u8
 #EXTINF:-1 tvg-id="10302" group-title="Эфирные", ТНТ +2
@@ -77,6 +76,14 @@ http://iptv.cyxym.net/lb0/tv_piatnitsa_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_zvezda_sd/index.m3u8
 #EXTINF:-1 tvg-id="10309" group-title="Эфирные", Звезда +2
 http://iptv.cyxym.net/lb0/tv_zvezda_sd_plus2/index.m3u8
+#EXTINF:-1 tvg-id="10106" group-title="Эфирные", Соловьёв Live
+http://iptv.cyxym.net/lb0/tv_solovev_live_sd/index.m3u8
+#EXTINF:-1 group-title="Эфирные", Мир
+http://iptv.cyxym.net/lb0/tv_mir_sd/index.m3u8
+#EXTINF:-1 group-title="Эфирные", Мир HD
+http://iptv.cyxym.net/lb0/tv_mir_hd/index.m3u8
+#EXTINF:-1 tvg-id="10305" group-title="Эфирные", Россия-Культура
+http://iptv.cyxym.net/lb0/tv_russia_k_sd/index.m3u8
 #EXTINF:-1 tvg-id="16105" group-title="Эфирные", Че
 http://iptv.cyxym.net/lb0/tv_che_sd/index.m3u8
 #EXTINF:-1 tvg-id="16105" group-title="Эфирные", Ю
@@ -91,10 +98,6 @@ http://iptv.cyxym.net/lb0/tv_rostov_papa_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_vmeste_rf_sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Твой дом HD
 http://iptv.cyxym.net/lb0/tv_tvoy_dom_hd/index.m3u8
-
-
-#EXTINF:-1 group-title="Эфирные", 1+1
-http://iptv.cyxym.net/lb0/tv_1_+_1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="10307" group-title="Новости", Россия 24
@@ -580,7 +583,7 @@ http://iptv.cyxym.net/lb0/tv_fox_life_hd/index.m3u8
 #EXTINF:-1 tvg-id="21107" group-title="Кино", AMEDIA
 http://iptv.cyxym.net/lb0/tv_a1_hd/index.m3u8
 #EXTINF:-1 tvg-id="16102" group-title="Кино", AMEDIA 2
-http://iptv.cyxym.net/lb0/tv_a2_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_a2_sd/index.m3u8
 #EXTINF:-1 tvg-id="21112" group-title="Кино", AMEDIA HIT
 http://iptv.cyxym.net/lb0/tv_amedia_hit_hd/index.m3u8
 #EXTINF:-1 tvg-id="26003" group-title="Кино", Amedia Premium hd
