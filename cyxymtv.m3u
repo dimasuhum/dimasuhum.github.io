@@ -1,6 +1,4 @@
-﻿#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz" m3uautoload=1 cache=500 deinterlace=0 aspect-ratio=16:9
-
-
+﻿#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz,https://teleguide.info/download/new3/xmltv.xml.gz,https://teleguide.info/download/old/xmltv.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://epg.it999.ru/edem.xml.gz" m3uautoload=1 cache=500 deinterlace=0 aspect-ratio=16:9
 
 
 
@@ -363,6 +361,8 @@ http://iptv.cyxym.net/lb0/tv_love_nature_4k_uhd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_mtv_hd/index.m3u8
 #EXTINF:-1 tvg-id="20502" group-title="Музыка", MTV 90s
 http://iptv.cyxym.net/lb0/tv_mtv_90s_sd/index.m3u8
+#EXTINF:-1 tvg-id="20502" group-title="Музыка", MTV 00s
+http://iptv.cyxym.net/lb0/tv_mtv_00s_sd/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Live International HD
 http://iptv.cyxym.net/lb0/tv_mtv_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="20618" group-title="Музыка", MTV Dance
@@ -495,7 +495,7 @@ http://iptv.cyxym.net/lb0/tv_dom_kino_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="10803" group-title="Кино", Иллюзион+
 http://iptv.cyxym.net/lb0/tv_illuzion_plus_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
-http://iptv.cyxym.net/lb0/tv_bolt_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_bolt_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино
 http://iptv.cyxym.net/lb0/tv_lubimoe_kino_hd/index.m3u8
 #EXTINF:-1 tvg-id="10802" group-title="Кино", Русский Иллюзион
