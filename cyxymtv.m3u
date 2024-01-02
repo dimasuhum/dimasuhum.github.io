@@ -6,6 +6,7 @@
 
 
 
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -619,10 +620,8 @@ http://iptv.cyxym.net/lb0/tv_start_world_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_curiosity_stream_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", O!Kino
 http://iptv.cyxym.net/lb0/tv_o_kino_sd/index.m3u8
-
-
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Мосфильм.Золотая коллекция
-http://iptv.cyxym.net/lb0/tv_mosfilm_zolotay_kollekciay_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_mosfilm_zolotay_collectiа_hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
