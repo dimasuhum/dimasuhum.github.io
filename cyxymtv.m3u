@@ -4,9 +4,6 @@
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -448,6 +445,17 @@ http://iptv.cyxym.net/lb0/tv_kinouzhas_hd/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Страшное HD
 http://iptv.cyxym.net/lb0/tv_strashnoe_hd/index.m3u8
+#EXTINF:-1 group-title="Кино", Страшное HD
+http://158.101.214.187:8080/channel/42c15d29/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
+
+
+#EXTINF:-1 group-title="Кино", Страх HD
+http://195.9.195.3:8080/hls/202127.m3u8
+
+#EXTINF:-1 group-title="Кино", Кошмар
+http://195.9.195.3:8080/hls/204709.m3u8
+
+
 #EXTINF:-1 group-title="Кино", Комедийное HD
 http://iptv.cyxym.net/lb0/tv_komediynoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее hd
@@ -620,9 +628,9 @@ http://iptv.cyxym.net/lb0/tv_start_world_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_curiosity_stream_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", O!Kino
 http://iptv.cyxym.net/lb0/tv_o_kino_sd/index.m3u8
-#EXTINF:-1 tvg-id="20104" group-title="Кино", Мосфильм.Золотая коллекция
-http://iptv.cyxym.net/lb0/tv_mosfilm_zolotay_collectiа_hd/index.m3u8
 
+#EXTINF:-1 tvg-id="20104" group-title="Кино", Мосфильм.Золотая коллекция
+http://moobl.ru/hls/Mosfilm_hd.m3u8
 
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
 http://iptv.cyxym.net/lb0/tv_feniks_plus_kino_sd/index.m3u8
