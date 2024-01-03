@@ -2,8 +2,6 @@
 
 
 
-
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -557,6 +555,9 @@ http://iptv.cyxym.net/lb0/tv_nash_kinopokaz_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_kineko_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Trash HD
 http://iptv.cyxym.net/lb0/tv_trash_hd/index.m3u8
+#EXTINF:-1 tvg-id="scream" group-title="Кино",Scream
+http://2.56.240.223:2021/channel/2c7a264a/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
+
 #EXTINF:-1 group-title="Кино", Романтичное HD
 http://iptv.cyxym.net/lb0/tv_romantichnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Flixsnip HD
@@ -631,6 +632,14 @@ http://iptv.cyxym.net/lb0/tv_o_kino_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Мосфильм.Золотая коллекция
 http://moobl.ru/hls/Mosfilm_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wpnkr29/7.png" group-title="Кино",Смотрим Кино и сериалы HD
+http://moobl.ru/hls/Kino_i_serialy_hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V9Qfsvb/4.png" group-title="Кино", Смотрим Мелодрамы HD
+http://moobl.ru/hls/Melodramy_hd.m3u8
+
+
 
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
 http://iptv.cyxym.net/lb0/tv_feniks_plus_kino_sd/index.m3u8
@@ -743,7 +752,7 @@ http://iptv.cyxym.net/lb0/tv_kvn_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="10309" group-title="Другое", Звезда
 http://iptv.cyxym.net/lb0/tv_zvezda_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", Кухня тв
-http://iptv.cyxym.net/lb0/tv_kuhnya_tv_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_kuhnya_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="10805" group-title="Другое", CGTN
 http://iptv.cyxym.net/lb0/tv_cgtn_sd/index.m3u8
 #EXTINF:-1 tvg-id="510" group-title="Другое", CGTN‑Русский
