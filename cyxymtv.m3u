@@ -2,7 +2,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -343,6 +342,8 @@ http://iptv.cyxym.net/lb0/tv_oruzhie_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_dikiy_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", ЗООПАРК
 http://iptv.cyxym.net/lb0/tv_zoopark_sd/index.m3u8
+#EXTINF:-1 tvg-id="17105" group-title="Познавательное", В мире животных
+http://iptv.cyxym.net/lb0/tv_v_mire_zhivotnyh_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Точка отрыва
 http://iptv.cyxym.net/lb0/tv_tochka_otryva_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Диалоги о рыбалке
@@ -351,6 +352,8 @@ http://iptv.cyxym.net/lb0/tv_dialogi_o_rybalke_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_insight_uhd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Первый Вегетарианский
 http://iptv.cyxym.net/lb0/tv_perviy_vegetarianskiy_sd/index.m3u8
+#EXTINF:-1 tvg-id="17105" group-title="Познавательное", Поехали
+http://iptv.cyxym.net/lb0/tv_poehali_hd/index.m3u8
 #EXTINF:-1 tvg-id="19122" group-title="Познавательное", OCEAN-TV
 http://iptv.cyxym.net/lb0/tv_oceantv_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Планета HD
@@ -418,7 +421,7 @@ http://iptv.cyxym.net/lb0/tv_mezzo_sd/index.m3u8
 #EXTINF:-1 tvg-id="14103" group-title="Музыка", Mezzo Live hd
 http://iptv.cyxym.net/lb0/tv_mezzo_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="10202" group-title="Музыка", Европа Плюс ТВ
-http://iptv.cyxym.net/lb0/tv_europa_plus_tv_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_europa_plus_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="1809" group-title="Музыка", MCM Top
 http://iptv.cyxym.net/lb0/tv_mcm_top_sd/index.m3u8
 #EXTINF:-1 tvg-id="16106" group-title="Музыка", МУЗ
@@ -472,6 +475,15 @@ http://195.9.195.3:8080/hls/204709.m3u8
 http://iptv.cyxym.net/lb0/tv_komediynoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее hd
 http://iptv.cyxym.net/lb0/tv_shokiruushee_hd/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Кино", Фантастика HD
+http://195.9.195.3:8080/hls/187241.m3u8
+#EXTINF:-1 tvg-id="kinowood" group-title="Кино", Kinowood HD
+http://158.101.194.132:8888/channel/22542443/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+
+#EXTINF:-1 tvg-id="backustv" group-title="Кино",BACKUS TV HD
+http://moobl.ru/hls/Backustv.m3u8
+#EXTINF:-1 tvg-id="backustv-horror" group-title="Кино",BACKUSTV Страшное HD
+http://moobl.ru/hls/Backustv_horror.m3u8
 #EXTINF:-1 tvg-id="10308" group-title="Кино", Камеди HD
 http://iptv.cyxym.net/lb0/tv_comedy_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Ultra HD Cinema
