@@ -3,8 +3,6 @@
 
 
 
-
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -77,6 +75,8 @@ http://iptv.cyxym.net/lb0/tv_zvezda_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_zvezda_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="10106" group-title="Эфирные", Соловьёв Live
 http://iptv.cyxym.net/lb0/tv_solovev_live_sd/index.m3u8
+#EXTINF:-1 group-title="Эфирные", Перец International
+http://iptv.cyxym.net/lb0/tv_perec_international_sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Мир
 http://iptv.cyxym.net/lb0/tv_mir_sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Мир HD
@@ -223,7 +223,7 @@ http://iptv.cyxym.net/lb0/tv_terra_hd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", Big planet HD
 http://iptv.cyxym.net/lb0/tv_big_planet_hd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", NASA TV UHD
-http://iptv.cyxym.net/lb0/tv_nasa_tv_uhd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_nasa_tv_4k_uhd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Galaxy
 http://178.163.16.166:4022/udp/234.0.0.111:2000
 #EXTINF:-1 group-title="Познавательное", Russian Extreme Ultra
@@ -312,6 +312,11 @@ http://iptv.cyxym.net/lb0/tv_my_planet_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_nauka_2_0_sd/index.m3u8
 #EXTINF:-1 tvg-id="1811" group-title="Познавательное", Outdoor Channel
 http://iptv.cyxym.net/lb0/tv_outdoor_channel_sd/index.m3u8
+#EXTINF:-1 group-title="Познавательное", HDL
+http://iptv.cyxym.net/lb0/tv_hdl_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательное", Travelxp 4K
+http://iptv.cyxym.net/lb0/tv_travelxp_4k_uhd/index.m3u8
+
 #EXTINF:-1 tvg-id="1811" group-title="Познавательное", Телеканал Да-Винчи
 http://iptv.cyxym.net/lb0/tv_telekanal_da_vinchi_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", H2 HD
