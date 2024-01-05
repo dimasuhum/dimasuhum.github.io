@@ -530,8 +530,8 @@ http://iptv.cyxym.net/lb0/tv_russkiy_roman_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_russian_bestseller_sd/index.m3u8
 #EXTINF:-1 tvg-id="10806" group-title="Кино", ЕвроКино
 http://iptv.cyxym.net/lb0/tv_eurokino_hd/index.m3u8
-#EXTINF:-1 tvg-id="20104" group-title="Кино", Serial UHD
-http://iptv.cyxym.net/lb0/tv_serial_uhd/index.m3u8
+#EXTINF:-1 tvg-id="20104" group-title="Кино", Сериал UHD
+http://iptv.cyxym.net/lb0/tv_serial_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Start Air HD
 http://iptv.cyxym.net/lb0/tv_start_air_hd/index.m3u8
 
