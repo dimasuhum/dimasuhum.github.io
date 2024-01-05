@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -101,7 +105,7 @@ http://iptv.cyxym.net/lb0/tv_tvoy_dom_hd/index.m3u8
 #EXTINF:-1 tvg-id="10307" group-title="Новости", Россия 24
 http://iptv.cyxym.net/lb0/tv_russia_24_sd/index.m3u8
 #EXTINF:-1 tvg-id="11105" group-title="Новости", РБК-ТВ
-http://iptv.cyxym.net/lb0/tv_rbktv_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_rbk_hd/index.m3u8
 #EXTINF:-1 tvg-id="16107" group-title="Новости", Lifenews
 http://iptv.cyxym.net/lb0/tv_life_news_sd/index.m3u8
 #EXTINF:-1 tvg-id="705" group-title="Новости", Bloomberg
@@ -115,9 +119,9 @@ http://iptv.cyxym.net/lb0/tv_cnn_international_sd/index.m3u8
 #EXTINF:-1 tvg-id="707" group-title="Новости", FRANCE 24
 http://iptv.cyxym.net/lb0/tv_france_24_hd/index.m3u8
 #EXTINF:-1 tvg-id="31004" group-title="Новости", МИР
-http://iptv.cyxym.net/lb0/tv_mir_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_mir_hd/index.m3u8
 #EXTINF:-1 tvg-id="31004" group-title="Новости", МИР 24
-http://iptv.cyxym.net/lb0/tv_mir_24_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_mir_24_hd/index.m3u8
 #EXTINF:-1 tvg-id="21111" group-title="Новости", NHK WORLD TV
 http://iptv.cyxym.net/lb0/tv_nhk_world_japan_sd/index.m3u8
 #EXTINF:-1 tvg-id="10805" group-title="Новости", CGTN
@@ -612,8 +616,8 @@ http://iptv.cyxym.net/lb0/tv_star_sinema_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_star_family_hd/index.m3u8
 #EXTINF:-1 tvg-id="1505" group-title="Кино", CBS Drama
 http://iptv.cyxym.net/lb0/tv_cbs_drama_hd/index.m3u8
-#EXTINF:-1 tvg-id="1508" group-title="Кино", FOX hd
-http://iptv.cyxym.net/lb0/tv_fox_hd/index.m3u8
+#EXTINF:-1 tvg-id="1508" group-title="Кино", FOX
+http://iptv.cyxym.net/lb0/tv_fox_sd/index.m3u8
 #EXTINF:-1 tvg-id="10813" group-title="Кино", Fox Life
 http://iptv.cyxym.net/lb0/tv_fox_life_hd/index.m3u8
 #EXTINF:-1 tvg-id="21107" group-title="Кино", AMEDIA
@@ -637,7 +641,7 @@ http://iptv.cyxym.net/lb0/tv_india_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", ZEE TV
 http://iptv.cyxym.net/lb0/tv_zee_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Техно 24
-http://iptv.cyxym.net/lb0/tv_t24_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_tehno_24_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", НТВ‑ХИТ
 http://iptv.cyxym.net/lb0/tv_ntv_hit_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", НТВ Сериал
