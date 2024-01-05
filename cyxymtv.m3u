@@ -2,6 +2,9 @@
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -360,8 +363,8 @@ http://iptv.cyxym.net/lb0/tv_love_nature_4k_uhd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_mtv_hd/index.m3u8
 #EXTINF:-1 tvg-id="20502" group-title="Музыка", MTV 90s
 http://iptv.cyxym.net/lb0/tv_mtv_90s_sd/index.m3u8
-#EXTINF:-1 tvg-id="20502" group-title="Музыка", MTV 00s
-http://iptv.cyxym.net/lb0/tv_mtv_00s_sd/index.m3u8
+#EXTINF:-1 tvg-id="20507" group-title="Музыка", MTV 00s
+http://iptv.cyxym.net/lb0/tv_vh1_european_sd/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Live International HD
 http://iptv.cyxym.net/lb0/tv_mtv_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="20618" group-title="Музыка", MTV Dance
@@ -372,6 +375,13 @@ http://iptv.cyxym.net/lb0/tv_mtv_hits_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_mtv_rocks_sd/index.m3u8
 #EXTINF:-1 group-title="Музыка", Russian Music HD
 http://iptv.cyxym.net/lb0/tv_russian_music_hd/index.m3u8
+#EXTINF:-1 tvg-id="508" group-title="Музыка", Song Tv HD Russia
+http://iptv.cyxym.net/lb0/tv_song_tv_hd_russia_hd/index.m3u8
+#EXTINF:-1 tvg-id="508" group-title="Музыка", AIVA HD
+http://iptv.cyxym.net/lb0/tv_aiva_hd/index.m3u8
+#EXTINF:-1 tvg-id="508" group-title="Музыка", Music Box Gold
+http://iptv.cyxym.net/lb0/tv_music_box_gold_sd/index.m3u8
+
 #EXTINF:-1 group-title="Музыка", 1HD Music Television
 http://iptv.cyxym.net/lb0/tv_1hd_music_television_hd/index.m3u8
 #EXTINF:-1 group-title="Музыка", Шансон‑ТВ
@@ -408,8 +418,7 @@ http://iptv.cyxym.net/lb0/tv_europa_plus_tv_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_mcm_top_sd/index.m3u8
 #EXTINF:-1 tvg-id="16106" group-title="Музыка", МУЗ
 http://iptv.cyxym.net/lb0/tv_muz_sd/index.m3u8
-#EXTINF:-1 tvg-id="20507" group-title="Музыка", VH1 European
-http://iptv.cyxym.net/lb0/tv_vh1_european_sd/index.m3u8
+
 #EXTINF:-1 tvg-id="20612" group-title="Музыка", VH1 Classic
 http://iptv.cyxym.net/lb0/tv_vh1_classic_sd/index.m3u8
 #EXTINF:-1 tvg-id="508" group-title="Музыка", Музыка Первого
@@ -681,7 +690,7 @@ http://iptv.cyxym.net/lb0/tv_o_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", СТС Kids HD
 http://iptv.cyxym.net/lb0/tv_sts_kids_hd/index.m3u8
 #EXTINF:-1 tvg-id="20614" group-title="Детям", Cartoon Network
-http://iptv.cyxym.net/lb0/tv_cartoon_network_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_cartoon_network_sd/index.m3u8
 #EXTINF:-1 tvg-id="703" group-title="Детям", Детский мир/Телеклуб
 http://iptv.cyxym.net/lb0/tv_detskiy_mir_teleclub_sd/index.m3u8
 #EXTINF:-1 tvg-id="703" group-title="Детям", Мульт
@@ -689,7 +698,9 @@ http://iptv.cyxym.net/lb0/tv_mult_sd/index.m3u8
 #EXTINF:-1 tvg-id="13108" group-title="Детям", Disney
 http://iptv.cyxym.net/lb0/tv_kanal_disney_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Уникум
-http://iptv.cyxym.net/lb0/tv_unikum_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_unikum_hd/index.m3u8
+#EXTINF:-1 group-title="Детям", Супергерои
+http://iptv.cyxym.net/lb0/tv_super_geroi_hd/index.m3u8
 #EXTINF:-1 tvg-id="603" group-title="Детям", Карусель
 http://iptv.cyxym.net/lb0/tv_karusel_sd/index.m3u8
 #EXTINF:-1 tvg-id="716" group-title="Детям", Радость моя
@@ -707,7 +718,7 @@ http://iptv.cyxym.net/lb0/tv_nick_jr_sd/index.m3u8
 #EXTINF:-1 tvg-id="708" group-title="Детям", JimJam
 http://iptv.cyxym.net/lb0/tv_jimjam_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", В гостях у сказки
-http://iptv.cyxym.net/lb0/tv_v_gostyah_u_skazki_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_v_gostyah_u_skazki_hd/index.m3u8
 #EXTINF:-1 group-title="Детям", Boomerang
 http://iptv.cyxym.net/lb0/tv_boomerang_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Мультимузыка
