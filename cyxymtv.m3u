@@ -5,7 +5,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -106,10 +105,12 @@ http://iptv.cyxym.net/lb0/tv_tvoy_dom_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_russia_24_sd/index.m3u8
 #EXTINF:-1 tvg-id="11105" group-title="Новости", РБК-ТВ
 http://iptv.cyxym.net/lb0/tv_rbk_hd/index.m3u8
-#EXTINF:-1 tvg-id="16107" group-title="Новости", Lifenews
-http://iptv.cyxym.net/lb0/tv_life_news_sd/index.m3u8
-#EXTINF:-1 tvg-id="705" group-title="Новости", Bloomberg
-http://iptv.cyxym.net/lb0/tv_bloombergtv_sd/index.m3u8
+#EXTINF:-1 tvg-id="16107" group-title="Новости", Звезда Плюс HD
+http://iptv.cyxym.net/lb0/tv_zvezda_plus_hd/index.m3u8
+#EXTINF:-1 tvg-id="705" group-title="Новости", 78 HD
+http://iptv.cyxym.net/lb0/tv_78_hd/index.m3u8
+#EXTINF:-1 tvg-id="16107" group-title="Новости", Центральное телевидение
+http://iptv.cyxym.net/lb0/tv_ctv_sd/index.m3u8
 #EXTINF:-1 tvg-id="704" group-title="Новости", BBC World News
 http://iptv.cyxym.net/lb0/tv_bbc_world_news_sd/index.m3u8
 #EXTINF:-1 tvg-id="19114" group-title="Новости", Euronews
@@ -287,6 +288,8 @@ http://iptv.cyxym.net/lb0/tv_spas_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_domashniye_zhivotniye_sd/index.m3u8
 #EXTINF:-1 tvg-id="1503" group-title="Познавательное", Охота и рыбалка
 http://iptv.cyxym.net/lb0/tv_ohota_i_ribalka_sd/index.m3u8
+#EXTINF:-1 group-title="Познавательное", Рыболов
+http://iptv.cyxym.net/lb0/tv_ribolov_sd/index.m3u8
 #EXTINF:-1 tvg-id="1501" group-title="Познавательное", БОБЁР
 http://iptv.cyxym.net/lb0/tv_bober_sd/index.m3u8
 #EXTINF:-1 tvg-id="1506" group-title="Познавательное", CBS Reality
@@ -340,6 +343,8 @@ http://iptv.cyxym.net/lb0/tv_morskoy_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_dikaya_ohota_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикая рыбалка HD
 http://iptv.cyxym.net/lb0/tv_dikaya_ribalka_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательное", Охотник и рыболов HD
+http://iptv.cyxym.net/lb0/tv_ohotnik_i_rybolov_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Оружие
 http://iptv.cyxym.net/lb0/tv_oruzhie_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикий
