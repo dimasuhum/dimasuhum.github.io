@@ -1,8 +1,29 @@
 ﻿#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz,https://teleguide.info/download/new3/xmltv.xml.gz,https://teleguide.info/download/old/xmltv.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://epg.it999.ru/edem.xml.gz" m3uautoload=1 cache=500 deinterlace=0 aspect-ratio=16:9
 
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BABY Time
+http://iptv.cyxym.net/lb0/tv_bridgetv_babytime_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BABY Time
+http://iptv.cyxym.net/lb0/tv_bridgetv_babytime_sd/index.m3u8
 
 
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BABY Time
+http://iptv.cyxym.net/lb0/tv_bridgetv_baby_time_hd/index.m3u8
 
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BABY Time
+http://iptv.cyxym.net/lb0/tv_bridgetv_baby_time_sd/index.m3u8
+
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BABY Time
+http://iptv.cyxym.net/lb0/tv_baby_time_hd/index.m3u8
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BABY Time
+http://iptv.cyxym.net/lb0/tv_baby_time_sd/index.m3u8
+
+
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BABY Time
+http://iptv.cyxym.net/lb0/tv_babytime_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BABY Time
+http://iptv.cyxym.net/lb0/tv_babytime_sd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
@@ -89,8 +110,7 @@ http://iptv.cyxym.net/lb0/tv_russia_k_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_che_sd/index.m3u8
 #EXTINF:-1 tvg-id="16105" group-title="Эфирные", Ю
 http://iptv.cyxym.net/lb0/tv_utv_sd/index.m3u8
-#EXTINF:-1 group-title="Эфирные", СТРК СОЧИ
-http://iptv.cyxym.net/lb0/tv_strk_sochi_sd/index.m3u8
+
 #EXTINF:-1 group-title="Эфирные", Известия
 http://iptv.cyxym.net/lb0/tv_izvestiya_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Ростов-Папа HD
@@ -217,7 +237,7 @@ http://iptv.cyxym.net/lb0/tv_eurosport_gold_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мир Баскетбола
 http://iptv.cyxym.net/lb0/tv_mir_basketbola_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", NBA TV
-http://iptv.cyxym.net/lb0/tv_nba_tv_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_nba_sd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт
 http://iptv.cyxym.net/lb0/tv_start_sd/index.m3u8
 #EXTINF:-1 tvg-id="14104" group-title="Познавательное", Animal Planet hd
@@ -256,6 +276,10 @@ http://iptv.cyxym.net/lb0/tv_viasat_explorer_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_viasat_nature_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Viasat Nature HD/Viasat History HD
 http://iptv.cyxym.net/lb0/tv_viasat_nature_hd_history_hd/index.m3u8
+#EXTINF:-1 tvg-id="20615" group-title="Познавательное", Моторспорт ТВ HD
+http://iptv.cyxym.net/lb0/tv_motorsport_hd/index.m3u8
+#EXTINF:-1 tvg-id="20615" group-title="Познавательное", Телепутешествия
+http://iptv.cyxym.net/lb0/tv_teleputeshestviya_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Доктор
 http://iptv.cyxym.net/lb0/tv_doctor_hd/index.m3u8
 #EXTINF:-1 tvg-id="31002" group-title="Познавательное", История
@@ -381,6 +405,8 @@ http://iptv.cyxym.net/lb0/tv_mtv_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_mtv_90s_sd/index.m3u8
 #EXTINF:-1 tvg-id="20507" group-title="Музыка", MTV 00s
 http://iptv.cyxym.net/lb0/tv_vh1_european_sd/index.m3u8
+#EXTINF:-1 tvg-id="20502" group-title="Музыка", Club MTV
+http://iptv.cyxym.net/lb0/tv_club_mtv_sd/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Live International HD
 http://iptv.cyxym.net/lb0/tv_mtv_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="20618" group-title="Музыка", MTV Dance
@@ -406,16 +432,18 @@ http://iptv.cyxym.net/lb0/tv_shanson_tv_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_zhara_hd/index.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ MUSIC
 http://iptv.cyxym.net/lb0/tv_tnt_muzic_sd/index.m3u8
-#EXTINF:-1 tvg-id="10812" group-title="Музыка", BRIDGE TV Dance
-http://iptv.cyxym.net/lb0/tv_dancetv_sd/index.m3u8
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BRIDGE TV Classic
+http://iptv.cyxym.net/lb0/tv_bridgetv_classic_sd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Музыка", BRIDGE TV
 http://iptv.cyxym.net/lb0/tv_bridgetv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Музыка", BRIDGE TV Deluxe
-http://iptv.cyxym.net/lb0/tv_bridgetv_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_bridgetv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Музыка", BRIDGE TV Русский Хит
 http://iptv.cyxym.net/lb0/tv_bridgetv_russkiy_hit_sd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Музыка", BRIDGE TV Шлягер
 http://iptv.cyxym.net/lb0/tv_bridgetv_shlager_sd/index.m3u8
+#EXTINF:-1 tvg-id="10812" group-title="Музыка", BRIDGE TV Rock
+http://iptv.cyxym.net/lb0/tv_bridgetv_rock_sd/index.m3u8
 #EXTINF:-1 tvg-id="401" group-title="Музыка", RU.TV
 http://iptv.cyxym.net/lb0/tv_rutv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11112" group-title="Музыка", О2ТВ
@@ -762,9 +790,10 @@ http://iptv.cyxym.net/lb0/tv_malish_sd/index.m3u8
 #EXTINF:-1 tvg-id="10303" group-title="Другое", ПЯТНИЦА
 http://iptv.cyxym.net/lb0/tv_piatnitsa_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", Сочи 24
-http://iptv.cyxym.net/lb0/tv_sochi_24_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_sochi_24_hd/index.m3u8
 #EXTINF:-1 group-title="Другое", Сочи live HD
 http://iptv.cyxym.net/lb0/tv_sochi_live_hd/index.m3u8
+
 #EXTINF:-1 group-title="Другое", НТВ Право
 http://iptv.cyxym.net/lb0/tv_ntv_pravo_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", НТВ Стиль
