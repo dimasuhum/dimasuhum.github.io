@@ -240,7 +240,7 @@ http://iptv.cyxym.net/lb0/tv_hd_life_hd/index.m3u8
 #EXTINF:-1 tvg-id="12105" group-title="Познавательное", Discovery Channel hd
 http://iptv.cyxym.net/lb0/tv_discovery_channel_hd/index.m3u8
 #EXTINF:-1 tvg-id="20616" group-title="Познавательное", Discovery Science
-http://iptv.cyxym.net/lb0/tv_discovery_science_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_discovery_science_hd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Познавательное", ID Investigation Discovery HD
 http://iptv.cyxym.net/lb0/tv_id_investigation_discovery_hd/index.m3u8
 #EXTINF:-1 tvg-id="14101" group-title="Познавательное", Nat Geo Wild hd
@@ -256,7 +256,7 @@ http://iptv.cyxym.net/lb0/tv_viasat_nature_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Viasat Nature HD/Viasat History HD
 http://iptv.cyxym.net/lb0/tv_viasat_nature_hd_history_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Доктор
-http://iptv.cyxym.net/lb0/tv_doctor_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_doctor_hd/index.m3u8
 #EXTINF:-1 tvg-id="31002" group-title="Познавательное", История
 http://iptv.cyxym.net/lb0/tv_istoriya_sd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", History
@@ -264,9 +264,9 @@ http://iptv.cyxym.net/lb0/tv_history_hd/index.m3u8
 #EXTINF:-1 tvg-id="26006" group-title="Познавательное", Travel Channel hd
 http://iptv.cyxym.net/lb0/tv_travel_channel_hd/index.m3u8
 #EXTINF:-1 tvg-id="26006" group-title="Познавательное", Travel and Adventure
-http://iptv.cyxym.net/lb0/tv_travel_and_adventure_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_travel_and_adventure_hd/index.m3u8
 #EXTINF:-1 tvg-id="26005" group-title="Познавательное", TLC hd
-http://iptv.cyxym.net/lb0/tv_tlc_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_tlc_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Fine Living
 http://iptv.cyxym.net/lb0/tv_fine_living_sd/index.m3u8
 #EXTINF:-1 tvg-id="13109" group-title="Познавательное", World Fashion
@@ -294,7 +294,7 @@ http://iptv.cyxym.net/lb0/tv_bober_sd/index.m3u8
 #EXTINF:-1 tvg-id="1506" group-title="Познавательное", CBS Reality
 http://iptv.cyxym.net/lb0/tv_cbs_reality_sd/index.m3u8
 #EXTINF:-1 tvg-id="10201" group-title="Познавательное", 365 дней ТВ
-http://iptv.cyxym.net/lb0/tv_365_dney_tv_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_365_dney_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Еда Премиум
 http://iptv.cyxym.net/lb0/tv_eda_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="10209" group-title="Познавательное", Кухня ТВ
@@ -304,19 +304,19 @@ http://iptv.cyxym.net/lb0/tv_luxury_hd/index.m3u8
 #EXTINF:-1 tvg-id="10209" group-title="Познавательное", Food Network
 http://iptv.cyxym.net/lb0/tv_food_network_hd/index.m3u8
 #EXTINF:-1 tvg-id="10212" group-title="Познавательное", Авто Плюс
-http://iptv.cyxym.net/lb0/tv_avto_plus_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_avto_plus_hd/index.m3u8
 #EXTINF:-1 tvg-id="702" group-title="Познавательное", ABTO24
-http://iptv.cyxym.net/lb0/tv_avto24_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_avto24_hd/index.m3u8
 #EXTINF:-1 tvg-id="1816" group-title="Познавательное", RTG TV
 http://iptv.cyxym.net/lb0/tv_rtgtv_sd/index.m3u8
 #EXTINF:-1 tvg-id="1816" group-title="Познавательное", RTG hd
 http://iptv.cyxym.net/lb0/tv_rtg_hd/index.m3u8
 #EXTINF:-1 tvg-id="1805" group-title="Познавательное", Моя Планета
-http://iptv.cyxym.net/lb0/tv_my_planet_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_my_planet_hd/index.m3u8
 #EXTINF:-1 tvg-id="1806" group-title="Познавательное", Наука 2.0
 http://iptv.cyxym.net/lb0/tv_nauka_2_0_sd/index.m3u8
 #EXTINF:-1 tvg-id="1811" group-title="Познавательное", Outdoor Channel
-http://iptv.cyxym.net/lb0/tv_outdoor_channel_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_outdoor_channel_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", HDL
 http://iptv.cyxym.net/lb0/tv_hdl_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Travelxp 4K
@@ -327,9 +327,9 @@ http://iptv.cyxym.net/lb0/tv_telekanal_da_vinchi_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", H2 HD
 http://iptv.cyxym.net/lb0/tv_h2_hd/index.m3u8
 #EXTINF:-1 tvg-id="19122" group-title="Познавательное", OCEAN-TV
-http://iptv.cyxym.net/lb0/tv_oceantv_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_oceantv_hd/index.m3u8
 #EXTINF:-1 tvg-id="31003" group-title="Познавательное", Fine Living
-http://iptv.cyxym.net/lb0/tv_fine_living_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_fine_living_hd/index.m3u8
 #EXTINF:-1 tvg-id="19120" group-title="Познавательное", Мама
 http://iptv.cyxym.net/lb0/tv_mama_sd/index.m3u8
 #EXTINF:-1 tvg-id="20615" group-title="Познавательное", DTX
@@ -337,7 +337,7 @@ http://iptv.cyxym.net/lb0/tv_dtx_hd/index.m3u8
 #EXTINF:-1 tvg-id="20615" group-title="Познавательное", Психология21
 http://iptv.cyxym.net/lb0/tv_psihologia21_sd/index.m3u8
 #EXTINF:-1 tvg-id="20615" group-title="Познавательное", Морской
-http://iptv.cyxym.net/lb0/tv_morskoy_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_morskoy_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикая охота HD
 http://iptv.cyxym.net/lb0/tv_dikaya_ohota_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикая рыбалка HD
@@ -353,7 +353,7 @@ http://iptv.cyxym.net/lb0/tv_zoopark_sd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", В мире животных
 http://iptv.cyxym.net/lb0/tv_v_mire_zhivotnyh_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Точка отрыва
-http://iptv.cyxym.net/lb0/tv_tochka_otryva_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_tochka_otryva_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Диалоги о рыбалке
 http://iptv.cyxym.net/lb0/tv_dialogi_o_rybalke_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", INSIGHT UHD
@@ -363,7 +363,7 @@ http://iptv.cyxym.net/lb0/tv_perviy_vegetarianskiy_sd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", Поехали
 http://iptv.cyxym.net/lb0/tv_poehali_hd/index.m3u8
 #EXTINF:-1 tvg-id="19122" group-title="Познавательное", OCEAN-TV
-http://iptv.cyxym.net/lb0/tv_oceantv_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_oceantv_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Планета HD
 http://iptv.cyxym.net/lb0/tv_planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Здоровье
