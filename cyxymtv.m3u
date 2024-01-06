@@ -4,7 +4,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -92,7 +91,7 @@ http://iptv.cyxym.net/lb0/tv_utv_sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", СТРК СОЧИ
 http://iptv.cyxym.net/lb0/tv_strk_sochi_sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Известия
-http://iptv.cyxym.net/lb0/tv_izvestiya_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_izvestiya_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Ростов-Папа HD
 http://iptv.cyxym.net/lb0/tv_rostov_papa_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Вместе-РФ
@@ -110,7 +109,7 @@ http://iptv.cyxym.net/lb0/tv_zvezda_plus_hd/index.m3u8
 #EXTINF:-1 tvg-id="705" group-title="Новости", 78 HD
 http://iptv.cyxym.net/lb0/tv_78_hd/index.m3u8
 #EXTINF:-1 tvg-id="16107" group-title="Новости", Центральное телевидение
-http://iptv.cyxym.net/lb0/tv_ctv_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_centralnoe_televidenie_sd/index.m3u8
 #EXTINF:-1 tvg-id="704" group-title="Новости", BBC World News
 http://iptv.cyxym.net/lb0/tv_bbc_world_news_sd/index.m3u8
 #EXTINF:-1 tvg-id="19114" group-title="Новости", Euronews
