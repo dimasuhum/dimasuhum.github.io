@@ -4,6 +4,7 @@
 
 
 
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -321,13 +322,13 @@ http://iptv.cyxym.net/lb0/tv_outdoor_channel_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_hdl_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Travelxp 4K
 http://iptv.cyxym.net/lb0/tv_travelxp_4k_uhd/index.m3u8
-
+#EXTINF:-1 tvg-id="19122" group-title="Познавательное", OCEAN-TV
+http://iptv.cyxym.net/lb0/tv_ocean_hd/index.m3u8
 #EXTINF:-1 tvg-id="1811" group-title="Познавательное", Телеканал Да-Винчи
 http://iptv.cyxym.net/lb0/tv_telekanal_da_vinchi_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", H2 HD
 http://iptv.cyxym.net/lb0/tv_h2_hd/index.m3u8
-#EXTINF:-1 tvg-id="19122" group-title="Познавательное", OCEAN-TV
-http://iptv.cyxym.net/lb0/tv_oceantv_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="31003" group-title="Познавательное", Fine Living
 http://iptv.cyxym.net/lb0/tv_fine_living_hd/index.m3u8
 #EXTINF:-1 tvg-id="19120" group-title="Познавательное", Мама
@@ -336,8 +337,8 @@ http://iptv.cyxym.net/lb0/tv_mama_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_dtx_hd/index.m3u8
 #EXTINF:-1 tvg-id="20615" group-title="Познавательное", Психология21
 http://iptv.cyxym.net/lb0/tv_psihologia21_sd/index.m3u8
-#EXTINF:-1 tvg-id="20615" group-title="Познавательное", Морской
-http://iptv.cyxym.net/lb0/tv_morskoy_hd/index.m3u8
+#EXTINF:-1 tvg-id="20615" group-title="Познавательное", Моя стихия
+http://iptv.cyxym.net/lb0/tv_moya_stihiya_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикая охота HD
 http://iptv.cyxym.net/lb0/tv_dikaya_ohota_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикая рыбалка HD
@@ -362,8 +363,7 @@ http://iptv.cyxym.net/lb0/tv_insight_uhd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_perviy_vegetarianskiy_sd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", Поехали
 http://iptv.cyxym.net/lb0/tv_poehali_hd/index.m3u8
-#EXTINF:-1 tvg-id="19122" group-title="Познавательное", OCEAN-TV
-http://iptv.cyxym.net/lb0/tv_oceantv_hd/index.m3u8
+
 #EXTINF:-1 group-title="Познавательное", Планета HD
 http://iptv.cyxym.net/lb0/tv_planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Здоровье
@@ -514,6 +514,8 @@ http://iptv.cyxym.net/lb0/tv_kinoseriya_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_tv_1000_hd/index.m3u8
 #EXTINF:-1 tvg-id="19103" group-title="Кино", TV 1000 Action
 http://iptv.cyxym.net/lb0/tv_tv_1000_action_hd/index.m3u8
+#EXTINF:-1 tvg-id="10212" group-title="Кино", Kinoliving
+http://iptv.cyxym.net/lb0/tv_avto_plus_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", SHOT TV
 http://iptv.cyxym.net/lb0/tv_shot_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="17102" group-title="Кино", Vip Comedy hd
