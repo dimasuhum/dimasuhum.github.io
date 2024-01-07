@@ -600,9 +600,6 @@ http://iptv.cyxym.net/lb0/tv_nash_kinopokaz_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_kineko_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Trash HD
 http://iptv.cyxym.net/lb0/tv_trash_hd/index.m3u8
-#EXTINF:-1 tvg-id="scream" group-title="Кино",Scream
-http://2.56.240.223:2021/channel/2c7a264a/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
-
 #EXTINF:-1 group-title="Кино", Романтичное HD
 http://iptv.cyxym.net/lb0/tv_romantichnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Flixsnip HD
