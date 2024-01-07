@@ -2,6 +2,7 @@
 
 
 
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -222,6 +223,8 @@ http://iptv.cyxym.net/lb0/tv_animal_planet_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_terra_hd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", Big planet HD
 http://iptv.cyxym.net/lb0/tv_big_planet_hd/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Познавательные", Глазами Туриста 4k
+http://iptv.cyxym.net/lb0/tv_glazamiturista_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", NASA TV UHD
 http://iptv.cyxym.net/lb0/tv_nasa_tv_4k_uhd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Galaxy
