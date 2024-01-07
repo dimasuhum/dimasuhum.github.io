@@ -3,6 +3,9 @@
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -198,7 +201,7 @@ http://iptv.cyxym.net/lb0/tv_ufc_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Live
 http://iptv.cyxym.net/lb0/tv_start_live_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол HD
-http://iptv.cyxym.net/lb0/tv_footbal_hd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_football_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 HD
 http://iptv.cyxym.net/lb0/tv_belarus_5_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports ukraina
@@ -227,6 +230,8 @@ http://iptv.cyxym.net/lb0/tv_big_planet_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_glazamiturista_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", NASA TV UHD
 http://iptv.cyxym.net/lb0/tv_nasa_tv_4k_uhd/index.m3u8
+#EXTINF:-1 tvg-id="17105" group-title="Познавательное", Quadro 4k
+http://iptv.cyxym.net/lb0/tv_quadro_4k_uhd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Galaxy
 http://178.163.16.166:4022/udp/234.0.0.111:2000
 #EXTINF:-1 group-title="Познавательное", Russian Extreme Ultra
