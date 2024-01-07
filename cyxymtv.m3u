@@ -2,8 +2,6 @@
 
 
 
-
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -426,7 +424,7 @@ http://iptv.cyxym.net/lb0/tv_bridgetv_russkiy_hit_sd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Музыка", BRIDGE TV Шлягер
 http://iptv.cyxym.net/lb0/tv_bridgetv_shlager_sd/index.m3u8
 #EXTINF:-1 tvg-id="10812" group-title="Музыка", BRIDGE TV Rock
-http://iptv.cyxym.net/lb0/tv_bridgetv_rock_sd/index.m3u8
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 #EXTINF:-1 tvg-id="401" group-title="Музыка", RU.TV
 http://iptv.cyxym.net/lb0/tv_rutv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11112" group-title="Музыка", О2ТВ
@@ -692,12 +690,13 @@ http://moobl.ru/hls/Melodramy_hd.m3u8
 http://iptv.cyxym.net/lb0/tv_feniks_plus_kino_sd/index.m3u8
 #EXTINF:-1 tvg-id="719" group-title="Кино", Мир сериала
 http://iptv.cyxym.net/lb0/tv_mir_seriala_sd/index.m3u8
-#EXTINF:-1 tvg-id="710" group-title="Кино", Sony Chanel HD
-http://iptv.cyxym.net/lb0/tv_sony_channel_hd/index.m3u8
+#EXTINF:-1 tvg-id="710" group-title="Кино", .Black HD
+http://moobl.ru/hls/Black_hd.m3u8
+#EXTINF:-1 tvg-id="712" group-title="Кино", .Red HD
+http://moobl.ru/hls/Red.m3u8
 #EXTINF:-1 tvg-id="711" group-title="Кино", Sony Sci-fi
 http://iptv.cyxym.net/lb0/tv_sony_scifi_hd/index.m3u8
-#EXTINF:-1 tvg-id="712" group-title="Кино", Sony Turbo
-http://iptv.cyxym.net/lb0/tv_sony_turbo_hd/index.m3u8
+
 #EXTINF:-1 group-title="Кино", Yerkir Media
 http://iptv.cyxym.net/lb0/tv_erkir_media_sd/index.m3u8
 #EXTINF:-1 tvg-id="20617" group-title="Кино", AMC
@@ -714,6 +713,10 @@ http://iptv.cyxym.net/lb0/tv_arsenal_tv_hd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_retro_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Красная линия
 http://iptv.cyxym.net/lb0/tv_krasnaya_liniya_sd/index.m3u8
+#EXTINF:-1 tvg-id="710" group-title="Кино", Sony Chanel HD
+http://iptv.cyxym.net/lb0/tv_sony_channel_hd/index.m3u8
+#EXTINF:-1 tvg-id="712" group-title="Кино", Sony Turbo
+http://iptv.cyxym.net/lb0/tv_sony_turbo_hd/index.m3u8
 
 #EXTINF:-1 group-title="Детям", Киносемья
 http://iptv.cyxym.net/lb0/tv_kinosemiya_sd/index.m3u8
@@ -721,6 +724,8 @@ http://iptv.cyxym.net/lb0/tv_kinosemiya_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_family_jam_hd/index.m3u8
 #EXTINF:-1 group-title="Детям", Рыжий
 http://iptv.cyxym.net/lb0/tv_ryzhiy_sd/index.m3u8
+#EXTINF:-1 group-title="Детям", Капитан Фантастика HD
+http://moobl.ru/hls/Kapitan_Fantastika_hd.m3u8
 #EXTINF:-1 group-title="Детям", Капитан Фантастика HD
 http://iptv.cyxym.net/lb0/tv_ginger_hd/index.m3u8
 #EXTINF:-1 group-title="Детям", O!
