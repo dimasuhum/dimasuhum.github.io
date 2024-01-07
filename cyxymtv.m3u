@@ -4,8 +4,6 @@
 
 
 
-
-
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -90,7 +88,8 @@ http://iptv.cyxym.net/lb0/tv_russia_k_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_che_sd/index.m3u8
 #EXTINF:-1 tvg-id="16105" group-title="Эфирные", Ю
 http://iptv.cyxym.net/lb0/tv_utv_sd/index.m3u8
-
+#EXTINF:-1 tvg-id="20105" group-title="Эфирные",  Ратник hd
+http://iptv.cyxym.net/lb0/tv_ratnik_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Известия
 http://iptv.cyxym.net/lb0/tv_izvestiya_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Ростов-Папа HD
@@ -758,6 +757,8 @@ http://iptv.cyxym.net/lb0/tv_nick_jr_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_jimjam_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", В гостях у сказки
 http://iptv.cyxym.net/lb0/tv_v_gostyah_u_skazki_hd/index.m3u8
+#EXTINF:-1 group-title="Детям", Мультиландия
+http://iptv.cyxym.net/lb0/tv_multilandiya_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Boomerang
 http://iptv.cyxym.net/lb0/tv_boomerang_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Мультимузыка
@@ -770,7 +771,8 @@ http://iptv.cyxym.net/lb0/tv_baby_tv_sd/index.m3u8
 http://iptv.cyxym.net/lb0/tv_telekanal_da_vinchi_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Малыш
 http://iptv.cyxym.net/lb0/tv_malish_sd/index.m3u8
-
+#EXTINF:-1 group-title="Детям", Смайлик ТВ
+http://iptv.cyxym.net/lb0/tv_smailik_hd/index.m3u8
 #EXTINF:-1 tvg-id="10303" group-title="Другое", ПЯТНИЦА
 http://iptv.cyxym.net/lb0/tv_piatnitsa_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", Сочи 24
