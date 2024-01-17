@@ -2,6 +2,7 @@
 
 
 
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
 http://iptv.cyxym.net/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
@@ -144,7 +145,7 @@ http://iptv.cyxym.net/lb0/tv_eurosport_1_hd/index.m3u8
 #EXTINF:-1 tvg-id="706" group-title="Спорт", Eurosport 2 hd
 http://iptv.cyxym.net/lb0/tv_eurosport_2_hd/index.m3u8
 #EXTINF:-1 tvg-id="19108" group-title="Спорт", БОКС ТВ
-http://iptv.cyxym.net/lb0/tv_boxtv_sd/index.m3u8
+http://iptv.cyxym.net/lb0/tv_boxtv_hd/index.m3u8
 #EXTINF:-1 tvg-id="12104" group-title="Спорт", Удар hd
 http://iptv.cyxym.net/lb0/tv_udar_hd/index.m3u8
 #EXTINF:-1 tvg-id="12104" group-title="Спорт", MMA TV HD
