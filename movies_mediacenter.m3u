@@ -25,22 +25,29 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/exfs.IMC.zip
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/seasonvar.IMC.zip
 #EXTINF:-1 ,xplay
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xplay.IMC.zip
+
+#EXTINF:-1 ,HDREZKA
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/rezka.IMC.zip
+
+#EXTINF:-1 ,HDREZKA(v2)
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/rezka2.IMC.zip
+
 #EXTINF:-1 ,Zoombi 
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/zoombi.IMC.zip
-#EXTINF:-1 ,IVI
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/ivi1.IMC.zip
+#EXTINF:-1 ,filmix
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/filmix.IMC.zip
+#EXTINF:-1 ,filmix(v2)
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/filmix45.IMC.zip
 #EXTINF:-1 ,Kinotazz 
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/kinotazz.IMC.zip
 #EXTINF:-1 ,Kinosimka
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/Kinosimka.IMC.zip
-#EXTINF:-1 ,HDREZKA
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/rezka.IMC.zip
-#EXTINF:-1 ,HDREZKA(v2)
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/rezka2.IMC.zip
-#EXTINF:-1 ,TV
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/onlinetv.IMC.zip
 #EXTINF:-1 ,Cyxymtv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
+
+#EXTINF:-1 ,onlinetv
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/onlinetv.IMC.zip
+
 #EXTINF:-1 ,CATCAST
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/CATCASTtv.IMC.zip
 #EXTINF:-1 ,BACKUSTV
@@ -49,5 +56,3 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/backustv.IMC.zip
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/TEVAS.IMC.zip
 #EXTINF:-1 ,gidonline
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/gidonline.IMC.zip
-#EXTINF:-1 ,filmix
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/filmix.IMC.zip
