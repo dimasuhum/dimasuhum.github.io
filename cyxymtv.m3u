@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz,https://zigfreed.ru/Z!/epg.xml" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
 #EXTINF:-1 tvg-logo="https://www.cyxym.net/content/images/elements/logo_blue.png"
 
