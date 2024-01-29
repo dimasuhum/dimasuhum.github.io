@@ -1,5 +1,7 @@
-﻿#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz,https://teleguide.info/download/new3/xmltv.xml.gz,https://teleguide.info/download/old/xmltv.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://epg.it999.ru/edem.xml.gz" m3uautoload=1 cache=500 deinterlace=0 aspect-ratio=16:9
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz" m3uautoload=1 cache=1000 aspect-ratio=16:9 deinterlace=1
 
+#EXTINF:-1 tvg-logo="https://www.cyxym.net/content/images/elements/logo_blue.png"
 
 
 
