@@ -55,11 +55,15 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/Kinosimka.IMC.zip
 #EXTINF:-1 ,Cyxymtv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
 
-#EXTINF:-1 ,Tv
+#EXTINF:-1 ,GedemTv
 https://edemtv.my1.ru/Gedem.m3u
 
 #EXTINF:-1 ,Tv
 https://gclnk.com/4Cxs7TIb
+
+#EXTINF:-1 ,Tv
+https://gclnk.com/EvXCbg9L
+
 
 #EXTINF:-1 ,Tv
 m3u+http://troya.today/pl/21/6481ea534cd35/playlist.m3u8
