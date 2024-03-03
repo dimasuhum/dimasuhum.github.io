@@ -31,7 +31,7 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/kinoprofi.IMC.zip
 
 
 
-#EXTINF:-1 ,xplay
+#EXTINF:-1 ,myseria
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/myseria.IMC.zip
 #EXTINF:-1 ,xplay
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xplay.IMC.zip
@@ -62,6 +62,8 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
 #EXTINF:-1 ,GedemTv
 https://edemtv.my1.ru/Gedem.m3u
 
+#EXTINF:-1 ,mitv
+m3u+http://mitv-cinema.ru/hls/testplaylist/testplaylist/playlist.m3u8
 
 #EXTINF:-1 ,Tv
 https://gclnk.com/Rwq48VRg
