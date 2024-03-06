@@ -62,8 +62,7 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
 #EXTINF:-1 ,GedemTv
 https://edemtv.my1.ru/Gedem.m3u
 
-#EXTINF:-1 ,mitv
-m3u+http://mitv-cinema.ru/hls/testplaylist/testplaylist/playlist.m3u8
+
 
 #EXTINF:-1 ,Tv
 https://gclnk.com/Rwq48VRg
