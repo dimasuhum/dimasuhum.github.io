@@ -79,6 +79,9 @@ m3u+http://troya.today/pl/3/64f5f24bf3e94/playlist.m3u8
 #EXTINF:-1 ,mediateka
 https://edemtv.my1.ru/mediateka.m3u
 
+#EXTINF:-1 ,tv18+
+m3u+http://185.182.193.203:25461/get.php?username=gaetan0062&password=46228739&type=m3u_plus
+
 #EXTINF:-1 ,onlinetv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/onlinetv.IMC.zip
 
