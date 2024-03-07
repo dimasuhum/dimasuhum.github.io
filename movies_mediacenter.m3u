@@ -76,6 +76,9 @@ m3u+http://troya.today/pl/21/6481ea534cd35/playlist.m3u8
 #EXTINF:-1 ,Tv
 m3u+http://troya.today/pl/3/64f5f24bf3e94/playlist.m3u8
 
+#EXTINF:-1 ,m3u_plus
+m3u+http://chiburator.myvnc.com:8000/playlist/promo8marta/h4caqw9Vvk/m3u_plus?output=hls
+
 #EXTINF:-1 ,mediateka
 https://edemtv.my1.ru/mediateka.m3u
 
