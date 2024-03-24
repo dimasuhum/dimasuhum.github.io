@@ -62,16 +62,21 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
 #EXTINF:-1 ,GedemTv
 https://edemtv.my1.ru/Gedem.m3u
 
-#EXTINF:-1 ,Tv
+#EXTINF:-1 , CeburTv
 https://gclnk.com/Rwq48VRg
 
-#EXTINF:-1 ,Tv
+#EXTINF:-1 ,SashaTv
 https://gclnk.com/EvXCbg9L
 
 #EXTINF:-1 ,GedemDUPLICATOR
 https://edemtv.my1.ru/2024/GedemDUPLICATOR.m3u
-#EXTINF:-1 ,Tv
+
+#EXTINF:-1 ,Tv0
 m3u+http://troya.one/pl/21/620fb473efc91/playlist.m3u8
+
+#EXTINF:-1 ,Tv1
+m3u+http://troya.today/pl/11/62a77fd7a1547/playlist.m3u8
+
 
 #EXTINF:-1 ,Tv
 m3u+http://troya.today/pl/3/64f5f24bf3e94/playlist.m3u8
