@@ -76,7 +76,8 @@ m3u+http://troya.one/pl/21/620fb473efc91/playlist.m3u8
 #EXTINF:-1 ,Tv
 m3u+http://troya.today/pl/3/64f5f24bf3e94/playlist.m3u8
 
-
+#EXTINF:-1 ,Tv2
+m3u+https://is.gd/6oikBP
 
 #EXTINF:-1 ,mediateka
 https://edemtv.my1.ru/mediateka.m3u
