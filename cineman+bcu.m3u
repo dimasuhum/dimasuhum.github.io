@@ -1,0 +1,930 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:-1 tvg-id="4682" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4682.png" group-title="Кинозалы",CineMan
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11004/index.m3u8
+#EXTINF:-1 tvg-id="4683" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4683.png" group-title="Кинозалы",CineMan Top
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11005/index.m3u8
+#EXTINF:-1 tvg-id="4684" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4684.png" group-title="Кинозалы",CineMan Action
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11006/index.m3u8
+#EXTINF:-1 tvg-id="4685" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4685.png" group-title="Кинозалы",CineMan Thriller
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11007/index.m3u8
+#EXTINF:-1 tvg-id="5585" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5585.png" group-title="Кинозалы",CineMan Катастрофы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15106/index.m3u8
+#EXTINF:-1 tvg-id="4686" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4686.png" group-title="Кинозалы",CineMan Мелодрама
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11008/index.m3u8
+#EXTINF:-1 tvg-id="4687" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4687.png" group-title="Кинозалы",CineMan Marvel
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11009/index.m3u8
+#EXTINF:-1 tvg-id="4688" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4688.png" group-title="Кинозалы",CineMan Ужасы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11010/index.m3u8
+#EXTINF:-1 tvg-id="4689" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4689.png" group-title="Кинозалы",CineMan Комедия
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11011/index.m3u8
+#EXTINF:-1 tvg-id="4690" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4690.png" group-title="Кинозалы",CineMan VHS
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11012/index.m3u8
+#EXTINF:-1 tvg-id="4691" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4691.png" group-title="Кинозалы",CineMan РуКино
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11013/index.m3u8
+#EXTINF:-1 tvg-id="4692" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4692.png" group-title="Кинозалы",CineMan Сваты
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11014/index.m3u8
+#EXTINF:-1 tvg-id="6051" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6051.png" group-title="Кинозалы",CineMan Ментовские войны
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16063/index.m3u8
+#EXTINF:-1 tvg-id="6052" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6052.png" group-title="Кинозалы",CineMan ПёС
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16064/index.m3u8
+#EXTINF:-1 tvg-id="6053" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6053.png" group-title="Кинозалы",CineMan Лесник
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16065/index.m3u8
+#EXTINF:-1 tvg-id="5525" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5525.png" group-title="Кинозалы",CineMan Симпсоны
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15101/index.m3u8
+#EXTINF:-1 tvg-id="5524" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5524.png" group-title="Кинозалы",CineMan Скорая Помощь
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15100/index.m3u8
+#EXTINF:-1 tvg-id="4736" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4736.png" group-title="Кинозалы",BCU Кинозал Premiere 1 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11015/index.m3u8
+#EXTINF:-1 tvg-id="4737" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4737.png" group-title="Кинозалы",BCU Кинозал Premiere 2 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11016/index.m3u8
+#EXTINF:-1 tvg-id="4738" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4738.png" group-title="Кинозалы",BCU Кинозал Premiere 3 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11017/index.m3u8
+#EXTINF:-1 tvg-id="4760" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4760.png" group-title="Кинозалы",BCU Premiere HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11039/index.m3u8
+#EXTINF:-1 tvg-id="4748" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4748.png" group-title="Кинозалы",BCU Action HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11027/index.m3u8
+#EXTINF:-1 tvg-id="4749" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4749.png" group-title="Кинозалы",BCU Catastrophe HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11028/index.m3u8
+#EXTINF:-1 tvg-id="4750" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4750.png" group-title="Кинозалы",BCU Cinema HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11029/index.m3u8
+#EXTINF:-1 tvg-id="4751" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4751.png" group-title="Кинозалы",BCU Cinema+ HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11030/index.m3u8
+#EXTINF:-1 tvg-id="4753" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4753.png" group-title="Кинозалы",BCU Fantastic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11032/index.m3u8
+#EXTINF:-1 tvg-id="4754" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4754.png" group-title="Кинозалы",BCU FilMystic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11033/index.m3u8
+#EXTINF:-1 tvg-id="4755" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4755.png" group-title="Кинозалы",BCU History HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11034/index.m3u8
+#EXTINF:-1 tvg-id="4752" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4752.png" group-title="Кинозалы",BCU Comedy HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11031/index.m3u8
+#EXTINF:-1 tvg-id="5515" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5515.png" group-title="Кинозалы",BCU Comedy OLD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15026/index.m3u8
+#EXTINF:-1 tvg-id="4761" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4761.png" group-title="Кинозалы",BCU Romantic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11040/index.m3u8
+#EXTINF:-1 tvg-id="4758" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4758.png" group-title="Кинозалы",BCU Kinorating HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11037/index.m3u8
+#EXTINF:-1 tvg-id="4769" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4769.png" group-title="Кинозалы",BCU Criminal HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11048/index.m3u8
+#EXTINF:-1 tvg-id="4759" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4759.png" group-title="Кинозалы",BCU Marvel HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11038/index.m3u8
+#EXTINF:-1 tvg-id="5514" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5514.png" group-title="Кинозалы",BCU Marvel OLD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15025/index.m3u8
+#EXTINF:-1 tvg-id="4765" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4765.png" group-title="Кинозалы",BCU Stars HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11044/index.m3u8
+#EXTINF:-1 tvg-id="4764" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4764.png" group-title="Кинозалы",BCU Kinozakaz HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11043/index.m3u8
+#EXTINF:-1 tvg-id="5513" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5513.png" group-title="Кинозалы",BCUMEDIA OLD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15024/index.m3u8
+#EXTINF:-1 tvg-id="6131" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6131.png" group-title="Кинозалы",BCU Reality HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16082/index.m3u8
+#EXTINF:-1 tvg-id="6067" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6067.png" group-title="Кинозалы",BCU Reality OLD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16083/index.m3u8
+#EXTINF:-1 tvg-id="6175" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6175.png" group-title="Кинозалы",BCU Survival HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17019/index.m3u8
+#EXTINF:-1 tvg-id="6164" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6164.png" group-title="Кинозалы",BCU Survival OLD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17020/index.m3u8
+#EXTINF:-1 tvg-id="6176" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6176.png" group-title="Кинозалы",BCU Cosmo HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17021/index.m3u8
+#EXTINF:-1 tvg-id="6165" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6165.png" group-title="Кинозалы",BCU Cosmo OLD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17022/index.m3u8
+#EXTINF:-1 tvg-id="6198" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6198.png" group-title="Кинозалы",BCU TruMotion HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17054/index.m3u8
+#EXTINF:-1 tvg-id="4766" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4766.png" group-title="Кинозалы",BCU Ultra 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11045/index.m3u8
+#EXTINF:-1 tvg-id="5561" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5561.png" group-title="Кинозалы",BCU Premiere Ultra 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15023/index.m3u8
+#EXTINF:-1 tvg-id="4763" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4763.png" group-title="Кинозалы",BCU VHS HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11042/index.m3u8
+#EXTINF:-1 tvg-id="4747" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4747.png" group-title="Кинозалы",BCU СССР HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11026/index.m3u8
+#EXTINF:-1 tvg-id="4762" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4762.png" group-title="Кинозалы",BCU Russian HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11041/index.m3u8
+#EXTINF:-1 tvg-id="4767" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4767.png" group-title="Кинозалы",BCU RUSERIAL HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11046/index.m3u8
+#EXTINF:-1 tvg-id="4768" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4768.png" group-title="Кинозалы",BCU Сваты HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11047/index.m3u8
+#EXTINF:-1 tvg-id="4761" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4761.png" group-title="Кинозалы",BCU Romantic OLD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18052/index.m3u8
+#EXTINF:-1 tvg-id="6228" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6228.png" group-title="Кинозалы",BCU Charm HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18053/index.m3u8
+#EXTINF:-1 tvg-id="4705" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4705.png" group-title="Кинозалы",KBC-Newfilm
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11079/index.m3u8
+#EXTINF:-1 tvg-id="4706" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4706.png" group-title="Кинозалы",KBC-Premium
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11080/index.m3u8
+#EXTINF:-1 tvg-id="4702" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4702.png" group-title="Кинозалы",KBC-Fantastic
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11076/index.m3u8
+#EXTINF:-1 tvg-id="4703" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4703.png" group-title="Кинозалы",KBC-History
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11077/index.m3u8
+#EXTINF:-1 tvg-id="4713" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4713.png" group-title="Кинозалы",KBC-Кинотеатр
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11087/index.m3u8
+#EXTINF:-1 tvg-id="4714" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4714.png" group-title="Кинозалы",KBC-Кошмарное
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11088/index.m3u8
+#EXTINF:-1 tvg-id="4718" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4718.png" group-title="Кинозалы",KBC-Шпионское
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11093/index.m3u8
+#EXTINF:-1 tvg-id="4712" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4712.png" group-title="Кинозалы",KBC-Драма tic
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11086/index.m3u8
+#EXTINF:-1 tvg-id="4700" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4700.png" group-title="Кинозалы",KBC-Elite comedys
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11074/index.m3u8
+#EXTINF:-1 tvg-id="4707" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4707.png" group-title="Кинозалы",KBC-Russian Комедия
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11081/index.m3u8
+#EXTINF:-1 tvg-id="4699" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4699.png" group-title="Кинозалы",KBC-Comics
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11073/index.m3u8
+#EXTINF:-1 tvg-id="4701" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4701.png" group-title="Кинозалы",KBC-Family Animation
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11075/index.m3u8
+#EXTINF:-1 tvg-id="4711" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4711.png" group-title="Кинозалы",KBC-ГАЙ Ritchie & Tarantino
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11085/index.m3u8
+#EXTINF:-1 tvg-id="4704" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4704.png" group-title="Кинозалы",KBC-Light сериал RU
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11078/index.m3u8
+#EXTINF:-1 tvg-id="4710" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4710.png" group-title="Кинозалы",KBC-Видак
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11084/index.m3u8
+#EXTINF:-1 tvg-id="4716" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4716.png" group-title="Кинозалы",KBC-Страна СССР
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11091/index.m3u8
+#EXTINF:-1 tvg-id="5568" tvg-rec="7" tvg-logo="http://epg.it999.ru/img2/5568.png" group-title="Кинозалы",KBC-Легендарное
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11083/index.m3u8
+#EXTINF:-1 tvg-id="5569" tvg-rec="7" tvg-logo="http://epg.it999.ru/img2/5569.png" group-title="Кинозалы",KBC-Криминальный Serial
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11092/index.m3u8
+#EXTINF:-1 tvg-id="4698" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4698.png" group-title="Кинозалы",KBC-B.O.B
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11072/index.m3u8
+#EXTINF:-1 tvg-id="4645" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4645.png" group-title="Кинозалы",VF Premiere
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10052/index.m3u8
+#EXTINF:-1 tvg-id="4644" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4644.png" group-title="Кинозалы",VF Премьера
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10051/index.m3u8
+#EXTINF:-1 tvg-id="4594" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4594.png" group-title="Кинозалы",VF Comedy
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10003/index.m3u8
+#EXTINF:-1 tvg-id="4648" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4648.png" group-title="Кинозалы",VF Комедия
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10055/index.m3u8
+#EXTINF:-1 tvg-id="4647" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4647.png" group-title="Кинозалы",VF Classic
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10054/index.m3u8
+#EXTINF:-1 tvg-id="4646" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4646.png" group-title="Кинозалы",VF Классика
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10053/index.m3u8
+#EXTINF:-1 tvg-id="4664" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4664.png" group-title="Кинозалы",VF Боевик
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10087/index.m3u8
+#EXTINF:-1 tvg-id="4666" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4666.png" group-title="Кинозалы",VF Катастрофы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10080/index.m3u8
+#EXTINF:-1 tvg-id="4792" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4792.png" group-title="Кинозалы",VF Detective
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11120/index.m3u8
+#EXTINF:-1 tvg-id="4598" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4598.png" group-title="Кинозалы",VF Mystic
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10007/index.m3u8
+#EXTINF:-1 tvg-id="4793" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4793.png" group-title="Кинозалы",VF Fantastic
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11121/index.m3u8
+#EXTINF:-1 tvg-id="4663" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4663.png" group-title="Кинозалы",VF Marvel
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10081/index.m3u8
+#EXTINF:-1 tvg-id="5205" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5205.png" group-title="Кинозалы",VF Comics
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13092/index.m3u8
+#EXTINF:-1 tvg-id="4591" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4591.png" group-title="Кинозалы",VF Adventure
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10000/index.m3u8
+#EXTINF:-1 tvg-id="4596" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4596.png" group-title="Кинозалы",VF Fantasy
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10005/index.m3u8
+#EXTINF:-1 tvg-id="5202" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5202.png" group-title="Кинозалы",VF Thriller
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13089/index.m3u8
+#EXTINF:-1 tvg-id="5204" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5204.png" group-title="Кинозалы",VF История
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13091/index.m3u8
+#EXTINF:-1 tvg-id="4794" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4794.png" group-title="Кинозалы",VF Оскар
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11122/index.m3u8
+#EXTINF:-1 tvg-id="4595" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4595.png" group-title="Кинозалы",VF Family
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10004/index.m3u8
+#EXTINF:-1 tvg-id="4597" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4597.png" group-title="Кинозалы",VF Melodrama
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10006/index.m3u8
+#EXTINF:-1 tvg-id="4599" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4599.png" group-title="Кинозалы",VF Ужасы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10008/index.m3u8
+#EXTINF:-1 tvg-id="4601" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4601.png" group-title="Кинозалы",VF Ужасы VHS
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10010/index.m3u8
+#EXTINF:-1 tvg-id="5206" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5206.png" group-title="Кинозалы",VF Криминал
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13093/index.m3u8
+#EXTINF:-1 tvg-id="4791" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4791.png" group-title="Кинозалы",VF Art house
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11119/index.m3u8
+#EXTINF:-1 tvg-id="4804" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4804.png" group-title="Кинозалы",VF Кино 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11114/index.m3u8
+#EXTINF:-1 tvg-id="4805" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4805.png" group-title="Кинозалы",VF Сериал 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11115/index.m3u8
+#EXTINF:-1 tvg-id="4789" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/4789.png" group-title="Кинозалы",VF TOP Series
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11116/index.m3u8
+#EXTINF:-1 tvg-id="6823" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6823.png" group-title="Кинозалы",VF Netflix
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19427/index.m3u8
+#EXTINF:-1 tvg-id="6824" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6824.png" group-title="Кинозалы",VF HBO
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19428/index.m3u8
+#EXTINF:-1 tvg-id="5198" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5198.png" group-title="Кинозалы",VF Series
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13085/index.m3u8
+#EXTINF:-1 tvg-id="6323" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6323.png" group-title="Кинозалы",VF Игра престолов
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18119/index.m3u8
+#EXTINF:-1 tvg-id="5200" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5200.png" group-title="Кинозалы",VF Сериал
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13087/index.m3u8
+#EXTINF:-1 tvg-id="5201" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5201.png" group-title="Кинозалы",VF Мыльные оперы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13088/index.m3u8
+#EXTINF:-1 tvg-id="4600" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4600.png" group-title="Кинозалы",VF VHS MIX
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10009/index.m3u8
+#EXTINF:-1 tvg-id="6160" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6160.png" group-title="Кинозалы",VF Без цензуры
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17017/index.m3u8
+#EXTINF:-1 tvg-id="6144" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6144.png" group-title="Кинозалы",VF Луи де Фюнес
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17000/index.m3u8
+#EXTINF:-1 tvg-id="6145" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6145.png" group-title="Кинозалы",VF Чернобыль
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17001/index.m3u8
+#EXTINF:-1 tvg-id="6146" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6146.png" group-title="Кинозалы",VF The X-Files
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17002/index.m3u8
+#EXTINF:-1 tvg-id="6147" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6147.png" group-title="Кинозалы",VF Сверхъестественное
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17003/index.m3u8
+#EXTINF:-1 tvg-id="6149" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6149.png" group-title="Кинозалы",VF Американская история ужасов
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17005/index.m3u8
+#EXTINF:-1 tvg-id="6150" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6150.png" group-title="Кинозалы",VF Друзья
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17006/index.m3u8
+#EXTINF:-1 tvg-id="6151" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6151.png" group-title="Кинозалы",VF СашаТаня
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17008/index.m3u8
+#EXTINF:-1 tvg-id="6156" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6156.png" group-title="Кинозалы",VF Универ новая общага
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17013/index.m3u8
+#EXTINF:-1 tvg-id="5197" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5197.png" group-title="Кинозалы",VF Универ
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13084/index.m3u8
+#EXTINF:-1 tvg-id="6153" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6153.png" group-title="Кинозалы",VF Наша Раша
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17010/index.m3u8
+#EXTINF:-1 tvg-id="6706" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6706.png" group-title="Кинозалы",VF Однажды в России
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19286/index.m3u8
+#EXTINF:-1 tvg-id="6152" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6152.png" group-title="Кинозалы",VF Джеки Чан
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17009/index.m3u8
+#EXTINF:-1 tvg-id="6157" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6157.png" group-title="Кинозалы",VF Ходячие мертвецы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17014/index.m3u8
+#EXTINF:-1 tvg-id="6158" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6158.png" group-title="Кинозалы",VF Реальные пацаны
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17015/index.m3u8
+#EXTINF:-1 tvg-id="6159" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6159.png" group-title="Кинозалы",VF Доктор Хаус
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17016/index.m3u8
+#EXTINF:-1 tvg-id="5207" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5207.png" group-title="Кинозалы",VF Клиника
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13094/index.m3u8
+#EXTINF:-1 tvg-id="5193" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5193.png" group-title="Кинозалы",VF Сваты
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13080/index.m3u8
+#EXTINF:-1 tvg-id="5196" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5196.png" group-title="Кинозалы",VF Воронины
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13083/index.m3u8
+#EXTINF:-1 tvg-id="5194" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5194.png" group-title="Кинозалы",VF Солдаты
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13081/index.m3u8
+#EXTINF:-1 tvg-id="5199" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5199.png" group-title="Кинозалы",VF След
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13086/index.m3u8
+#EXTINF:-1 tvg-id="4665" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4665.png" group-title="Кинозалы",VF Военные
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10082/index.m3u8
+#EXTINF:-1 tvg-id="4669" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4669.png" group-title="Кинозалы",VF Наша победа
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10083/index.m3u8
+#EXTINF:-1 tvg-id="4670" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4670.png" group-title="Кинозалы",VF Фильмы СССР
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10085/index.m3u8
+#EXTINF:-1 tvg-id="6155" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6155.png" group-title="Кинозалы",VF Эльдар Рязанов
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17012/index.m3u8
+#EXTINF:-1 tvg-id="6148" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6148.png" group-title="Кинозалы",VF Леонид Гайдай
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17004/index.m3u8
+#EXTINF:-1 tvg-id="4667" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4667.png" group-title="Кинозалы",VF Мосфильм
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10084/index.m3u8
+#EXTINF:-1 tvg-id="6325" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6325.png" group-title="Кинозалы",VF Ленфильм
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18121/index.m3u8
+#EXTINF:-1 tvg-id="6324" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6324.png" group-title="Кинозалы",VF Одесская киностудия
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18120/index.m3u8
+#EXTINF:-1 tvg-id="6326" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6326.png" group-title="Кинозалы",VF Киностудия им. Горького
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18122/index.m3u8
+#EXTINF:-1 tvg-id="6328" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6328.png" group-title="Кинозалы",VF Свердловская киностудия
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18124/index.m3u8
+#EXTINF:-1 tvg-id="6327" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6327.png" group-title="Кинозалы",VF Рижская киностудия
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18123/index.m3u8
+#EXTINF:-1 tvg-id="6329" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6329.png" group-title="Кинозалы",VF Беларусьфильм
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18125/index.m3u8
+#EXTINF:-1 tvg-id="5195" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5195.png" group-title="Кинозалы",VF Тайны следствия
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13082/index.m3u8
+#EXTINF:-1 tvg-id="6417" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6417.png" group-title="Кинозалы",VF Уральские пельмени
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18198/index.m3u8
+#EXTINF:-1 tvg-id="6418" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6418.png" group-title="Кинозалы",VF Кухня
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18199/index.m3u8
+#EXTINF:-1 tvg-id="6419" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6419.png" group-title="Кинозалы",VF Баня
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18200/index.m3u8
+#EXTINF:-1 tvg-id="5981" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5981.png" group-title="Кинозалы",VF New Year
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15522/index.m3u8
+#EXTINF:-1 tvg-id="5982" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5982.png" group-title="Кинозалы",VF С новым годом!
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15524/index.m3u8
+#EXTINF:-1 tvg-id="6163" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6163.png" group-title="Кинозалы",VF Новогодний
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17035/index.m3u8
+#EXTINF:-1 tvg-id="5124" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5124.png" group-title="Кинозалы",минимакс-newfilm 1 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13011/index.m3u8
+#EXTINF:-1 tvg-id="5125" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5125.png" group-title="Кинозалы",минимакс-newfilm 2 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13012/index.m3u8
+#EXTINF:-1 tvg-id="5126" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5126.png" group-title="Кинозалы",минимакс-newfilm 3 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13013/index.m3u8
+#EXTINF:-1 tvg-id="5127" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5127.png" group-title="Кинозалы",минимакс-newfilm.ru HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13014/index.m3u8
+#EXTINF:-1 tvg-id="6064" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6064.png" group-title="Кинозалы",минимакс-classic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16085/index.m3u8
+#EXTINF:-1 tvg-id="5140" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5140.png" group-title="Кинозалы",минимакс-боевик classic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13027/index.m3u8
+#EXTINF:-1 tvg-id="5141" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5141.png" group-title="Кинозалы",минимакс-боевик HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13028/index.m3u8
+#EXTINF:-1 tvg-id="5171" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5171.png" group-title="Кинозалы",минимакс-триллер HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13058/index.m3u8
+#EXTINF:-1 tvg-id="5130" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5130.png" group-title="Кинозалы",минимакс-UFO HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13017/index.m3u8
+#EXTINF:-1 tvg-id="5147" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5147.png" group-title="Кинозалы",минимакс-катастрофа HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13034/index.m3u8
+#EXTINF:-1 tvg-id="5152" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5152.png" group-title="Кинозалы",минимакс-криминал HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13039/index.m3u8
+#EXTINF:-1 tvg-id="5209" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5209.png" group-title="Кинозалы",минимакс-ussr-детектив HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13096/index.m3u8
+#EXTINF:-1 tvg-id="5570" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5570.png" group-title="Кинозалы",минимакс-ussr-приключения HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13060/index.m3u8
+#EXTINF:-1 tvg-id="5157" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5157.png" group-title="Кинозалы",минимакс-мифология HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13044/index.m3u8
+#EXTINF:-1 tvg-id="5161" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5161.png" group-title="Кинозалы",минимакс-приключения HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13048/index.m3u8
+#EXTINF:-1 tvg-id="5146" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5146.png" group-title="Кинозалы",минимакс-история HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13033/index.m3u8
+#EXTINF:-1 tvg-id="5151" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5151.png" group-title="Кинозалы",минимакс-комедия HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13038/index.m3u8
+#EXTINF:-1 tvg-id="5150" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5150.png" group-title="Кинозалы",минимакс-комедия classic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13037/index.m3u8
+#EXTINF:-1 tvg-id="5210" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5210.png" group-title="Кинозалы",минимакс-семейный 1 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13097/index.m3u8
+#EXTINF:-1 tvg-id="5211" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5211.png" group-title="Кинозалы",минимакс-семейный 2 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13098/index.m3u8
+#EXTINF:-1 tvg-id="5175" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5175.png" group-title="Кинозалы",минимакс-фантастика HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13062/index.m3u8
+#EXTINF:-1 tvg-id="5149" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5149.png" group-title="Кинозалы",минимакс-киберпанк HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13036/index.m3u8
+#EXTINF:-1 tvg-id="5142" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5142.png" group-title="Кинозалы",минимакс-вестерн HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13029/index.m3u8
+#EXTINF:-1 tvg-id="6065" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6065.png" group-title="Кинозалы",минимакс-драма HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16086/index.m3u8
+#EXTINF:-1 tvg-id="5172" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5172.png" group-title="Кинозалы",минимакс-ужастик HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13059/index.m3u8
+#EXTINF:-1 tvg-id="5212" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5212.png" group-title="Кинозалы",минимакс-ужасы HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13099/index.m3u8
+#EXTINF:-1 tvg-id="5215" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5215.png" group-title="Кинозалы",минимакс-ужасы classic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14128/index.m3u8
+#EXTINF:-1 tvg-id="5160" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5160.png" group-title="Кинозалы",минимакс-погружение HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13047/index.m3u8
+#EXTINF:-1 tvg-id="5166" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5166.png" group-title="Кинозалы",минимакс-скорость HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13053/index.m3u8
+#EXTINF:-1 tvg-id="5122" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5122.png" group-title="Кинозалы",минимакс-007 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13009/index.m3u8
+#EXTINF:-1 tvg-id="5123" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5123.png" group-title="Кинозалы",минимакс-love HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13010/index.m3u8
+#EXTINF:-1 tvg-id="5176" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5176.png" group-title="Кинозалы",минимакс-фобия HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13063/index.m3u8
+#EXTINF:-1 tvg-id="5145" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5145.png" group-title="Кинозалы",минимакс-затмение HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13032/index.m3u8
+#EXTINF:-1 tvg-id="5174" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5174.png" group-title="Кинозалы",ММ Синематограф HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13061/index.m3u8
+#EXTINF:-1 tvg-id="5168" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5168.png" group-title="Кинозалы",минимакс-Стивен Кинг HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13055/index.m3u8
+#EXTINF:-1 tvg-id="6063" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6063.png" group-title="Кинозалы",минимакс-celebrity HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16084/index.m3u8
+#EXTINF:-1 tvg-id="5169" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5169.png" group-title="Кинозалы",минимакс-супергерои HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13056/index.m3u8
+#EXTINF:-1 tvg-id="5154" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5154.png" group-title="Кинозалы",минимакс-кунг-фу HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13041/index.m3u8
+#EXTINF:-1 tvg-id="5167" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5167.png" group-title="Кинозалы",минимакс-спорт HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13054/index.m3u8
+#EXTINF:-1 tvg-id="5137" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5137.png" group-title="Кинозалы",минимакс-Агата Кристи HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13024/index.m3u8
+#EXTINF:-1 tvg-id="5132" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5132.png" group-title="Кинозалы",минимакс-ussr-комедия HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13019/index.m3u8
+#EXTINF:-1 tvg-id="5135" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5135.png" group-title="Кинозалы",минимакс-ussr-фантастика HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13022/index.m3u8
+#EXTINF:-1 tvg-id="5163" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5163.png" group-title="Кинозалы",минимакс-роскино HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13050/index.m3u8
+#EXTINF:-1 tvg-id="5153" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5153.png" group-title="Кинозалы",минимакс-крутые 90-е HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13040/index.m3u8
+#EXTINF:-1 tvg-id="5131" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5131.png" group-title="Кинозалы",минимакс-ussr-1941-1945 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13018/index.m3u8
+#EXTINF:-1 tvg-id="5158" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5158.png" group-title="Кинозалы",минимакс-нуар HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13045/index.m3u8
+#EXTINF:-1 tvg-id="5144" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5144.png" group-title="Кинозалы",минимакс-воронины HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13031/index.m3u8
+#EXTINF:-1 tvg-id="5164" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5164.png" group-title="Кинозалы",минимакс-сваты HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13051/index.m3u8
+#EXTINF:-1 tvg-id="5138" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5138.png" group-title="Кинозалы",ММ Грайндхаус HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13025/index.m3u8
+#EXTINF:-1 tvg-id="5165" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5165.png" group-title="Кинозалы",минимакс-ситком HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13052/index.m3u8
+#EXTINF:-1 tvg-id="5162" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5162.png" group-title="Кинозалы",минимакс-полицейский с Рублёвки HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13049/index.m3u8
+#EXTINF:-1 tvg-id="5170" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5170.png" group-title="Кинозалы",минимакс-flip UHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13057/index.m3u8
+#EXTINF:-1 tvg-id="5139" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5139.png" group-title="Кинозалы",минимакс-honey HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18113/index.m3u8
+#EXTINF:-1 tvg-id="5155" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5155.png" group-title="Кинозалы",минимакс-lesson HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18114/index.m3u8
+#EXTINF:-1 tvg-id="5156" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5156.png" group-title="Кинозалы",минимакс-smile HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18115/index.m3u8
+#EXTINF:-1 tvg-id="5159" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5159.png" group-title="Кинозалы",минимакс-ольга HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13046/index.m3u8
+#EXTINF:-1 tvg-id="6410" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6410.png" group-title="Кинозалы",минимакс-микромир HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18193/index.m3u8
+#EXTINF:-1 tvg-id="6411" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6411.png" group-title="Кинозалы",минимакс-макромир HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18194/index.m3u8
+#EXTINF:-1 tvg-id="6413" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6413.png" group-title="Кинозалы",минимакс-translation HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18196/index.m3u8
+#EXTINF:-1 tvg-id="6842" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6842.png" group-title="Кинозалы",MM OldSchool HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19413/index.m3u8
+#EXTINF:-1 tvg-id="6843" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6843.png" group-title="Кинозалы",MM Гриффины HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19414/index.m3u8
+#EXTINF:-1 tvg-id="5187" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5187.png" group-title="Кинозалы",UZ Kino1 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13074/index.m3u8
+#EXTINF:-1 tvg-id="5186" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5186.png" group-title="Кинозалы",UZ Kino2 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13073/index.m3u8
+#EXTINF:-1 tvg-id="5188" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5188.png" group-title="Кинозалы",UZ Kino3 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13075/index.m3u8
+#EXTINF:-1 tvg-id="5189" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5189.png" group-title="Кинозалы",UZ Kino4 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13076/index.m3u8
+#EXTINF:-1 tvg-id="5443" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5443.png" group-title="Кинозалы",UZ Kino5 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18108/index.m3u8
+#EXTINF:-1 tvg-id="5216" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5216.png" group-title="Кинозалы",UZ Кино Новинки HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14126/index.m3u8
+#EXTINF:-1 tvg-id="5433" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5433.png" group-title="Кинозалы",UZ TV HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14220/index.m3u8
+#EXTINF:-1 tvg-id="5190" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5190.png" group-title="Кинозалы",UZ Боевики HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13077/index.m3u8
+#EXTINF:-1 tvg-id="5178" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5178.png" group-title="Кинозалы",UZ Фантастика HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13065/index.m3u8
+#EXTINF:-1 tvg-id="5182" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5182.png" group-title="Кинозалы",UZ Приключение HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13069/index.m3u8
+#EXTINF:-1 tvg-id="5181" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5181.png" group-title="Кинозалы",UZ Ужасное ТВ HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13068/index.m3u8
+#EXTINF:-1 tvg-id="5217" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5217.png" group-title="Кинозалы",UZ Комедия HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14127/index.m3u8
+#EXTINF:-1 tvg-id="5214" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5214.png" group-title="Кинозалы",UZ Кинокомфорт HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13101/index.m3u8
+#EXTINF:-1 tvg-id="6335" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6335.png" group-title="Кинозалы",UZ Swiridenko TV HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18106/index.m3u8
+#EXTINF:-1 tvg-id="6336" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6336.png" group-title="Кинозалы",UZ Swiridenko TV HD 2
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18107/index.m3u8
+#EXTINF:-1 tvg-id="5183" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5183.png" group-title="Кинозалы",UZ Бойцовское кино HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13070/index.m3u8
+#EXTINF:-1 tvg-id="5213" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5213.png" group-title="Кинозалы",UZ Витек ТВ HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13100/index.m3u8
+#EXTINF:-1 tvg-id="5523" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5523.png" group-title="Кинозалы",UZ Кинозал HEVC HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15099/index.m3u8
+#EXTINF:-1 tvg-id="6391" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6391.png" group-title="Кинозалы",UZ Союз-Фильмы HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18167/index.m3u8
+#EXTINF:-1 tvg-id="5442" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5442.png" group-title="Кинозалы",UZ Катастрофа HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18164/index.m3u8
+#EXTINF:-1 tvg-id="6390" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6390.png" group-title="Кинозалы",UZ Сваты HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18166/index.m3u8
+#EXTINF:-1 tvg-id="6420" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6420.png" group-title="Кинозалы",UZ Уральские Пельмени HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18169/index.m3u8
+#EXTINF:-1 tvg-id="4719" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4719.png" group-title="Кинозалы",Premiere HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11094/index.m3u8
+#EXTINF:-1 tvg-id="6836" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6836.png" group-title="Кинозалы",Insomnia HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19398/index.m3u8
+#EXTINF:-1 tvg-id="4720" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4720.png" group-title="Кинозалы",Premium HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11095/index.m3u8
+#EXTINF:-1 tvg-id="4723" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4723.png" group-title="Кинозалы",Paradox HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11098/index.m3u8
+#EXTINF:-1 tvg-id="4724" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4724.png" group-title="Кинозалы",Thriller HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11099/index.m3u8
+#EXTINF:-1 tvg-id="4725" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4725.png" group-title="Кинозалы",Paradise HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11100/index.m3u8
+#EXTINF:-1 tvg-id="4722" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4722.png" group-title="Кинозалы",Victory HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11097/index.m3u8
+#EXTINF:-1 tvg-id="4721" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4721.png" group-title="Кинозалы",РуКино HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11096/index.m3u8
+#EXTINF:-1 tvg-id="4726" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4726.png" group-title="Кинозалы",Serial HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11101/index.m3u8
+#EXTINF:-1 tvg-id="4727" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4727.png" group-title="Кинозалы",USSR
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11102/index.m3u8
+#EXTINF:-1 tvg-id="5462" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5462.png" group-title="Кинозалы",VHS HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15000/index.m3u8
+#EXTINF:-1 tvg-id="6182" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6182.png" group-title="Кинозалы",Christmas HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17031/index.m3u8
+#EXTINF:-1 tvg-id="1113" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/1113.png" group-title="Кинозалы",Z! Channel HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14134/index.m3u8
+#EXTINF:-1 tvg-id="1114" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/1114.png" group-title="Кинозалы",Z! Comedy HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14135/index.m3u8
+#EXTINF:-1 tvg-id="1115" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/1115.png" group-title="Кинозалы",Z! Crime HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14136/index.m3u8
+#EXTINF:-1 tvg-id="1116" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/1116.png" group-title="Кинозалы",Z! Horror HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14137/index.m3u8
+#EXTINF:-1 tvg-id="5899" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5899.png" group-title="Кинозалы",Z!Sitcom HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15141/index.m3u8
+#EXTINF:-1 tvg-id="5898" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5898.png" group-title="Кинозалы",Z!Serial HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15140/index.m3u8
+#EXTINF:-1 tvg-id="5900" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5900.png" group-title="Кинозалы",Z!Smile HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15142/index.m3u8
+#EXTINF:-1 tvg-id="5446" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5446.png" group-title="Кинозалы",YOSSO TV Best
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14236/index.m3u8
+#EXTINF:-1 tvg-id="5362" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5362.png" group-title="Кинозалы",YOSSO TV NEW Кино
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14177/index.m3u8
+#EXTINF:-1 tvg-id="5358" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5358.png" group-title="Кинозалы",YOSSO TV Grand
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14171/index.m3u8
+#EXTINF:-1 tvg-id="5586" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5586.png" group-title="Кинозалы",YOSSO TV Adrenaline
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15105/index.m3u8
+#EXTINF:-1 tvg-id="5434" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5434.png" group-title="Кинозалы",YOSSO TV Трагичное
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14219/index.m3u8
+#EXTINF:-1 tvg-id="5444" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5444.png" group-title="Кинозалы",YOSSO TV Забавное
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14234/index.m3u8
+#EXTINF:-1 tvg-id="5445" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5445.png" group-title="Кинозалы",YOSSO TV Ковбойское
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14235/index.m3u8
+#EXTINF:-1 tvg-id="5360" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5360.png" group-title="Кинозалы",YOSSO TV Русские фильмы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14174/index.m3u8
+#EXTINF:-1 tvg-id="5361" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5361.png" group-title="Кинозалы",YOSSO TV Советские фильмы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14175/index.m3u8
+#EXTINF:-1 tvg-id="5631" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5631.png" group-title="Кинозалы",YOSSO TV Thriller
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15168/index.m3u8
+#EXTINF:-1 tvg-id="5983" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5983.png" group-title="Кинозалы",YOSSO TV Oblivion
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15509/index.m3u8
+#EXTINF:-1 tvg-id="5984" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5984.png" group-title="Кинозалы",YOSSO TV Adventure
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15510/index.m3u8
+#EXTINF:-1 tvg-id="6136" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6136.png" group-title="Кинозалы",YOSSO TV C-Comedy
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16151/index.m3u8
+#EXTINF:-1 tvg-id="6137" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6137.png" group-title="Кинозалы",YOSSO TV C-Inquest
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16152/index.m3u8
+#EXTINF:-1 tvg-id="6138" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6138.png" group-title="Кинозалы",YOSSO TV 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16153/index.m3u8
+#EXTINF:-1 tvg-id="5359" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5359.png" group-title="Кинозалы",YOSSO TV VHS
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14172/index.m3u8
+#EXTINF:-1 tvg-id="6392" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6392.png" group-title="Кинозалы",YOSSO TV C-History
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18139/index.m3u8
+#EXTINF:-1 tvg-id="6066" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6066.png" group-title="Кинозалы",SKY HIGH FRESH HDR
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16066/index.m3u8
+#EXTINF:-1 tvg-id="5447" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5447.png" group-title="Кинозалы",SKY HIGH SERIES HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14240/index.m3u8
+#EXTINF:-1 tvg-id="5448" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5448.png" group-title="Кинозалы",SKY HIGH HEROES HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14242/index.m3u8
+#EXTINF:-1 tvg-id="5449" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5449.png" group-title="Кинозалы",SKY HIGH EPOCH HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14243/index.m3u8
+#EXTINF:-1 tvg-id="6186" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6186.png" group-title="Кинозалы",SKY HIGH MIX 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17025/index.m3u8
+#EXTINF:-1 tvg-id="5450" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5450.png" group-title="Кинозалы",SKY HIGH FRESH HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14244/index.m3u8
+#EXTINF:-1 tvg-id="5451" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5451.png" group-title="Кинозалы",SKY HIGH MIX 3D
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14246/index.m3u8
+#EXTINF:-1 tvg-id="5452" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5452.png" group-title="Кинозалы",SKY HIGH SPIRIT HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14249/index.m3u8
+#EXTINF:-1 tvg-id="5588" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5588.png" group-title="Кинозалы",SKY HIGH FUTURE HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15103/index.m3u8
+#EXTINF:-1 tvg-id="6054" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6054.png" group-title="Кинозалы",SKY HIGH RUSSIAN HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16060/index.m3u8
+#EXTINF:-1 tvg-id="6055" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6055.png" group-title="Кинозалы",SKY HIGH FRESH 60
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16061/index.m3u8
+#EXTINF:-1 tvg-id="6139" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6139.png" group-title="Кинозалы",SKY HIGH ЧБУ HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16142/index.m3u8
+#EXTINF:-1 tvg-id="6203" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6203.png" group-title="Кинозалы",SKY HIGH VHS UHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17058/index.m3u8
+#EXTINF:-1 tvg-id="6204" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6204.png" group-title="Кинозалы",SKY HIGH UHD HDR
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17059/index.m3u8
+#EXTINF:-1 tvg-id="6826" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6826.png" group-title="Кинозалы",SKY HIGH BRAIN HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19404/index.m3u8
+#EXTINF:-1 tvg-id="6194" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6194.png" group-title="Кинозалы",SKY HIGH DOC HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18172/index.m3u8
+#EXTINF:-1 tvg-id="6738" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6738.png" group-title="Кинозалы",SKY HIGH NATURE FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19309/index.m3u8
+#EXTINF:-1 tvg-id="6725" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6725.png" group-title="Кинозалы",SKY HIGH ORIG HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19310/index.m3u8
+#EXTINF:-1 tvg-id="6741" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6741.png" group-title="Кинозалы",SKY HIGH STANDUP HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19311/index.m3u8
+#EXTINF:-1 tvg-id="6726" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6726.png" group-title="Кинозалы",SKY HIGH LO FI HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19312/index.m3u8
+#EXTINF:-1 tvg-id="6827" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/6827.png" group-title="Кинозалы",SKY HIGH ANIME HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19405/index.m3u8
+#EXTINF:-1 tvg-id="5423" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5423.png" group-title="Кинозалы",Dosug Comedy HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14209/index.m3u8
+#EXTINF:-1 tvg-id="5424" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5424.png" group-title="Кинозалы",Dosug Fantastic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14210/index.m3u8
+#EXTINF:-1 tvg-id="5425" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5425.png" group-title="Кинозалы",Dosug History HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14211/index.m3u8
+#EXTINF:-1 tvg-id="5426" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5426.png" group-title="Кинозалы",Dosug Hit HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14212/index.m3u8
+#EXTINF:-1 tvg-id="5427" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5427.png" group-title="Кинозалы",Dosug Horror HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14213/index.m3u8
+#EXTINF:-1 tvg-id="5430" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5430.png" group-title="Кинозалы",Dosug New HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14216/index.m3u8
+#EXTINF:-1 tvg-id="5429" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5429.png" group-title="Кинозалы",Dosug Marvel HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14215/index.m3u8
+#EXTINF:-1 tvg-id="5431" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5431.png" group-title="Кинозалы",Dosug Russian HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14217/index.m3u8
+#EXTINF:-1 tvg-id="5432" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5432.png" group-title="Кинозалы",Dosug СССР HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14218/index.m3u8
+#EXTINF:-1 tvg-id="5437" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5437.png" group-title="Кинозалы",Dosug TV VHS
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14225/index.m3u8
+#EXTINF:-1 tvg-id="5438" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5438.png" group-title="Кинозалы",Dosug TV Ходячие мертвецы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14226/index.m3u8
+#EXTINF:-1 tvg-id="5439" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5439.png" group-title="Кинозалы",Dosug TV Сериал
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14227/index.m3u8
+#EXTINF:-1 tvg-id="5440" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5440.png" group-title="Кинозалы",Dosug TV Сваты
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14228/index.m3u8
+#EXTINF:-1 tvg-id="5587" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5587.png" group-title="Кинозалы",Dosug_TV_ambulance
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18149/index.m3u8
+#EXTINF:-1 tvg-id="5587" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5587.png" group-title="Кинозалы",Dosug TV ER
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15102/index.m3u8
+#EXTINF:-1 tvg-id="6161" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6161.png" group-title="Кинозалы",DosugTv новогодний
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17018/index.m3u8
+#EXTINF:-1 tvg-id="5516" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5516.png" group-title="Кинозалы",LIBERTY DC
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15087/index.m3u8
+#EXTINF:-1 tvg-id="5517" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5517.png" group-title="Кинозалы",Liberty Ужасы FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15088/index.m3u8
+#EXTINF:-1 tvg-id="5518" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5518.png" group-title="Кинозалы",Liberty Триллеры FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15089/index.m3u8
+#EXTINF:-1 tvg-id="5519" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5519.png" group-title="Кинозалы",Liberty MARVEL 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15090/index.m3u8
+#EXTINF:-1 tvg-id="5520" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5520.png" group-title="Кинозалы",Liberty Короткометражное FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15091/index.m3u8
+#EXTINF:-1 tvg-id="5521" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5521.png" group-title="Кинозалы",Liberty Мелодрамы FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15095/index.m3u8
+#EXTINF:-1 tvg-id="5522" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5522.png" group-title="Кинозалы",Liberty Боевики FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15096/index.m3u8
+#EXTINF:-1 tvg-id="5589" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5589.png" group-title="Кинозалы",Liberty Кино Микс 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15110/index.m3u8
+#EXTINF:-1 tvg-id="5633" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5633.png" group-title="Кинозалы",Liberty Сваты
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/15164/index.m3u8
+#EXTINF:-1 tvg-id="6058" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6058.png" group-title="Кинозалы",Liberty Сериалы FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16055/index.m3u8
+#EXTINF:-1 tvg-id="6056" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6056.png" group-title="Кинозалы",LIBERTY SouthPark
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16053/index.m3u8
+#EXTINF:-1 tvg-id="6179" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6179.png" group-title="Кинозалы",Liberty Занавес  HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17028/index.m3u8
+#EXTINF:-1 tvg-id="6205" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6205.png" group-title="Кинозалы",LIBERTY KINOENG  UHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17060/index.m3u8
+#EXTINF:-1 tvg-id="6855" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6855.png" group-title="Кинозалы",LIBERTY NETFLIX 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19402/index.m3u8
+#EXTINF:-1 tvg-id="6231" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6231.png" group-title="Кинозалы",Liberty РусФильм 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18046/index.m3u8
+#EXTINF:-1 tvg-id="6341" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6341.png" group-title="Кинозалы",Liberty Куб 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18161/index.m3u8
+#EXTINF:-1 tvg-id="6394" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6394.png" group-title="Кинозалы",Liberty Семейный 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18178/index.m3u8
+#EXTINF:-1 tvg-id="6856" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6856.png" group-title="Кинозалы",Liberty Фан HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19403/index.m3u8
+#EXTINF:-1 tvg-id="6727" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6727.png" group-title="Кинозалы",LIBERTY ТУРК ФИЛЬМ 4К
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19303/index.m3u8
+#EXTINF:-1 tvg-id="6728" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6728.png" group-title="Кинозалы",LIBERTY СКАЗКИ 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19304/index.m3u8
+#EXTINF:-1 tvg-id="6739" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6739.png" group-title="Кинозалы",LIBERTY НАУКА 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19305/index.m3u8
+#EXTINF:-1 tvg-id="6729" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6729.png" group-title="Кинозалы",LIBERTY МиМ FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19306/index.m3u8
+#EXTINF:-1 tvg-id="6730" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6730.png" group-title="Кинозалы",LIBERTY СОЮЗ 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19307/index.m3u8
+#EXTINF:-1 tvg-id="6731" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6731.png" group-title="Кинозалы",LIBERTY ЛЕГЕНДА 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19308/index.m3u8
+#EXTINF:-1 tvg-id="5605" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5605.png" group-title="Кинозалы",MS CRIME HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16144/index.m3u8
+#EXTINF:-1 tvg-id="5593" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5593.png" group-title="Кинозалы",MS PRISONS HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16145/index.m3u8
+#EXTINF:-1 tvg-id="6140" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6140.png" group-title="Кинозалы",MS MAGIC HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16143/index.m3u8
+#EXTINF:-1 tvg-id="5595" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5595.png" group-title="Кинозалы",MS YOUNG BLOOD HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16147/index.m3u8
+#EXTINF:-1 tvg-id="5357" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5357.png" group-title="Кинозалы",Akudji FilmBox HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14161/index.m3u8
+#EXTINF:-1 tvg-id="5356" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/5356.png" group-title="Кинозалы",Millennium TV HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/14160/index.m3u8
+#EXTINF:-1 tvg-id="4771" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4771.png" group-title="Кинозалы",BEST Films HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11050/index.m3u8
+#EXTINF:-1 tvg-id="4773" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4773.png" group-title="Кинозалы",Sky2000 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11054/index.m3u8
+#EXTINF:-1 tvg-id="4772" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4772.png" group-title="Кинозалы",Lost HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11053/index.m3u8
+#EXTINF:-1 tvg-id="4693" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4693.png" group-title="Кинозалы",The X-Files
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11055/index.m3u8
+#EXTINF:-1 tvg-id="4777" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4777.png" group-title="Кинозалы",Кинозал! ХИТ HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11064/index.m3u8
+#EXTINF:-1 tvg-id="4776" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4776.png" group-title="Кинозалы",Кинозал! VHS HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11059/index.m3u8
+#EXTINF:-1 tvg-id="4694" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4694.png" group-title="Кинозалы",Кинозал! Интерны ТВ
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11060/index.m3u8
+#EXTINF:-1 tvg-id="4697" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4697.png" group-title="Кинозалы",Кинозал! Универ ТВ
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11063/index.m3u8
+#EXTINF:-1 tvg-id="4695" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4695.png" group-title="Кинозалы",Кинозал! СССР
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11061/index.m3u8
+#EXTINF:-1 tvg-id="4696" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4696.png" group-title="Кинозалы",Кинозал! Сваты
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11062/index.m3u8
+#EXTINF:-1 tvg-id="4779" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4779.png" group-title="Кинозалы",Страх HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11069/index.m3u8
+#EXTINF:-1 tvg-id="4780" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4780.png" group-title="Кинозалы",Фантастика HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11070/index.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6143.png" group-title="Кинозалы",Видеокассета Ужасы
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16141/index.m3u8
+#EXTINF:-1 tvg-id="5118" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5118.png" group-title="Кинозалы",TOP MIX HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13006/index.m3u8
+#EXTINF:-1 tvg-id="5116" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5116.png" group-title="Кинозалы",TOP Cinema HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13004/index.m3u8
+#EXTINF:-1 tvg-id="5115" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5115.png" group-title="Кинозалы",TOP BUDO HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13003/index.m3u8
+#EXTINF:-1 tvg-id="5113" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5113.png" group-title="Кинозалы",TOP Великолепный Век HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13001/index.m3u8
+#EXTINF:-1 tvg-id="5114" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5114.png" group-title="Кинозалы",TOP 80 S HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13002/index.m3u8
+#EXTINF:-1 tvg-id="5117" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/5117.png" group-title="Кинозалы",TOP USSR HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/13005/index.m3u8
+#EXTINF:-1 tvg-id="4770" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4770.png" group-title="Кинозалы",Backus TV Original HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11049/index.m3u8
+#EXTINF:-1 tvg-id="4662" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4662.png" group-title="Кинозалы",Backus TV Dark HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/10061/index.m3u8
+#EXTINF:-1 tvg-id="4782" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4782.png" group-title="Кинозалы",Илья ТВ Кино HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11103/index.m3u8
+#EXTINF:-1 tvg-id="4783" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4783.png" group-title="Кинозалы",Илья ТВ Сериал HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11104/index.m3u8
+#EXTINF:-1 tvg-id="4785" tvg-rec="7" tvg-logo="http://epg.it999.ru/img/4785.png" group-title="Кинозалы",Илья ТВ Наше HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/11106/index.m3u8
+#EXTINF:-1 tvg-id="6141" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6141.png" group-title="Кинозалы",Илья ТВ Наш Сериал
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16154/index.m3u8
+#EXTINF:-1 tvg-id="6007" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6007.png" group-title="Кинозалы",YOSSO TV C-Marvel
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16051/index.m3u8
+#EXTINF:-1 tvg-id="6002" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6002.png" group-title="Кинозалы",PZN HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16037/index.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6242.png" group-title="Кинозалы",фантастика
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18043/index.m3u8
+#EXTINF:-1 tvg-id="6005" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6005.png" group-title="Кинозалы",Видеокассета HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16049/index.m3u8
+#EXTINF:-1 tvg-id="6737" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6737.png" group-title="Кинозалы",Видеокассета Юность
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19318/index.m3u8
+#EXTINF:-1 tvg-id="6004" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6004.png" group-title="Кинозалы",kino watch тв Уже Видел HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16046/index.m3u8
+#EXTINF:-1 tvg-id="6003" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6003.png" group-title="Кинозалы",kino watch тв Свежаки HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18197/index.m3u8
+#EXTINF:-1 tvg-id="6000" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6000.png" group-title="Кинозалы",Премьера T
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16009/index.m3u8
+#EXTINF:-1 tvg-id="6105" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6105.png" group-title="Кинозалы",Fresh Cinema HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16067/index.m3u8
+#EXTINF:-1 tvg-id="6106" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6106.png" group-title="Кинозалы",KLI Cinema HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16078/index.m3u8
+#EXTINF:-1 tvg-id="6107" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6107.png" group-title="Кинозалы",KLI Comedy HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/16080/index.m3u8
+#EXTINF:-1 tvg-id="6233" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6233.png" group-title="Кинозалы",KLI History HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18047/index.m3u8
+#EXTINF:-1 tvg-id="6234" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6234.png" group-title="Кинозалы",KLI Premium HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18048/index.m3u8
+#EXTINF:-1 tvg-id="6236" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6236.png" group-title="Кинозалы",KLI Fantastic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18050/index.m3u8
+#EXTINF:-1 tvg-id="6235" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6235.png" group-title="Кинозалы",KLI Russian HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18049/index.m3u8
+#EXTINF:-1 tvg-id="6395" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6395.png" group-title="Кинозалы",KLI VHS HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18173/index.m3u8
+#EXTINF:-1 tvg-id="6396" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6396.png" group-title="Кинозалы",KLI Thriller HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18174/index.m3u8
+#EXTINF:-1 tvg-id="6397" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6397.png" group-title="Кинозалы",KLI CCCP HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18175/index.m3u8
+#EXTINF:-1 tvg-id="6398" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6398.png" group-title="Кинозалы",KLI Family HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18176/index.m3u8
+#EXTINF:-1 tvg-id="6399" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6399.png" group-title="Кинозалы",KLI Retro HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18177/index.m3u8
+#EXTINF:-1 tvg-id="6830" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6830.png" group-title="Кинозалы",KLI Киносерия FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19400/index.m3u8
+#EXTINF:-1 tvg-id="6211" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6211.png" group-title="Кинозалы",Eye Modern HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17068/index.m3u8
+#EXTINF:-1 tvg-id="6207" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6207.png" group-title="Кинозалы",Eye Media HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17064/index.m3u8
+#EXTINF:-1 tvg-id="6208" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6208.png" group-title="Кинозалы",Eye Oscar HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17065/index.m3u8
+#EXTINF:-1 tvg-id="6209" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6209.png" group-title="Кинозалы",Eye Frozen HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17066/index.m3u8
+#EXTINF:-1 tvg-id="6210" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6210.png" group-title="Кинозалы",Eye Criminal HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/17067/index.m3u8
+#EXTINF:-1 tvg-id="6243" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6243.png" group-title="Кинозалы",Kinoshka Triller HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18055/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6245.png" group-title="Кинозалы",Kinoshka Comedy HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18057/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6246.png" group-title="Кинозалы",Kinoshka Russian HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18058/index.m3u8
+#EXTINF:-1 tvg-id="6247" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6247.png" group-title="Кинозалы",Kinoshka Mystic HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18059/index.m3u8
+#EXTINF:-1 tvg-id="6330" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6330.png" group-title="Кинозалы",Kinoshka Premiere HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18117/index.m3u8
+#EXTINF:-1 tvg-id="6331" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6331.png" group-title="Кинозалы",Kinoshka Action HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18118/index.m3u8
+#EXTINF:-1 tvg-id="6400" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6400.png" group-title="Кинозалы",Kinoshka Drama HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18150/index.m3u8
+#EXTINF:-1 tvg-id="6256" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6256.png" group-title="Кинозалы",Кино 1 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18069/index.m3u8
+#EXTINF:-1 tvg-id="6258" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6258.png" group-title="Кинозалы",Кино 1 International
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18071/index.m3u8
+#EXTINF:-1 tvg-id="6257" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6257.png" group-title="Кинозалы",Кино 2 HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18070/index.m3u8
+#EXTINF:-1 tvg-id="6259" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6259.png" group-title="Кинозалы",Военное кино HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18072/index.m3u8
+#EXTINF:-1 tvg-id="6248" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6248.png" group-title="Кинозалы",Magic Karate HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18061/index.m3u8
+#EXTINF:-1 tvg-id="6249" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6249.png" group-title="Кинозалы",Magic VHS HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18062/index.m3u8
+#EXTINF:-1 tvg-id="6250" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6250.png" group-title="Кинозалы",Magic Comedy HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18063/index.m3u8
+#EXTINF:-1 tvg-id="6338" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6338.png" group-title="Кинозалы",Magic Love HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18171/index.m3u8
+#EXTINF:-1 tvg-id="6337" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6337.png" group-title="Кинозалы",Magic Family HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18170/index.m3u8
+#EXTINF:-1 tvg-id="6252" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6252.png" group-title="Кинозалы",Magic Thriller HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18065/index.m3u8
+#EXTINF:-1 tvg-id="6253" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6253.png" group-title="Кинозалы",Magic Action HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18066/index.m3u8
+#EXTINF:-1 tvg-id="6254" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6254.png" group-title="Кинозалы",Magic Galaxy HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18067/index.m3u8
+#EXTINF:-1 tvg-id="6255" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6255.png" group-title="Кинозалы",Magic Horror HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18068/index.m3u8
+#EXTINF:-1 tvg-id="6401" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6401.png" group-title="Кинозалы",PROKOP TV CRIMINAL HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18140/index.m3u8
+#EXTINF:-1 tvg-id="6403" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6403.png" group-title="Кинозалы",PROKOP TV HISTORY HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18142/index.m3u8
+#EXTINF:-1 tvg-id="6404" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6404.png" group-title="Кинозалы",PROKOP TV COMEDY HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18146/index.m3u8
+#EXTINF:-1 tvg-id="6405" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6405.png" group-title="Кинозалы",PROKOP TV FANTAZY HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18144/index.m3u8
+#EXTINF:-1 tvg-id="6406" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6406.png" group-title="Кинозалы",PROKOP TV HORROR HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18145/index.m3u8
+#EXTINF:-1 tvg-id="6408" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6408.png" group-title="Кинозалы",PROKOP TV CINEMA HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18147/index.m3u8
+#EXTINF:-1 tvg-id="6600" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6600.png" group-title="Кинозалы",PROKOP TV SERIAL HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19271/index.m3u8
+#EXTINF:-1 tvg-id="6733" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6733.png" group-title="Кинозалы",PROKOP CINEMA FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19313/index.m3u8
+#EXTINF:-1 tvg-id="6740" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6740.png" group-title="Кинозалы",PROKOP TV DOCU HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19314/index.m3u8
+#EXTINF:-1 tvg-id="6837" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6837.png" group-title="Кинозалы",PROKOP TV Premier HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19399/index.m3u8
+#EXTINF:-1 tvg-id="6734" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6734.png" group-title="Кинозалы",PROKOP TV cinemaQHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19315/index.m3u8
+#EXTINF:-1 tvg-id="6735" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6735.png" group-title="Кинозалы",PROKOP TV cinemaV
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19316/index.m3u8
+#EXTINF:-1 tvg-id="6835" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6835.png" group-title="Кинозалы",PROKOP TV The Simpsons UA HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19395/index.m3u8
+#EXTINF:-1 tvg-id="2952" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2952.png" group-title="Кинозалы",Кинозал 1
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18126/index.m3u8
+#EXTINF:-1 tvg-id="2953" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2953.png" group-title="Кинозалы",Кинозал 2
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18127/index.m3u8
+#EXTINF:-1 tvg-id="2954" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2954.png" group-title="Кинозалы",Кинозал 3
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18128/index.m3u8
+#EXTINF:-1 tvg-id="2955" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2955.png" group-title="Кинозалы",Кинозал 4
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18129/index.m3u8
+#EXTINF:-1 tvg-id="2956" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2956.png" group-title="Кинозалы",Кинозал 5
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18130/index.m3u8
+#EXTINF:-1 tvg-id="2957" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2957.png" group-title="Кинозалы",Кинозал 6
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18131/index.m3u8
+#EXTINF:-1 tvg-id="2958" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2958.png" group-title="Кинозалы",Кинозал 7
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18132/index.m3u8
+#EXTINF:-1 tvg-id="2959" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2959.png" group-title="Кинозалы",Кинозал 8
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18133/index.m3u8
+#EXTINF:-1 tvg-id="2960" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2960.png" group-title="Кинозалы",Кинозал 9
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18134/index.m3u8
+#EXTINF:-1 tvg-id="2961" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2961.png" group-title="Кинозалы",Кинозал 10
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18135/index.m3u8
+#EXTINF:-1 tvg-id="2962" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2962.png" group-title="Кинозалы",Кинозал 11
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18136/index.m3u8
+#EXTINF:-1 tvg-id="2963" tvg-rec="0" tvg-logo="http://epg.it999.ru/img/2963.png" group-title="Кинозалы",Кинозал 12
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/18137/index.m3u8
+#EXTINF:-1 tvg-id="6601" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6601.png" group-title="Кинозалы",PROKOP TV SERIAL FHD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19272/index.m3u8
+#EXTINF:-1 tvg-id="6613" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6613.png" group-title="Кинозалы",kino watch тв Ужастик HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19273/index.m3u8
+#EXTINF:-1 tvg-id="6696" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6696.png" group-title="Кинозалы",BOX Franchise HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19274/index.m3u8
+#EXTINF:-1 tvg-id="6697" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6697.png" group-title="Кинозалы",BOX Hybrid HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19275/index.m3u8
+#EXTINF:-1 tvg-id="6698" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6698.png" group-title="Кинозалы",BOX Anime HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19276/index.m3u8
+#EXTINF:-1 tvg-id="6699" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6699.png" group-title="Кинозалы",BOX Gangster HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19277/index.m3u8
+#EXTINF:-1 tvg-id="6700" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6700.png" group-title="Кинозалы",BOX Oscar HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19278/index.m3u8
+#EXTINF:-1 tvg-id="6701" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6701.png" group-title="Кинозалы",BOX Memory HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19279/index.m3u8
+#EXTINF:-1 tvg-id="6702" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6702.png" group-title="Кинозалы",BOX M.Serial HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19280/index.m3u8
+#EXTINF:-1 tvg-id="6703" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6703.png" group-title="Кинозалы",BOX Serial HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19281/index.m3u8
+#EXTINF:-1 tvg-id="6708" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6708.png" group-title="Кинозалы",BOX Relax 4K
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19283/index.m3u8
+#EXTINF:-1 tvg-id="6704" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6704.png" group-title="Кинозалы",BOX Game HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19284/index.m3u8
+#EXTINF:-1 tvg-id="6705" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6705.png" group-title="Кинозалы",BOX Spy HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19285/index.m3u8
+#EXTINF:-1 tvg-id="6832" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6832.png" group-title="Кинозалы",BOX Western HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19419/index.m3u8
+#EXTINF:-1 tvg-id="6833" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6833.png" group-title="Кинозалы",BOX Zombie HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19420/index.m3u8
+#EXTINF:-1 tvg-id="6831" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6831.png" group-title="Кинозалы",BOX Travel HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19418/index.m3u8
+#EXTINF:-1 tvg-id="6834" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6834.png" group-title="Кинозалы",BOX Cyber HD
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19421/index.m3u8
+#EXTINF:-1 tvg-id="6105" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6105.png" group-title="Кинозалы",Fresh Cinema
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19287/index.m3u8
+#EXTINF:-1 tvg-id="6711" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6711.png" group-title="Кинозалы",Fresh Comedy
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19289/index.m3u8
+#EXTINF:-1 tvg-id="6712" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6712.png" group-title="Кинозалы",Fresh Premiere
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19290/index.m3u8
+#EXTINF:-1 tvg-id="6713" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6713.png" group-title="Кинозалы",Fresh Family
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19291/index.m3u8
+#EXTINF:-1 tvg-id="6714" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6714.png" group-title="Кинозалы",Fresh Rating
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19292/index.m3u8
+#EXTINF:-1 tvg-id="6715" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6715.png" group-title="Кинозалы",Fresh VHS
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19293/index.m3u8
+#EXTINF:-1 tvg-id="6716" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6716.png" group-title="Кинозалы",Fresh Fantastic
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19294/index.m3u8
+#EXTINF:-1 tvg-id="6717" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6717.png" group-title="Кинозалы",Fresh Series
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19295/index.m3u8
+#EXTINF:-1 tvg-id="6718" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6718.png" group-title="Кинозалы",Fresh Horror
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19296/index.m3u8
+#EXTINF:-1 tvg-id="6719" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6719.png" group-title="Кинозалы",Fresh Adventure
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19297/index.m3u8
+#EXTINF:-1 tvg-id="6720" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6720.png" group-title="Кинозалы",Fresh Romantic
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19298/index.m3u8
+#EXTINF:-1 tvg-id="6721" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6721.png" group-title="Кинозалы",Fresh Russian
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19299/index.m3u8
+#EXTINF:-1 tvg-id="6722" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6722.png" group-title="Кинозалы",Fresh Thriller
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19300/index.m3u8
+#EXTINF:-1 tvg-id="6723" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/6723.png" group-title="Кинозалы",Fresh Soviet
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19301/index.m3u8
+#EXTINF:-1 tvg-id="107" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/107.png" group-title="Кинозалы",MYTV HIT
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19410/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/104.png" group-title="Кинозалы",MYTV
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19407/index.m3u8
+#EXTINF:-1 tvg-id="105" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/105.png" group-title="Кинозалы",MYTV 2
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19408/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-rec="0" tvg-logo="http://epg.it999.ru/img2/106.png" group-title="Кинозалы",MYTV 3
+http://c3921155.edmonst.net/iptv/SU2U2T2VQLFQ4Q/19411/index.m3u8
+
