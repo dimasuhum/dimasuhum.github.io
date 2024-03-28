@@ -71,7 +71,11 @@ https://gclnk.com/EvXCbg9L
 #EXTINF:-1 ,GedemDUPLICATOR
 https://edemtv.my1.ru/2024/GedemDUPLICATOR.m3u
 
-#EXTINF:-1 ,Tv0
+
+#EXTINF:-1 ,Tvone1
+http://troya.one/pl/3/61b0b2ee35f27/playlist.m3u8
+
+#EXTINF:-1 ,Tvone2
 m3u+http://troya.one/pl/21/620fb473efc91/playlist.m3u8
 
 #EXTINF:-1 ,TvKino
