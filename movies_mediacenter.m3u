@@ -85,8 +85,34 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cineman%2Bbcu.m3u
 #EXTINF:-1 ,Tv
 m3u+http://troya.today/pl/3/64f5f24bf3e94/playlist.m3u8
 
-#EXTINF:-1 ,Tvklimedia
-m3u+http://klimedia.space/hls/alensat_com_test-13/alensat_com_test-13/playlist.m3u8
+#EXTINF:-1 ,tv-snd
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/sunday-1.m3u
+
+#EXTINF:-1 ,tv-snd1
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-1.m3u
+
+#EXTINF:-1 ,tv-snd2
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-2.m3u
+
+#EXTINF:-1 ,tv-snd3
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-3.m3u
+
+#EXTINF:-1 ,tv-snd4
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-4.m3u
+
+#EXTINF:-1 ,tv-snd5
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-5.m3u
+
+#EXTINF:-1 ,tv-snd6
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-6.m3u
+
+#EXTINF:-1 ,tv-snd7
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-7.m3u
+
+#EXTINF:-1 ,tv-snd8
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-8.m3u
+
+
 
 #EXTINF:-1 ,mediateka
 https://edemtv.my1.ru/mediateka.m3u
