@@ -85,6 +85,17 @@ https://pbox.su/8ax89amCQMRO.m3u
 #EXTINF:-1 ,TvTest
 http://osipov.esy.es/test.m3u
 
+
+#EXTINF:-1 ,wednesday1
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/wednesday-1.m3u
+
+#EXTINF:-1 ,wednesday2
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/wednesday-2.m3u
+
+#EXTINF:-1 ,wednesday3
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/wednesday-3.m3u
+
+
 #EXTINF:-1 ,TvKino
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cineman%2Bbcu.m3u
 
