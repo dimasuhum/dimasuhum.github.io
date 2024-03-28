@@ -85,8 +85,8 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cineman%2Bbcu.m3u
 #EXTINF:-1 ,Tv
 m3u+http://troya.today/pl/3/64f5f24bf3e94/playlist.m3u8
 
-#EXTINF:-1 ,Tv2
-m3u+https://is.gd/6oikBP
+#EXTINF:-1 ,Tvklimedia
+m3u+http://klimedia.space/hls/alensat_com_test-13/alensat_com_test-13/playlist.m3u8
 
 #EXTINF:-1 ,mediateka
 https://edemtv.my1.ru/mediateka.m3u
