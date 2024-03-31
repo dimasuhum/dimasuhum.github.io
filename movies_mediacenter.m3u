@@ -95,10 +95,9 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-2.m3u
 #EXTINF:-1 ,stream3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-3.m3u
 
-#EXTINF:-1 ,stream4
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-4.m3u
 
-#EXTINF:-1 ,stream5
+
+#EXTINF:-1 ,stream4
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-5.m3u
 
 
