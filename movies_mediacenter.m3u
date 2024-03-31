@@ -72,10 +72,9 @@ https://gclnk.com/EvXCbg9L
 https://edemtv.my1.ru/2024/GedemDUPLICATOR.m3u
 
 
-#EXTINF:-1 ,Tvone1
-m3u+http://troya.one/pl/3/61b0b2ee35f27/playlist.m3u8
 
-#EXTINF:-1 ,Tvone2
+
+#EXTINF:-1 ,Tvone
 m3u+http://troya.one/pl/21/620fb473efc91/playlist.m3u8
 
 
@@ -84,6 +83,24 @@ https://pbox.su/8ax89amCQMRO.m3u
 
 #EXTINF:-1 ,TvTest
 http://osipov.esy.es/test.m3u
+
+
+
+#EXTINF:-1 ,stream1
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-1.m3u
+
+#EXTINF:-1 ,stream2
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-2.m3u
+
+#EXTINF:-1 ,stream3
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-3.m3u
+
+#EXTINF:-1 ,stream4
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-4.m3u
+
+#EXTINF:-1 ,stream5
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-5.m3u
+
 
 
 
