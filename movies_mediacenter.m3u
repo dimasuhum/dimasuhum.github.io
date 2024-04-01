@@ -81,6 +81,9 @@ m3u+http://troya.one/pl/21/620fb473efc91/playlist.m3u8
 #EXTINF:-1 ,DITv
 https://pbox.su/8ax89amCQMRO.m3u
 
+#EXTINF:-1 ,DITv2
+https://edemtv.my1.ru/ZAEBURIL-KABAKA-TV.m3u
+
 #EXTINF:-1 ,TvTest
 http://osipov.esy.es/test.m3u
 
