@@ -86,6 +86,28 @@ https://edemtv.my1.ru/2024/GedemDUPLICATOR.m3u
 #EXTINF:-1 ,Tvone
 m3u+http://troya.one/pl/21/620fb473efc91/playlist.m3u8
 
+#EXTINF:-1 ,Tvone1
+m3u+http://troya.tv/pl/11/60963d359df14/playlist.m3u8
+
+#EXTINF:-1 ,Tvone2
+m3u+http://1usd.tv/pl-6220bbcf1cc2b-hls
+
+#EXTINF:-1 ,Tvone3
+m3u+http://troya.one/pl/3/5eb94d60d0a44/playlist.m3u8
+
+
+#EXTINF:-1 ,Tvone4
+m3u+http://troya.tv/pl/21/ff84ybqs8z2dt/playlist.m3u8
+
+#EXTINF:-1 ,usdtv
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tvtest.m3u
+
+
+
+
+
+
+
 
 #EXTINF:-1 ,DITv
 https://pbox.su/8ax89amCQMRO.m3u
