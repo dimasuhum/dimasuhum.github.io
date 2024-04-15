@@ -139,6 +139,28 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-3.m3u
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-5.m3u
 
 
+#EXTINF:-1 ,tivi1
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-1.m3u
+
+#EXTINF:-1 ,tivi2
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-2.m3u
+
+#EXTINF:-1 ,tivi3
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-3.m3u
+
+#EXTINF:-1 ,tivi4
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-4.m3u
+
+
+#EXTINF:-1 ,tivi5
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-5.m3u
+
+#EXTINF:-1 ,tivi6
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-6.m3u
+
+#EXTINF:-1 ,tivi7
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-7.m3u
+
 
 
 #EXTINF:-1 ,wednesday2
