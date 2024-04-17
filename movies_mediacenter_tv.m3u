@@ -60,6 +60,27 @@ https://edemtv.my1.ru/ZAEBURIL-KABAKA-TV.m3u
 http://osipov.esy.es/test.m3u
 
 
+#EXTINF:-1 ,listtv1
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-1.m3u
+
+#EXTINF:-1 ,listtv2
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-2.m3u
+
+#EXTINF:-1 ,listtv3
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-3.m3u
+
+#EXTINF:-1 ,listtv4
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-4.m3u
+
+#EXTINF:-1 ,listtv5
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-5.m3u
+
+#EXTINF:-1 ,listtv6
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-6.m3u
+
+#EXTINF:-1 ,listtv7
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-7.m3u
+
 
 
 #EXTINF:-1 ,tuetv1
