@@ -15,8 +15,8 @@ https://gclnk.com/EvXCbg9L
 #EXTINF:-1 ,GedemDUPLICATOR
 https://edemtv.my1.ru/2024/GedemDUPLICATOR.m3u
 
-#EXTINF:-1 ,KolobokTv
-https://dl.dropbox.com/scl/fi/abm1xbjamn0iku2gvaz58/KolobokHatNetTV.m3u?rlkey=263wtkw1vi52xby4qguatdxqb&dl=0
+#EXTINF:-1 ,FREETv
+m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 #EXTINF:-1 ,TvoneTv1
 m3u+http://1usd.tv/pl-pgopfc4k967oq-hls
