@@ -1,0 +1,346 @@
+#EXTM3U x-tvg-url="https://gabbarit.page.link/epg"
+#EXTINF:0,@JdunOfficial
+#EXTGRP:@wagnertvVREMYANKA
+https://wagneriptv.sytes.net/WagnerTV/VID_20240418_165826_610.mp4/index.m3u8
+#EXTINF:-1 tvg-id="PerviyKanalHD" tvg-name="Первый Канал HD" group-title="Федеральные",Первый Канал HD
+https://wagneriptv.sytes.net/PerviyKanalHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="Rossiya1HD" tvg-name="Россия 1 HD" group-title="Федеральные",Россия 1 HD
+https://wagneriptv.sytes.net/Rossiya1HD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="NTVHD" tvg-name="НТВ HD" group-title="Федеральные",НТВ HD
+https://wagneriptv.sytes.net/NTVHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="RENTVHD" tvg-name="Рен ТВ HD" group-title="Федеральные",Рен ТВ HD
+https://wagneriptv.sytes.net/RENTVHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="TVCHD" tvg-name="ТВЦ HD" group-title="Федеральные",ТВЦ HD
+https://wagneriptv.sytes.net/TVCHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="TNTHD" tvg-name="ТНТ HD" group-title="Федеральные",ТНТ HD
+https://wagneriptv.sytes.net/TNTHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="TNT4HD" tvg-name="ТНТ4 HD" group-title="Федеральные",ТНТ4 HD
+https://wagneriptv.sytes.net/TNT4HD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="STSHD" tvg-name="СТС HD" group-title="Федеральные",СТС HD
+https://wagneriptv.sytes.net/STSHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="PYATNICAHD" tvg-name="Пятница HD" group-title="Федеральные",Пятница HD
+https://wagneriptv.sytes.net/PYATNICAHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SubbotaHD" tvg-name="Суббота! HD" group-title="Федеральные",Суббота! HD
+https://wagneriptv.sytes.net/SubbotaHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="DomashniyHD" tvg-name="Домашний HD" group-title="Федеральные",Домашний HD
+https://wagneriptv.sytes.net/DomashniyHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="Che" tvg-name="Че" group-title="Федеральные",Че
+https://wagneriptv.sytes.net/Che/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="Setanta1hd" tvg-name="Setanta Sports 1 HD" group-title="Спорт",Setanta Sports 1 HD
+https://wagneriptv.sytes.net/Setanta1hd/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="Setanta2hd" tvg-name="Setanta Sports 2 HD" group-title="Спорт",Setanta Sports 2 HD
+https://wagneriptv.sytes.net/Setanta2hd/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="Setantaqzhd" tvg-name="Setanta Qazaqstan HD" group-title="Спорт",Setanta Qazaqstan HD
+https://wagneriptv.sytes.net/Setantaqzhd/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SetantaSportsUA" tvg-name="Setanta Ukraine HD" group-title="Спорт",Setanta Ukraine HD
+https://wagneriptv.sytes.net/SetantaSportsUA/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SetantaSportsPlusUA" tvg-name="Setanta Ukraine Plus HD" group-title="Спорт",Setanta Ukraine Plus HD
+https://wagneriptv.sytes.net/SetantaSportsPlusUA/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="MatcTVHD" tvg-name="Матч! HD" group-title="Спорт",Матч! HD
+https://wagneriptv.sytes.net/MatcTVHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="MatchPremierHD" tvg-name="Матч! Премьер HD" group-title="Спорт",Матч! Премьер HD
+https://wagneriptv.sytes.net/MatchPremierHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="Matchfutbol1hd" tvg-name="Матч! Футбол 1 HD" group-title="Спорт",Матч! Футбол 1 HD
+https://wagneriptv.sytes.net/Matchfutbol1hd/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="Matchfutbol2hd" tvg-name="Матч! Футбол 2 HD" group-title="Спорт",Матч! Футбол 2 HD
+https://wagneriptv.sytes.net/Matchfutbol2hd/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="Match_Futbol_3_HD" tvg-name="Матч! Футбол 3 HD" group-title="Спорт",Матч! Футбол 3 HD
+https://wagneriptv.sytes.net/Match_Futbol_3_HD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OKKOSportHD" tvg-name="Окко Спорт HD" group-title="Спорт",Окко Спорт HD
+https://wagneriptv.sytes.net/OKKOSportHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighFightPHD" tvg-name="Sky High Fight + HD" group-title="Спорт",Sky High Fight + HD
+https://wagneriptv.sytes.net/SkyHighFightPHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="BOXTravelHD" tvg-name="BOX Travel HD" group-title="Познавательные",BOX Travel HD
+https://wagneriptv.sytes.net/BOXTravelHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="BOXTravelPremiereHD" tvg-name="BOX Travel Premiere HD" group-title="Познавательные",BOX Travel Premiere HD
+https://wagneriptv.sytes.net/BOXTravelPremiereHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="KLIDocuHD" tvg-name="KLI Docu HD" group-title="Познавательные",KLI Docu HD
+https://wagneriptv.sytes.net/KLIDocuHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisVijivanieHD" tvg-name="Oasis Выживание HD" group-title="Познавательные",Oasis Выживание HD
+https://wagneriptv.sytes.net/OasisVijivanieHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisVijitVmesteHD" tvg-name="Oasis Выжить вместе HD" group-title="Познавательные",Oasis Выжить вместе HD
+https://wagneriptv.sytes.net/OasisVijitVmesteHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisNashaPlanetaHD" tvg-name="Oasis Наша планета HD" group-title="Познавательные",Oasis Наша планета HD
+https://wagneriptv.sytes.net/OasisNashaPlanetaHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisProJivotnih" tvg-name="Oasis Про животных HD" group-title="Познавательные",Oasis Про животных HD
+https://wagneriptv.sytes.net/OasisProJivotnih/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisEnglishStudy" tvg-name="Oasis Учим английский HD" group-title="Познавательные",Oasis Учим английский HD
+https://wagneriptv.sytes.net/OasisEnglishStudy/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisSpainStudy" tvg-name="Oasis Учим испанский HD" group-title="Познавательные",Oasis Учим испанский HD
+https://wagneriptv.sytes.net/OasisSpainStudy/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisUchimKitay" tvg-name="Oasis Учим китайский HD" group-title="Познавательные",Oasis Учим китайский HD
+https://wagneriptv.sytes.net/OasisUchimKitay/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighVHSUHD" tvg-name="Sky High Brain HD" group-title="Познавательные",Sky High Brain HD
+https://wagneriptv.sytes.net/SkyHighVHSUHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHihgDocHD" tvg-name="Sky High Doc HD" group-title="Познавательные",Sky High Doc HD
+https://wagneriptv.sytes.net/SkyHihgDocHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighDocUHD" tvg-name="Sky High Doc UHD" group-title="Познавательные",Sky High Doc UHD
+https://wagneriptv.sytes.net/SkyHighDocUHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighNature4K" tvg-name="Sky High Nature 4K" group-title="Познавательные",Sky High Nature 4K
+https://wagneriptv.sytes.net/SkyHighNature4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighNatureHD" tvg-name="Sky High Nature HD" group-title="Познавательные",Sky High Nature HD
+https://wagneriptv.sytes.net/SkyHighNatureHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighNatureHDR4K" tvg-name="Sky High Nature HDR 4K" group-title="Познавательные",Sky High Nature HDR 4K
+https://wagneriptv.sytes.net/SkyHighNatureHDR4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighUHDHDR" tvg-name="Sky High Standup HD" group-title="Развлекательные",Sky High Standup HD
+https://wagneriptv.sytes.net/SkyHighUHDHDR/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighManHD" tvg-name="Sky High Man HD" group-title="Развлекательные",Sky High Man HD
+https://wagneriptv.sytes.net/SkyHighManHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="BoxGameHD" tvg-name="BOX Game HD" group-title="Развлекательные",BOX Game HD
+https://wagneriptv.sytes.net/BoxGameHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="MMTomJerry" tvg-name="MM Tom and Jerry HD" group-title="Детские",MM Tom and Jerry HD
+https://wagneriptv.sytes.net/MMTomJerry/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="BCULittleHD" tvg-name="BCU Little HD" group-title="Детские",BCU Little HD
+https://wagneriptv.sytes.net/BCULittleHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisDisneyClassicHD" tvg-name="Oasis Disney Classic HD" group-title="Детские",Oasis Disney Classic HD
+https://wagneriptv.sytes.net/OasisDisneyClassicHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisMiyadzakiHD" tvg-name="Oasis Миядзаки HD" group-title="Детские",Oasis Миядзаки HD
+https://wagneriptv.sytes.net/OasisMiyadzakiHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManCartoons90" tvg-name="Cartoons 90" group-title="Детские",Cartoons 90
+https://wagneriptv.sytes.net/CineManCartoons90/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManSimpsoni" tvg-name="CineMan Симпсоны" group-title="Детские",CineMan Симпсоны
+https://wagneriptv.sytes.net/CineManSimpsoni/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighAnimeeHD" tvg-name="Sky High Anime HD" group-title="Детские",Sky High Anime HD
+https://wagneriptv.sytes.net/SkyHighAnimeeHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighKidsUSSR" tvg-name="Sky High Kids USSR" group-title="Детские",Sky High Kids USSR
+https://wagneriptv.sytes.net/SkyHighKidsUSSR/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighBunnyHD" tvg-name="Sky High Bunny HD" group-title="Детские",Sky High Bunny HD
+https://wagneriptv.sytes.net/SkyHighBunnyHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighWBrosHDR" tvg-name="Sky High WBros HDR" group-title="Детские",Sky High WBros HDR
+https://wagneriptv.sytes.net/SkyHighWBrosHDR/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighJetix4KHDR" tvg-name="Sky High Jetix HDR" group-title="Детские",Sky High Jetix HDR
+https://wagneriptv.sytes.net/SkyHighJetix4KHDR/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyMiMFHD" tvg-name="Liberty МиМ FHD" group-title="Детские",Liberty МиМ FHD
+https://wagneriptv.sytes.net/LibertyMiMFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyAnimeFHD" tvg-name="Liberty Аниме FHD" group-title="Детские",Liberty Аниме FHD
+https://wagneriptv.sytes.net/LibertyAnimeFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyPlanktonFHD" tvg-name="Liberty Планктон FHD" group-title="Детские",Liberty Планктон FHD
+https://wagneriptv.sytes.net/LibertyPlanktonFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyMult4K" tvg-name="Liberty Мульт 4K" group-title="Детские",Liberty Мульт 4K
+https://wagneriptv.sytes.net/LibertyMult4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="GabbaritMusic" tvg-name="Gabbarit Music HD" group-title="Музыка",Gabbarit Music HD
+https://wagneriptv.sytes.net/GabbaritMusic/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighConcertHD" tvg-name="Sky High Concert HD" group-title="Музыка",Sky High Concert HD
+https://wagneriptv.sytes.net/SkyHighConcertHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighDanceUHD" tvg-name="Sky High Dance UHD" group-title="Музыка",Sky High Dance UHD
+https://wagneriptv.sytes.net/SkyHighDanceUHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighMusicHDAi" tvg-name="Sky High Music HD" group-title="Музыка",Sky High Music HD
+https://wagneriptv.sytes.net/SkyHighMusicHDAi/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighClassicHD" tvg-name="Sky High Classic HD" group-title="Музыка",Sky High Classic HD
+https://wagneriptv.sytes.net/SkyHighClassicHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyMuzikaVipFHD" tvg-name="Liberty Музыка Микс FHD" group-title="Музыка",Liberty Музыка Микс FHD
+https://wagneriptv.sytes.net/LibertyMuzikaVipFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyDJFHD" tvg-name="Liberty DJ FHD" group-title="Музыка",Liberty DJ FHD
+https://wagneriptv.sytes.net/LibertyDJFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyRokFHD" tvg-name="Liberty Рок FHD" group-title="Музыка",Liberty Рок FHD
+https://wagneriptv.sytes.net/LibertyRokFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyDjazFHD" tvg-name="Liberty Джаз FHD" group-title="Музыка",Liberty Джаз FHD
+https://wagneriptv.sytes.net/LibertyDjazFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyPopMusicFHD" tvg-name="Liberty Поп-Музыка FHD" group-title="Музыка",Liberty Поп-Музыка FHD
+https://wagneriptv.sytes.net/LibertyPopMusicFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyKPopFHD" tvg-name="Liberty К-Поп FHD" group-title="Музыка",Liberty К-Поп FHD
+https://wagneriptv.sytes.net/LibertyKPopFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyLatinoFHD" tvg-name="Liberty Латино FHD" group-title="Музыка",Liberty Латино FHD
+https://wagneriptv.sytes.net/LibertyLatinoFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyIndiFHD" tvg-name="Liberty Инди FHD" group-title="Музыка",Liberty Инди FHD
+https://wagneriptv.sytes.net/LibertyIndiFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyXipXopFHD" tvg-name="Liberty Хип-Хоп FHD" group-title="Музыка",Liberty Хип-Хоп FHD
+https://wagneriptv.sytes.net/LibertyXipXopFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyXiti90FHD" tvg-name="Liberty Хиты 90-х FHD" group-title="Музыка",Liberty Хиты 90-х FHD
+https://wagneriptv.sytes.net/LibertyXiti90FHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" group-title="Кино",AMC HD
+https://wagneriptv.sytes.net/AMC/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="EpicDramaHD" tvg-name="Epic Drama HD" group-title="Кино",Epic Drama HD
+https://wagneriptv.sytes.net/EpicDramaHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="1FILMAXHD" tvg-name="1FILMAX" group-title="Кино",1FILMAX
+https://wagneriptv.sytes.net/1FILMAXHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="2FILMAX" tvg-name="2FILMAX" group-title="Кино",2FILMAX
+https://wagneriptv.sytes.net/2FILMAX/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="StrahHD" tvg-name="Страх HD" group-title="Кино",Страх HD
+https://wagneriptv.sytes.net/StrahHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="MMUSSSR19411945HD" tvg-name="MM USSR 1941-1945 HD" group-title="Кино",MM USSR 1941-1945 HD
+https://wagneriptv.sytes.net/MMUSSSR19411945HD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManHD" tvg-name="CineMan" group-title="CineMan",CineMan
+https://wagneriptv.sytes.net/CineManHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManActionHD" tvg-name="CineMan Action" group-title="CineMan",CineMan Action
+https://wagneriptv.sytes.net/CineManActionHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CinemanMarvelHD" tvg-name="CineMan Marvel" group-title="CineMan",CineMan Marvel
+https://wagneriptv.sytes.net/CinemanMarvelHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManMelodrama" tvg-name="CineMan Melodrama" group-title="CineMan",CineMan Melodrama
+https://wagneriptv.sytes.net/CineManMelodrama/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManMiniseries" tvg-name="CineMan Miniseries" group-title="CineMan",CineMan Miniseries
+https://wagneriptv.sytes.net/CineManMiniseries/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CinemanPremiumHD" tvg-name="CineMan Premium" group-title="CineMan",CineMan Premium
+https://wagneriptv.sytes.net/CinemanPremiumHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManThrillerHD" tvg-name="CineMan Thriller" group-title="CineMan",CineMan Thriller
+https://wagneriptv.sytes.net/CineManThrillerHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManTopHD" tvg-name="CineMan Top" group-title="CineMan",CineMan Top
+https://wagneriptv.sytes.net/CineManTopHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManVHS" tvg-name="CineMan VHS" group-title="CineMan",CineMan VHS
+https://wagneriptv.sytes.net/CineManVHS/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManGluharKarpov" tvg-name="CineMan Глухарь + Карпов" group-title="CineMan",CineMan Глухарь + Карпов
+https://wagneriptv.sytes.net/CineManGluharKarpov/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManInterni" tvg-name="CineMan Интерны" group-title="CineMan",CineMan Интерны
+https://wagneriptv.sytes.net/CineManInterni/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManKarastrofi" tvg-name="CineMan Катастрофы" group-title="CineMan",CineMan Катастрофы
+https://wagneriptv.sytes.net/CineManKarastrofi/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManComedy" tvg-name="CineMan Комедия" group-title="CineMan",CineMan Комедия
+https://wagneriptv.sytes.net/CineManComedy/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManLesnik" tvg-name="CineMan Лесник" group-title="CineMan",CineMan Лесник
+https://wagneriptv.sytes.net/CineManLesnik/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManMentVoini" tvg-name="CineMan Ментовские Войны" group-title="CineMan",CineMan Ментовские Войны
+https://wagneriptv.sytes.net/CineManMentVoini/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManPyos" tvg-name="CineMan ПёС" group-title="CineMan",CineMan ПёС
+https://wagneriptv.sytes.net/CineManPyos/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManRuKinoHD" tvg-name="CineMan РуКино" group-title="CineMan",CineMan РуКино
+https://wagneriptv.sytes.net/CineManRuKinoHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManSvati" tvg-name="CineMan Сваты" group-title="CineMan",CineMan Сваты
+https://wagneriptv.sytes.net/CineManSvati/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineMan103" tvg-name="CineMan Скорая Помощь" group-title="CineMan",CineMan Скорая Помощь
+https://wagneriptv.sytes.net/CineMan103/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManUjasi" tvg-name="CineMan Ужасы" group-title="CineMan",CineMan Ужасы
+https://wagneriptv.sytes.net/CineManUjasi/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CineManUniver" tvg-name="CineMan Универ" group-title="CineMan",CineMan Универ
+https://wagneriptv.sytes.net/CineManUniver/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisActionHD" tvg-name="Oasis Action HD" group-title="Oasis",Oasis Action HD
+https://wagneriptv.sytes.net/OasisActionHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisAlienAndPredatorHD" tvg-name="Oasis Alien and Predator HD" group-title="Oasis",Oasis Alien and Predator HD
+https://wagneriptv.sytes.net/OasisAlienAndPredatorHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisUfoandAliensHD" tvg-name="Oasis Ufo and Aliens HD" group-title="Oasis",Oasis Ufo and Aliens HD
+https://wagneriptv.sytes.net/OasisUfoandAliensHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisBiographyHD" tvg-name="Oasis Biography HD" group-title="Oasis",Oasis Biography HD
+https://wagneriptv.sytes.net/OasisBiographyHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisComedyHD" tvg-name="Oasis Comedy HD" group-title="Oasis",Oasis Comedy HD
+https://wagneriptv.sytes.net/OasisComedyHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisComedyHorrorsHD" tvg-name="Oasis Comedy Horrors HD" group-title="Oasis",Oasis Comedy Horrors HD
+https://wagneriptv.sytes.net/OasisComedyHorrorsHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisDCHD" tvg-name="Oasis DC HD" group-title="Oasis",Oasis DC HD
+https://wagneriptv.sytes.net/OasisDCHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisDetectiveHD" tvg-name="Oasis Detective HD" group-title="Oasis",Oasis Detective HD
+https://wagneriptv.sytes.net/OasisDetectiveHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisFamilyHD" tvg-name="Oasis Family HD" group-title="Oasis",Oasis Family HD
+https://wagneriptv.sytes.net/OasisFamilyHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisHorrorHD" tvg-name="Oasis Horror HD" group-title="Oasis",Oasis Horror HD
+https://wagneriptv.sytes.net/OasisHorrorHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisInEnglishHD" tvg-name="Oasis In English HD" group-title="Oasis",Oasis In English HD
+https://wagneriptv.sytes.net/OasisInEnglishHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisMafiaHD" tvg-name="Oasis Mafia HD" group-title="Oasis",Oasis Mafia HD
+https://wagneriptv.sytes.net/OasisMafiaHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisMarvelHD" tvg-name="Oasis Marvel HD" group-title="Oasis",Oasis Marvel HD
+https://wagneriptv.sytes.net/OasisMarvelHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisRusComediiHD" tvg-name="Oasis RUS Комедии HD" group-title="Oasis",Oasis RUS Комедии HD
+https://wagneriptv.sytes.net/OasisRusComediiHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisRusSerialiHD" tvg-name="Oasis RUS Сериалы HD" group-title="Oasis",Oasis RUS Сериалы HD
+https://wagneriptv.sytes.net/OasisRusSerialiHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisRusSerialiDramaHD" tvg-name="Oasis RUS Сериалы Драма HD" group-title="Oasis",Oasis RUS Сериалы Драма HD
+https://wagneriptv.sytes.net/OasisRusSerialiDramaHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisSuperheroesSeriesHD" tvg-name="Oasis Superheroes Series HD" group-title="Oasis",Oasis Superheroes Series HD
+https://wagneriptv.sytes.net/OasisSuperheroesSeriesHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisKoreyskieSerialiHD" tvg-name="Oasis Корейские сериалы HD" group-title="Oasis",Oasis Корейские сериалы HD
+https://wagneriptv.sytes.net/OasisKoreyskieSerialiHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisKuhnyaOtelHD" tvg-name="Oasis Кухня Отель HD" group-title="Oasis",Oasis Кухня Отель HD
+https://wagneriptv.sytes.net/OasisKuhnyaOtelHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisMelodrammaHD" tvg-name="Oasis Мелодрама HD" group-title="Oasis",Oasis Мелодрама HD
+https://wagneriptv.sytes.net/OasisMelodrammaHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="OasisFantastikaHD" tvg-name="Oasis Фантастика HD" group-title="Oasis",Oasis Фантастика HD
+https://wagneriptv.sytes.net/OasisFantastikaHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighEpochHD" tvg-name="Sky High Epoch HD" group-title="Sky High",Sky High Epoch HD
+https://wagneriptv.sytes.net/SkyHighEpochHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighFreshHDRHD" tvg-name="Sky High Fresh HDR HD" group-title="Sky High",Sky High Fresh HDR HD
+https://wagneriptv.sytes.net/SkyHighFreshHDRHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighFreshHD" tvg-name="Sky High Fresh HD" group-title="Sky High",Sky High Fresh HD
+https://wagneriptv.sytes.net/SkyHighFreshHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighFutureHD" tvg-name="Sky High Future HD" group-title="Sky High",Sky High Future HD
+https://wagneriptv.sytes.net/SkyHighFutureHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighGalaxyHDR" tvg-name="Sky High Galaxy HDR" group-title="Sky High",Sky High Galaxy HDR
+https://wagneriptv.sytes.net/SkyHighGalaxyHDR/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighHeroesHD" tvg-name="Sky High Heroes HD" group-title="Sky High",Sky High Heroes HD
+https://wagneriptv.sytes.net/SkyHighHeroesHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighNew60" tvg-name="Sky High New 60" group-title="Sky High",Sky High New 60
+https://wagneriptv.sytes.net/SkyHighNew60/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighOrigHD" tvg-name="Sky High Orig HD" group-title="Sky High",Sky High Orig HD
+https://wagneriptv.sytes.net/SkyHighOrigHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighRussianHD" tvg-name="Sky High Russian HD" group-title="Sky High",Sky High Russian HD
+https://wagneriptv.sytes.net/SkyHighRussianHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighSpiritHD" tvg-name="Sky High Spirit HD" group-title="Sky High",Sky High Spirit HD
+https://wagneriptv.sytes.net/SkyHighSpiritHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighAdultHD" tvg-name="Sky High Adult HD" group-title="Sky High",Sky High Adult HD
+https://wagneriptv.sytes.net/SkyHighAdultHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SkyHighAnimeHD" tvg-name="Sky High Lo-Fi HD" group-title="Sky High",Sky High Lo-Fi HD
+https://wagneriptv.sytes.net/SkyHighAnimeHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyDCHD" tvg-name="Liberty DC HD" group-title="Liberty",Liberty DC HD
+https://wagneriptv.sytes.net/LibertyDCHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyNetflix4K" tvg-name="Liberty Netflix 4K" group-title="Liberty",Liberty Netflix 4K
+https://wagneriptv.sytes.net/LibertyNetflix4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyBoevikiFHD" tvg-name="Liberty Боевики FHD" group-title="Liberty",Liberty Боевики FHD
+https://wagneriptv.sytes.net/LibertyBoevikiFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyKinoMix4K" tvg-name="Liberty Кино Микс 4K" group-title="Liberty",Liberty Кино Микс 4K
+https://wagneriptv.sytes.net/LibertyKinoMix4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyKomediiFHD" tvg-name="Liberty Комедии FHD" group-title="Liberty",Liberty Комедии FHD
+https://wagneriptv.sytes.net/LibertyKomediiFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertySerialiFHD" tvg-name="Liberty Короткометражное FHD" group-title="Liberty",Liberty Короткометражное FHD
+https://wagneriptv.sytes.net/LibertySerialiFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyKriminal4K" tvg-name="Liberty Криминал 4K" group-title="Liberty",Liberty Криминал 4K
+https://wagneriptv.sytes.net/LibertyKriminal4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyLegalenda4K" tvg-name="Liberty Легенда 4K" group-title="Liberty",Liberty Легенда 4K
+https://wagneriptv.sytes.net/LibertyLegalenda4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyMarvelFHD" tvg-name="Liberty Марвел FHD" group-title="Liberty",Liberty Марвел FHD
+https://wagneriptv.sytes.net/LibertyMarvelFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyMelodramiFHD" tvg-name="Liberty Мелодрамы HD" group-title="Liberty",Liberty Мелодрамы HD
+https://wagneriptv.sytes.net/LibertyMelodramiFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyRusFilm4K" tvg-name="Liberty РусФильм 4K" group-title="Liberty",Liberty РусФильм 4K
+https://wagneriptv.sytes.net/LibertyRusFilm4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertySvatiFHD" tvg-name="Liberty Сваты FHD" group-title="Liberty",Liberty Сваты FHD
+https://wagneriptv.sytes.net/LibertySvatiFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertySemeyni4K" tvg-name="Liberty Семейный 4K" group-title="Liberty",Liberty Семейный 4K
+https://wagneriptv.sytes.net/LibertySemeyni4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyTrillery4K" tvg-name="Liberty Триллеры 4K" group-title="Liberty",Liberty Триллеры 4K
+https://wagneriptv.sytes.net/LibertyTrillery4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyTurkFilm4K" tvg-name="Liberty ТуркФильм 4K" group-title="Liberty",Liberty ТуркФильм 4K
+https://wagneriptv.sytes.net/LibertyTurkFilm4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyUjasi4K" tvg-name="Liberty Ужасы 4K" group-title="Liberty",Liberty Ужасы 4K
+https://wagneriptv.sytes.net/LibertyUjasi4K/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="LibertyFantastikaFHD" tvg-name="Liberty Фан FHD" group-title="Liberty",Liberty Фан FHD
+https://wagneriptv.sytes.net/LibertyFantastikaFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburRUKinoHD" tvg-name="Chebur RU Кино HD" group-title="Chebur TV",Chebur RU Кино HD
+https://wagneriptv.sytes.net/CheburRUKinoHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburRUSerialHD" tvg-name="Chebur RU Сериал HD" group-title="Chebur TV",Chebur RU Сериал HD
+https://wagneriptv.sytes.net/CheburRUSerialHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburVesternHD" tvg-name="Chebur Вестерн HD" group-title="Chebur TV",Chebur Вестерн HD
+https://wagneriptv.sytes.net/CheburVesternHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburDramaFHD" tvg-name="Chebur Драма FHD" group-title="Chebur TV",Chebur Драма FHD
+https://wagneriptv.sytes.net/CheburDramaFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburKriminalHD" tvg-name="Chebur Криминал HD" group-title="Chebur TV",Chebur Криминал HD
+https://wagneriptv.sytes.net/CheburKriminalHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburNovinkiHD" tvg-name="Chebur Новинки HD" group-title="Chebur TV",Chebur Новинки HD
+https://wagneriptv.sytes.net/CheburNovinkiHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburPrikluychFHD" tvg-name="Chebur Приключения FHD" group-title="Chebur TV",Chebur Приключения FHD
+https://wagneriptv.sytes.net/CheburPrikluychFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburSemeynoeFHD" tvg-name="Chebur Семейное FHD" group-title="Chebur TV",Chebur Семейное FHD
+https://wagneriptv.sytes.net/CheburSemeynoeFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburSmeshnoyFHD" tvg-name="Chebur Смешной FHD" group-title="Chebur TV",Chebur Смешной FHD
+https://wagneriptv.sytes.net/CheburSmeshnoyFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburStrelyalkiUHD" tvg-name="Chebur Стрелялки UHD" group-title="Chebur TV",Chebur Стрелялки UHD
+https://wagneriptv.sytes.net/CheburStrelyalkiUHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburThrillerFHD" tvg-name="Chebur Триллер FHD" group-title="Chebur TV",Chebur Триллер FHD
+https://wagneriptv.sytes.net/CheburThrillerFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburFantaziyaHD" tvg-name="Chebur Фантазия HD" group-title="Chebur TV",Chebur Фантазия HD
+https://wagneriptv.sytes.net/CheburFantaziyaHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="CheburFantastikaFHD" tvg-name="Chebur Фантастика FHD" group-title="Chebur TV",Chebur Фантастика FHD
+https://wagneriptv.sytes.net/CheburFantastikaFHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SevimliHD" tvg-name="Sevimli TV HD" group-title="Узбекистан",Sevimli TV HD
+https://wagneriptv.sytes.net/SevimliHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="UzreportHD" tvg-name="Uzreport TV HD" group-title="Узбекистан",Uzreport TV HD
+https://wagneriptv.sytes.net/UzreportHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="HidoyatSari" tvg-name="Hidoyat Sari TV" group-title="Узбекистан",Hidoyat Sari TV
+https://wagneriptv.sytes.net/HidoyatSari/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="SIqbol" tvg-name="S Ikbol" group-title="Узбекистан",S Ikbol
+https://wagneriptv.sytes.net/SIqbol/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="NurafshonTV" tvg-name="Nurafshon TV" group-title="Узбекистан",Nurafshon TV
+https://wagneriptv.sytes.net/NurafshonTV/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="FTVHDUZ" tvg-name="FTV HD" group-title="Узбекистан",FTV HD
+https://wagneriptv.sytes.net/FTVHDUZ/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="TTVMUSIQAHD" tvg-name="TTV Musiqa HD" group-title="Узбекистан",TTV Musiqa HD
+https://wagneriptv.sytes.net/TTVMUSIQAHD/video.m3u8?token=4gAwcp3zFhkDJ2
+#EXTINF:-1 tvg-id="MuzHDOzbekiston" tvg-name="Muz HD O'zbekiston" group-title="Узбекистан",Muz HD O'zbekiston
+https://wagneriptv.sytes.net/MuzHDOzbekiston/video.m3u8?token=4gAwcp3zFhkDJ2
