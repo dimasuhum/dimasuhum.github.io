@@ -19,6 +19,26 @@ https://edemtv.my1.ru/2024/GedemDUPLICATOR.m3u
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 
+
+#EXTINF:-1 ,MiTVCinema
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(1).m3u
+
+#EXTINF:-1 ,MiTVCinema1
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(2).m3u
+
+#EXTINF:-1 ,MiTVCinema2
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(3)%20(1).m3u
+
+#EXTINF:-1 ,MiTVCinema3
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(4)%20(1).m3u
+
+#EXTINF:-1 ,MiTVCinema4
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(5)%20(1).m3u
+
+#EXTINF:-1 ,MiTVCinema5
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema(1)%20(1).m3u
+
+
 #EXTINF:-1 ,WagnerTV
 https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/WagnerTV.m3u
 
