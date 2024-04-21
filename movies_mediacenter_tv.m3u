@@ -39,8 +39,6 @@ https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVC
 https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema(1)%20(1).m3u
 
 
-#EXTINF:-1 ,WagnerTV
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/WagnerTV.m3u
 
 #EXTINF:-1 ,TvoneTv1
 m3u+http://1usd.tv/pl-pgopfc4k967oq-hls
@@ -84,8 +82,6 @@ https://edemtv.my1.ru/ZAEBURIL-KABAKA-TV.m3u
 http://osipov.esy.es/test.m3u
 
 
-#EXTINF:-1 ,listtv1
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-1.m3u
 
 #EXTINF:-1 ,listtv2
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-2.m3u
@@ -93,42 +89,22 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-2.m3u
 #EXTINF:-1 ,listtv3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-3.m3u
 
-#EXTINF:-1 ,listtv4
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-4.m3u
+
 
 #EXTINF:-1 ,listtv5
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-5.m3u
 
-#EXTINF:-1 ,listtv6
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-6.m3u
-
-#EXTINF:-1 ,listtv7
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-7.m3u
 
 
-
-#EXTINF:-1 ,tuetv1
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tue-1.m3u
 
 #EXTINF:-1 ,tuetv2
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tue-2.m3u
-
-#EXTINF:-1 ,tuetv3
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tue-3.m3u
-
-#EXTINF:-1 ,tuetv4
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tue-4.m3u
-
-#EXTINF:-1 ,tuetv5
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tue-5.m3u
 
 
 
 #EXTINF:-1 ,stream1
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-1.m3u
 
-#EXTINF:-1 ,stream2
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-2.m3u
 
 #EXTINF:-1 ,stream3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-3.m3u
@@ -142,14 +118,11 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-5.m3u
 #EXTINF:-1 ,tivi1
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-1.m3u
 
-#EXTINF:-1 ,tivi2
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-2.m3u
 
 #EXTINF:-1 ,tivi3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-3.m3u
 
-#EXTINF:-1 ,tivi4
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-4.m3u
+
 
 
 #EXTINF:-1 ,tivi5
@@ -162,9 +135,6 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-6.m3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-7.m3u
 
 
-
-#EXTINF:-1 ,wednesday2
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/wednesday-2.m3u
 
 #EXTINF:-1 ,wednesday3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/wednesday-3.m3u
@@ -180,20 +150,12 @@ m3u+http://troya.today/pl/3/64f5f24bf3e94/playlist.m3u8
 #EXTINF:-1 ,tv-snd
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/sunday-1.m3u
 
-#EXTINF:-1 ,tv-snd1
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-1.m3u
 
-#EXTINF:-1 ,tv-snd2
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-2.m3u
+
 
 #EXTINF:-1 ,tv-snd3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-3.m3u
 
-#EXTINF:-1 ,tv-snd4
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-4.m3u
-
-#EXTINF:-1 ,tv-snd5
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-5.m3u
 
 #EXTINF:-1 ,tv-snd6
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-6.m3u
