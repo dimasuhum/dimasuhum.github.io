@@ -19,30 +19,6 @@ https://drm.clan.su/GedemDUPLICATOR.m3u
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 
-
-#EXTINF:-1 ,MiTVCinema
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(1).m3u
-
-#EXTINF:-1 ,MiTVCinema1
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(2).m3u
-
-#EXTINF:-1 ,MiTVCinema2
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(3)%20(1).m3u
-
-#EXTINF:-1 ,MiTVCinema3
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(4)%20(1).m3u
-
-#EXTINF:-1 ,MiTVCinema4
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema%20(5)%20(1).m3u
-
-#EXTINF:-1 ,MiTVCinema5
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/MiTVCinema(1)%20(1).m3u
-
-
-
-
-
-
 #EXTINF:-1 ,TvoneTv1
 m3u+http://1usd.tv/pl-pgopfc4k967oq-hls
 
@@ -83,6 +59,33 @@ https://edemtv.my1.ru/ZAEBURIL-KABAKA-TV.m3u
 
 #EXTINF:-1 ,TvTest
 http://osipov.esy.es/test.m3u
+
+
+
+#EXTINF:-1 ,streams1
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-1.m3u
+
+#EXTINF:-1 ,streams2
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-2.m3u
+
+#EXTINF:-1 ,streams3
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-3.m3u
+
+#EXTINF:-1 ,streams4
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-4.m3u
+
+#EXTINF:-1 ,streams5
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-5.m3u
+
+#EXTINF:-1 ,streams6
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-6.m3u
+
+#EXTINF:-1 ,streams7
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-7.m3u
+
+
+
+
 
 
 
