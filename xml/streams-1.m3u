@@ -1,0 +1,3940 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="7",ТНТ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/502/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ HD
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/237/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ FHD
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2417/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ (+2)
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/717/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6035/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +7
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6049/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/506/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +2
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6015/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6029/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +7
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6043/index.m3u8
+#EXTINF:0 tvg-rec="7",Рен ТВ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/128/index.m3u8
+#EXTINF:0 tvg-rec="7",Рен ТВ HD
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2024/index.m3u8
+#EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/747/index.m3u8
+#EXTINF:0 tvg-rec="0",Рен ТВ +4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6028/index.m3u8
+#EXTINF:0 tvg-rec="0",Рен ТВ +7
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6042/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/113/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +2
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6019/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6034/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир +7
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6048/index.m3u8
+#EXTINF:0 tvg-rec="7",ОТР
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/705/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР +2
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6014/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР +4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6026/index.m3u8
+#EXTINF:0 tvg-rec="7",Звезда
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/544/index.m3u8
+#EXTINF:0 tvg-rec="3",Звезда (+2)
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/739/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6033/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда +7
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6047/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС Love
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/103/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ3
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/508/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ3 HD
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5033/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ3 +2
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6017/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ3 +4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6031/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ3 +7
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6045/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! HD
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5031/index.m3u8
+#EXTINF:0 tvg-rec="7",Пятница!
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/503/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница +2
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6018/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница +4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6032/index.m3u8
+#EXTINF:0 tvg-rec="0",Пятница +7
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6046/index.m3u8
+#EXTINF:0 tvg-rec="3",RTVi
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2086/index.m3u8
+#EXTINF:0 tvg-rec="7",Суббота
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/826/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашний
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/514/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +2
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6016/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6030/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний +7
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6044/index.m3u8
+#EXTINF:0 tvg-rec="3",Настоящее время
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/986/index.m3u8
+#EXTINF:0 tvg-rec="7",Ностальгия
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/102/index.m3u8
+#EXTINF:0 tvg-rec="7",Ю ТВ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/534/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ4
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/104/index.m3u8
+#EXTINF:0 tvg-rec="7",КВН ТВ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/546/index.m3u8
+#EXTINF:0 tvg-rec="7",Сарафан
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/748/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка ТВ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2053/index.m3u8
+#EXTINF:0 tvg-rec="3",360 HD
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2065/index.m3u8
+#EXTINF:0 tvg-rec="7",360
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/825/index.m3u8
+#EXTINF:0 tvg-rec="3",СПАС
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/983/index.m3u8
+#EXTINF:0 tvg-rec="7",Союз
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2016/index.m3u8
+#EXTINF:0 tvg-rec="7",Здоровое ТВ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2022/index.m3u8
+#EXTINF:0 tvg-rec="7",Психология 21
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2025/index.m3u8
+#EXTINF:0 tvg-rec="7",Успех
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2041/index.m3u8
+#EXTINF:0 tvg-rec="7",Кто есть кто
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2042/index.m3u8
+#EXTINF:0 tvg-rec="3",Открытый мир
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2078/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородный
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2099/index.m3u8
+#EXTINF:0 tvg-rec="3",Три ангела
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2116/index.m3u8
+#EXTINF:0 tvg-rec="3",БСТ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2108/index.m3u8
+#EXTINF:0 tvg-rec="3",Красная линия
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2147/index.m3u8
+#EXTINF:0 tvg-rec="3",ЛДПР ТВ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2110/index.m3u8
+#EXTINF:0 tvg-rec="3",Хузур ТВ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2150/index.m3u8
+#EXTINF:0 tvg-rec="7",Дождь
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2030/index.m3u8
+#EXTINF:0 tvg-rec="3",ТБН
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/974/index.m3u8
+#EXTINF:0 tvg-rec="3",GNC
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/955/index.m3u8
+#EXTINF:0 tvg-rec="3",Вместе-РФ
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2073/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия-Культура
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/505/index.m3u8
+#EXTINF:0 tvg-rec="7",Че
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/513/index.m3u8
+#EXTINF:0 tvg-rec="3",E TV
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5048/index.m3u8
+#EXTINF:0 tvg-rec="3",Рен ТВ HD orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9002/index.m3u8
+#EXTINF:0 tvg-rec="3",Gametoon HD
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5049/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ HD orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9028/index.m3u8
+#EXTINF:0 tvg-rec="3",Ратник
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2119/index.m3u8
+#EXTINF:0 tvg-rec="3",RT Documentary HD orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9031/index.m3u8
+#EXTINF:0 tvg-rec="3",360 HD orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9036/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВЦ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9095/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый канал orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9096/index.m3u8
+#EXTINF:0 tvg-rec="3",Звезда orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9098/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Love orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9099/index.m3u8
+#EXTINF:0 tvg-rec="3",ОТР orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9100/index.m3u8
+#EXTINF:0 tvg-rec="3",Че orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9101/index.m3u8
+#EXTINF:0 tvg-rec="3",RTVi orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9102/index.m3u8
+#EXTINF:0 tvg-rec="3",Суббота orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9103/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашний orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9104/index.m3u8
+#EXTINF:0 tvg-rec="3",Ностальгия orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9106/index.m3u8
+#EXTINF:0 tvg-rec="3",Ю ТВ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9107/index.m3u8
+#EXTINF:0 tvg-rec="3",Сарафан orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9109/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка ТВ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9110/index.m3u8
+#EXTINF:0 tvg-rec="3",СПАС orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9111/index.m3u8
+#EXTINF:0 tvg-rec="3",Союз orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9112/index.m3u8
+#EXTINF:0 tvg-rec="3",Здоровое ТВ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9113/index.m3u8
+#EXTINF:0 tvg-rec="3",Психология 21 orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9114/index.m3u8
+#EXTINF:0 tvg-rec="3",Успех orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9115/index.m3u8
+#EXTINF:0 tvg-rec="3",Открытый мир orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9117/index.m3u8
+#EXTINF:0 tvg-rec="3",Красная линия orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9119/index.m3u8
+#EXTINF:0 tvg-rec="3",ЛДПР ТВ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9120/index.m3u8
+#EXTINF:0 tvg-rec="3",Хузур ТВ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9121/index.m3u8
+#EXTINF:0 tvg-rec="3",Дождь orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9122/index.m3u8
+#EXTINF:0 tvg-rec="3",ТБН orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9123/index.m3u8
+#EXTINF:0 tvg-rec="3",Вместе-РФ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9124/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый канал orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9201/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия 1 orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9202/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9203/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9204/index.m3u8
+#EXTINF:0 tvg-rec="3",Рен ТВ orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9205/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ3 orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9206/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9207/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ4 orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9208/index.m3u8
+#EXTINF:0 tvg-rec="3",360 orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9209/index.m3u8
+#EXTINF:0 tvg-rec="3",Три ангела orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9210/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9211/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородный orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9212/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ HD Orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7251/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 HD orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7252/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал HD orig
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7253/index.m3u8
+#EXTINF:0 tvg-rec="0",Дождь HD
+#EXTGRP:Общие
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20083/index.m3u8
+#EXTINF:0 tvg-rec="0",Инфоканал
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/407/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия-24 +2
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6013/index.m3u8
+#EXTINF:0 tvg-rec="3",РБК FHD
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2404/index.m3u8
+#EXTINF:0 tvg-rec="0",РБК HD
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16075/index.m3u8
+#EXTINF:0 tvg-rec="7",РБК
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/106/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 24
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/507/index.m3u8
+#EXTINF:0 tvg-rec="7",Москва 24
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/523/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24 HD
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2107/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир 24
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/712/index.m3u8
+#EXTINF:0 tvg-rec="7",Euronews Россия
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/828/index.m3u8
+#EXTINF:0 tvg-rec="7",CGTN русский
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/831/index.m3u8
+#EXTINF:0 tvg-rec="7",Известия
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2008/index.m3u8
+#EXTINF:0 tvg-rec="3",Центральное телевидение
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2064/index.m3u8
+#EXTINF:0 tvg-rec="7",NHK World TV
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/729/index.m3u8
+#EXTINF:0 tvg-rec="7",CGTN
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/830/index.m3u8
+#EXTINF:0 tvg-rec="3",РБК orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9213/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24 HD orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9214/index.m3u8
+#EXTINF:0 tvg-rec="3",Euronews Россия orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9215/index.m3u8
+#EXTINF:0 tvg-rec="3",Известия orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9216/index.m3u8
+#EXTINF:0 tvg-rec="3",CGTN orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9217/index.m3u8
+#EXTINF:0 tvg-rec="3",Москва 24 orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9218/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир 24 orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9219/index.m3u8
+#EXTINF:0 tvg-rec="3",RT News orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9220/index.m3u8
+#EXTINF:0 tvg-rec="3",NHK World TV orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9221/index.m3u8
+#EXTINF:0 tvg-rec="3",Центральное телевидение orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9222/index.m3u8
+#EXTINF:0 tvg-rec="3",CGTN Русский orig
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9223/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX NEWS CHANNEL FHD
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19147/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC 1 HD
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19176/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC 2 HD
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19177/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC Alba HD
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19179/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC First HD
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19181/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC Parliament
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19182/index.m3u8
+#EXTINF:0 tvg-rec="0",BBC Scotland
+#EXTGRP:Новостные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19183/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2037/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspense HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2049/index.m3u8
+#EXTINF:0 tvg-rec="0",Sumiko HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2163/index.m3u8
+#EXTINF:0 tvg-rec="3",Советская киноклассика HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2146/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Новелла HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2002/index.m3u8
+#EXTINF:0 tvg-rec="0",.sci-fi HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20020/index.m3u8
+#EXTINF:0 tvg-rec="0",FilmZone HD LV
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20024/index.m3u8
+#EXTINF:0 tvg-rec="0",Scream HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20021/index.m3u8
+#EXTINF:0 tvg-rec="3",VHS-ка HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5006/index.m3u8
+#EXTINF:0 tvg-rec="0",О!Кино
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20023/index.m3u8
+#EXTINF:0 tvg-rec="7",Лавстори HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2034/index.m3u8
+#EXTINF:0 tvg-rec="0",.black HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20019/index.m3u8
+#EXTINF:0 tvg-rec="0",FilmZone+ HD EE
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20025/index.m3u8
+#EXTINF:0 tvg-rec="0",Shot TV HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20022/index.m3u8
+#EXTINF:0 tvg-rec="0",FX HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19216/index.m3u8
+#EXTINF:0 tvg-rec="3",VF Счастливы Вместе
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9242/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Кухня
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18199/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Новинки HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31633/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Мегамир HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18195/index.m3u8
+#EXTINF:0 tvg-rec="3",FX Life
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9232/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Макромир HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18194/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Translation HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18196/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Микромир HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18193/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Турк Фильм 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19303/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18178/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty МиМ FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19306/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Легенда 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19308/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty XX Век 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20173/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Kids
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18141/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Fantazy
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18144/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Criminal
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18140/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Cinema Best
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18147/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Comedy
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18143/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH DOC HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18172/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI СССР HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18175/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Family HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18176/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI VHS HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18173/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Retro HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18177/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Thriller HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18174/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Club FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19319/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Horror FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20050/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Action FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20051/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Drama FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20053/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Fantasy FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20054/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Family HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18170/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Love HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18171/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Drama HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18150/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Сваты HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18166/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Союзкино HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18167/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Катастрофа HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18164/index.m3u8
+#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/4000/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Hit HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6010/index.m3u8
+#EXTINF:0 tvg-rec="3",Comedy Central HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6000/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5004/index.m3u8
+#EXTINF:0 tvg-rec="3",Сериал UHD 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5005/index.m3u8
+#EXTINF:0 tvg-rec="7",Остросюжетное HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/904/index.m3u8
+#EXTINF:0 tvg-rec="3",Премиальное FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2410/index.m3u8
+#EXTINF:0 tvg-rec="7",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/911/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино Премиум HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5082/index.m3u8
+#EXTINF:0 tvg-rec="3",Про Любовь HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2430/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2434/index.m3u8
+#EXTINF:0 tvg-rec="3",Блокбастер HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2436/index.m3u8
+#EXTINF:0 tvg-rec="3",Хит HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2438/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинопоказ HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2439/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше Мужское HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2440/index.m3u8
+#EXTINF:0 tvg-rec="3",Камеди HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2441/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Serial HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2443/index.m3u8
+#EXTINF:0 tvg-rec="3",Романтичное HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5053/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедийное HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/912/index.m3u8
+#EXTINF:0 tvg-rec="7",Душевное кино HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/914/index.m3u8
+#EXTINF:0 tvg-rec="7",Наше HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/915/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше любимое HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2106/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинопремьера HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/224/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноужас HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2056/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2076/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Иллюзион HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2114/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2131/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино ТВ HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2097/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Premium HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/229/index.m3u8
+#EXTINF:0 tvg-rec="7",Hollywood HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/209/index.m3u8
+#EXTINF:0 tvg-rec="3",Bollywood HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/239/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Premiere HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/202/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Premiere HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5079/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Comedy HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/200/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Comedy HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5080/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Megahit HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/201/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Megahit HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5081/index.m3u8
+#EXTINF:0 tvg-rec="3",Epic Drama
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1048/index.m3u8
+#EXTINF:0 tvg-rec="3",День Победы HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5054/index.m3u8
+#EXTINF:0 tvg-rec="3",Победа HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5052/index.m3u8
+#EXTINF:0 tvg-rec="7",Победа
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2003/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 2 HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2046/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Русское
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/101/index.m3u8
+#EXTINF:0 tvg-rec="7",.sci-fi
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/110/index.m3u8
+#EXTINF:0 tvg-rec="7",Киномикс
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/509/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносемья
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/125/index.m3u8
+#EXTINF:0 tvg-rec="7",Родное Кино
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/126/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000 Action
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/131/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинохит
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/516/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 2
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/510/index.m3u8
+#EXTINF:0 tvg-rec="7",Наше Новое Кино
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/517/index.m3u8
+#EXTINF:0 tvg-rec="7",TV XXI
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/525/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинокомедия
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/145/index.m3u8
+#EXTINF:0 tvg-rec="7",Индийское Кино
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/146/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносерия
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/148/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский Иллюзион
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/547/index.m3u8
+#EXTINF:0 tvg-rec="7",Еврокино
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/549/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинеко
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/550/index.m3u8
+#EXTINF:0 tvg-rec="7",Сапфир
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/553/index.m3u8
+#EXTINF:0 tvg-rec="7",Дом Кино
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/154/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia 1
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/554/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Premium
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/555/index.m3u8
+#EXTINF:0 tvg-rec="7",Amedia Hit
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/556/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju TV1000
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/132/index.m3u8
+#EXTINF:0 tvg-rec="7",Мужское Кино
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/164/index.m3u8
+#EXTINF:0 tvg-rec="7",Hollywood
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/557/index.m3u8
+#EXTINF:0 tvg-rec="7",.red
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/559/index.m3u8
+#EXTINF:0 tvg-rec="7",2x2
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/702/index.m3u8
+#EXTINF:0 tvg-rec="7",.black
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/708/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский бестселлер
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/905/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский роман
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/906/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский детектив
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/907/index.m3u8
+#EXTINF:0 tvg-rec="7",Любимое Кино
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/722/index.m3u8
+#EXTINF:0 tvg-rec="7",Киносвидание
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/728/index.m3u8
+#EXTINF:0 tvg-rec="7",Кино ТВ
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/732/index.m3u8
+#EXTINF:0 tvg-rec="7",Русская Комедия
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/733/index.m3u8
+#EXTINF:0 tvg-rec="7",FAN
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/734/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Хит
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/741/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Сериал
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/744/index.m3u8
+#EXTINF:0 tvg-rec="7",НСТ
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/726/index.m3u8
+#EXTINF:0 tvg-rec="3",Индия
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1001/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox ArtHouse
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1071/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1066/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир Сериала
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/856/index.m3u8
+#EXTINF:0 tvg-rec="7",Ретро
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2018/index.m3u8
+#EXTINF:0 tvg-rec="7",Иллюзион+
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2038/index.m3u8
+#EXTINF:0 tvg-rec="7",Феникс плюс Кино
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2039/index.m3u8
+#EXTINF:0 tvg-rec="3",.red HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2062/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноман
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2121/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinema
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5051/index.m3u8
+#EXTINF:0 tvg-rec="7",Comedy Central
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/157/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 1
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2568/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 2
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2569/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 3
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2570/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 4
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2571/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 5
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2572/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 6
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2573/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 7
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2574/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 8
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2575/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 9
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2576/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 10
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2577/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 11
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2578/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 12
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2579/index.m3u8
+#EXTINF:0 tvg-rec="3",Trash HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6396/index.m3u8
+#EXTINF:0 tvg-rec="3",Шокирующее HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9004/index.m3u8
+#EXTINF:0 tvg-rec="3",Комедийное HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9005/index.m3u8
+#EXTINF:0 tvg-rec="3",Hollywood HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9017/index.m3u8
+#EXTINF:0 tvg-rec="3",FX HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9018/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Premium HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9022/index.m3u8
+#EXTINF:0 tvg-rec="3",.red HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9035/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9041/index.m3u8
+#EXTINF:0 tvg-rec="3",Остросюжетное HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9044/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9046/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино ТВ HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9051/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9057/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9058/index.m3u8
+#EXTINF:0 tvg-rec="0",Viju TV1000 Русское HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9059/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше любимое HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9062/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 1 HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9069/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Hit HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9070/index.m3u8
+#EXTINF:0 tvg-rec="3",Еврокино HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9078/index.m3u8
+#EXTINF:0 tvg-rec="3",Иллюзион+ HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9079/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Иллюзион HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9080/index.m3u8
+#EXTINF:0 tvg-rec="3",Наш Кинопоказ HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9086/index.m3u8
+#EXTINF:0 tvg-rec="3",Блокбастер HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9087/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше Мужское HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9088/index.m3u8
+#EXTINF:0 tvg-rec="3",Про Любовь HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9089/index.m3u8
+#EXTINF:0 tvg-rec="3",Хит HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9090/index.m3u8
+#EXTINF:0 tvg-rec="3",Камеди HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9091/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинопоказ HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9092/index.m3u8
+#EXTINF:0 tvg-rec="3",.sci-fi orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9125/index.m3u8
+#EXTINF:0 tvg-rec="3",Киномикс orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9126/index.m3u8
+#EXTINF:0 tvg-rec="3",Родное Кино orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9127/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинохит orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9128/index.m3u8
+#EXTINF:0 tvg-rec="0",Amedia 2 orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9129/index.m3u8
+#EXTINF:0 tvg-rec="3",TV XXI orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9130/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Иллюзион orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9133/index.m3u8
+#EXTINF:0 tvg-rec="3",Еврокино orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9134/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинеко HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9135/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9136/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 1 orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9137/index.m3u8
+#EXTINF:0 tvg-rec="3",2x2 orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9139/index.m3u8
+#EXTINF:0 tvg-rec="3",.black orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9140/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский бестселлер orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9141/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский детектив orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9142/index.m3u8
+#EXTINF:0 tvg-rec="3",Любимое Кино orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9143/index.m3u8
+#EXTINF:0 tvg-rec="3",Русская Комедия orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9144/index.m3u8
+#EXTINF:0 tvg-rec="3",FAN orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9145/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Хит orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9146/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Сериал orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9147/index.m3u8
+#EXTINF:0 tvg-rec="3",НСТ orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9148/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox ArtHouse orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9150/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир Сериала orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9151/index.m3u8
+#EXTINF:0 tvg-rec="3",Ретро orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9152/index.m3u8
+#EXTINF:0 tvg-rec="3",Феникс плюс Кино orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9153/index.m3u8
+#EXTINF:0 tvg-rec="3",Киноман orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9154/index.m3u8
+#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9156/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9224/index.m3u8
+#EXTINF:0 tvg-rec="3",Bollywood HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9225/index.m3u8
+#EXTINF:0 tvg-rec="3",Победа orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9226/index.m3u8
+#EXTINF:0 tvg-rec="0",Viju TV1000 Русское orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9227/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 Action orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9229/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Premium orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9233/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Hit orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9234/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju TV1000 orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9235/index.m3u8
+#EXTINF:0 tvg-rec="3",Hollywood orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9236/index.m3u8
+#EXTINF:0 tvg-rec="3",.red orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9237/index.m3u8
+#EXTINF:0 tvg-rec="3",Дорама orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9239/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9240/index.m3u8
+#EXTINF:0 tvg-rec="3",Иллюзион+ orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9241/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино ТВ orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9244/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Serial HD orig
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9245/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7222/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7244/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7245/index.m3u8
+#EXTINF:0 tvg-rec="0",Страшное HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7247/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7248/index.m3u8
+#EXTINF:0 tvg-rec="0",Киномикс HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7249/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7250/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoJam 1 HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7260/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoJam 2 HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7261/index.m3u8
+#EXTINF:0 tvg-rec="0",DetectiveJam HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20209/index.m3u8
+#EXTINF:0 tvg-rec="0",FamilyJam HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20210/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7347/index.m3u8
+#EXTINF:0 tvg-rec="3",Shot TV
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/526/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan MiniSeries
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19437/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16082/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality OLD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16083/index.m3u8
+#EXTINF:0 tvg-rec="0",VB VHS Classic
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19429/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Celebrity HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16084/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Classic HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16085/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Драма HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Netflix
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19427/index.m3u8
+#EXTINF:0 tvg-rec="0",VF HBO
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19428/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19434/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19435/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Netflix
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20163/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Disney
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20164/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best 60 FPS
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20165/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH FRESH HDR
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16066/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH ORIG HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19310/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH LO FI HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19312/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH BRAIN HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19404/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH ANIME HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19405/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Союз 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19307/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Индия 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18160/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Куб 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18161/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Netflix 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19402/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Фан FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19403/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Cinema
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19287/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Kids
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19288/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Comedy
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19289/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Premiere
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19290/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Family
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19291/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Rating
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19292/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh VHS
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19293/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Fantastic
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19294/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Series
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19295/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Horror
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19296/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Adventure
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19297/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Romantic
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19298/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Russian
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19299/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Thriller
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19300/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Soviet
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19301/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Cinema HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16078/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Comedy HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16080/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Киносерия FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19400/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Netflix HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20177/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Назад в СССР HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20175/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Спецназ-Диверсант HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20176/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 1
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18126/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 2
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18127/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 3
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18128/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 4
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18129/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 5
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18130/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 6
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18131/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 7
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18132/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 8
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18133/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 9
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18134/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 10
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18135/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 11
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18136/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал 12
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18137/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносерия HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19229/index.m3u8
+#EXTINF:0 tvg-rec="0",Наше Новое Кино HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19231/index.m3u8
+#EXTINF:0 tvg-rec="0",Cinema HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19233/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Peters Pop Show
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19270/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Serial
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19271/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Netflix
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19272/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Cinema 60 fps
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19315/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Вторая Мировая
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19316/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Сказки СССР
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19317/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Franchise HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19274/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Hybrid HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19275/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Anime HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19276/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Gangster HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19277/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Oscar HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19278/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Memory HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19279/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX M.Serial HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19280/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19281/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Game HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19284/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Spy HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19285/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Travel HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19418/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Western HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19419/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Zombie HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19420/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Cyber HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19421/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Simpsons UA
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19395/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV UA
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19399/index.m3u8
+#EXTINF:0 tvg-rec="0",Insomnia HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19398/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19407/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 2
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19408/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV HIT
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19410/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 3
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19411/index.m3u8
+#EXTINF:0 tvg-rec="0",MM OldSchool HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19413/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Family Guy HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19414/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Live HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19436/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Premium
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20112/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Планктон FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20140/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Adventure HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20141/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Ghost HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20154/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Stories HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20155/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Fantasy HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20156/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Premiere 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20157/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20158/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Mayday HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20159/index.m3u8
+#EXTINF:0 tvg-rec="0",KION Хит HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20211/index.m3u8
+#EXTINF:0 tvg-rec="0",Cobra Comedy HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20212/index.m3u8
+#EXTINF:0 tvg-rec="0",Cobra Detektiv HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20213/index.m3u8
+#EXTINF:0 tvg-rec="0",Cobra Melodrama HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20214/index.m3u8
+#EXTINF:0 tvg-rec="0",Cobra Triller HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20215/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Family HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20216/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye History HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20217/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Western HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20218/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Drive HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20219/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Cyber HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20220/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Кинофестиваль HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31621/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Сваты HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31624/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Глухарь + Карпов
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31626/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Интерны
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31627/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Универ
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31628/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Фитнес
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31629/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Russian HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31630/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Millennium HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31631/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Marvel HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31632/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Franchise HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31634/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Новогодний HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31635/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Relax HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31636/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS 60FPS
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31637/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Киноплёнка
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31638/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Киносерия
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31640/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Premiere
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31641/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Страшное
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31642/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS СССР
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31643/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Movie Hits
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31644/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Ukraine HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31647/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Apocalypse HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31655/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Remast+ 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31656/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Serial 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31657/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Russia 90s HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31658/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт UKR FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31659/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино UKR FHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31660/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Дрим Воркс 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31661/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Криминал 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31663/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Аванпост 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31664/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сериалы 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31665/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Cinema 4K
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31666/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV New Films HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31667/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Kung Fu
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31668/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Show HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31669/index.m3u8
+#EXTINF:0 tvg-rec="0",Cobra Drama HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31673/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Кулинар
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31683/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Nature 4K HDR
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31686/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Films HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31687/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ RU Serial HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31688/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Turk Serial HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31689/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Films 60 fps HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31690/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ 4K Kino UHD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31691/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ ALENSAT HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31692/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Thriller HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31693/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Action HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31694/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Adventure HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31698/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Detective HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31699/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Drama HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31700/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Family HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31701/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fantastic HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31702/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fantasy HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31703/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Russian HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31704/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fun HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31706/index.m3u8
+#EXTINF:0 tvg-rec="0",HORROR HD (тест)
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31708/index.m3u8
+#EXTINF:0 tvg-rec="0",Байки из склепа
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31711/index.m3u8
+#EXTINF:0 tvg-rec="0",Громовы
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31712/index.m3u8
+#EXTINF:0 tvg-rec="0",Коломбо
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31713/index.m3u8
+#EXTINF:0 tvg-rec="0",КИНОДРОМ HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31714/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинозал! Bond 007
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31715/index.m3u8
+#EXTINF:0 tvg-rec="0",Однажды в милиции
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31717/index.m3u8
+#EXTINF:0 tvg-rec="0",Ольга HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31718/index.m3u8
+#EXTINF:0 tvg-rec="0",Репка HD
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31719/index.m3u8
+#EXTINF:0 tvg-rec="0",СТРАХ FHD (2.0)
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31720/index.m3u8
+#EXTINF:0 tvg-rec="0",ФАНТАСТИКА FHD (2.0)
+#EXTGRP:Кино
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31722/index.m3u8
+#EXTINF:0 tvg-rec="0",FightBox HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20027/index.m3u8
+#EXTINF:0 tvg-rec="0",UFC Fight Pass
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18169/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Баскетбола HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20004/index.m3u8
+#EXTINF:0 tvg-rec="0",Extreme Sports HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20028/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/535/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/212/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ FHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2413/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/531/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/220/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2414/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/124/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/222/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5072/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2407/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/530/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/211/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2420/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/522/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/206/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5071/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2408/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/529/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/225/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра FHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2406/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/528/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/207/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Планета
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/123/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Страна
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/107/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Страна HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19219/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Боец
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/150/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч +2
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6012/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч +4
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6023/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч +8
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6052/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 2
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7361/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 1
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7360/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 3
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7362/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 4
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7363/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 5
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7364/index.m3u8
+#EXTINF:0 tvg-rec="3",Super Tennis HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6079/index.m3u8
+#EXTINF:0 tvg-rec="3",Данцер ТВ Телегазета
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/4004/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/228/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5075/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/141/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/234/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5076/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Eurasia HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/271/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 1 Baltic HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5069/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Eurasia Plus HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2399/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Ukraine HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/272/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Ukraine Plus HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5068/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Sport HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2007/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Sport HD orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5065/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Fotboll HD SK orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5078/index.m3u8
+#EXTINF:0 tvg-rec="3",Удар HD orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5067/index.m3u8
+#EXTINF:0 tvg-rec="7",Удар
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2000/index.m3u8
+#EXTINF:0 tvg-rec="3",XSPORT HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/996/index.m3u8
+#EXTINF:0 tvg-rec="3",Xsport HD orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5077/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme UHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5003/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2077/index.m3u8
+#EXTINF:0 tvg-rec="7",KHL HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/215/index.m3u8
+#EXTINF:0 tvg-rec="3",KHL Prime FHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2403/index.m3u8
+#EXTINF:0 tvg-rec="7",KHL
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/519/index.m3u8
+#EXTINF:0 tvg-rec="3",FAST&FUN BOX HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1018/index.m3u8
+#EXTINF:0 tvg-rec="7",Extreme Sports
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/144/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Sport
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/160/index.m3u8
+#EXTINF:0 tvg-rec="3",Fuel TV HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2396/index.m3u8
+#EXTINF:0 tvg-rec="7",MMA-TV.com
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/843/index.m3u8
+#EXTINF:0 tvg-rec="7",Бокс ТВ
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/870/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2154/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5050/index.m3u8
+#EXTINF:0 tvg-rec="7",Драйв
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2021/index.m3u8
+#EXTINF:0 tvg-rec="7",ЖИВИ!
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/738/index.m3u8
+#EXTINF:0 tvg-rec="3",E TV HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5035/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme HD orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9042/index.m3u8
+#EXTINF:0 tvg-rec="3",Конный Мир HD orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9055/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт HD orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9083/index.m3u8
+#EXTINF:0 tvg-rec="3",Insport HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9094/index.m3u8
+#EXTINF:0 tvg-rec="3",Extreme Sports orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9160/index.m3u8
+#EXTINF:0 tvg-rec="3",Драйв orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9163/index.m3u8
+#EXTINF:0 tvg-rec="3",ЖИВИ! orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9164/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9247/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Sport orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9249/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол orig
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9251/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT SPORTS 1 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19051/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT SPORTS 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19052/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT SPORTS 3 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19053/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT SPORTS 4 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19054/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT SPORTS 6 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19055/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 1 FullHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19062/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 2 FullHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19063/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Haber HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19064/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 1 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19065/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19066/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT SPOR HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19067/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT SPOR 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19068/index.m3u8
+#EXTINF:0 tvg-rec="0",A SPOR HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19069/index.m3u8
+#EXTINF:0 tvg-rec="0",S SPORT + PLUS 1 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19070/index.m3u8
+#EXTINF:0 tvg-rec="0",S SPORT + PLUS 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19071/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT SPOR
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19072/index.m3u8
+#EXTINF:0 tvg-rec="0",SPOR SMART 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19073/index.m3u8
+#EXTINF:0 tvg-rec="0",TiViBUSPOR 1 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19074/index.m3u8
+#EXTINF:0 tvg-rec="0",TiViBUSPOR 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19075/index.m3u8
+#EXTINF:0 tvg-rec="0",TiViBUSPOR 3 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19076/index.m3u8
+#EXTINF:0 tvg-rec="0",EXXEN SPOR 1
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19077/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN IZ TV HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19078/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY SUPER TENNIS
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19111/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY SPORT 24
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19127/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY SPORT ARENA
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19128/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY SPORT CALCIO
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19129/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY SPORT FOOTBALL
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19131/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY SPORT GOLF
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19132/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY SPORT MOTOGP
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19133/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY SPORT NBA
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19134/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY SUPER TENNIS
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19136/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports South
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19138/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX SPORTS ARIZONA HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19139/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX SPORTS FLORIDA HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19140/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX SPORTS HOUSTON HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19141/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX SPORTS PRIME TICKET HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19142/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX SPORTS SOUTHWEST PLUS HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19143/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX SPORTS SPORTSTIME OHIO HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19144/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX SPORTS SUN HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19145/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX SPORTS OKLAHOMA HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19146/index.m3u8
+#EXTINF:0 tvg-rec="0",Bally Sports Great Lakes
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19149/index.m3u8
+#EXTINF:0 tvg-rec="0",BALLY SPORTS SUN
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19150/index.m3u8
+#EXTINF:0 tvg-rec="0",BALLY SPORTS SOUTHEAST CAROLINAS
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19151/index.m3u8
+#EXTINF:0 tvg-rec="0",BALLY SPORTS NORTH
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19152/index.m3u8
+#EXTINF:0 tvg-rec="0",Bally SPORTS MIDWEST
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19153/index.m3u8
+#EXTINF:0 tvg-rec="0",Espn News HD USA
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19154/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 2 HD USA
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19155/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN USA
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19156/index.m3u8
+#EXTINF:0 tvg-rec="0",ELEVEN SPORTS 1 UHD PT
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19158/index.m3u8
+#EXTINF:0 tvg-rec="0",BENFICA 4K TV UHD PT
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19160/index.m3u8
+#EXTINF:0 tvg-rec="0",SPORT TV 1 4K UHD PT
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19161/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Sport Ultra HD DK
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19163/index.m3u8
+#EXTINF:0 tvg-rec="0",RMC SPORT 4
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19200/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 1 HD NL
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19201/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 2 HD NL
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19202/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 3 HD NL
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19203/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 4 HD NL
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19204/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Боец HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19221/index.m3u8
+#EXTINF:0 tvg-rec="0",MMA-TV.com HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19243/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19244/index.m3u8
+#EXTINF:0 tvg-rec="0",Бокс ТВ HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19245/index.m3u8
+#EXTINF:0 tvg-rec="0",Удар HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19246/index.m3u8
+#EXTINF:0 tvg-rec="0",START World HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19248/index.m3u8
+#EXTINF:0 tvg-rec="0",KHL Prime HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19396/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 1 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19422/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19423/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19424/index.m3u8
+#EXTINF:0 tvg-rec="0",Sporsmart HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20060/index.m3u8
+#EXTINF:0 tvg-rec="0",Sporsmart 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20059/index.m3u8
+#EXTINF:0 tvg-rec="0",Q Sport HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20061/index.m3u8
+#EXTINF:0 tvg-rec="0",Q Sport League HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20062/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 Qazaqstan HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20065/index.m3u8
+#EXTINF:0 tvg-rec="0",Eleven 4K
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20068/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD CEE
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20069/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD CEE
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20070/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Moldova HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20074/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 1 HD Ukraine
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20077/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 Baltic FHD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20081/index.m3u8
+#EXTINF:0 tvg-rec="3",Fint Ga 1
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20091/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 2
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20092/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 3
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20093/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 1
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20094/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 2
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20095/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 3
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20096/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 4
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20097/index.m3u8
+#EXTINF:0 tvg-rec="3",Pimple TV 5
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20098/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 1
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20099/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 2
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20103/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 3
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20104/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 4
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20105/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 5
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20106/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 6
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20107/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 7
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20108/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 8
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20109/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 9
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20110/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 10
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20100/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 11
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20101/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 12
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20102/index.m3u8
+#EXTINF:0 tvg-rec="0",A21 Network Live 24 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20160/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 1 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20166/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 2 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20167/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 3 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20168/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 4 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20169/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 5 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20170/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 6 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31648/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 7 HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31649/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31650/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 13
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31674/index.m3u8
+#EXTINF:0 tvg-rec="0",Vital Sport 1
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31675/index.m3u8
+#EXTINF:0 tvg-rec="0",Vital Sport 2
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31676/index.m3u8
+#EXTINF:0 tvg-rec="0",Vital Sport 3
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31677/index.m3u8
+#EXTINF:0 tvg-rec="0",Vital Sport 4
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31678/index.m3u8
+#EXTINF:0 tvg-rec="0",Vital Sport 5
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31679/index.m3u8
+#EXTINF:0 tvg-rec="0",Vital Sport 6
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31680/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 6
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31681/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 4
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31682/index.m3u8
+#EXTINF:0 tvg-rec="0",MMA TIME HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31710/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31754/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31755/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31756/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+ HD
+#EXTGRP:Спорт
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31757/index.m3u8
+#EXTINF:0 tvg-rec="0",Sochi Music HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16070/index.m3u8
+#EXTINF:0 tvg-rec="0",Europa Plus TV HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20029/index.m3u8
+#EXTINF:0 tvg-rec="3",Bridge TV Фрэш HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9053/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV Live HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/221/index.m3u8
+#EXTINF:0 tvg-rec="3",Жара HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2129/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2130/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Music
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18148/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Музыка 4K
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18163/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Horror
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18145/index.m3u8
+#EXTINF:0 tvg-rec="7",Жара
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/105/index.m3u8
+#EXTINF:0 tvg-rec="7",Bridge Deluxe HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/236/index.m3u8
+#EXTINF:0 tvg-rec="7",Bridge Hits
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/711/index.m3u8
+#EXTINF:0 tvg-rec="3",Bridge Русский Хит
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/120/index.m3u8
+#EXTINF:0 tvg-rec="7",Bridge TV
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/122/index.m3u8
+#EXTINF:0 tvg-rec="7",Europa Plus TV
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/115/index.m3u8
+#EXTINF:0 tvg-rec="7",МУЗ-ТВ
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/116/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/142/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV Hits
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/153/index.m3u8
+#EXTINF:0 tvg-rec="7",Музыка Первого
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/155/index.m3u8
+#EXTINF:0 tvg-rec="7",Mezzo Live HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/208/index.m3u8
+#EXTINF:0 tvg-rec="7",Club MTV
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/558/index.m3u8
+#EXTINF:0 tvg-rec="7",Mezzo
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/707/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ Music
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/710/index.m3u8
+#EXTINF:0 tvg-rec="3",о2тв HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2141/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV 80s
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/724/index.m3u8
+#EXTINF:0 tvg-rec="3",Vostok TV
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1054/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV 90s
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1038/index.m3u8
+#EXTINF:0 tvg-rec="7",MCM Top Russia
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/836/index.m3u8
+#EXTINF:0 tvg-rec="3",Clubbing TV HD RU
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2395/index.m3u8
+#EXTINF:0 tvg-rec="7",RU TV
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/838/index.m3u8
+#EXTINF:0 tvg-rec="7",Шансон ТВ
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/859/index.m3u8
+#EXTINF:0 tvg-rec="7",Ля-минор ТВ
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2043/index.m3u8
+#EXTINF:0 tvg-rec="7",Music Box Russia
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2048/index.m3u8
+#EXTINF:0 tvg-rec="3",Курай HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2144/index.m3u8
+#EXTINF:0 tvg-rec="3",Курай TV
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2061/index.m3u8
+#EXTINF:0 tvg-rec="3",о2тв
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2068/index.m3u8
+#EXTINF:0 tvg-rec="3",МузСоюз
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2137/index.m3u8
+#EXTINF:0 tvg-rec="3",Жар Птица
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2142/index.m3u8
+#EXTINF:0 tvg-rec="3",AIVA TV HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2156/index.m3u8
+#EXTINF:0 tvg-rec="0",Муз ТВ +4
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6036/index.m3u8
+#EXTINF:0 tvg-rec="3",1HD Music Television orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9001/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV Live HD orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9009/index.m3u8
+#EXTINF:0 tvg-rec="3",Bridge Deluxe HD orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9012/index.m3u8
+#EXTINF:0 tvg-rec="3",Mezzo Live HD orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9014/index.m3u8
+#EXTINF:0 tvg-rec="3",iConcerts HD orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9056/index.m3u8
+#EXTINF:0 tvg-rec="3",AIVA TV HD orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9085/index.m3u8
+#EXTINF:0 tvg-rec="3",Жар Птица orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9165/index.m3u8
+#EXTINF:0 tvg-rec="3",Музыка Первого orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9166/index.m3u8
+#EXTINF:0 tvg-rec="3",Music Box Russia orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9168/index.m3u8
+#EXTINF:0 tvg-rec="3",МУЗ-ТВ orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9169/index.m3u8
+#EXTINF:0 tvg-rec="3",Mezzo orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9170/index.m3u8
+#EXTINF:0 tvg-rec="3",МузСоюз orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9171/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV Hits orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9172/index.m3u8
+#EXTINF:0 tvg-rec="3",Шансон ТВ orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9173/index.m3u8
+#EXTINF:0 tvg-rec="3",MCM Top Russia orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9175/index.m3u8
+#EXTINF:0 tvg-rec="0",Bridge Русский Хит orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9176/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ Music orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9178/index.m3u8
+#EXTINF:0 tvg-rec="3",RU TV orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9179/index.m3u8
+#EXTINF:0 tvg-rec="3",Курай TV orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9252/index.m3u8
+#EXTINF:0 tvg-rec="3",Bridge TV orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9253/index.m3u8
+#EXTINF:0 tvg-rec="3",о2тв HD orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9254/index.m3u8
+#EXTINF:0 tvg-rec="3",Курай HD orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9255/index.m3u8
+#EXTINF:0 tvg-rec="3",о2тв orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9256/index.m3u8
+#EXTINF:0 tvg-rec="3",Europa Plus TV orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9257/index.m3u8
+#EXTINF:0 tvg-rec="3",Bridge Classic orig
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9259/index.m3u8
+#EXTINF:0 tvg-rec="0",NRG 91
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7223/index.m3u8
+#EXTINF:0 tvg-rec="0",Ritsa TV
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7224/index.m3u8
+#EXTINF:0 tvg-rec="0",Kiss Kiss
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16072/index.m3u8
+#EXTINF:0 tvg-rec="0",Kiss Kiss Italia HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16073/index.m3u8
+#EXTINF:0 tvg-rec="0",Zero Uno HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16076/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Music HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16079/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Hit 90
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16081/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV Classic USA
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19148/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV 00's PT
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19159/index.m3u8
+#EXTINF:0 tvg-rec="0",YES-MTV 00s
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19167/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV Music UK HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19192/index.m3u8
+#EXTINF:0 tvg-rec="0",Kiss TV UK
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19193/index.m3u8
+#EXTINF:0 tvg-rec="0",NOW 70s UK
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19194/index.m3u8
+#EXTINF:0 tvg-rec="0",Now 70s HD UK
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19195/index.m3u8
+#EXTINF:0 tvg-rec="0",Now 80s HD UK
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19196/index.m3u8
+#EXTINF:0 tvg-rec="0",Now 90s HD UK
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19197/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV Base UK
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19198/index.m3u8
+#EXTINF:0 tvg-rec="0",NRJ HITS HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19199/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ Music HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19223/index.m3u8
+#EXTINF:0 tvg-rec="0",Bridge Rock HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19225/index.m3u8
+#EXTINF:0 tvg-rec="0",Bridge Русский Хит HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19226/index.m3u8
+#EXTINF:0 tvg-rec="0",Bridge Hits HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19227/index.m3u8
+#EXTINF:0 tvg-rec="0",МУЗ-ТВ HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19228/index.m3u8
+#EXTINF:0 tvg-rec="0",RU TV HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19247/index.m3u8
+#EXTINF:0 tvg-rec="0",Music Box Russia HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19255/index.m3u8
+#EXTINF:0 tvg-rec="0",Quadro 4К
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19262/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Music 4K
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19282/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Relax 4K
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19283/index.m3u8
+#EXTINF:0 tvg-rec="0",CHD-TV RU Rock HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19394/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Eurodance Hits 90s
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20000/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Concert FHD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20049/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Шансон HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20142/index.m3u8
+#EXTINF:0 tvg-rec="0",NM Television HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20161/index.m3u8
+#EXTINF:0 tvg-rec="0",Ё Самара HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20162/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX RU.RAP HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20171/index.m3u8
+#EXTINF:0 tvg-rec="0",VB MTV Old Россия HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20174/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Greatest Hits
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31622/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Yo! MTV HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31623/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Dj Set
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31639/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Магнитофон
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31645/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Metall HD
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31651/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мюзикл 4K
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31662/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Hip Hop
+#EXTGRP:Музыка
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31672/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoon Classics
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2075/index.m3u8
+#EXTINF:0 tvg-rec="0",КиноМульт
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20009/index.m3u8
+#EXTINF:0 tvg-rec="0",Baby Time
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20030/index.m3u8
+#EXTINF:0 tvg-rec="0",В гостях у сказки HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20005/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20012/index.m3u8
+#EXTINF:0 tvg-rec="0",Kids TV HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20008/index.m3u8
+#EXTINF:0 tvg-rec="7",Nickelodeon HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/223/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС Kids HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2001/index.m3u8
+#EXTINF:0 tvg-rec="7",Tiji TV
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/108/index.m3u8
+#EXTINF:0 tvg-rec="7",Gulli
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/109/index.m3u8
+#EXTINF:0 tvg-rec="7",Nick Jr
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/114/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Союз Мульт HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18168/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Маша и Медведь HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18165/index.m3u8
+#EXTINF:0 tvg-rec="7",Nickelodeon
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/541/index.m3u8
+#EXTINF:0 tvg-rec="7",Детский мир
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/543/index.m3u8
+#EXTINF:0 tvg-rec="7",Jim Jam
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/138/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoon Network
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/143/index.m3u8
+#EXTINF:0 tvg-rec="7",Карусель
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/156/index.m3u8
+#EXTINF:0 tvg-rec="7",Ani
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/129/index.m3u8
+#EXTINF:0 tvg-rec="7",Мульт
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/909/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoonito
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/723/index.m3u8
+#EXTINF:0 tvg-rec="7",О!
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/727/index.m3u8
+#EXTINF:0 tvg-rec="7",Уникум
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/730/index.m3u8
+#EXTINF:0 tvg-rec="7",В гостях у сказки
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/737/index.m3u8
+#EXTINF:0 tvg-rec="3",Карусель (+3)
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/740/index.m3u8
+#EXTINF:0 tvg-rec="7",Мультимузыка
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/749/index.m3u8
+#EXTINF:0 tvg-rec="3",Duck TV
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1031/index.m3u8
+#EXTINF:0 tvg-rec="3",Baby TV
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2084/index.m3u8
+#EXTINF:0 tvg-rec="3",Da Vinci orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1033/index.m3u8
+#EXTINF:0 tvg-rec="3",Da Vinci Kids UA
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1034/index.m3u8
+#EXTINF:0 tvg-rec="3",СуперГерои
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1041/index.m3u8
+#EXTINF:0 tvg-rec="7",NickToons
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/849/index.m3u8
+#EXTINF:0 tvg-rec="7",Радость моя
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/853/index.m3u8
+#EXTINF:0 tvg-rec="3",Рыжий
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2052/index.m3u8
+#EXTINF:0 tvg-rec="3",Капитан Фантастика
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2098/index.m3u8
+#EXTINF:0 tvg-rec="3",Тамыр
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2109/index.m3u8
+#EXTINF:0 tvg-rec="3",Смайлик ТВ
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2157/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультиландия
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5055/index.m3u8
+#EXTINF:0 tvg-rec="7",Мульт HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/921/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon HD orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9015/index.m3u8
+#EXTINF:0 tvg-rec="3",Мульт HD orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9037/index.m3u8
+#EXTINF:0 tvg-rec="3",Уникум HD orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9077/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Kids HD orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9063/index.m3u8
+#EXTINF:0 tvg-rec="3",Tiji Tv orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9180/index.m3u8
+#EXTINF:0 tvg-rec="3",Gulli orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9181/index.m3u8
+#EXTINF:0 tvg-rec="3",Nick Jr orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9182/index.m3u8
+#EXTINF:0 tvg-rec="3",Детский мир orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9184/index.m3u8
+#EXTINF:0 tvg-rec="3",Jim Jam orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9185/index.m3u8
+#EXTINF:0 tvg-rec="3",Карусель orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9186/index.m3u8
+#EXTINF:0 tvg-rec="3",Ani orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9187/index.m3u8
+#EXTINF:0 tvg-rec="3",Мульт orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9188/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoonito orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9189/index.m3u8
+#EXTINF:0 tvg-rec="3",О! orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9190/index.m3u8
+#EXTINF:0 tvg-rec="3",Уникум orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9191/index.m3u8
+#EXTINF:0 tvg-rec="3",Baby TV orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9192/index.m3u8
+#EXTINF:0 tvg-rec="3",Радость моя orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9194/index.m3u8
+#EXTINF:0 tvg-rec="3",Рыжий orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9195/index.m3u8
+#EXTINF:0 tvg-rec="3",Капитан Фантастика orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9196/index.m3u8
+#EXTINF:0 tvg-rec="3",Тамыр orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9198/index.m3u8
+#EXTINF:0 tvg-rec="3",Смайлик ТВ orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9199/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультиландия orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9200/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9260/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoon Network orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9261/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультимузыка orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9262/index.m3u8
+#EXTINF:0 tvg-rec="3",В гостях у сказки orig
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9263/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Наше Детское
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19433/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сказки FHD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19304/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV Kids
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19409/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Little HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19425/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Kids FHD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20047/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Мультики FHD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20048/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Контент Моего Детства
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20001/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS Kids
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31646/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Масяня
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31670/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Мульт HD UA
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31671/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Том и Джери SD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31684/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Kids 60 fps HD
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31685/index.m3u8
+#EXTINF:0 tvg-rec="0",Том и Джерри (Russian)
+#EXTGRP:Детские
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31721/index.m3u8
+#EXTINF:0 tvg-rec="3",National Geographic
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2336/index.m3u8
+#EXTINF:0 tvg-rec="0",Авто 24 HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20033/index.m3u8
+#EXTINF:0 tvg-rec="0",Мужской HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20035/index.m3u8
+#EXTINF:0 tvg-rec="0",Доктор HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20013/index.m3u8
+#EXTINF:0 tvg-rec="3",Еда
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6009/index.m3u8
+#EXTINF:0 tvg-rec="0",TravelXP CEE 4K
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20031/index.m3u8
+#EXTINF:0 tvg-rec="3",Конгресс ТВ HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2176/index.m3u8
+#EXTINF:0 tvg-rec="0",Museum TV HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20032/index.m3u8
+#EXTINF:0 tvg-rec="0",Неизвестная Россия HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16087/index.m3u8
+#EXTINF:0 tvg-rec="0",Точка Отрыва HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20034/index.m3u8
+#EXTINF:0 tvg-rec="0",Big Planet HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20036/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия-Культура HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20016/index.m3u8
+#EXTINF:0 tvg-rec="3",Curiosity Stream HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9072/index.m3u8
+#EXTINF:0 tvg-rec="0",78 Канал Санкт-Петербург 
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6144/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2067/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша тема orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9286/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Баня
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18200/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV History
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18142/index.m3u8
+#EXTINF:0 tvg-rec="3",World Fashion Channel orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9287/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus History
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18139/index.m3u8
+#EXTINF:0 tvg-rec="3",Мама orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9288/index.m3u8
+#EXTINF:0 tvg-rec="3",Связист ТВ orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9291/index.m3u8
+#EXTINF:0 tvg-rec="3",Т24 orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9292/index.m3u8
+#EXTINF:0 tvg-rec="3",Доктор orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9294/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju Nature orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9295/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашние Животные orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9296/index.m3u8
+#EXTINF:0 tvg-rec="3",Вопросы и ответы orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9297/index.m3u8
+#EXTINF:0 tvg-rec="3",Время orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9298/index.m3u8
+#EXTINF:0 tvg-rec="3",English Club TV HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9299/index.m3u8
+#EXTINF:0 tvg-rec="3",Моя Планета orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9300/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel+Adventure orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9301/index.m3u8
+#EXTINF:0 tvg-rec="3",Ювелирия orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9302/index.m3u8
+#EXTINF:0 tvg-rec="3",Просвещение orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9304/index.m3u8
+#EXTINF:0 tvg-rec="3",Совершенно секретно orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9305/index.m3u8
+#EXTINF:0 tvg-rec="3",Мужской orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9306/index.m3u8
+#EXTINF:0 tvg-rec="3",Телепутешествия orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9307/index.m3u8
+#EXTINF:0 tvg-rec="3",Авто 24 orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9309/index.m3u8
+#EXTINF:0 tvg-rec="3",Flix Snip orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9311/index.m3u8
+#EXTINF:0 tvg-rec="3",Ocean TV orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9312/index.m3u8
+#EXTINF:0 tvg-rec="3",History HD CEE orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9313/index.m3u8
+#EXTINF:0 tvg-rec="3",История orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9315/index.m3u8
+#EXTINF:0 tvg-rec="3",Тайна orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9316/index.m3u8
+#EXTINF:0 tvg-rec="3",Galaxy orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9317/index.m3u8
+#EXTINF:0 tvg-rec="3",Поехали! orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9318/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородная Жизнь orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9319/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый Вегетарианский orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9320/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9322/index.m3u8
+#EXTINF:0 tvg-rec="3",Оружие orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9323/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоо ТВ orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9324/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая Планета orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9325/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9326/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Право orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9327/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Стиль orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9328/index.m3u8
+#EXTINF:0 tvg-rec="3",Кто Куда orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9329/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша Сибирь HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9330/index.m3u8
+#EXTINF:0 tvg-rec="0",Museum HD FR
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7246/index.m3u8
+#EXTINF:0 tvg-rec="3",Home 4K
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/4002/index.m3u8
+#EXTINF:0 tvg-rec="3",Мы
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6001/index.m3u8
+#EXTINF:0 tvg-rec="3",Insight UHD 4K
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5000/index.m3u8
+#EXTINF:0 tvg-rec="3",Love Nature 4K
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5001/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша Сибирь 4K
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/4003/index.m3u8
+#EXTINF:0 tvg-rec="3",TERRA HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2416/index.m3u8
+#EXTINF:0 tvg-rec="7",TERRA
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/230/index.m3u8
+#EXTINF:0 tvg-rec="7",TLC HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/232/index.m3u8
+#EXTINF:0 tvg-rec="7",Travel Channel HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/233/index.m3u8
+#EXTINF:0 tvg-rec="7",History HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/231/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju History HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/203/index.m3u8
+#EXTINF:0 tvg-rec="7",H2 HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2033/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/227/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/140/index.m3u8
+#EXTINF:0 tvg-rec="7",RTG HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/210/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild FHD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2415/index.m3u8
+#EXTINF:0 tvg-rec="7",Nat Geo Wild
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/133/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Science
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/136/index.m3u8
+#EXTINF:0 tvg-rec="7",Animal Planet HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/218/index.m3u8
+#EXTINF:0 tvg-rec="7",Animal Planet
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/137/index.m3u8
+#EXTINF:0 tvg-rec="7",Охотник и Рыболов HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/917/index.m3u8
+#EXTINF:0 tvg-rec="3",FoodTime FHD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2418/index.m3u8
+#EXTINF:0 tvg-rec="7",FoodTime
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/918/index.m3u8
+#EXTINF:0 tvg-rec="3",Food Network FHD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2419/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая природа HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2074/index.m3u8
+#EXTINF:0 tvg-rec="3",В мире животных HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2089/index.m3u8
+#EXTINF:0 tvg-rec="3",Моя Планета HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2090/index.m3u8
+#EXTINF:0 tvg-rec="7",Приключения HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/920/index.m3u8
+#EXTINF:0 tvg-rec="3",Глазами Туриста HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2104/index.m3u8
+#EXTINF:0 tvg-rec="7",Большая Азия HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2009/index.m3u8
+#EXTINF:0 tvg-rec="3",DocuBox HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/968/index.m3u8
+#EXTINF:0 tvg-rec="7",Дикая охота HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2004/index.m3u8
+#EXTINF:0 tvg-rec="7",Дикая рыбалка HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2005/index.m3u8
+#EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2394/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородный int HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2124/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2102/index.m3u8
+#EXTINF:0 tvg-rec="7",Авто Плюс
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/151/index.m3u8
+#EXTINF:0 tvg-rec="7",Кухня ТВ
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/152/index.m3u8
+#EXTINF:0 tvg-rec="3",Нано ТВ HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2135/index.m3u8
+#EXTINF:0 tvg-rec="7",Время
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/552/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашние Животные
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/158/index.m3u8
+#EXTINF:0 tvg-rec="7",Точка отрыва
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/159/index.m3u8
+#EXTINF:0 tvg-rec="3",Надежда
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2153/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju Nature
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/161/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju History
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/162/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju Explore
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/163/index.m3u8
+#EXTINF:0 tvg-rec="3",Наука HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2155/index.m3u8
+#EXTINF:0 tvg-rec="3",Galaxy HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5045/index.m3u8
+#EXTINF:0 tvg-rec="7",Ocean TV
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/703/index.m3u8
+#EXTINF:0 tvg-rec="7",Бобёр
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/725/index.m3u8
+#EXTINF:0 tvg-rec="7",Зоопарк
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/731/index.m3u8
+#EXTINF:0 tvg-rec="7",E TV
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/736/index.m3u8
+#EXTINF:0 tvg-rec="7",Моя Стихия
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/742/index.m3u8
+#EXTINF:0 tvg-rec="7",Телекафе
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/865/index.m3u8
+#EXTINF:0 tvg-rec="7",Усадьба
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/532/index.m3u8
+#EXTINF:0 tvg-rec="3",English Club TV HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/993/index.m3u8
+#EXTINF:0 tvg-rec="3",H2
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1052/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Channel EN
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1070/index.m3u8
+#EXTINF:0 tvg-rec="7",History HD CEE
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/837/index.m3u8
+#EXTINF:0 tvg-rec="7",RTG TV
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/841/index.m3u8
+#EXTINF:0 tvg-rec="7",Дикий
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/847/index.m3u8
+#EXTINF:0 tvg-rec="7",Travel+Adventure
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/850/index.m3u8
+#EXTINF:0 tvg-rec="7",Поехали!
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/135/index.m3u8
+#EXTINF:0 tvg-rec="7",Galaxy
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2010/index.m3u8
+#EXTINF:0 tvg-rec="7",Охота и рыбалка
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2019/index.m3u8
+#EXTINF:0 tvg-rec="7",ЕГЭ ТВ
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2020/index.m3u8
+#EXTINF:0 tvg-rec="3",365 дней ТВ
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2040/index.m3u8
+#EXTINF:0 tvg-rec="3",Телепутешествия
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2051/index.m3u8
+#EXTINF:0 tvg-rec="3",Тайна
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2059/index.m3u8
+#EXTINF:0 tvg-rec="3",Нано ТВ
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2081/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2085/index.m3u8
+#EXTINF:0 tvg-rec="3",Оружие
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2087/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоо ТВ
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2100/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая Планета
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2101/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша тема
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2118/index.m3u8
+#EXTINF:0 tvg-rec="3",Пёс и Ко
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2123/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion One
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1010/index.m3u8
+#EXTINF:0 tvg-rec="3",World Fashion Channel
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1068/index.m3u8
+#EXTINF:0 tvg-rec="7",Мужской
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2047/index.m3u8
+#EXTINF:0 tvg-rec="7",Da Vinci
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/537/index.m3u8
+#EXTINF:0 tvg-rec="7",Мама
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/704/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Стиль
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/745/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Право
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/743/index.m3u8
+#EXTINF:0 tvg-rec="3",Kabbala TV
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1053/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый Вегетарианский
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/833/index.m3u8
+#EXTINF:0 tvg-rec="7",Загородная Жизнь
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/852/index.m3u8
+#EXTINF:0 tvg-rec="7",Русский Север FHD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/846/index.m3u8
+#EXTINF:0 tvg-rec="3",Кто Куда
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2112/index.m3u8
+#EXTINF:0 tvg-rec="3",Т24
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5047/index.m3u8
+#EXTINF:0 tvg-rec="3",Калейдоскоп ТВ
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5037/index.m3u8
+#EXTINF:0 tvg-rec="7",История
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/111/index.m3u8
+#EXTINF:0 tvg-rec="7",Моя Планета
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/117/index.m3u8
+#EXTINF:0 tvg-rec="7",Outdoor Channel
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/119/index.m3u8
+#EXTINF:0 tvg-rec="7",Вопросы и ответы
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2026/index.m3u8
+#EXTINF:0 tvg-rec="7",Совершенно секретно
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/121/index.m3u8
+#EXTINF:0 tvg-rec="7",Доктор
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/512/index.m3u8
+#EXTINF:0 tvg-rec="7",Авто 24
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/538/index.m3u8
+#EXTINF:0 tvg-rec="3",Приключения HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9007/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9011/index.m3u8
+#EXTINF:0 tvg-rec="3",H2 HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9013/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel+Adventure HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9019/index.m3u8
+#EXTINF:0 tvg-rec="3",RTG HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9021/index.m3u8
+#EXTINF:0 tvg-rec="3",TLC HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9024/index.m3u8
+#EXTINF:0 tvg-rec="3",Travel Channel HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9025/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Planet HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9027/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая природа HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9039/index.m3u8
+#EXTINF:0 tvg-rec="3",Охотник и Рыболов HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9043/index.m3u8
+#EXTINF:0 tvg-rec="3",В мире животных HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9048/index.m3u8
+#EXTINF:0 tvg-rec="3",Моя Планета HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9050/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9054/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju History HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9060/index.m3u8
+#EXTINF:0 tvg-rec="3",Глазами Туриста HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9061/index.m3u8
+#EXTINF:0 tvg-rec="3",Трофей
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9076/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикая охота HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9081/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикая рыбалка HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9082/index.m3u8
+#EXTINF:0 tvg-rec="3",Наука HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9084/index.m3u8
+#EXTINF:0 tvg-rec="3",History HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9023/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju Explore HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9075/index.m3u8
+#EXTINF:0 tvg-rec="3",Nat Geo Wild orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9264/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9265/index.m3u8
+#EXTINF:0 tvg-rec="3",Большая Азия HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9267/index.m3u8
+#EXTINF:0 tvg-rec="3",Загородный int HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9268/index.m3u8
+#EXTINF:0 tvg-rec="3",Нано ТВ HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9271/index.m3u8
+#EXTINF:0 tvg-rec="3",Точка отрыва orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9272/index.m3u8
+#EXTINF:0 tvg-rec="3",Надежда orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9273/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju Explore orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9275/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоопарк orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9276/index.m3u8
+#EXTINF:0 tvg-rec="3",Моя Стихия orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9277/index.m3u8
+#EXTINF:0 tvg-rec="3",Телекафе orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9278/index.m3u8
+#EXTINF:0 tvg-rec="3",Усадьба orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9279/index.m3u8
+#EXTINF:0 tvg-rec="3",RTG TV orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9280/index.m3u8
+#EXTINF:0 tvg-rec="3",Восьмой канал orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9281/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикий orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9282/index.m3u8
+#EXTINF:0 tvg-rec="3",Охота и рыбалка orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9284/index.m3u8
+#EXTINF:0 tvg-rec="3",ЕГЭ ТВ orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9285/index.m3u8
+#EXTINF:0 tvg-rec="0",Моя Стихия HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7349/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый космический HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/908/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый космический HD orig
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9049/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Рыбалка
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16138/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Стройка
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16139/index.m3u8
+#EXTINF:0 tvg-rec="0",Plan B HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19249/index.m3u8
+#EXTINF:0 tvg-rec="0",Индия HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19250/index.m3u8
+#EXTINF:0 tvg-rec="0",HDL HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19251/index.m3u8
+#EXTINF:0 tvg-rec="0",ЖИВИ! HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19252/index.m3u8
+#EXTINF:0 tvg-rec="0",Рыболов HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19254/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Наука FHD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19305/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH NATURE FHD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19309/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop TV Docu
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19314/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Experiment HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19412/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Открытия HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19415/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Docu HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20143/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Docu HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20153/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Food
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31616/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Science
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31617/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Nature
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31618/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Travel
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31619/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31620/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Travel Premiere HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31652/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Gurman HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31653/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX AutoTrend HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31654/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!History HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31695/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Military HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31696/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Biography HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31697/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Science HD
+#EXTGRP:Познавательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/31705/index.m3u8
+#EXTINF:0 tvg-rec="3",Epic HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2054/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ Стиль HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20037/index.m3u8
+#EXTINF:0 tvg-rec="0",FashionBox HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20038/index.m3u8
+#EXTINF:0 tvg-rec="7",Лапки Live HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2028/index.m3u8
+#EXTINF:0 tvg-rec="0",MyZen TV HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20011/index.m3u8
+#EXTINF:0 tvg-rec="0",Silk Way
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20044/index.m3u8
+#EXTINF:0 tvg-rec="0",Ключ HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20041/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion TV UHD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/4005/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Уральские пельмени
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/18198/index.m3u8
+#EXTINF:0 tvg-rec="3",Солнце
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/872/index.m3u8
+#EXTINF:0 tvg-rec="3",MyZen TV 4K
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5002/index.m3u8
+#EXTINF:0 tvg-rec="7",HDL
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/226/index.m3u8
+#EXTINF:0 tvg-rec="7",DTX HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2006/index.m3u8
+#EXTINF:0 tvg-rec="3",Fashion TV FHD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2411/index.m3u8
+#EXTINF:0 tvg-rec="7",Fashion TV HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2045/index.m3u8
+#EXTINF:0 tvg-rec="7",Fashion One HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2044/index.m3u8
+#EXTINF:0 tvg-rec="3",Арсенал HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5044/index.m3u8
+#EXTINF:0 tvg-rec="3",Анекдот ТВ
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5034/index.m3u8
+#EXTINF:0 tvg-rec="3",Театр
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2431/index.m3u8
+#EXTINF:0 tvg-rec="3",Luxury
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2072/index.m3u8
+#EXTINF:0 tvg-rec="3",Luxury
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5032/index.m3u8
+#EXTINF:0 tvg-rec="7",Продвижение
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/851/index.m3u8
+#EXTINF:0 tvg-rec="7",Девятая Волна
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/868/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +2
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/6020/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС HD orig
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9000/index.m3u8
+#EXTINF:0 tvg-rec="3",Luxury HD orig
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9038/index.m3u8
+#EXTINF:0 tvg-rec="3",Продвижение orig
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9331/index.m3u8
+#EXTINF:0 tvg-rec="3",Девятая Волна orig
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9332/index.m3u8
+#EXTINF:0 tvg-rec="3",Арсенал orig
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9336/index.m3u8
+#EXTINF:0 tvg-rec="3",Театр orig
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9337/index.m3u8
+#EXTINF:0 tvg-rec="0",Загородная Жизнь HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/7348/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Юмор 18+
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16137/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Однажды в России
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19286/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH STANDUP HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19311/index.m3u8
+#EXTINF:0 tvg-rec="0",KLI Humor HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20052/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV Test
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20087/index.m3u8
+#EXTINF:0 tvg-rec="0",Dosug TV ER
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20088/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Holiday
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16089/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Christmas HD
+#EXTGRP:Развлекательные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/16092/index.m3u8
+#EXTINF:0 tvg-rec="3",Самара 24 HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2183/index.m3u8
+#EXTINF:0 tvg-rec="3",Югра Тревел HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/5038/index.m3u8
+#EXTINF:0 tvg-rec="3",Сочи HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2433/index.m3u8
+#EXTINF:0 tvg-rec="3",Липецк Time
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2435/index.m3u8
+#EXTINF:0 tvg-rec="7",Санкт-Петербург
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/715/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНВ-Планета
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/515/index.m3u8
+#EXTINF:0 tvg-rec="3",КРЫМ 24
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2143/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый Крымский
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2139/index.m3u8
+#EXTINF:0 tvg-rec="3",Волга
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2113/index.m3u8
+#EXTINF:0 tvg-rec="3",Архыз 24
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/1049/index.m3u8
+#EXTINF:0 tvg-rec="7",Башкирское спутниковое телевидение
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/832/index.m3u8
+#EXTINF:0 tvg-rec="7",Грозный
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/855/index.m3u8
+#EXTINF:0 tvg-rec="7",Москва Доверие
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/869/index.m3u8
+#EXTINF:0 tvg-rec="3",БСТ HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2115/index.m3u8
+#EXTINF:0 tvg-rec="7",Юрган
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2036/index.m3u8
+#EXTINF:0 tvg-rec="3",НТК Калмыкия
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2066/index.m3u8
+#EXTINF:0 tvg-rec="3",ТОЛК
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/2140/index.m3u8
+#EXTINF:0 tvg-rec="3",Сочи 24 HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9040/index.m3u8
+#EXTINF:0 tvg-rec="3",КРЫМ 24 orig
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9338/index.m3u8
+#EXTINF:0 tvg-rec="3",Эхо ТВ orig
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9339/index.m3u8
+#EXTINF:0 tvg-rec="3",Волга orig
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9340/index.m3u8
+#EXTINF:0 tvg-rec="3",БСТ HD orig
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9341/index.m3u8
+#EXTINF:0 tvg-rec="3",Москва-доверие orig
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9342/index.m3u8
+#EXTINF:0 tvg-rec="3",БСТ orig
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/9343/index.m3u8
+#EXTINF:0 tvg-rec="0",Сварожичи HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19080/index.m3u8
+#EXTINF:0 tvg-rec="0",312 Кино KG
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19205/index.m3u8
+#EXTINF:0 tvg-rec="0",312 Сериал KG
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19206/index.m3u8
+#EXTINF:0 tvg-rec="0",Next tv KG
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19211/index.m3u8
+#EXTINF:0 tvg-rec="0",Piramida KG
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19212/index.m3u8
+#EXTINF:0 tvg-rec="0",КТРК Madaniat KG
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19214/index.m3u8
+#EXTINF:0 tvg-rec="0",Любимый KG
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19215/index.m3u8
+#EXTINF:0 tvg-rec="0",Семейный KG
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19217/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый Псковский
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19220/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВЦ HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19222/index.m3u8
+#EXTINF:0 tvg-rec="0",Звезда Плюс HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19230/index.m3u8
+#EXTINF:0 tvg-rec="0",Евразия (Орск)
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19236/index.m3u8
+#EXTINF:0 tvg-rec="0",Тюменское время
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19237/index.m3u8
+#EXTINF:0 tvg-rec="0",Сургут 24
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19238/index.m3u8
+#EXTINF:0 tvg-rec="0",Родной канал HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19239/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый республиканский HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19240/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый Тульский
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19242/index.m3u8
+#EXTINF:0 tvg-rec="0",Югра
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19256/index.m3u8
+#EXTINF:0 tvg-rec="0",Луч Пуровск HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19257/index.m3u8
+#EXTINF:0 tvg-rec="0",Миллет HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19258/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТВ Екатеринбург
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19261/index.m3u8
+#EXTINF:0 tvg-rec="0",Панорама ТВ FHD Тверь
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19339/index.m3u8
+#EXTINF:0 tvg-rec="0",Обком ТВ
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19340/index.m3u8
+#EXTINF:0 tvg-rec="0",Общественная Служба Новостей HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19341/index.m3u8
+#EXTINF:0 tvg-rec="0",НТС FHD Иркутск
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19342/index.m3u8
+#EXTINF:0 tvg-rec="0",ННТВ Нижний Новгород
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19343/index.m3u8
+#EXTINF:0 tvg-rec="0",Между NET ТВ HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19344/index.m3u8
+#EXTINF:0 tvg-rec="0",Камчатка 1 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19345/index.m3u8
+#EXTINF:0 tvg-rec="0",К16 Саров
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19346/index.m3u8
+#EXTINF:0 tvg-rec="0",Губерния Самара
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19347/index.m3u8
+#EXTINF:0 tvg-rec="0",Губерния Хабаровск
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19348/index.m3u8
+#EXTINF:0 tvg-rec="0",Городской Телеканал-Ярославль
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19349/index.m3u8
+#EXTINF:0 tvg-rec="0",Город ТВ Шадринск FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19350/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазов 24 HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19351/index.m3u8
+#EXTINF:0 tvg-rec="0",Волга 24 HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19353/index.m3u8
+#EXTINF:0 tvg-rec="0",Волга ТВ FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19354/index.m3u8
+#EXTINF:0 tvg-rec="0",Самара ГИС FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19357/index.m3u8
+#EXTINF:0 tvg-rec="0",СГДФ 24 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19359/index.m3u8
+#EXTINF:0 tvg-rec="0",Раменское ТВ HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19360/index.m3u8
+#EXTINF:0 tvg-rec="0",Прима ТВ FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19361/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый Тульский FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19362/index.m3u8
+#EXTINF:0 tvg-rec="0",РТР Планета Северная Америка
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19368/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ Беларусь
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19371/index.m3u8
+#EXTINF:0 tvg-rec="0",БелМуз ТВ
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19373/index.m3u8
+#EXTINF:0 tvg-rec="0",Эхо 24 ТВ Новоуральск
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19375/index.m3u8
+#EXTINF:0 tvg-rec="0",Лотос 24 HD Астрахань
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19376/index.m3u8
+#EXTINF:0 tvg-rec="0",Щёлковское ТВ
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19379/index.m3u8
+#EXTINF:0 tvg-rec="0",Туапсе 24 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19380/index.m3u8
+#EXTINF:0 tvg-rec="0",Тивиком ТВ FHD Улан Удэ
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19381/index.m3u8
+#EXTINF:0 tvg-rec="0",ТЕО ТВ HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19382/index.m3u8
+#EXTINF:0 tvg-rec="0",Теледом ТВ HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19383/index.m3u8
+#EXTINF:0 tvg-rec="0",ТРК Евразия Орск HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19385/index.m3u8
+#EXTINF:0 tvg-rec="0",ТРК555 Алушта HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19386/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВК FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19388/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ 7 Абакан
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19389/index.m3u8
+#EXTINF:0 tvg-rec="0",Сургут 86 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19390/index.m3u8
+#EXTINF:0 tvg-rec="0",Сургут 1 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19391/index.m3u8
+#EXTINF:0 tvg-rec="0",Советск-Тильзит ТВ
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19392/index.m3u8
+#EXTINF:0 tvg-rec="0",Саров 24 HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/19393/index.m3u8
+#EXTINF:0 tvg-rec="0",УлПравда ТВ FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20113/index.m3u8
+#EXTINF:0 tvg-rec="0",Сочи 24 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20115/index.m3u8
+#EXTINF:0 tvg-rec="0",Север ТВ FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20116/index.m3u8
+#EXTINF:0 tvg-rec="0",Своё ТВ FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20118/index.m3u8
+#EXTINF:0 tvg-rec="0",Саратов 24 HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20119/index.m3u8
+#EXTINF:0 tvg-rec="0",Самара 24 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20120/index.m3u8
+#EXTINF:0 tvg-rec="0",Ники ТВ HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20123/index.m3u8
+#EXTINF:0 tvg-rec="0",Нижний Новгород 24 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20124/index.m3u8
+#EXTINF:0 tvg-rec="0",НВК Саха FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20125/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Белогорья HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20126/index.m3u8
+#EXTINF:0 tvg-rec="0",Кузбасс 1 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20128/index.m3u8
+#EXTINF:0 tvg-rec="0",ДимГрад 24 HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20130/index.m3u8
+#EXTINF:0 tvg-rec="0",Восток 24 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20131/index.m3u8
+#EXTINF:0 tvg-rec="0",Брянская Губерния FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20132/index.m3u8
+#EXTINF:0 tvg-rec="0",Баршкортостан 24 FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20133/index.m3u8
+#EXTINF:0 tvg-rec="0",Арис 24 HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20134/index.m3u8
+#EXTINF:0 tvg-rec="0",Абаза ТВ HD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20135/index.m3u8
+#EXTINF:0 tvg-rec="0",РГВК Дагестан FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20136/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый Ярославский FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20137/index.m3u8
+#EXTINF:0 tvg-rec="0",Вместе-РФ FHD
+#EXTGRP:Региональные
+http://f586aeb6.akadatel.com/iptv/25GR7SCSAFAV3PGBSAMKS3UY/20139/index.m3u8
