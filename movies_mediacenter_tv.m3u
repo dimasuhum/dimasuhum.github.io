@@ -74,6 +74,11 @@ m3u+http://ba6034569951.mylistbest.com/playlists/uplist/13658d41793d200e0f5686cd
 #EXTINF:-1 ,TvTest2
 m3u+https://dl.dropbox.com/scl/fi/7faeipolmf6n6nuvf1zbb/streams-4.m3u?rlkey=tlhmrh1n9oh0ib7g9xyaull7u&st=cmil3a0k&dl
 
+
+#EXTINF:-1 ,TvTest3
+m3u+https://u.to/qrpZHA
+
+
 #EXTINF:-1 ,streams1
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-1.m3u
 
