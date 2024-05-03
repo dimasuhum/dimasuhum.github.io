@@ -18,12 +18,14 @@ https://drm.clan.su/GedemDUPLICATOR.m3u
 #EXTINF:-1 ,FREETv
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
-
+#EXTINF:-1 , plushtv
+m3u+https://bit.ly/4axHzL5
 
 #EXTINF:-1 ,iptvplay_Social
 m3u+http://bit.ly/iptvplay_Social
 
-
+#EXTINF:-1 ,loganet
+https://loganet.ru/mega.m3u
 
 #EXTINF:-1 ,TvoneTv1
 m3u+http://1usd.tv/pl-pgopfc4k967oq-hls
