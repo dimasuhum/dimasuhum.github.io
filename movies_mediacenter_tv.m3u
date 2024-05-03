@@ -24,7 +24,6 @@ m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 
 
-
 #EXTINF:-1 ,TvoneTv1
 m3u+http://1usd.tv/pl-pgopfc4k967oq-hls
 
@@ -33,8 +32,7 @@ m3u+http://1usd.tv/pl-pgopfc4k967oq-hls
 m3u+http://1usd.tv/pl-5eb94c64432a3-hls
 
 #EXTINF:-1 ,TvoneTv3
-m3u+http://1usd.tv/pl-6220bbcf1cc2b-hls
-
+m3u+http://1usd.tv/pl-5eb94c64432a3-hls
 
 #EXTINF:-1 ,TvoneTv4
 m3u+http://tv-nasha.ru/iptv/M4f082ab4c/m3u8
@@ -44,14 +42,9 @@ m3u+http://troya.one/pl/21/620fb473efc91/playlist.m3u8
 
 
 
-#EXTINF:-1 ,Tvone1
-m3u+http://1usd.tv/pl-6220bbcf1cc2b-hls
 
 
 
-
-#EXTINF:-1 ,Tvone2
-m3u+http://troya.tv/pl/21/ff84ybqs8z2dt/playlist.m3u8
 
 #EXTINF:-1 ,usdtv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tvtest.m3u
@@ -75,6 +68,8 @@ http://osipov.esy.es/test.m3u
 #EXTINF:-1 ,TvTest1
 m3u+http://ba6034569951.mylistbest.com/playlists/uplist/13658d41793d200e0f5686cd32c35830/playlist.m3u8
 
+#EXTINF:-1 ,TvTest2
+m3u+https://dl.dropbox.com/scl/fi/7faeipolmf6n6nuvf1zbb/streams-4.m3u?rlkey=tlhmrh1n9oh0ib7g9xyaull7u&st=cmil3a0k&dl
 
 #EXTINF:-1 ,streams1
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-1.m3u
