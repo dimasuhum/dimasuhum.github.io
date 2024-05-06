@@ -27,6 +27,9 @@ m3u+http://bit.ly/iptvplay_Social
 #EXTINF:-1 ,loganet
 https://loganet.ru/mega.m3u
 
+#EXTINF:-1 ,avto-iptv
+https://tva.org.ua/ip/sam/avto-iptv-tva.m3u
+
 #EXTINF:-1 ,TvoneTv1
 m3u+http://1usd.tv/pl-pgopfc4k967oq-hls
 
