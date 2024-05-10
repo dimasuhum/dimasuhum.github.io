@@ -12,11 +12,19 @@ https://gclnk.com/lf4JtBLc
 #EXTINF:-1 ,SashaTv
 https://gclnk.com/EvXCbg9L
 
+#EXTINF:-1 ,SashaTv
+https://gclnk.com/KlJq6vLC
+
 #EXTINF:-1 ,GedemDUPLICATOR
 https://drm.clan.su/GedemDUPLICATOR.m3u
 
 #EXTINF:-1 ,FREETv
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
+
+
+#EXTINF:-1 ,FUllTv
+m3u+http://cloud.zagdali.keenetic.pro/DiskHttpHFS/%D0%A4%D1%83%D0%BB%D0%BB.m3u8
+
 
 #EXTINF:-1 , plushtv
 m3u+https://bit.ly/4axHzL5
@@ -45,9 +53,6 @@ m3u+http://tv-nasha.ru/iptv/M4f082ab4c/m3u8
 
 #EXTINF:-1 ,Tvone
 m3u+http://troya.one/pl/21/620fb473efc91/playlist.m3u8
-
-
-
 
 
 
