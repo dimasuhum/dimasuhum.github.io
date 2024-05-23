@@ -2,7 +2,7 @@
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
 
 #EXTINF:-1 ,GedemTv
-https://drm.clan.su/Gedem.m3u
+https://raw.githubusercontent.com/suzukantv/IPTV/main/Gedem.m3u
 
 #EXTINF:-1 , CeburTv
 https://gclnk.com/lf4JtBLc
@@ -13,17 +13,22 @@ http://topplay.do.am/FreeBestTV.m3u
 #EXTINF:-1 , SantixTV
 m3u+https://pikniktv.com/download/file.php?id=102982
 
+#EXTINF:-1 ,Tvv
+http://myott.top/playlist/J7619PVV2N/m3u
 
 
 
+#EXTINF:-1 ,Tvv1
+m3u+https://gclnk.com/SY2q6UDQ
 
-
-
-
-
+#EXTINF:-1 ,Tvv2
+https://cdntv.online/high/tn1zsp58e7/playlist.m3u8
 
 #EXTINF:-1 ,GedemDUPLICATOR
 https://drm.clan.su/GedemDUPLICATOR.m3u
+
+
+
 
 #EXTINF:-1 ,FREETv
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
@@ -31,6 +36,7 @@ m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 #EXTINF:-1 ,FUllTv
 m3u+http://cloud.zagdali.keenetic.pro/DiskHttpHFS/%D0%A4%D1%83%D0%BB%D0%BB.m3u8
+
 
 
 #EXTINF:-1 , plushtv
@@ -207,5 +213,5 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-8.m3u
 
 
 #EXTINF:-1 ,mediateka
-https://drm.clan.su/mediateka.m3u
+https://raw.githubusercontent.com/suzukantv/IPTV/main/mediateka.m3u
 
