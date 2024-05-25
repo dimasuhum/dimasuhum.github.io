@@ -13,6 +13,9 @@ http://topplay.do.am/FreeBestTV.m3u
 #EXTINF:-1 , SantixTV
 m3u+https://pikniktv.com/download/file.php?id=102982
 
+#EXTINF:-1 ,playlistbox
+https://app.playlistbox.com/pll/yALQBY9P4aMgLn0UA1acWqZVlzR6v3GO.m3u
+
 #EXTINF:-1 ,Tvv
 m3u+http://myott.top/playlist/J7619PVV2N/m3u
 
