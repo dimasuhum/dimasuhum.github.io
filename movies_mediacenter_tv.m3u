@@ -13,19 +13,15 @@ http://topplay.do.am/FreeBestTV.m3u
 #EXTINF:-1 , SantixTV
 m3u+https://pikniktv.com/download/file.php?id=102982
 
-#EXTINF:-1 ,playlistbox
-https://app.playlistbox.com/pll/yALQBY9P4aMgLn0UA1acWqZVlzR6v3GO.m3u
 
 #EXTINF:-1 ,Tvv
 m3u+http://myott.top/playlist/J7619PVV2N/m3u
 
 
 
-#EXTINF:-1 ,Tvv1
-m3u+https://gclnk.com/SY2q6UDQ
 
-#EXTINF:-1 ,Tvv2
-m3u+https://cdntv.online/high/tn1zsp58e7/playlist.m3u8
+
+
 
 #EXTINF:-1 ,GedemDUPLICATOR
 https://drm.clan.su/GedemDUPLICATOR.m3u
