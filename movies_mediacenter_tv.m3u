@@ -2,10 +2,11 @@
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
 
 #EXTINF:-1 ,GedemTv
-https://raw.githubusercontent.com/suzukantv/IPTV/main/Gedem.m3u
+https://raw.githubusercontent.com/suzukantv/IPTV/main/FreeGedemTV.m3u
 
 #EXTINF:-1 , CeburTv
-https://gclnk.com/lf4JtBLc
+https://gclnk.com/1KGcCXTv
+
 
 #EXTINF:-1 , FreeBestTV
 http://topplay.do.am/FreeBestTV.m3u
@@ -13,6 +14,8 @@ http://topplay.do.am/FreeBestTV.m3u
 #EXTINF:-1 , SantixTV
 m3u+https://pikniktv.com/download/file.php?id=102982
 
+#EXTINF:-1 , CESARTV
+m3u+https://m3url.ru/CESAR.m3u8
 
 #EXTINF:-1 ,Tvv
 m3u+http://myott.top/playlist/J7619PVV2N/m3u
