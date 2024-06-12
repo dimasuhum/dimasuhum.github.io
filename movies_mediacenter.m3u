@@ -70,6 +70,8 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/KinoDevice.IMC.zip
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/movies_mediacenter_tv.m3u
 
 
+#EXTINF:-1 ,nontv
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/iptv.IMC.zip
 
 
 #EXTINF:-1 ,onlinetv
