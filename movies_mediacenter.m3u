@@ -69,10 +69,14 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/KinoDevice.IMC.zip
 #EXTINF:-1 ,Всё ТВ
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/movies_mediacenter_tv.m3u
 
+#EXTINF:-1 ,VK Poisk
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/fxmlparsers.IMC.zip
 
 #EXTINF:-1 ,nontv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/iptv.IMC.zip
 
+#EXTINF:-1 ,nonradio
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/radio.IMC.zip
 
 #EXTINF:-1 ,onlinetv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/onlinetv.IMC.zip
