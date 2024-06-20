@@ -6,7 +6,8 @@ https://raw.githubusercontent.com/suzukantv/IPTV/main/FreeGedemTV.m3u
 
 #EXTINF:-1 , CeburTv
 https://gclnk.com/1KGcCXTv
-
+#EXTINF:-1 , 50na50
+http://50na50.net/iptv/133770097/f77f7ad8.m3u
 
 #EXTINF:-1 , FreeBestTV
 http://topplay.do.am/FreeBestTV.m3u
@@ -27,8 +28,8 @@ http://bezbe.my1.ru//t/mzab.m3u
 https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u
 
 
-#EXTINF:-1 ,GedemDUPLICATOR
-https://drm.clan.su/GedemDUPLICATOR.m3u
+#EXTINF:-1 ,TvoneTv
+m3u+http://troya.tv/pl/21/633c57533faab/playlist.m3u8
 
 
 
