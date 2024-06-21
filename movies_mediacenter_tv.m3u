@@ -8,7 +8,8 @@ https://raw.githubusercontent.com/suzukantv/IPTV/main/FreeGedemTV.m3u
 https://gclnk.com/1KGcCXTv
 #EXTINF:-1 , 50na50
 http://50na50.net/iptv/133770097/f77f7ad8.m3u
-
+#EXTINF:-1 , dmi3y-tv
+http://dmi3y-tv.ru/iptv/d-tv.m3u
 #EXTINF:-1 , FreeBestTV
 http://topplay.do.am/FreeBestTV.m3u
 
