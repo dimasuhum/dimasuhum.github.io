@@ -4,481 +4,482 @@
 
 
 
+
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АГТРК
-http://172.30.10.66/lb0/tv_agtrk_hd/index.m3u8
+http://172.30.10.68/lb0/tv_agtrk_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
-http://172.30.10.66/lb0/tv_abaza_tv/index.m3u8
+http://172.30.10.68/lb0/tv_abaza_tv/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", ГАГРА-ТВ
-http://172.30.10.66/lb0/tv_gagra_tv/index.m3u8
+http://172.30.10.68/lb0/tv_gagra_tv/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", ГАЛ TV
-http://172.30.10.66/lb0/tv_gal_tv/index.m3u8
+http://172.30.10.68/lb0/tv_gal_tv/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="10106" group-title="Эфирные", Первый канал
-http://172.30.10.66/lb0/tv_perviy_kanal_sd/index.m3u8
+http://172.30.10.68/lb0/tv_perviy_kanal_sd/index.m3u8
 #EXTINF:-1 tvg-id="20105" group-title="Эфирные", Первый hd
-http://172.30.10.66/lb0/tv_perviy_kanal_hd/index.m3u8
+http://172.30.10.68/lb0/tv_perviy_kanal_hd/index.m3u8
 #EXTINF:-1 tvg-id="10106" group-title="Эфирные", Первый канал +2
-http://172.30.10.66/lb0/tv_perviy_kanal_sd_plus2/index.m3u8
+http://172.30.10.68/lb0/tv_perviy_kanal_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="10304" group-title="Эфирные", Россия 1
-http://172.30.10.66/lb0/tv_russia_1_sd/index.m3u8
+http://172.30.10.68/lb0/tv_russia_1_sd/index.m3u8
 #EXTINF:-1 tvg-id="20106" group-title="Эфирные", Россия hd
-http://172.30.10.66/lb0/tv_russia_1_hd/index.m3u8
+http://172.30.10.68/lb0/tv_russia_1_hd/index.m3u8
 #EXTINF:-1 tvg-id="10304" group-title="Эфирные", Россия 1 +2
-http://172.30.10.66/lb0/tv_russia_1_sd_plus2/index.m3u8
+http://172.30.10.68/lb0/tv_russia_1_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="10301" group-title="Эфирные", НТВ
-http://172.30.10.66/lb0/tv_ntv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_ntv_sd/index.m3u8
 #EXTINF:-1 tvg-id="2201" group-title="Эфирные", НТВ hd
-http://172.30.10.66/lb0/tv_ntv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ntv_hd/index.m3u8
 #EXTINF:-1 tvg-id="10301" group-title="Эфирные", НТВ +2
-http://172.30.10.66/lb0/tv_ntv_sd_plus2/index.m3u8
+http://172.30.10.68/lb0/tv_ntv_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="13102" group-title="Эфирные", ТВЦ
-http://172.30.10.66/lb0/tv_tvc_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tvc_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="31006" group-title="Эфирные", Пятый канал
-http://172.30.10.66/lb0/tv_5_sd/index.m3u8
+http://172.30.10.68/lb0/tv_5_sd/index.m3u8
 #EXTINF:-1 tvg-id="31006" group-title="Эфирные", Пятый канал +2
-http://172.30.10.66/lb0/tv_5_sd_plus2/index.m3u8
+http://172.30.10.68/lb0/tv_5_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="10106" group-title="Эфирные", Солнце
-http://172.30.10.66/lb0/tv_solntse_sd/index.m3u8
+http://172.30.10.68/lb0/tv_solntse_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="10302" group-title="Эфирные", ТНТ
-http://172.30.10.66/lb0/tv_tnt_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tnt_sd/index.m3u8
 #EXTINF:-1 tvg-id="10302" group-title="Эфирные", ТНТ +2
-http://172.30.10.66/lb0/tv_tnt_sd_plus2/index.m3u8
+http://172.30.10.68/lb0/tv_tnt_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="10302" group-title="Эфирные", ТНТ HD
-http://172.30.10.66/lb0/tv_tnt_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tnt_hd/index.m3u8
 #EXTINF:-1 tvg-id="10302" group-title="Эфирные", ТНТ-4
-http://172.30.10.66/lb0/tv_tnt4_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tnt4_sd/index.m3u8
 #EXTINF:-1 tvg-id="10302" group-title="Эфирные", ТНТ-4 HD
-http://172.30.10.66/lb0/tv_tnt4_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tnt4_hd/index.m3u8
 #EXTINF:-1 tvg-id="10306" group-title="Эфирные", СТС HD
-http://172.30.10.66/lb0/tv_sts_hd/index.m3u8
+http://172.30.10.68/lb0/tv_sts_hd/index.m3u8
 #EXTINF:-1 tvg-id="10306" group-title="Эфирные", СТС 
-http://172.30.10.66/lb0/tv_sts_sd/index.m3u8
+http://172.30.10.68/lb0/tv_sts_sd/index.m3u8
 #EXTINF:-1 tvg-id="10306" group-title="Эфирные", СТС-love
-http://172.30.10.66/lb0/tv_sts_love_sd/index.m3u8
+http://172.30.10.68/lb0/tv_sts_love_sd/index.m3u8
 #EXTINF:-1 tvg-id="10108" group-title="Эфирные", РЕН ТВ HD
-http://172.30.10.66/lb0/tv_rentv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_rentv_hd/index.m3u8
 #EXTINF:-1 tvg-id="10108" group-title="Эфирные", РЕН ТВ 
-http://172.30.10.66/lb0/tv_rentv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_rentv_sd/index.m3u8
 #EXTINF:-1 tvg-id="10108" group-title="Эфирные", РЕН ТВ +2
-http://172.30.10.66/lb0/tv_rentv_sd_plus2/index.m3u8
+http://172.30.10.68/lb0/tv_rentv_sd_plus2/index.m3u8
 
 #EXTINF:-1 tvg-id="16109" group-title="Эфирные", Домашний
-http://172.30.10.66/lb0/tv_domashniy_hd/index.m3u8
+http://172.30.10.68/lb0/tv_domashniy_hd/index.m3u8
 #EXTINF:-1 tvg-id="10303" group-title="Эфирные", ПЯТНИЦА
-http://172.30.10.66/lb0/tv_piatnitsa_hd/index.m3u8
+http://172.30.10.68/lb0/tv_piatnitsa_hd/index.m3u8
 #EXTINF:-1 tvg-id="10309" group-title="Эфирные", Звезда
-http://172.30.10.66/lb0/tv_zvezda_sd/index.m3u8
+http://172.30.10.68/lb0/tv_zvezda_sd/index.m3u8
 #EXTINF:-1 tvg-id="10309" group-title="Эфирные", Звезда +2
-http://172.30.10.66/lb0/tv_zvezda_sd_plus2/index.m3u8
+http://172.30.10.68/lb0/tv_zvezda_sd_plus2/index.m3u8
 #EXTINF:-1 tvg-id="10106" group-title="Эфирные", Соловьёв Live
-http://172.30.10.66/lb0/tv_solovev_live_sd/index.m3u8
+http://172.30.10.68/lb0/tv_solovev_live_sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Перец International
-http://172.30.10.66/lb0/tv_perec_international_sd/index.m3u8
+http://172.30.10.68/lb0/tv_perec_international_sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Мир
-http://172.30.10.66/lb0/tv_mir_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mir_sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Мир HD
-http://172.30.10.66/lb0/tv_mir_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mir_hd/index.m3u8
 #EXTINF:-1 tvg-id="10305" group-title="Эфирные", Россия-Культура
-http://172.30.10.66/lb0/tv_russia_k_sd/index.m3u8
+http://172.30.10.68/lb0/tv_russia_k_sd/index.m3u8
 #EXTINF:-1 tvg-id="16105" group-title="Эфирные", Че
-http://172.30.10.66/lb0/tv_che_sd/index.m3u8
+http://172.30.10.68/lb0/tv_che_sd/index.m3u8
 #EXTINF:-1 tvg-id="16105" group-title="Эфирные", Ю
-http://172.30.10.66/lb0/tv_utv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_utv_sd/index.m3u8
 #EXTINF:-1 tvg-id="20105" group-title="Эфирные",  Ратник hd
-http://172.30.10.66/lb0/tv_ratnik_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ratnik_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Известия
-http://172.30.10.66/lb0/tv_izvestiya_hd/index.m3u8
+http://172.30.10.68/lb0/tv_izvestiya_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Ростов-Папа HD
-http://172.30.10.66/lb0/tv_rostov_papa_hd/index.m3u8
+http://172.30.10.68/lb0/tv_rostov_papa_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Вместе-РФ
-http://172.30.10.66/lb0/tv_vmeste_rf_sd/index.m3u8
+http://172.30.10.68/lb0/tv_vmeste_rf_sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Твой дом HD
-http://172.30.10.66/lb0/tv_tvoy_dom_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tvoy_dom_hd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="10307" group-title="Новости", Россия 24
-http://172.30.10.66/lb0/tv_russia_24_sd/index.m3u8
+http://172.30.10.68/lb0/tv_russia_24_sd/index.m3u8
 #EXTINF:-1 tvg-id="11105" group-title="Новости", РБК-ТВ
-http://172.30.10.66/lb0/tv_rbk_hd/index.m3u8
+http://172.30.10.68/lb0/tv_rbk_hd/index.m3u8
 #EXTINF:-1 tvg-id="16107" group-title="Новости", Звезда Плюс HD
-http://172.30.10.66/lb0/tv_zvezda_plus_hd/index.m3u8
+http://172.30.10.68/lb0/tv_zvezda_plus_hd/index.m3u8
 #EXTINF:-1 tvg-id="705" group-title="Новости", 78 HD
-http://172.30.10.66/lb0/tv_78_hd/index.m3u8
+http://172.30.10.68/lb0/tv_78_hd/index.m3u8
 #EXTINF:-1 tvg-id="16107" group-title="Новости", Центральное телевидение
-http://172.30.10.66/lb0/tv_centralnoe_televidenie_sd/index.m3u8
+http://172.30.10.68/lb0/tv_centralnoe_televidenie_sd/index.m3u8
 #EXTINF:-1 tvg-id="704" group-title="Новости", BBC World News
-http://172.30.10.66/lb0/tv_bbc_world_news_sd/index.m3u8
+http://172.30.10.68/lb0/tv_bbc_world_news_sd/index.m3u8
 #EXTINF:-1 tvg-id="19114" group-title="Новости", Euronews
-http://172.30.10.66/lb0/tv_euronews_sd/index.m3u8
+http://172.30.10.68/lb0/tv_euronews_sd/index.m3u8
 #EXTINF:-1 tvg-id="16107" group-title="Новости", CNN International
-http://172.30.10.66/lb0/tv_cnn_international_sd/index.m3u8
+http://172.30.10.68/lb0/tv_cnn_international_sd/index.m3u8
 #EXTINF:-1 tvg-id="707" group-title="Новости", FRANCE 24
-http://172.30.10.66/lb0/tv_france_24_hd/index.m3u8
+http://172.30.10.68/lb0/tv_france_24_hd/index.m3u8
 #EXTINF:-1 tvg-id="31004" group-title="Новости", МИР
-http://172.30.10.66/lb0/tv_mir_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mir_hd/index.m3u8
 #EXTINF:-1 tvg-id="31004" group-title="Новости", МИР 24
-http://172.30.10.66/lb0/tv_mir_24_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mir_24_hd/index.m3u8
 #EXTINF:-1 tvg-id="21111" group-title="Новости", NHK WORLD TV
-http://172.30.10.66/lb0/tv_nhk_world_japan_sd/index.m3u8
+http://172.30.10.68/lb0/tv_nhk_world_japan_sd/index.m3u8
 #EXTINF:-1 tvg-id="10805" group-title="Новости", CGTN
-http://172.30.10.66/lb0/tv_cgtn_sd/index.m3u8
+http://172.30.10.68/lb0/tv_cgtn_sd/index.m3u8
 #EXTINF:-1 tvg-id="510" group-title="Новости", CGTN-Русский
-http://172.30.10.66/lb0/tv_cgtn_russian_sd/index.m3u8
+http://172.30.10.68/lb0/tv_cgtn_russian_sd/index.m3u8
 #EXTINF:-1 tvg-id="510" group-title="Новости", CCTV-4
-http://172.30.10.66/lb0/tv_cctv4_sd/index.m3u8
+http://172.30.10.68/lb0/tv_cctv4_sd/index.m3u8
 #EXTINF:-1 tvg-id="31009" group-title="Новости", Первый МЕТЕО
-http://172.30.10.66/lb0/tv_perviy_meteo_sd/index.m3u8
+http://172.30.10.68/lb0/tv_perviy_meteo_sd/index.m3u8
 #EXTINF:-1 tvg-id="31009" group-title="Новости", Кубань 24. Орбита
-http://172.30.10.66/lb0/tv_kuban_24_orbita_sd/index.m3u8
+http://172.30.10.68/lb0/tv_kuban_24_orbita_sd/index.m3u8
 #EXTINF:-1 tvg-id="31009" group-title="Новости", Москва 24
-http://172.30.10.66/lb0/tv_moscow_24_sd/index.m3u8
+http://172.30.10.68/lb0/tv_moscow_24_sd/index.m3u8
 #EXTINF:-1 group-title="Новости", Телеканал Известия
-http://172.30.10.66/lb0/tv_izvestiya_sd/index.m3u8
+http://172.30.10.68/lb0/tv_izvestiya_sd/index.m3u8
 #EXTINF:-1 group-title="Новости", ВМЕСТЕ-РФ
-http://172.30.10.66/lb0/tv_vmeste_rf_sd/index.m3u8
+http://172.30.10.68/lb0/tv_vmeste_rf_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="12104" group-title="Спорт", Eurosport 1 hd
-http://172.30.10.66/lb0/tv_eurosport_1_hd/index.m3u8
+http://172.30.10.68/lb0/tv_eurosport_1_hd/index.m3u8
 #EXTINF:-1 tvg-id="706" group-title="Спорт", Eurosport 2 hd
-http://172.30.10.66/lb0/tv_eurosport_2_hd/index.m3u8
+http://172.30.10.68/lb0/tv_eurosport_2_hd/index.m3u8
 #EXTINF:-1 tvg-id="19108" group-title="Спорт", БОКС ТВ
-http://172.30.10.66/lb0/tv_boxtv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_boxtv_hd/index.m3u8
 #EXTINF:-1 tvg-id="12104" group-title="Спорт", Удар hd
-http://172.30.10.66/lb0/tv_udar_hd/index.m3u8
+http://172.30.10.68/lb0/tv_udar_hd/index.m3u8
 #EXTINF:-1 tvg-id="12104" group-title="Спорт", MMA TV HD
-http://172.30.10.66/lb0/tv_mma_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mma_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="17106" group-title="Спорт", Viasat Sport hd
-http://172.30.10.66/lb0/tv_viasat_sport_hd/index.m3u8
+http://172.30.10.68/lb0/tv_viasat_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="2204" group-title="Спорт", МАТЧ ТВ
-http://172.30.10.66/lb0/tv_match_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_match_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="2204" group-title="Спорт", МАТЧ ТВ hd
-http://172.30.10.66/lb0/tv_match_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_match_tv_hd/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! ПРЕМЬЕР HD
-http://172.30.10.66/lb0/tv_ntvplus_match_premier_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ntvplus_match_premier_hd/index.m3u8
 #EXTINF:-1 tvg-id="14105" group-title="Спорт", Матч! Футбол 1 hd
-http://172.30.10.66/lb0/tv_match_football_1_hd/index.m3u8
+http://172.30.10.68/lb0/tv_match_football_1_hd/index.m3u8
 #EXTINF:-1 tvg-id="20101" group-title="Спорт", Матч! Футбол 2 hd
-http://172.30.10.66/lb0/tv_match_football_2_hd/index.m3u8
+http://172.30.10.68/lb0/tv_match_football_2_hd/index.m3u8
 #EXTINF:-1 tvg-id="17101" group-title="Спорт", Матч! Футбол 3 hd
-http://172.30.10.66/lb0/tv_match_football_3_hd/index.m3u8
+http://172.30.10.68/lb0/tv_match_football_3_hd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Спорт", Футбольный HD
-http://172.30.10.66/lb0/tv_footbolniy_hd/index.m3u8
+http://172.30.10.68/lb0/tv_footbolniy_hd/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Real Madrid TV
-http://172.30.10.66/lb0/tv_real_madrid_hd/index.m3u8
+http://172.30.10.68/lb0/tv_real_madrid_hd/index.m3u8
 #EXTINF:-1 tvg-id="20103" group-title="Спорт", Матч! Арена hd
-http://172.30.10.66/lb0/tv_match_arena_hd/index.m3u8
+http://172.30.10.68/lb0/tv_match_arena_hd/index.m3u8
 #EXTINF:-1 tvg-id="10211" group-title="Спорт", Матч! Боец
-http://172.30.10.66/lb0/tv_match_boets_hd/index.m3u8
+http://172.30.10.68/lb0/tv_match_boets_hd/index.m3u8
 #EXTINF:-1 tvg-id="10211" group-title="Спорт", Матч! Игра hd
-http://172.30.10.66/lb0/tv_match_igra_hd/index.m3u8
+http://172.30.10.68/lb0/tv_match_igra_hd/index.m3u8
 #EXTINF:-1 tvg-id="11109" group-title="Спорт", Матч! Страна
-http://172.30.10.66/lb0/tv_match_strana_sd/index.m3u8
+http://172.30.10.68/lb0/tv_match_strana_sd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Планета
-http://172.30.10.66/lb0/tv_match_planeta_sd/index.m3u8
+http://172.30.10.68/lb0/tv_match_planeta_sd/index.m3u8
 #EXTINF:-1 tvg-id="12104" group-title="Спорт", Okko sport hd
-http://172.30.10.66/lb0/tv_okko_sport_hd/index.m3u8
+http://172.30.10.68/lb0/tv_okko_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="13101" group-title="Спорт", Телеканал КХЛ
-http://172.30.10.66/lb0/tv_telekanal_khl_hd/index.m3u8
+http://172.30.10.68/lb0/tv_telekanal_khl_hd/index.m3u8
 #EXTINF:-1 tvg-id="2202" group-title="Спорт", КХЛ prime HD
-http://172.30.10.66/lb0/tv_khl_prime_hd/index.m3u8
+http://172.30.10.68/lb0/tv_khl_prime_hd/index.m3u8
 #EXTINF:-1 tvg-id="2203" group-title="Спорт", Конный мир hd
-http://172.30.10.66/lb0/tv_konniy_mir_hd/index.m3u8
+http://172.30.10.68/lb0/tv_konniy_mir_hd/index.m3u8
 #EXTINF:-1 tvg-id="19110" group-title="Спорт", Русский Экстрим
-http://172.30.10.66/lb0/tv_russkiy_extrim_hd/index.m3u8
+http://172.30.10.68/lb0/tv_russkiy_extrim_hd/index.m3u8
 #EXTINF:-1 tvg-id="1507" group-title="Спорт", Extreme Sports
-http://172.30.10.66/lb0/tv_extreme_sports_sd/index.m3u8
+http://172.30.10.68/lb0/tv_extreme_sports_sd/index.m3u8
 #EXTINF:-1 tvg-id="1507" group-title="Спорт", Trace Sport Stars hd
-http://172.30.10.66/lb0/tv_trace_sport_stars_hd/index.m3u8
+http://172.30.10.68/lb0/tv_trace_sport_stars_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", UFC ТВ HD
-http://172.30.10.66/lb0/tv_ufc_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ufc_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт Live
-http://172.30.10.66/lb0/tv_start_live_hd/index.m3u8
+http://172.30.10.68/lb0/tv_start_live_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Футбол HD
-http://172.30.10.66/lb0/tv_football_hd/index.m3u8
+http://172.30.10.68/lb0/tv_football_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 HD
-http://172.30.10.66/lb0/tv_belarus_5_hd/index.m3u8
+http://172.30.10.68/lb0/tv_belarus_5_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports ukraina
-http://172.30.10.66/lb0/tv_setanta_sport_ua_hd/index.m3u8
+http://172.30.10.68/lb0/tv_setanta_sport_ua_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta 1
-http://172.30.10.66/lb0/tv_setanta_1_hd/index.m3u8
+http://172.30.10.68/lb0/tv_setanta_1_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta 2
-http://172.30.10.66/lb0/tv_setanta_2_hd/index.m3u8
+http://172.30.10.68/lb0/tv_setanta_2_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", M-1 Global
-http://172.30.10.66/lb0/tv_m1_global_sd/index.m3u8
+http://172.30.10.68/lb0/tv_m1_global_sd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport Gold HD
-http://172.30.10.66/lb0/tv_eurosport_gold_hd/index.m3u8
+http://172.30.10.68/lb0/tv_eurosport_gold_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мир Баскетбола
-http://172.30.10.66/lb0/tv_mir_basketbola_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mir_basketbola_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт", NBA TV
-http://172.30.10.66/lb0/tv_nba_sd/index.m3u8
+http://172.30.10.68/lb0/tv_nba_sd/index.m3u8
 #EXTINF:-1 group-title="Спорт", Старт
-http://172.30.10.66/lb0/tv_start_sd/index.m3u8
+http://172.30.10.68/lb0/tv_start_sd/index.m3u8
 #EXTINF:-1 tvg-id="14104" group-title="Познавательное", Animal Planet hd
-http://172.30.10.66/lb0/tv_animal_planet_hd/index.m3u8
+http://172.30.10.68/lb0/tv_animal_planet_hd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", Terra HD
-http://172.30.10.66/lb0/tv_terra_hd/index.m3u8
+http://172.30.10.68/lb0/tv_terra_hd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", Big planet HD
-http://172.30.10.66/lb0/tv_big_planet_hd/index.m3u8
+http://172.30.10.68/lb0/tv_big_planet_hd/index.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Познавательное", Глазами Туриста 4k
-http://172.30.10.66/lb0/tv_glazamiturista_4k_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_glazamiturista_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", NASA TV UHD
-http://172.30.10.66/lb0/tv_nasa_tv_4k_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_nasa_tv_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", Quadro 4k
-http://172.30.10.66/lb0/tv_quadro_4k_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_quadro_4k_uhd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Galaxy
 http://178.163.16.166:4022/udp/234.0.0.111:2000
 #EXTINF:-1 group-title="Познавательное", Russian Extreme Ultra
-http://172.30.10.66/lb0/tv_russkiy_extrim_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_russkiy_extrim_uhd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Тайна
-http://172.30.10.66/lb0/tv_taina_sd/index.m3u8
+http://172.30.10.68/lb0/tv_taina_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Живая планета
-http://172.30.10.66/lb0/tv_zhivaya_planeta_sd/index.m3u8
+http://172.30.10.68/lb0/tv_zhivaya_planeta_sd/index.m3u8
 #EXTINF:-1 tvg-id="12103" group-title="Познавательное", hd Life
-http://172.30.10.66/lb0/tv_hd_life_hd/index.m3u8
+http://172.30.10.68/lb0/tv_hd_life_hd/index.m3u8
 #EXTINF:-1 tvg-id="12105" group-title="Познавательное", Discovery Channel hd
-http://172.30.10.66/lb0/tv_discovery_channel_hd/index.m3u8
+http://172.30.10.68/lb0/tv_discovery_channel_hd/index.m3u8
 #EXTINF:-1 tvg-id="20616" group-title="Познавательное", Discovery Science
-http://172.30.10.66/lb0/tv_discovery_science_hd/index.m3u8
+http://172.30.10.68/lb0/tv_discovery_science_hd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Познавательное", ID Investigation Discovery HD
-http://172.30.10.66/lb0/tv_id_investigation_discovery_hd/index.m3u8
+http://172.30.10.68/lb0/tv_id_investigation_discovery_hd/index.m3u8
 #EXTINF:-1 tvg-id="14101" group-title="Познавательное", Nat Geo Wild hd
-http://172.30.10.66/lb0/tv_nat_geo_wild_hd/index.m3u8
+http://172.30.10.68/lb0/tv_nat_geo_wild_hd/index.m3u8
 #EXTINF:-1 tvg-id="26002" group-title="Познавательное", National Geographic hd
-http://172.30.10.66/lb0/tv_national_geographic_hd/index.m3u8
+http://172.30.10.68/lb0/tv_national_geographic_hd/index.m3u8
 #EXTINF:-1 tvg-id="19106" group-title="Познавательное", Viasat History
-http://172.30.10.66/lb0/tv_viasat_history_hd/index.m3u8
+http://172.30.10.68/lb0/tv_viasat_history_hd/index.m3u8
 #EXTINF:-1 tvg-id="19105" group-title="Познавательное", Viasat Explore
-http://172.30.10.66/lb0/tv_viasat_explorer_hd/index.m3u8
+http://172.30.10.68/lb0/tv_viasat_explorer_hd/index.m3u8
 #EXTINF:-1 tvg-id="19107" group-title="Познавательное", Viasat Nature
-http://172.30.10.66/lb0/tv_viasat_nature_hd/index.m3u8
+http://172.30.10.68/lb0/tv_viasat_nature_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Viasat Nature HD/Viasat History HD
-http://172.30.10.66/lb0/tv_viasat_nature_hd_history_hd/index.m3u8
+http://172.30.10.68/lb0/tv_viasat_nature_hd_history_hd/index.m3u8
 #EXTINF:-1 tvg-id="20615" group-title="Познавательное", Моторспорт ТВ HD
-http://172.30.10.66/lb0/tv_motorsport_hd/index.m3u8
+http://172.30.10.68/lb0/tv_motorsport_hd/index.m3u8
 #EXTINF:-1 tvg-id="20615" group-title="Познавательное", Телепутешествия
-http://172.30.10.66/lb0/tv_teleputeshestviya_sd/index.m3u8
+http://172.30.10.68/lb0/tv_teleputeshestviya_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Доктор
-http://172.30.10.66/lb0/tv_doctor_hd/index.m3u8
+http://172.30.10.68/lb0/tv_doctor_hd/index.m3u8
 #EXTINF:-1 tvg-id="31002" group-title="Познавательное", История
-http://172.30.10.66/lb0/tv_istoriya_sd/index.m3u8
+http://172.30.10.68/lb0/tv_istoriya_sd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", History
-http://172.30.10.66/lb0/tv_history_hd/index.m3u8
+http://172.30.10.68/lb0/tv_history_hd/index.m3u8
 #EXTINF:-1 tvg-id="26006" group-title="Познавательное", Travel Channel hd
-http://172.30.10.66/lb0/tv_travel_channel_hd/index.m3u8
+http://172.30.10.68/lb0/tv_travel_channel_hd/index.m3u8
 #EXTINF:-1 tvg-id="26006" group-title="Познавательное", Travel and Adventure
-http://172.30.10.66/lb0/tv_travel_and_adventure_hd/index.m3u8
+http://172.30.10.68/lb0/tv_travel_and_adventure_hd/index.m3u8
 #EXTINF:-1 tvg-id="26005" group-title="Познавательное", TLC hd
-http://172.30.10.66/lb0/tv_tlc_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tlc_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Fine Living
-http://172.30.10.66/lb0/tv_fine_living_sd/index.m3u8
+http://172.30.10.68/lb0/tv_fine_living_sd/index.m3u8
 #EXTINF:-1 tvg-id="13109" group-title="Познавательное", World Fashion
-http://172.30.10.66/lb0/tv_world_fashion/index.m3u8
+http://172.30.10.68/lb0/tv_world_fashion/index.m3u8
 #EXTINF:-1 tvg-id="13109" group-title="Познавательное", Fashion TV Network
-http://172.30.10.66/lb0/tv_fashiontv_network_sd/index.m3u8
+http://172.30.10.68/lb0/tv_fashiontv_network_sd/index.m3u8
 #EXTINF:-1 tvg-id="11108" group-title="Познавательное", Совершенно Секретно
-http://172.30.10.66/lb0/tv_sovershenno_sekretno_sd/index.m3u8
+http://172.30.10.68/lb0/tv_sovershenno_sekretno_sd/index.m3u8
 #EXTINF:-1 tvg-id="19111" group-title="Познавательное", Первый образовательный
-http://172.30.10.66/lb0/tv_perviy_obrazovatelniy_sd/index.m3u8
+http://172.30.10.68/lb0/tv_perviy_obrazovatelniy_sd/index.m3u8
 #EXTINF:-1 tvg-id="19119" group-title="Познавательное", Просвещение
-http://172.30.10.66/lb0/tv_prosveshenie_sd/index.m3u8
+http://172.30.10.68/lb0/tv_prosveshenie_sd/index.m3u8
 #EXTINF:-1 tvg-id="19119" group-title="Познавательное", Время
-http://172.30.10.66/lb0/tv_vremiya_sd/index.m3u8
+http://172.30.10.68/lb0/tv_vremiya_sd/index.m3u8
 #EXTINF:-1 tvg-id="16103" group-title="Познавательное", Спас
-http://172.30.10.66/lb0/tv_spas_sd/index.m3u8
+http://172.30.10.68/lb0/tv_spas_sd/index.m3u8
 #EXTINF:-1 tvg-id="1502" group-title="Познавательное", ДОМАШНИЕ ЖИВОТНЫЕ
-http://172.30.10.66/lb0/tv_domashniye_zhivotniye_sd/index.m3u8
+http://172.30.10.68/lb0/tv_domashniye_zhivotniye_sd/index.m3u8
 #EXTINF:-1 tvg-id="1503" group-title="Познавательное", Охота и рыбалка
-http://172.30.10.66/lb0/tv_ohota_i_ribalka_sd/index.m3u8
+http://172.30.10.68/lb0/tv_ohota_i_ribalka_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Рыболов
-http://172.30.10.66/lb0/tv_ribolov_sd/index.m3u8
+http://172.30.10.68/lb0/tv_ribolov_sd/index.m3u8
 #EXTINF:-1 tvg-id="1501" group-title="Познавательное", БОБЁР
-http://172.30.10.66/lb0/tv_bober_sd/index.m3u8
+http://172.30.10.68/lb0/tv_bober_sd/index.m3u8
 #EXTINF:-1 tvg-id="1506" group-title="Познавательное", CBS Reality
-http://172.30.10.66/lb0/tv_cbs_reality_sd/index.m3u8
+http://172.30.10.68/lb0/tv_cbs_reality_sd/index.m3u8
 #EXTINF:-1 tvg-id="10201" group-title="Познавательное", 365 дней ТВ
-http://172.30.10.66/lb0/tv_365_dney_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_365_dney_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Еда Премиум
-http://172.30.10.66/lb0/tv_eda_premium_hd/index.m3u8
+http://172.30.10.68/lb0/tv_eda_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="10209" group-title="Познавательное", Кухня ТВ
-http://172.30.10.66/lb0/tv_kuhnya_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kuhnya_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="12104" group-title="Познавательное", Luxury HD
-http://172.30.10.66/lb0/tv_luxury_hd/index.m3u8
+http://172.30.10.68/lb0/tv_luxury_hd/index.m3u8
 #EXTINF:-1 tvg-id="10209" group-title="Познавательное", Food Network
-http://172.30.10.66/lb0/tv_food_network_hd/index.m3u8
+http://172.30.10.68/lb0/tv_food_network_hd/index.m3u8
 #EXTINF:-1 tvg-id="10212" group-title="Познавательное", Авто Плюс
-http://172.30.10.66/lb0/tv_avto_plus_hd/index.m3u8
+http://172.30.10.68/lb0/tv_avto_plus_hd/index.m3u8
 #EXTINF:-1 tvg-id="702" group-title="Познавательное", ABTO24
-http://172.30.10.66/lb0/tv_avto24_hd/index.m3u8
+http://172.30.10.68/lb0/tv_avto24_hd/index.m3u8
 #EXTINF:-1 tvg-id="1816" group-title="Познавательное", RTG TV
-http://172.30.10.66/lb0/tv_rtgtv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_rtgtv_sd/index.m3u8
 #EXTINF:-1 tvg-id="1816" group-title="Познавательное", RTG hd
-http://172.30.10.66/lb0/tv_rtg_hd/index.m3u8
+http://172.30.10.68/lb0/tv_rtg_hd/index.m3u8
 #EXTINF:-1 tvg-id="1805" group-title="Познавательное", Моя Планета
-http://172.30.10.66/lb0/tv_my_planet_hd/index.m3u8
+http://172.30.10.68/lb0/tv_my_planet_hd/index.m3u8
 #EXTINF:-1 tvg-id="1806" group-title="Познавательное", Наука 2.0
-http://172.30.10.66/lb0/tv_nauka_2_0_sd/index.m3u8
+http://172.30.10.68/lb0/tv_nauka_2_0_sd/index.m3u8
 #EXTINF:-1 tvg-id="1811" group-title="Познавательное", Outdoor Channel
-http://172.30.10.66/lb0/tv_outdoor_channel_hd/index.m3u8
+http://172.30.10.68/lb0/tv_outdoor_channel_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", HDL
-http://172.30.10.66/lb0/tv_hdl_hd/index.m3u8
+http://172.30.10.68/lb0/tv_hdl_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Travelxp 4K
-http://172.30.10.66/lb0/tv_travelxp_4k_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_travelxp_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="19122" group-title="Познавательное", OCEAN-TV
-http://172.30.10.66/lb0/tv_ocean_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ocean_hd/index.m3u8
 #EXTINF:-1 tvg-id="1811" group-title="Познавательное", Телеканал Да-Винчи
-http://172.30.10.66/lb0/tv_telekanal_da_vinchi_sd/index.m3u8
+http://172.30.10.68/lb0/tv_telekanal_da_vinchi_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", H2 HD
-http://172.30.10.66/lb0/tv_h2_hd/index.m3u8
+http://172.30.10.68/lb0/tv_h2_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="31003" group-title="Познавательное", Fine Living
-http://172.30.10.66/lb0/tv_fine_living_hd/index.m3u8
+http://172.30.10.68/lb0/tv_fine_living_hd/index.m3u8
 #EXTINF:-1 tvg-id="19120" group-title="Познавательное", Мама
-http://172.30.10.66/lb0/tv_mama_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mama_sd/index.m3u8
 #EXTINF:-1 tvg-id="20615" group-title="Познавательное", DTX
-http://172.30.10.66/lb0/tv_dtx_hd/index.m3u8
+http://172.30.10.68/lb0/tv_dtx_hd/index.m3u8
 #EXTINF:-1 tvg-id="20615" group-title="Познавательное", Психология21
-http://172.30.10.66/lb0/tv_psihologia21_sd/index.m3u8
+http://172.30.10.68/lb0/tv_psihologia21_sd/index.m3u8
 #EXTINF:-1 tvg-id="20615" group-title="Познавательное", Моя стихия
-http://172.30.10.66/lb0/tv_moya_stihiya_hd/index.m3u8
+http://172.30.10.68/lb0/tv_moya_stihiya_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикая охота HD
-http://172.30.10.66/lb0/tv_dikaya_ohota_hd/index.m3u8
+http://172.30.10.68/lb0/tv_dikaya_ohota_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикая рыбалка HD
-http://172.30.10.66/lb0/tv_dikaya_ribalka_hd/index.m3u8
+http://172.30.10.68/lb0/tv_dikaya_ribalka_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Охотник и рыболов HD
-http://172.30.10.66/lb0/tv_ohotnik_i_rybolov_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ohotnik_i_rybolov_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Оружие
-http://172.30.10.66/lb0/tv_oruzhie_sd/index.m3u8
+http://172.30.10.68/lb0/tv_oruzhie_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Дикий
-http://172.30.10.66/lb0/tv_dikiy_sd/index.m3u8
+http://172.30.10.68/lb0/tv_dikiy_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", ЗООПАРК
-http://172.30.10.66/lb0/tv_zoopark_sd/index.m3u8
+http://172.30.10.68/lb0/tv_zoopark_sd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", В мире животных
-http://172.30.10.66/lb0/tv_v_mire_zhivotnyh_hd/index.m3u8
+http://172.30.10.68/lb0/tv_v_mire_zhivotnyh_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Точка отрыва
-http://172.30.10.66/lb0/tv_tochka_otryva_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tochka_otryva_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Диалоги о рыбалке
-http://172.30.10.66/lb0/tv_dialogi_o_rybalke_sd/index.m3u8
+http://172.30.10.68/lb0/tv_dialogi_o_rybalke_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", INSIGHT UHD
-http://172.30.10.66/lb0/tv_insight_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_insight_uhd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Первый Вегетарианский
-http://172.30.10.66/lb0/tv_perviy_vegetarianskiy_sd/index.m3u8
+http://172.30.10.68/lb0/tv_perviy_vegetarianskiy_sd/index.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", Поехали
-http://172.30.10.66/lb0/tv_poehali_hd/index.m3u8
+http://172.30.10.68/lb0/tv_poehali_hd/index.m3u8
 
 #EXTINF:-1 group-title="Познавательное", Планета HD
-http://172.30.10.66/lb0/tv_planeta_hd/index.m3u8
+http://172.30.10.68/lb0/tv_planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Здоровье
-http://172.30.10.66/lb0/tv_zdorovoe_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_zdorovoe_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Загородная Жизнь
-http://172.30.10.66/lb0/tv_zagorodnaya_zhizn_sd/index.m3u8
+http://172.30.10.68/lb0/tv_zagorodnaya_zhizn_sd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", HOME 4K
-http://172.30.10.66/lb0/tv_home_4k_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_home_4k_uhd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Love Nature 4K
-http://172.30.10.66/lb0/tv_love_nature_4k_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_love_nature_4k_uhd/index.m3u8
 
 #EXTINF:-1 tvg-id="20502" group-title="Музыка", MTV
-http://172.30.10.66/lb0/tv_mtv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mtv_hd/index.m3u8
 #EXTINF:-1 tvg-id="20502" group-title="Музыка", MTV 90s
-http://172.30.10.66/lb0/tv_mtv_90s_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mtv_90s_sd/index.m3u8
 #EXTINF:-1 tvg-id="20507" group-title="Музыка", MTV 00s
-http://172.30.10.66/lb0/tv_vh1_european_sd/index.m3u8
+http://172.30.10.68/lb0/tv_vh1_european_sd/index.m3u8
 #EXTINF:-1 tvg-id="20502" group-title="Музыка", Club MTV
-http://172.30.10.66/lb0/tv_club_mtv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_club_mtv_sd/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Live International HD
-http://172.30.10.66/lb0/tv_mtv_live_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mtv_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="20618" group-title="Музыка", MTV Dance
-http://172.30.10.66/lb0/tv_mtv_dance_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mtv_dance_sd/index.m3u8
 #EXTINF:-1 tvg-id="511" group-title="Музыка", MTV Hits
-http://172.30.10.66/lb0/tv_mtv_hits_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mtv_hits_sd/index.m3u8
 #EXTINF:-1 tvg-id="10812" group-title="Музыка", MTV Rocks
-http://172.30.10.66/lb0/tv_mtv_rocks_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mtv_rocks_sd/index.m3u8
 #EXTINF:-1 group-title="Музыка", Russian Music HD
-http://172.30.10.66/lb0/tv_russian_music_hd/index.m3u8
+http://172.30.10.68/lb0/tv_russian_music_hd/index.m3u8
 #EXTINF:-1 tvg-id="508" group-title="Музыка", Song Tv HD Russia
-http://172.30.10.66/lb0/tv_song_tv_hd_russia_hd/index.m3u8
+http://172.30.10.68/lb0/tv_song_tv_hd_russia_hd/index.m3u8
 #EXTINF:-1 tvg-id="508" group-title="Музыка", AIVA HD
-http://172.30.10.66/lb0/tv_aiva_hd/index.m3u8
+http://172.30.10.68/lb0/tv_aiva_hd/index.m3u8
 #EXTINF:-1 tvg-id="508" group-title="Музыка", Music Box Gold
-http://172.30.10.66/lb0/tv_music_box_gold_sd/index.m3u8
+http://172.30.10.68/lb0/tv_music_box_gold_sd/index.m3u8
 
 #EXTINF:-1 group-title="Музыка", 1HD Music Television
-http://172.30.10.66/lb0/tv_1hd_music_television_hd/index.m3u8
+http://172.30.10.68/lb0/tv_1hd_music_television_hd/index.m3u8
 #EXTINF:-1 group-title="Музыка", Шансон‑ТВ
-http://172.30.10.66/lb0/tv_shanson_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_shanson_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11104" group-title="Музыка", Жара
-http://172.30.10.66/lb0/tv_zhara_hd/index.m3u8
+http://172.30.10.68/lb0/tv_zhara_hd/index.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ MUSIC
-http://172.30.10.66/lb0/tv_tnt_muzic_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tnt_muzic_sd/index.m3u8
 #EXTINF:-1 tvg-id="10812" group-title="Музыка", BRIDGE TV Classic
-http://172.30.10.66/lb0/tv_bridgetv_classic_sd/index.m3u8
+http://172.30.10.68/lb0/tv_bridgetv_classic_sd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Музыка", BRIDGE TV
-http://172.30.10.66/lb0/tv_bridgetv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_bridgetv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Музыка", BRIDGE TV Deluxe
-http://172.30.10.66/lb0/tv_bridgetv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_bridgetv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Музыка", BRIDGE TV Русский Хит
-http://172.30.10.66/lb0/tv_bridgetv_russkiy_hit_sd/index.m3u8
+http://172.30.10.68/lb0/tv_bridgetv_russkiy_hit_sd/index.m3u8
 #EXTINF:-1 tvg-id="11111" group-title="Музыка", BRIDGE TV Шлягер
-http://172.30.10.66/lb0/tv_bridgetv_shlager_sd/index.m3u8
+http://172.30.10.68/lb0/tv_bridgetv_shlager_sd/index.m3u8
 #EXTINF:-1 tvg-id="10812" group-title="Музыка", BRIDGE TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 #EXTINF:-1 tvg-id="401" group-title="Музыка", RU.TV
-http://172.30.10.66/lb0/tv_rutv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_rutv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11112" group-title="Музыка", О2ТВ
-http://172.30.10.66/lb0/tv_o2_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_o2_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11112" group-title="Музыка", ACB TV
-http://172.30.10.66/lb0/tv_acb_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_acb_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="12106" group-title="Музыка", MTV Live hd
-http://172.30.10.66/lb0/tv_mtv_live_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mtv_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="1509" group-title="Музыка", Mezzo
-http://172.30.10.66/lb0/tv_mezzo_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mezzo_sd/index.m3u8
 #EXTINF:-1 tvg-id="14103" group-title="Музыка", Mezzo Live hd
-http://172.30.10.66/lb0/tv_mezzo_live_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mezzo_live_hd/index.m3u8
 #EXTINF:-1 tvg-id="10202" group-title="Музыка", Европа Плюс ТВ
-http://172.30.10.66/lb0/tv_europa_plus_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_europa_plus_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="1809" group-title="Музыка", MCM Top
-http://172.30.10.66/lb0/tv_mcm_top_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mcm_top_sd/index.m3u8
 #EXTINF:-1 tvg-id="16106" group-title="Музыка", МУЗ
-http://172.30.10.66/lb0/tv_muz_sd/index.m3u8
+http://172.30.10.68/lb0/tv_muz_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="20612" group-title="Музыка", VH1 Classic
-http://172.30.10.66/lb0/tv_vh1_classic_sd/index.m3u8
+http://172.30.10.68/lb0/tv_vh1_classic_sd/index.m3u8
 #EXTINF:-1 tvg-id="508" group-title="Музыка", Музыка Первого
-http://172.30.10.66/lb0/tv_muzika_pervogo_sd/index.m3u8
+http://172.30.10.68/lb0/tv_muzika_pervogo_sd/index.m3u8
 #EXTINF:-1 tvg-id="508" group-title="Музыка", 9 Волна
-http://172.30.10.66/lb0/tv_9_volna_sd/index.m3u8
+http://172.30.10.68/lb0/tv_9_volna_sd/index.m3u8
 #EXTINF:-1 group-title="Музыка", MAD TV
-http://172.30.10.66/lb0/tv_gr_mad_sd/index.m3u8
+http://172.30.10.68/lb0/tv_gr_mad_sd/index.m3u8
 #EXTINF:-1 tvg-id="508" group-title="Музыка", Наше ТВ
-http://172.30.10.66/lb0/tv_nashe_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_nashe_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="508" group-title="Музыка", Ля-Минор ТВ
-http://172.30.10.66/lb0/tv_lya_minor_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_lya_minor_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="508" group-title="Музыка", Жар Птица ТВ
-http://172.30.10.66/lb0/tv_zhar_ptica_hd/index.m3u8
+http://172.30.10.68/lb0/tv_zhar_ptica_hd/index.m3u8
 #EXTINF:-1 group-title="Музыка", Shant music HD
-http://172.30.10.66/lb0/tv_shant_music_hd/index.m3u8
+http://172.30.10.68/lb0/tv_shant_music_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательное", Festival 4K
-http://172.30.10.66/lb0/tv_festival_4k_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_festival_4k_uhd/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="10308" group-title="Кино", ТВ-3
-http://172.30.10.66/lb0/tv_tv3_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tv3_sd/index.m3u8
 #EXTINF:-1 tvg-id="10308" group-title="Кино", ТВ-3 HD
-http://172.30.10.66/lb0/tv_tv3_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tv3_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино Uhd
-http://172.30.10.66/lb0/tv_kino_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_kino_uhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас HD
-http://172.30.10.66/lb0/tv_kinouzhas_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kinouzhas_hd/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Страшное HD
-http://172.30.10.66/lb0/tv_strashnoe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_strashnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Страшное HD
 http://158.101.214.187:8080/channel/42c15d29/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
 
@@ -491,10 +492,10 @@ http://195.9.195.3:8080/hls/204709.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Комедийное HD
-http://172.30.10.66/lb0/tv_komediynoe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_komediynoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее hd
 
-http://172.30.10.66/lb0/tv_shokiruushee_hd/index.m3u8
+http://172.30.10.68/lb0/tv_shokiruushee_hd/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Кино", Фантастика HD
 http://195.9.195.3:8080/hls/187241.m3u8
 #EXTINF:-1 tvg-id="kinowood" group-title="Кино", Kinowood HD
@@ -505,180 +506,180 @@ http://moobl.ru/hls/Backustv.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" group-title="Кино",BACKUSTV Страшное HD
 http://moobl.ru/hls/Backustv_horror.m3u8
 #EXTINF:-1 tvg-id="10308" group-title="Кино", Камеди HD
-http://172.30.10.66/lb0/tv_comedy_hd/index.m3u8
+http://172.30.10.68/lb0/tv_comedy_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Ultra HD Cinema
-http://172.30.10.66/lb0/tv_ultra_hd_cinema_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_ultra_hd_cinema_uhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Настоящее Страшное ТВ
-http://172.30.10.66/lb0/tv_nastoyashee_strashnoe_televidenie_sd/index.m3u8
+http://172.30.10.68/lb0/tv_nastoyashee_strashnoe_televidenie_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера
-http://172.30.10.66/lb0/tv_kinopremiera_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kinopremiera_hd/index.m3u8
 #EXTINF:-1 tvg-id="16112" group-title="Кино", Кинохит
-http://172.30.10.66/lb0/tv_kinohit_sd/index.m3u8
+http://172.30.10.68/lb0/tv_kinohit_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
-http://172.30.10.66/lb0/tv_kinomiks_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kinomiks_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
-http://172.30.10.66/lb0/tv_kinokomedia_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kinokomedia_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://172.30.10.66/lb0/tv_kinosvidanie_sd/index.m3u8
+http://172.30.10.68/lb0/tv_kinosvidanie_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", КИНОСЕРИЯ
-http://172.30.10.66/lb0/tv_kinoseriya_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kinoseriya_hd/index.m3u8
 #EXTINF:-1 tvg-id="19102" group-title="Кино", TV 1000
-http://172.30.10.66/lb0/tv_tv_1000_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tv_1000_hd/index.m3u8
 #EXTINF:-1 tvg-id="19103" group-title="Кино", TV 1000 Action
-http://172.30.10.66/lb0/tv_tv_1000_action_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tv_1000_action_hd/index.m3u8
 #EXTINF:-1 tvg-id="10212" group-title="Кино", Kinoliving
-http://172.30.10.66/lb0/tv_avto_plus_hd/index.m3u8
+http://172.30.10.68/lb0/tv_avto_plus_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", SHOT TV
-http://172.30.10.66/lb0/tv_shot_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_shot_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="17102" group-title="Кино", Vip Comedy hd
-http://172.30.10.66/lb0/tv_vip_comedy_hd/index.m3u8
+http://172.30.10.68/lb0/tv_vip_comedy_hd/index.m3u8
 #EXTINF:-1 tvg-id="17103" group-title="Кино", Vip Megahit hd
-http://172.30.10.66/lb0/tv_vip_megahit_hd/index.m3u8
+http://172.30.10.68/lb0/tv_vip_megahit_hd/index.m3u8
 #EXTINF:-1 tvg-id="17104" group-title="Кино", Vip Premiere hd
-http://172.30.10.66/lb0/tv_vip_premiere_hd/index.m3u8
+http://172.30.10.68/lb0/tv_vip_premiere_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Vip Serial hd
-http://172.30.10.66/lb0/tv_vip_serial_hd/index.m3u8
+http://172.30.10.68/lb0/tv_vip_serial_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Dar 21
-http://172.30.10.66/lb0/tv_dar_21_sd/index.m3u8
+http://172.30.10.68/lb0/tv_dar_21_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Русская Комедия
-http://172.30.10.66/lb0/tv_russian_comedy_sd/index.m3u8
+http://172.30.10.68/lb0/tv_russian_comedy_sd/index.m3u8
 #EXTINF:-1 tvg-id="10308" group-title="Кино", ТВ-21M
-http://172.30.10.66/lb0/tv_tv_21m_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tv_21m_sd/index.m3u8
 #EXTINF:-1 tvg-id="16113" group-title="Кино", Наше Новое Кино
-http://172.30.10.66/lb0/tv_nashe_novoe_kino_hd/index.m3u8
+http://172.30.10.68/lb0/tv_nashe_novoe_kino_hd/index.m3u8
 #EXTINF:-1 tvg-id="10808" group-title="Кино", Дом Кино
-http://172.30.10.66/lb0/tv_dom_kino_sd/index.m3u8
+http://172.30.10.68/lb0/tv_dom_kino_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Дом Кино Премиум hd
-http://172.30.10.66/lb0/tv_dom_kino_premium_hd/index.m3u8
+http://172.30.10.68/lb0/tv_dom_kino_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="10803" group-title="Кино", Иллюзион+
-http://172.30.10.66/lb0/tv_illuzion_plus_hd/index.m3u8
+http://172.30.10.68/lb0/tv_illuzion_plus_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Bolt
-http://172.30.10.66/lb0/tv_bolt_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_bolt_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино
-http://172.30.10.66/lb0/tv_lubimoe_kino_hd/index.m3u8
+http://172.30.10.68/lb0/tv_lubimoe_kino_hd/index.m3u8
 #EXTINF:-1 tvg-id="10802" group-title="Кино", Русский Иллюзион
-http://172.30.10.66/lb0/tv_russian_illuzion_hd/index.m3u8
+http://172.30.10.68/lb0/tv_russian_illuzion_hd/index.m3u8
 #EXTINF:-1 tvg-id="10802" group-title="Кино", Русский роман
-http://172.30.10.66/lb0/tv_russkiy_roman_hd/index.m3u8
+http://172.30.10.68/lb0/tv_russkiy_roman_hd/index.m3u8
 #EXTINF:-1 tvg-id="10802" group-title="Кино", Русский бестселлер
-http://172.30.10.66/lb0/tv_russian_bestseller_sd/index.m3u8
+http://172.30.10.68/lb0/tv_russian_bestseller_sd/index.m3u8
 #EXTINF:-1 tvg-id="10806" group-title="Кино", ЕвроКино
-http://172.30.10.66/lb0/tv_eurokino_hd/index.m3u8
+http://172.30.10.68/lb0/tv_eurokino_hd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Сериал UHD
-http://172.30.10.66/lb0/tv_serial_4k_uhd/index.m3u8
+http://172.30.10.68/lb0/tv_serial_4k_uhd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Start Air HD
-http://172.30.10.66/lb0/tv_start_air_hd/index.m3u8
+http://172.30.10.68/lb0/tv_start_air_hd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="703" group-title="Кино", Детский мир/Телеклуб
-http://172.30.10.66/lb0/tv_detskiy_mir_teleclub_sd/index.m3u8
+http://172.30.10.68/lb0/tv_detskiy_mir_teleclub_sd/index.m3u8
 #EXTINF:-1 tvg-id="19104" group-title="Кино", TB 1000 Русское кино
-http://172.30.10.66/lb0/tv_tv_1000_russkoe_kino_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tv_1000_russkoe_kino_hd/index.m3u8
 #EXTINF:-1 tvg-id="10208" group-title="Кино", Мужское кино
-http://172.30.10.66/lb0/tv_muzhskoe_kino_hd/index.m3u8
+http://172.30.10.68/lb0/tv_muzhskoe_kino_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кино тв
-http://172.30.10.66/lb0/tv_kino_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kino_tv_hd/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Криминальное HD
-http://172.30.10.66/lb0/tv_kriminalnoe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kriminalnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Kino Jam 1
-http://172.30.10.66/lb0/tv_kino_jam_1_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kino_jam_1_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Kino Jam 2
-http://172.30.10.66/lb0/tv_kino_jam_2_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kino_jam_2_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше HD
-http://172.30.10.66/lb0/tv_nashe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_nashe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Премиальное HD
-http://172.30.10.66/lb0/tv_premialnoe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_premialnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Остросюжетное HD
-http://172.30.10.66/lb0/tv_ostrosyuzhetnoe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ostrosyuzhetnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Блокбастер HD
-http://172.30.10.66/lb0/tv_blokbaster_hd/index.m3u8
+http://172.30.10.68/lb0/tv_blokbaster_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Душевное HD
-http://172.30.10.66/lb0/tv_dushevnoe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_dushevnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше любимое HD
-http://172.30.10.66/lb0/tv_nashe_lubimoe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_nashe_lubimoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Наш кинопоказ HD
-http://172.30.10.66/lb0/tv_nash_kinopokaz_hd/index.m3u8
+http://172.30.10.68/lb0/tv_nash_kinopokaz_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинеко HD
-http://172.30.10.66/lb0/tv_kineko_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kineko_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Trash HD
-http://172.30.10.66/lb0/tv_trash_hd/index.m3u8
+http://172.30.10.68/lb0/tv_trash_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Романтичное HD
-http://172.30.10.66/lb0/tv_romantichnoe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_romantichnoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Flixsnip HD
-http://172.30.10.66/lb0/tv_flixsnip_hd/index.m3u8
+http://172.30.10.68/lb0/tv_flixsnip_hd/index.m3u8
 #EXTINF:-1 tvg-id="12104" group-title="Кино", Хит HD
-http://172.30.10.66/lb0/tv_hit_hd/index.m3u8
+http://172.30.10.68/lb0/tv_hit_hd/index.m3u8
 #EXTINF:-1 tvg-id="12104" group-title="Кино", Plan B HD
-http://172.30.10.66/lb0/tv_plan_b_hd/index.m3u8
+http://172.30.10.68/lb0/tv_plan_b_hd/index.m3u8
 #EXTINF:-1 tvg-id="1511" group-title="Кино", Paramount Comedy
-http://172.30.10.66/lb0/tv_paramount_comedy_hd/index.m3u8
+http://172.30.10.68/lb0/tv_paramount_comedy_hd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Кино", Paramount Channel
-http://172.30.10.66/lb0/tv_paramount_channel_hd/index.m3u8
+http://172.30.10.68/lb0/tv_paramount_channel_hd/index.m3u8
 #EXTINF:-1 tvg-id="10105" group-title="Кино", РОДНОЕ КИНО
-http://172.30.10.66/lb0/tv_rodnoe_kino_sd/index.m3u8
+http://172.30.10.68/lb0/tv_rodnoe_kino_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Shant premium HD
-http://172.30.10.66/lb0/tv_shant_premium_hd/index.m3u8
+http://172.30.10.68/lb0/tv_shant_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="10110" group-title="Кино", Hollywood
-http://172.30.10.66/lb0/tv_hollywood_hd/index.m3u8
+http://172.30.10.68/lb0/tv_hollywood_hd/index.m3u8
 #EXTINF:-1 tvg-id="2215" group-title="Кино", FAN HD
-http://172.30.10.66/lb0/tv_fan_hd/index.m3u8
+http://172.30.10.68/lb0/tv_fan_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Синема
-http://172.30.10.66/lb0/tv_sinema_hd/index.m3u8
+http://172.30.10.68/lb0/tv_sinema_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Cinema HD
-http://172.30.10.66/lb0/tv_star_sinema_hd/index.m3u8
+http://172.30.10.68/lb0/tv_star_sinema_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Star Family HD
-http://172.30.10.66/lb0/tv_star_family_hd/index.m3u8
+http://172.30.10.68/lb0/tv_star_family_hd/index.m3u8
 #EXTINF:-1 tvg-id="1505" group-title="Кино", CBS Drama
-http://172.30.10.66/lb0/tv_cbs_drama_hd/index.m3u8
+http://172.30.10.68/lb0/tv_cbs_drama_hd/index.m3u8
 #EXTINF:-1 tvg-id="1508" group-title="Кино", FOX
-http://172.30.10.66/lb0/tv_fox_sd/index.m3u8
+http://172.30.10.68/lb0/tv_fox_sd/index.m3u8
 #EXTINF:-1 tvg-id="10813" group-title="Кино", Fox Life
-http://172.30.10.66/lb0/tv_fox_life_hd/index.m3u8
+http://172.30.10.68/lb0/tv_fox_life_hd/index.m3u8
 #EXTINF:-1 tvg-id="21107" group-title="Кино", AMEDIA
-http://172.30.10.66/lb0/tv_a1_hd/index.m3u8
+http://172.30.10.68/lb0/tv_a1_hd/index.m3u8
 #EXTINF:-1 tvg-id="16102" group-title="Кино", AMEDIA 2
-http://172.30.10.66/lb0/tv_a2_sd/index.m3u8
+http://172.30.10.68/lb0/tv_a2_sd/index.m3u8
 #EXTINF:-1 tvg-id="21112" group-title="Кино", AMEDIA HIT
-http://172.30.10.66/lb0/tv_amedia_hit_hd/index.m3u8
+http://172.30.10.68/lb0/tv_amedia_hit_hd/index.m3u8
 #EXTINF:-1 tvg-id="26003" group-title="Кино", Amedia Premium hd
-http://172.30.10.66/lb0/tv_amedia_premium_hd/index.m3u8
+http://172.30.10.68/lb0/tv_amedia_premium_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Дорама
-http://172.30.10.66/lb0/tv_dorama_hd/index.m3u8
+http://172.30.10.68/lb0/tv_dorama_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Spike
-http://172.30.10.66/lb0/tv_spike_hd/index.m3u8
+http://172.30.10.68/lb0/tv_spike_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Супер
-http://172.30.10.66/lb0/tv_super_hd/index.m3u8
+http://172.30.10.68/lb0/tv_super_hd/index.m3u8
 #EXTINF:-1 tvg-id="10308" group-title="Кино", Bollywood HD
-http://172.30.10.66/lb0/tv_bollywood_hd/index.m3u8
+http://172.30.10.68/lb0/tv_bollywood_hd/index.m3u8
 #EXTINF:-1 tvg-id="10204" group-title="Кино", ИНДИЙСКОЕ КИНО
-http://172.30.10.66/lb0/tv_india_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_india_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", ZEE TV
-http://172.30.10.66/lb0/tv_zee_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_zee_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Техно 24
-http://172.30.10.66/lb0/tv_tehno_24_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tehno_24_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", НТВ‑ХИТ
-http://172.30.10.66/lb0/tv_ntv_hit_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ntv_hit_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", НТВ Сериал
-http://172.30.10.66/lb0/tv_ntv_serial_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ntv_serial_hd/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Detective Jam
-http://172.30.10.66/lb0/tv_detective_jam_hd/index.m3u8
+http://172.30.10.68/lb0/tv_detective_jam_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Про любовь
-http://172.30.10.66/lb0/tv_pro_lubov_hd/index.m3u8
+http://172.30.10.68/lb0/tv_pro_lubov_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Наше муржское
-http://172.30.10.66/lb0/tv_nashe_muzhskoe_hd/index.m3u8
+http://172.30.10.68/lb0/tv_nashe_muzhskoe_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Start world
-http://172.30.10.66/lb0/tv_start_world_hd/index.m3u8
+http://172.30.10.68/lb0/tv_start_world_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Curiosity stream
-http://172.30.10.66/lb0/tv_curiosity_stream_hd/index.m3u8
+http://172.30.10.68/lb0/tv_curiosity_stream_hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Ключ HD
-http://172.30.10.66/lb0/tv_kluch_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kluch_hd/index.m3u8
 
 #EXTINF:-1 group-title="Кино", День Победы HD
-http://172.30.10.66/lb0/tv_den_pobedy_hd/index.m3u8
+http://172.30.10.68/lb0/tv_den_pobedy_hd/index.m3u8
 
 
 
@@ -686,7 +687,7 @@ http://172.30.10.66/lb0/tv_den_pobedy_hd/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино", O!Kino
-http://172.30.10.66/lb0/tv_o_kino_sd/index.m3u8
+http://172.30.10.68/lb0/tv_o_kino_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Мосфильм.Золотая коллекция
 http://moobl.ru/hls/Mosfilm_hd.m3u8
@@ -700,218 +701,218 @@ http://moobl.ru/hls/Melodramy_hd.m3u8
 
 
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
-http://172.30.10.66/lb0/tv_feniks_plus_kino_sd/index.m3u8
+http://172.30.10.68/lb0/tv_feniks_plus_kino_sd/index.m3u8
 #EXTINF:-1 tvg-id="719" group-title="Кино", Мир сериала
-http://172.30.10.66/lb0/tv_mir_seriala_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mir_seriala_sd/index.m3u8
 #EXTINF:-1 tvg-id="710" group-title="Кино", .Black HD
 http://moobl.ru/hls/Black_hd.m3u8
 #EXTINF:-1 tvg-id="712" group-title="Кино", .Red HD
 http://moobl.ru/hls/Red.m3u8
 #EXTINF:-1 tvg-id="711" group-title="Кино", Sony Sci-fi
-http://172.30.10.66/lb0/tv_sony_scifi_hd/index.m3u8
+http://172.30.10.68/lb0/tv_sony_scifi_hd/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Yerkir Media
-http://172.30.10.66/lb0/tv_erkir_media_sd/index.m3u8
+http://172.30.10.68/lb0/tv_erkir_media_sd/index.m3u8
 #EXTINF:-1 tvg-id="20617" group-title="Кино", AMC
-http://172.30.10.66/lb0/tv_amc_hd/index.m3u8
+http://172.30.10.68/lb0/tv_amc_hd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", MGM hd
-http://172.30.10.66/lb0/tv_mgm_hd/index.m3u8
+http://172.30.10.68/lb0/tv_mgm_hd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", Живи
-http://172.30.10.66/lb0/tv_zhivi_sd/index.m3u8
+http://172.30.10.68/lb0/tv_zhivi_sd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Кино", ПОБЕДА
-http://172.30.10.66/lb0/tv_pobeda_hd/index.m3u8
+http://172.30.10.68/lb0/tv_pobeda_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Арсенал ТВ
-http://172.30.10.66/lb0/tv_arsenal_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_arsenal_tv_hd/index.m3u8
 #EXTINF:-1 group-title="Кино", Ретро ТВ
-http://172.30.10.66/lb0/tv_retro_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_retro_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Кино", Красная линия
-http://172.30.10.66/lb0/tv_krasnaya_liniya_sd/index.m3u8
+http://172.30.10.68/lb0/tv_krasnaya_liniya_sd/index.m3u8
 #EXTINF:-1 tvg-id="710" group-title="Кино", Sony Chanel HD
-http://172.30.10.66/lb0/tv_sony_channel_hd/index.m3u8
+http://172.30.10.68/lb0/tv_sony_channel_hd/index.m3u8
 #EXTINF:-1 tvg-id="712" group-title="Кино", Sony Turbo
-http://172.30.10.66/lb0/tv_sony_turbo_hd/index.m3u8
+http://172.30.10.68/lb0/tv_sony_turbo_hd/index.m3u8
 
 #EXTINF:-1 group-title="Детям", Киносемья
-http://172.30.10.66/lb0/tv_kinosemiya_sd/index.m3u8
+http://172.30.10.68/lb0/tv_kinosemiya_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Family Jam HD
-http://172.30.10.66/lb0/tv_family_jam_hd/index.m3u8
+http://172.30.10.68/lb0/tv_family_jam_hd/index.m3u8
 #EXTINF:-1 group-title="Детям", Рыжий
-http://172.30.10.66/lb0/tv_ryzhiy_sd/index.m3u8
+http://172.30.10.68/lb0/tv_ryzhiy_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Капитан Фантастика HD
 http://moobl.ru/hls/Kapitan_Fantastika_hd.m3u8
 #EXTINF:-1 group-title="Детям", Капитан Фантастика HD
-http://172.30.10.66/lb0/tv_ginger_hd/index.m3u8
+http://172.30.10.68/lb0/tv_ginger_hd/index.m3u8
 #EXTINF:-1 group-title="Детям", O!
-http://172.30.10.66/lb0/tv_o_sd/index.m3u8
+http://172.30.10.68/lb0/tv_o_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", СТС Kids HD
-http://172.30.10.66/lb0/tv_sts_kids_hd/index.m3u8
+http://172.30.10.68/lb0/tv_sts_kids_hd/index.m3u8
 #EXTINF:-1 tvg-id="20614" group-title="Детям", Cartoon Network
-http://172.30.10.66/lb0/tv_cartoon_network_sd/index.m3u8
+http://172.30.10.68/lb0/tv_cartoon_network_sd/index.m3u8
 #EXTINF:-1 tvg-id="703" group-title="Детям", Детский мир/Телеклуб
-http://172.30.10.66/lb0/tv_detskiy_mir_teleclub_sd/index.m3u8
+http://172.30.10.68/lb0/tv_detskiy_mir_teleclub_sd/index.m3u8
 #EXTINF:-1 tvg-id="703" group-title="Детям", Мульт
-http://172.30.10.66/lb0/tv_mult_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mult_sd/index.m3u8
 #EXTINF:-1 tvg-id="13108" group-title="Детям", Disney
-http://172.30.10.66/lb0/tv_kanal_disney_sd/index.m3u8
+http://172.30.10.68/lb0/tv_kanal_disney_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Уникум
-http://172.30.10.66/lb0/tv_unikum_hd/index.m3u8
+http://172.30.10.68/lb0/tv_unikum_hd/index.m3u8
 #EXTINF:-1 group-title="Детям", Супергерои
-http://172.30.10.66/lb0/tv_super_geroi_hd/index.m3u8
+http://172.30.10.68/lb0/tv_super_geroi_hd/index.m3u8
 #EXTINF:-1 tvg-id="603" group-title="Детям", Карусель
-http://172.30.10.66/lb0/tv_karusel_sd/index.m3u8
+http://172.30.10.68/lb0/tv_karusel_sd/index.m3u8
 #EXTINF:-1 tvg-id="716" group-title="Детям", Радость моя
-http://172.30.10.66/lb0/tv_radost_moya_sd/index.m3u8
+http://172.30.10.68/lb0/tv_radost_moya_sd/index.m3u8
 #EXTINF:-1 tvg-id="716" group-title="Детям", Ani
-http://172.30.10.66/lb0/tv_ani_sd/index.m3u8
+http://172.30.10.68/lb0/tv_ani_sd/index.m3u8
 #EXTINF:-1 tvg-id="1812" group-title="Детям", TiJi
-http://172.30.10.66/lb0/tv_tiji_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tiji_sd/index.m3u8
 #EXTINF:-1 tvg-id="1807" group-title="Детям", Gulli
-http://172.30.10.66/lb0/tv_gulli_sd/index.m3u8
+http://172.30.10.68/lb0/tv_gulli_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon hd
-http://172.30.10.66/lb0/tv_nickelodeon_hd/index.m3u8
+http://172.30.10.68/lb0/tv_nickelodeon_hd/index.m3u8
 #EXTINF:-1 tvg-id="20503" group-title="Детям", Nick Jr
-http://172.30.10.66/lb0/tv_nick_jr_sd/index.m3u8
+http://172.30.10.68/lb0/tv_nick_jr_sd/index.m3u8
 #EXTINF:-1 tvg-id="708" group-title="Детям", JimJam
-http://172.30.10.66/lb0/tv_jimjam_sd/index.m3u8
+http://172.30.10.68/lb0/tv_jimjam_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", В гостях у сказки
-http://172.30.10.66/lb0/tv_v_gostyah_u_skazki_hd/index.m3u8
+http://172.30.10.68/lb0/tv_v_gostyah_u_skazki_hd/index.m3u8
 #EXTINF:-1 group-title="Детям", Мультиландия
-http://172.30.10.66/lb0/tv_multilandiya_sd/index.m3u8
+http://172.30.10.68/lb0/tv_multilandiya_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Boomerang
-http://172.30.10.66/lb0/tv_boomerang_sd/index.m3u8
+http://172.30.10.68/lb0/tv_boomerang_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Мультимузыка
-http://172.30.10.66/lb0/tv_mult_i_muzika_sd/index.m3u8
+http://172.30.10.68/lb0/tv_mult_i_muzika_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", E
-http://172.30.10.66/lb0/tv_game_show_sd/index.m3u8
+http://172.30.10.68/lb0/tv_game_show_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Baby TV
-http://172.30.10.66/lb0/tv_baby_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_baby_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="1811" group-title="Детям", Телеканал Да-Винчи
-http://172.30.10.66/lb0/tv_telekanal_da_vinchi_sd/index.m3u8
+http://172.30.10.68/lb0/tv_telekanal_da_vinchi_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Малыш
-http://172.30.10.66/lb0/tv_malish_sd/index.m3u8
+http://172.30.10.68/lb0/tv_malish_sd/index.m3u8
 #EXTINF:-1 group-title="Детям", Смайлик ТВ
-http://172.30.10.66/lb0/tv_smailik_hd/index.m3u8
+http://172.30.10.68/lb0/tv_smailik_hd/index.m3u8
 #EXTINF:-1 tvg-id="10303" group-title="Другое", ПЯТНИЦА
-http://172.30.10.66/lb0/tv_piatnitsa_sd/index.m3u8
+http://172.30.10.68/lb0/tv_piatnitsa_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", Сочи 24
-http://172.30.10.66/lb0/tv_sochi_24_hd/index.m3u8
+http://172.30.10.68/lb0/tv_sochi_24_hd/index.m3u8
 #EXTINF:-1 group-title="Другое", Сочи live HD
-http://172.30.10.66/lb0/tv_sochi_live_hd/index.m3u8
+http://172.30.10.68/lb0/tv_sochi_live_hd/index.m3u8
 
 #EXTINF:-1 group-title="Другое", НТВ Право
-http://172.30.10.66/lb0/tv_ntv_pravo_sd/index.m3u8
+http://172.30.10.68/lb0/tv_ntv_pravo_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", НТВ Стиль
-http://172.30.10.66/lb0/tv_ntv_stil_sd/index.m3u8
+http://172.30.10.68/lb0/tv_ntv_stil_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", Усадьба‑ТВ
-http://172.30.10.66/lb0/tv_usadba_sd/index.m3u8
+http://172.30.10.68/lb0/tv_usadba_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", TLC
-http://172.30.10.66/lb0/tv_tlc_hd/index.m3u8
+http://172.30.10.68/lb0/tv_tlc_hd/index.m3u8
 #EXTINF:-1 group-title="Другое", Дождь HD
-http://172.30.10.66/lb0/tv_dozhd_hd/index.m3u8
+http://172.30.10.68/lb0/tv_dozhd_hd/index.m3u8
 #EXTINF:-1 group-title="Другое", Вопросы и ответы
-http://172.30.10.66/lb0/tv_voprosy_i_otvety_sd/index.m3u8
+http://172.30.10.68/lb0/tv_voprosy_i_otvety_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", Драйв
-http://172.30.10.66/lb0/tv_drive_sd/index.m3u8
+http://172.30.10.68/lb0/tv_drive_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", Большая Азия HD
-http://172.30.10.66/lb0/tv_bolshaya_azia_hd/index.m3u8
+http://172.30.10.68/lb0/tv_bolshaya_azia_hd/index.m3u8
 #EXTINF:-1 group-title="Другое", Астро ТВ
-http://172.30.10.66/lb0/tv_astro_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_astro_tv_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", Армения ТВ
-http://172.30.10.66/lb0/tv_armenia_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_armenia_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="20104" group-title="Другое", КВН
-http://172.30.10.66/lb0/tv_kvn_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_kvn_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="10309" group-title="Другое", Звезда
-http://172.30.10.66/lb0/tv_zvezda_sd/index.m3u8
+http://172.30.10.68/lb0/tv_zvezda_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", Кухня тв
-http://172.30.10.66/lb0/tv_kuhnya_tv_hd/index.m3u8
+http://172.30.10.68/lb0/tv_kuhnya_tv_hd/index.m3u8
 #EXTINF:-1 tvg-id="10805" group-title="Другое", CGTN
-http://172.30.10.66/lb0/tv_cgtn_sd/index.m3u8
+http://172.30.10.68/lb0/tv_cgtn_sd/index.m3u8
 #EXTINF:-1 tvg-id="510" group-title="Другое", CGTN‑Русский
-http://172.30.10.66/lb0/tv_cgtn_russian_sd/index.m3u8
+http://172.30.10.68/lb0/tv_cgtn_russian_sd/index.m3u8
 #EXTINF:-1 tvg-id="10813" group-title="Другое", Fox Life
-http://172.30.10.66/lb0/tv_fox_life_hd/index.m3u8
+http://172.30.10.68/lb0/tv_fox_life_hd/index.m3u8
 #EXTINF:-1 tvg-id="13109" group-title="Другое", World Fashion
-http://172.30.10.66/lb0/tv_world_fashion_sd/index.m3u8
+http://172.30.10.68/lb0/tv_world_fashion_sd/index.m3u8
 #EXTINF:-1 tvg-id="11105" group-title="Другое", РБК-ТВ
-http://172.30.10.66/lb0/tv_rbktv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_rbktv_sd/index.m3u8
 #EXTINF:-1 tvg-id="11105" group-title="Другое", РТД
-http://172.30.10.66/lb0/tv_rtd_sd/index.m3u8
+http://172.30.10.68/lb0/tv_rtd_sd/index.m3u8
 #EXTINF:-1 tvg-id="11105" group-title="Другое", RT-English
-http://172.30.10.66/lb0/tv_rt_english_hd/index.m3u8
+http://172.30.10.68/lb0/tv_rt_english_hd/index.m3u8
 #EXTINF:-1 tvg-id="11107" group-title="Другое", Ностальгия
-http://172.30.10.66/lb0/tv_nostalgiya_sd/index.m3u8
+http://172.30.10.68/lb0/tv_nostalgiya_sd/index.m3u8
 #EXTINF:-1 tvg-id="11107" group-title="Другое", Хабар 24
-http://172.30.10.66/lb0/tv_habar_sd/index.m3u8
+http://172.30.10.68/lb0/tv_habar_sd/index.m3u8
 #EXTINF:-1 tvg-id="11107" group-title="Другое", КАЛЕЙДОСКОП ТВ
-http://172.30.10.66/lb0/tv_kaleidoskop_tv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_kaleidoskop_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="19118" group-title="Другое", ОТР
-http://172.30.10.66/lb0/tv_otr_sd/index.m3u8
+http://172.30.10.68/lb0/tv_otr_sd/index.m3u8
 #EXTINF:-1 tvg-id="31010" group-title="Другое", CTC-love
-http://172.30.10.66/lb0/tv_sts_love_sd/index.m3u8
+http://172.30.10.68/lb0/tv_sts_love_sd/index.m3u8
 #EXTINF:-1 tvg-id="21110" group-title="Другое", 2X2
-http://172.30.10.66/lb0/tv_2x2_sd/index.m3u8
+http://172.30.10.68/lb0/tv_2x2_sd/index.m3u8
 #EXTINF:-1 tvg-id="21111" group-title="Другое", NHK WORLD TV
-http://172.30.10.66/lb0/tv_nhk_world_japan_sd/index.m3u8
+http://172.30.10.68/lb0/tv_nhk_world_japan_sd/index.m3u8
 #EXTINF:-1 tvg-id="16103" group-title="Другое", Спас
-http://172.30.10.66/lb0/tv_spas_sd/index.m3u8
+http://172.30.10.68/lb0/tv_spas_sd/index.m3u8
 #EXTINF:-1 tvg-id="16111" group-title="Другое", ТНВ-Планета
-http://172.30.10.66/lb0/tv_tnv_planeta_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tnv_planeta_sd/index.m3u8
 #EXTINF:-1 tvg-id="701" group-title="Другое", 8 канал
-http://172.30.10.66/lb0/tv_8_kanal_sd/index.m3u8
+http://172.30.10.68/lb0/tv_8_kanal_sd/index.m3u8
 #EXTINF:-1 tvg-id="10109" group-title="Другое", КТО ЕСТЬ КТО
-http://172.30.10.66/lb0/tv_kto_est_kto_sd/index.m3u8
+http://172.30.10.68/lb0/tv_kto_est_kto_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", 9 канал Израиль
-http://172.30.10.66/lb0/tv_9_kanal_izrael_hd/index.m3u8
+http://172.30.10.68/lb0/tv_9_kanal_izrael_hd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Другое", Ю-ТВ
-http://172.30.10.66/lb0/tv_utv_sd/index.m3u8
+http://172.30.10.68/lb0/tv_utv_sd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Другое", Телекафе
-http://172.30.10.66/lb0/tv_telekafe_sd/index.m3u8
+http://172.30.10.68/lb0/tv_telekafe_sd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Другое", Телеканал 360
-http://172.30.10.66/lb0/tv_360_sd/index.m3u8
+http://172.30.10.68/lb0/tv_360_sd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Другое", Архыз 24
-http://172.30.10.66/lb0/tv_tdk_sd/index.m3u8
+http://172.30.10.68/lb0/tv_tdk_sd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Другое", Ювелирочка
-http://172.30.10.66/lb0/tv_uvelirochka_sd/index.m3u8
+http://172.30.10.68/lb0/tv_uvelirochka_sd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Другое", Грозный
-http://172.30.10.66/lb0/tv_grozniy_sd/index.m3u8
+http://172.30.10.68/lb0/tv_grozniy_sd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Другое", Сарафан
-http://172.30.10.66/lb0/tv_sarafan_sd/index.m3u8
+http://172.30.10.68/lb0/tv_sarafan_sd/index.m3u8
 #EXTINF:-1 tvg-id="16101" group-title="Другое", Загородная жизнь
-http://172.30.10.66/lb0/tv_zagorodnaya_zhizn_sd/index.m3u8
+http://172.30.10.68/lb0/tv_zagorodnaya_zhizn_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", БелРос
-http://172.30.10.66/lb0/tv_belros_sd/index.m3u8
+http://172.30.10.68/lb0/tv_belros_sd/index.m3u8
 #EXTINF:-1 group-title="Другое", ПЕС и КО
-http://172.30.10.66/lb0/tv_pes_i_ko_sd/index.m3u8
+http://172.30.10.68/lb0/tv_pes_i_ko_sd/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Радио Для Двоих" group-title="Радио", Радио Для Двоих
-http://172.30.10.66/lb0/tv_radio_dliya_dvoih/index.m3u8
+http://172.30.10.68/lb0/tv_radio_dliya_dvoih/index.m3u8
 #EXTINF:-1 tvg-id="Романтика" group-title="Радио", Романтика
-http://172.30.10.66/lb0/tv_romantika/index.m3u8
+http://172.30.10.68/lb0/tv_romantika/index.m3u8
 #EXTINF:-1 tvg-id="Авторадио" group-title="Радио", Авторадио
-http://172.30.10.66/lb0/tv_avtoradio/index.m3u8
+http://172.30.10.68/lb0/tv_avtoradio/index.m3u8
 #EXTINF:-1 tvg-id="Радио Ваня" group-title="Радио", Радио Ваня
-http://172.30.10.66/lb0/tv_radio_vanya/index.m3u8
+http://172.30.10.68/lb0/tv_radio_vanya/index.m3u8
 #EXTINF:-1 tvg-id="ENERGY FM" group-title="Радио", ENERGY FM
-http://172.30.10.66/lb0/tv_energi_fm/index.m3u8
+http://172.30.10.68/lb0/tv_energi_fm/index.m3u8
 #EXTINF:-1 tvg-id="DFM" group-title="Радио", DFM
-http://172.30.10.66/lb0/tv_dfm/index.m3u8
+http://172.30.10.68/lb0/tv_dfm/index.m3u8
 #EXTINF:-1 tvg-id="Русское радио" group-title="Радио", Русское радио
-http://172.30.10.66/lb0/tv_russian_radio/index.m3u8
+http://172.30.10.68/lb0/tv_russian_radio/index.m3u8
 #EXTINF:-1 tvg-id="HIT FM" group-title="Радио", HIT FM
-http://172.30.10.66/lb0/tv_hit_fm/index.m3u8
+http://172.30.10.68/lb0/tv_hit_fm/index.m3u8
 #EXTINF:-1 tvg-id="Maximum" group-title="Радио", Maximum
-http://172.30.10.66/lb0/tv_maximum/index.m3u8
+http://172.30.10.68/lb0/tv_maximum/index.m3u8
 #EXTINF:-1 tvg-id="Business FM" group-title="Радио", Business FM
-http://172.30.10.66/lb0/tv_business_fm/index.m3u8
+http://172.30.10.68/lb0/tv_business_fm/index.m3u8
 #EXTINF:-1 tvg-id="Милицейская волна" group-title="Радио", Милицейская волна
-http://172.30.10.66/lb0/tv_militseiskaya_volna/index.m3u8
+http://172.30.10.68/lb0/tv_militseiskaya_volna/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Radio" group-title="Радио", Comedy Radio
-http://172.30.10.66/lb0/tv_comedy_radio/index.m3u8
+http://172.30.10.68/lb0/tv_comedy_radio/index.m3u8
 #EXTINF:-1 tvg-id="Комсомольская правда" group-title="Радио", Комсомольская правда
-http://172.30.10.66/lb0/tv_komsomolskaya_pravda/index.m3u8
+http://172.30.10.68/lb0/tv_komsomolskaya_pravda/index.m3u8
 #EXTINF:-1 tvg-id="Юмор FM" group-title="Радио", Юмор FM
-http://172.30.10.66/lb0/tv_umor_fm/index.m3u8
+http://172.30.10.68/lb0/tv_umor_fm/index.m3u8
 #EXTINF:-1 tvg-id="Радио Шансон" group-title="Радио", Радио Шансон
-http://172.30.10.66/lb0/tv_radio_shanson/index.m3u8
+http://172.30.10.68/lb0/tv_radio_shanson/index.m3u8
