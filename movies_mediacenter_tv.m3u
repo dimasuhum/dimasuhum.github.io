@@ -13,6 +13,12 @@ http://dmi3y-tv.ru/iptv/d-tv.m3u
 #EXTINF:-1 , FreeBestTV
 http://topplay.do.am/FreeBestTV.m3u
 
+#EXTINF:-1 , Zabava
+https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
+
+#EXTINF:-1 , LoganetXAll
+https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
+
 #EXTINF:-1 , SantixTV
 m3u+https://pikniktv.com/download/file.php?id=102982
 
