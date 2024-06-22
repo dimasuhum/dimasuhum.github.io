@@ -202,6 +202,10 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/wednesday-3.m3u
 #EXTINF:-1 ,TvKino
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cineman%2Bbcu.m3u
 
+#EXTINF:-1 ,TvKino2
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/Russia-Cinema.m3u
+
+
 
 #EXTINF:-1 ,Tv
 m3u+http://troya.today/pl/3/64f5f24bf3e94/playlist.m3u8
