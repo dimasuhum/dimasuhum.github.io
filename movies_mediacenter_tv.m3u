@@ -225,7 +225,8 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-7.m3u
 #EXTINF:-1 ,tv-snd8
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-8.m3u
 
-
+#EXTINF:-1 ,SportTv
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/Sport.m3u
 
 
 #EXTINF:-1 ,mediateka
