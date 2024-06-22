@@ -78,7 +78,7 @@ m3u+http://1usd.tv/pl-5eb94c64432a3-hls
 m3u+http://tv-nasha.ru/iptv/M4f082ab4c/m3u8
 
 #EXTINF:-1 ,Tvone
-m3u+http://troya.one/pl/21/620fb473efc91/playlist.m3u8
+m3u+http://troya.one/pl/12/61acdafc817b3/playlist.m3u8
 
 
 
@@ -94,9 +94,8 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tvtest.m3u
 
 
 
-
 #EXTINF:-1 ,DITv
-https://pbox.su/8ax89amCQMRO.m3u
+https://pbox.su/XEoyQvqS9omv.m3u
 
 #EXTINF:-1 ,DITv2
 https://edemtv.my1.ru/ZAEBURIL-KABAKA-TV.m3u
