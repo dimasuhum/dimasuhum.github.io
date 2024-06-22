@@ -20,10 +20,13 @@ https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/
 https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
 
 #EXTINF:-1 , SantixTV
-m3u+https://pikniktv.com/download/file.php?id=102982
+m3u+https://m3u-editor.com/serve/982e5830-2809-11ef-a4fb-4f3570714b2f
 
 #EXTINF:-1 , CESARTV
 m3u+https://m3url.ru/CESAR.m3u8
+
+#EXTINF:-1 , filmaxTV
+https://filmax-tv.ru/playlist/p9/hls/ig781ij8mf.m3u
 
 #EXTINF:-1 ,Tvv
 m3u+http://myott.top/playlist/J7619PVV2N/m3u
@@ -37,7 +40,6 @@ https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u
 
 #EXTINF:-1 ,TvoneTv
 m3u+http://troya.tv/pl/21/633c57533faab/playlist.m3u8
-
 
 
 
