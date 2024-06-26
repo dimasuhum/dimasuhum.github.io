@@ -16,8 +16,14 @@ http://topplay.do.am/FreeBestTV.m3u
 #EXTINF:-1 , Zabava
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 
+#EXTINF:-1 , halvaTv
+m3u+http://lis.tvdosug.net/api/201198ad7ff5e71b946e9aab7ae2383012c/high/halva.m3u8
+
 #EXTINF:-1 , LoganetXAll
 https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
+
+#EXTINF:-1 , Loganetmega
+http://loganet.ru/mega.m3u
 
 #EXTINF:-1 , SantixTV
 m3u+https://m3u-editor.com/serve/982e5830-2809-11ef-a4fb-4f3570714b2f
@@ -58,8 +64,7 @@ m3u+https://bit.ly/4axHzL5
 #EXTINF:-1 ,iptvplay_Social
 m3u+http://bit.ly/iptvplay_Social
 
-#EXTINF:-1 ,loganet
-https://loganet.ru/mega.m3u
+
 
 #EXTINF:-1 ,avto-iptv
 https://tva.org.ua/ip/sam/avto-iptv-tva.m3u
