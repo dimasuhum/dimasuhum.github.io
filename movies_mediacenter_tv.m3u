@@ -25,6 +25,12 @@ https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXA
 #EXTINF:-1 , Loganetmega
 http://loganet.ru/mega.m3u
 
+#EXTINF:-1 ,  uspehTV
+http://pl.uspeh.sbs/8a3b0512/a2128929/tv.m3u
+
+#EXTINF:-1 , bitTV
+m3u+https://bit.ly/4axHzL5
+
 #EXTINF:-1 , SantixTV
 m3u+https://m3u-editor.com/serve/982e5830-2809-11ef-a4fb-4f3570714b2f
 
