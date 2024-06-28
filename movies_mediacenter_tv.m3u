@@ -70,10 +70,17 @@ m3u+https://bit.ly/4axHzL5
 #EXTINF:-1 ,iptvplay_Social
 m3u+http://bit.ly/iptvplay_Social
 
-
+#EXTINF:-1 ,avto-full
+https://iptv.org.ua/iptv/avto-full.m3u
 
 #EXTINF:-1 ,avto-iptv
 https://tva.org.ua/ip/sam/avto-iptv-tva.m3u
+
+#EXTINF:-1 ,kino-plus
+https://iptv.org.ua/iptv/kino-plus.m3u
+
+#EXTINF:-1 ,freetv_32
+https://m3url.ru/freetv_32.m3u
 
 #EXTINF:-1 ,TvoneTv1
 m3u+http://1usd.tv/pl-pgopfc4k967oq-hls
@@ -126,7 +133,7 @@ m3u+https://u.to/qrpZHA
 
 
 #EXTINF:-1 ,streams1
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-1.m3u
+m3u+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/playlist(4).m3u8
 
 #EXTINF:-1 ,streams2
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-2.m3u
