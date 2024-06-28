@@ -49,6 +49,8 @@ http://bezbe.my1.ru//t/mzab.m3u
 #EXTINF:-1 , RO$TIK_TV
 https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u
 
+#EXTINF:-1 , киношкиТв
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/%D0%BA%D0%B8%D0%BD%D0%BE%D1%88%D0%BA%D0%B8.m3u
 
 #EXTINF:-1 ,TvoneTv
 m3u+http://troya.tv/pl/21/633c57533faab/playlist.m3u8
