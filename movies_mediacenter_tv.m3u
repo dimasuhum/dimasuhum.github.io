@@ -61,7 +61,8 @@ https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/%D0%BA%D0
 #EXTINF:-1 ,TvoneTv
 m3u+http://troya.tv/pl/21/633c57533faab/playlist.m3u8
 
-
+#EXTINF:-1 ,TvoneTv1
+m3u+http://troya.one/pl/21/61b0a8241d1bd/playlist.m3u8
 
 #EXTINF:-1 ,FREETv
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
