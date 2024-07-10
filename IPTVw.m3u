@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://overlay.iptvin.fun/epg/epg.zip" url-tvg="http://epgx.site/epg.xml.gz,http://overlay.iptvin.fun/epg/xmltv.xml.gz" m3uautoload=1 cache=2000 deinterlace=1
 
-http://overlay.iptvin.fun/iptvin.ru.mp4
+
 #EXTINF:-1 group-title="Ultra HD 4K" tvg-logo="http://epg.one/img/2743.png" logo="http://overlay.iptvin.fun/epg/PIC/Ultra%20HD%20Cinema%204K.png" channelId="3982" tvg-id="ultra-hd-cinema",Ultra HD Cinema (4K UHD)
 http://srv-2-streaming.iptvin.fun:8080/ULTRAHDCINEMA/index.m3u8?token=aedbd2acf2f0fb9425e188daa4b782f0765104de-9356284272-1720653817-1720610617
 #EXTINF:-1 group-title="Ultra HD 4K" tvg-logo="https://i.ibb.co/yXQWh6t/ULTRA-REX-220x220.png" logo="https://i115.fastpic.org/big/2021/0914/6c/eba5c68766f697d74752b3ca2da7ee6c.png" channelId="2662" tvg-id="russian-extreme-uhd",ULTRA REX (4K UHD)
