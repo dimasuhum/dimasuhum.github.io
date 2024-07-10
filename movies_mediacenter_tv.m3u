@@ -135,34 +135,12 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-2.m3u
 #EXTINF:-1 ,streams3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-3.m3u
 
-#EXTINF:-1 ,streams4
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-4.m3u
-
-#EXTINF:-1 ,streams5
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-5.m3u
-
-#EXTINF:-1 ,streams6
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-6.m3u
-
-#EXTINF:-1 ,streams7
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-7.m3u
-
-
-
 
 
 
 
 #EXTINF:-1 ,listtv2
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-2.m3u
-
-#EXTINF:-1 ,listtv3
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-3.m3u
-
-
-
-#EXTINF:-1 ,listtv5
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-5.m3u
 
 
 
@@ -176,14 +154,6 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tue-2.m3u
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-1.m3u
 
 
-#EXTINF:-1 ,stream3
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-3.m3u
-
-
-
-#EXTINF:-1 ,stream4
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-5.m3u
-
 
 #EXTINF:-1 ,tivi1
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-1.m3u
@@ -194,20 +164,11 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-3.m3
 
 
 
-
-#EXTINF:-1 ,tivi5
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-5.m3u
-
 #EXTINF:-1 ,tivi6
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-6.m3u
 
-#EXTINF:-1 ,tivi7
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-7.m3u
 
 
-
-#EXTINF:-1 ,wednesday3
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/wednesday-3.m3u
 
 
 #EXTINF:-1 ,TvKino
@@ -227,18 +188,9 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/sunday-1.m3u
 
 
 
-#EXTINF:-1 ,tv-snd3
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-3.m3u
-
-
 #EXTINF:-1 ,tv-snd6
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-6.m3u
 
-#EXTINF:-1 ,tv-snd7
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-7.m3u
-
-#EXTINF:-1 ,tv-snd8
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-8.m3u
 
 #EXTINF:-1 ,SportTv
 https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/Sport.m3u
