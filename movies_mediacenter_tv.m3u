@@ -18,8 +18,7 @@ http://topplay.do.am/FreeBestTV.m3u
 #EXTINF:-1 , Zabava
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 
-#EXTINF:-1 , halvaTv
-m3u+http://lis.tvdosug.net/api/201198ad7ff5e71b946e9aab7ae2383012c/high/halva.m3u8
+
 
 #EXTINF:-1 , LoganetXAll
 https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
@@ -30,21 +29,19 @@ http://loganet.ru/mega.m3u
 #EXTINF:-1 ,  uspehTV
 http://pl.uspeh.sbs/8a3b0512/a2128929/tv.m3u
 
+
+
+
 #EXTINF:-1 , bitTV
 m3u+https://bit.ly/4axHzL5
 
-#EXTINF:-1 , SantixTV
-m3u+https://m3u-editor.com/serve/982e5830-2809-11ef-a4fb-4f3570714b2f
+
 
 #EXTINF:-1 , CESARTV
 m3u+https://m3url.ru/CESAR.m3u8
 
-#EXTINF:-1 , filmaxTV
-https://filmax-tv.ru/playlist/p9/hls/ig781ij8mf.m3u
-
-#EXTINF:-1 , playlistbox
-https://app.playlistbox.com/pll/gEbdAKyG0VoJpNdIQL5FLXM6W1Nz8mqp.m3u
-
+#EXTINF:-1 , WTV
+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/IPTVw.m3u
 
 #EXTINF:-1 ,Tvv
 m3u+http://myott.top/playlist/J7619PVV2N/m3u
@@ -58,11 +55,6 @@ https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u
 #EXTINF:-1 , киношкиТв
 https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/%D0%BA%D0%B8%D0%BD%D0%BE%D1%88%D0%BA%D0%B8.m3u
 
-#EXTINF:-1 ,TvoneTv
-m3u+http://troya.tv/pl/21/633c57533faab/playlist.m3u8
-
-#EXTINF:-1 ,TvoneTv1
-m3u+http://troya.one/pl/21/61b0a8241d1bd/playlist.m3u8
 
 #EXTINF:-1 ,FREETv
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
@@ -91,8 +83,6 @@ https://iptv.org.ua/iptv/kino-plus.m3u
 #EXTINF:-1 ,freetv_32
 https://m3url.ru/freetv_32.m3u
 
-#EXTINF:-1 ,TvoneTv1
-m3u+http://1usd.tv/pl-pgopfc4k967oq-hls
 
 
 #EXTINF:-1 ,TvoneTv2
@@ -103,11 +93,6 @@ m3u+http://1usd.tv/pl-5eb94c64432a3-hls
 
 #EXTINF:-1 ,TvoneTv4
 m3u+http://tv-nasha.ru/iptv/M4f082ab4c/m3u8
-
-#EXTINF:-1 ,Tvone
-m3u+http://troya.one/pl/12/61acdafc817b3/playlist.m3u8
-
-
 
 
 
