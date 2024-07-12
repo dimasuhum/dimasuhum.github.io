@@ -63,7 +63,21 @@ m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 #EXTINF:-1 ,FUllTv
 m3u+http://cloud.zagdali.keenetic.pro/DiskHttpHFS/%D0%A4%D1%83%D0%BB%D0%BB.m3u8
 
+#EXTINF:-1 ,FUllTv1
+m3u+https://ilook.epg.one/5TG2DK5T26Z6M3
 
+#EXTINF:-1 ,FUllTv2
+m3u+https://ilook.epg.one/S9D5KNYWNS633B
+
+#EXTINF:-1 ,FUllTv3
+m3u+https://ilook.epg.one/6628NXND53FE2A
+
+
+#EXTINF:-1 ,FUllTv4
+m3u+http://57aab41fab96.ottclub.net/playlists/uplist/7700a6ad9605436488a49f29e3518c4f/playlist.m3u8
+
+#EXTINF:-1 ,FUllTv5
+m3u+http://ab8ca7a5f2b6.faststreem.org/playlists/uplist/f7973889e9709fa2ceb6f119fab84c3b/playlist.m3u8
 
 #EXTINF:-1 , plushtv
 m3u+https://bit.ly/4axHzL5
