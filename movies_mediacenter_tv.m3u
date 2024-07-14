@@ -8,8 +8,8 @@ https://raw.githubusercontent.com/suzukantv/IPTV/main/FreeGedemTV.m3u
 
 #EXTINF:-1 , CeburTv
 https://gclnk.com/1KGcCXTv
-#EXTINF:-1 , IPTVruublekx
-http://ottv.tk/public/plst/plstfb/IPTVruublekx_no_save.m3u
+
+
 #EXTINF:-1 , dmi3y-tv
 http://dmi3y-tv.ru/iptv/d-tv.m3u
 #EXTINF:-1 , FreeBestTV
@@ -29,7 +29,20 @@ http://loganet.ru/mega.m3u
 #EXTINF:-1 ,  uspehTV
 http://pl.uspeh.sbs/8a3b0512/a2128929/tv.m3u
 
+#EXTINF:-1 ,  seronTV
+m3u+https://seron.tv/download/file.php?id=104284
 
+#EXTINF:-1 ,  seronTV1
+m3u+http://myott.top/playlist/FW77EY74W5/m3u
+
+#EXTINF:-1 ,  seronTV2
+m3u+http://178.33.37.66/playlist/MEI6N69CKG/m3u
+
+#EXTINF:-1 ,  seronTV3
+m3u+https://dl.dropboxusercontent.com/s/u9a0m18jmdr44tb/playlist_free.m3u8
+
+#EXTINF:-1 ,  seronTV4
+m3u+https://app.playlistbox.com/pll/JWQ8XNgn46x8gN6UAV6tqKo5w3qE27Re.m3u
 
 
 #EXTINF:-1 , bitTV
@@ -40,8 +53,7 @@ m3u+https://bit.ly/4axHzL5
 #EXTINF:-1 , CESARTV
 m3u+https://m3url.ru/CESAR.m3u8
 
-#EXTINF:-1 , WTV
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/IPTVw.m3u
+
 
 #EXTINF:-1 ,Tvv
 m3u+http://myott.top/playlist/J7619PVV2N/m3u
@@ -52,8 +64,7 @@ http://bezbe.my1.ru//t/mzab.m3u
 #EXTINF:-1 , RO$TIK_TV
 https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u
 
-#EXTINF:-1 , киношкиТв
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/%D0%BA%D0%B8%D0%BD%D0%BE%D1%88%D0%BA%D0%B8.m3u
+
 
 
 #EXTINF:-1 ,FREETv
@@ -120,8 +131,7 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tvtest.m3u
 
 
 
-#EXTINF:-1 ,DITv
-https://pbox.su/XEoyQvqS9omv.m3u
+
 
 #EXTINF:-1 ,DITv2
 https://edemtv.my1.ru/ZAEBURIL-KABAKA-TV.m3u
