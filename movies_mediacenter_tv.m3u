@@ -41,11 +41,9 @@ m3u+http://178.33.37.66/playlist/MEI6N69CKG/m3u
 #EXTINF:-1 ,  seronTV3
 m3u+https://dl.dropboxusercontent.com/s/u9a0m18jmdr44tb/playlist_free.m3u8
 
+
+
 #EXTINF:-1 ,  seronTV4
-m3u+https://app.playlistbox.com/pll/JWQ8XNgn46x8gN6UAV6tqKo5w3qE27Re.m3u
-
-
-#EXTINF:-1 ,  seronTV5
 m3u+https://cdntv.online/high/1b5et49chp/playlist.m3u8
 
 #EXTINF:-1 , bitTV
@@ -132,8 +130,8 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tvtest.m3u
 
 
 
-
-
+#EXTINF:-1 ,DITv
+https://pbox.su/E8xp8n1hyxY2.m3u
 
 
 #EXTINF:-1 ,DITv2
