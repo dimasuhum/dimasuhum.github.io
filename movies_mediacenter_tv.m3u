@@ -72,8 +72,7 @@ https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 
-#EXTINF:-1 ,FUllTv
-m3u+http://troya.one/pl/3/62fb84863910b/playlist.m3u8
+
 
 #EXTINF:-1 ,FUllTv
 m3u+http://cloud.zagdali.keenetic.pro/DiskHttpHFS/%D0%A4%D1%83%D0%BB%D0%BB.m3u8
@@ -112,7 +111,11 @@ https://iptv.org.ua/iptv/kino-plus.m3u
 #EXTINF:-1 ,freetv_32
 https://m3url.ru/freetv_32.m3u
 
+#EXTINF:-1 ,TvoneTv
+m3u+http://troya.one/pl/3/62fb84863910b/playlist.m3u8
 
+#EXTINF:-1 ,TvoneTv1
+m3u+http://troya.one/pl/21/x4pey8tw7wo73/playlist.m3u8
 
 #EXTINF:-1 ,TvoneTv2
 m3u+http://1usd.tv/pl-5eb94c64432a3-hls
