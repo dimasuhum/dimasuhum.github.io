@@ -42,6 +42,14 @@ m3u+http://178.33.37.66/playlist/MEI6N69CKG/m3u
 m3u+https://dl.dropboxusercontent.com/s/u9a0m18jmdr44tb/playlist_free.m3u8
 
 
+#EXTINF:-1 ,  seronTV4
+m3u+http://ba94e01b8a4a.ottclub.net/playlists/uplist/15b384e7001513a9d1bb03fee9207c24/playlist.m3u8
+
+
+#EXTINF:-1 ,  seronTV5
+m3u+http://myott.top/playlist/ZDEXVE5CQC/m3u
+
+
 
 #EXTINF:-1 ,  seronTV4
 m3u+https://cdntv.online/high/1b5et49chp/playlist.m3u8
