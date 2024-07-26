@@ -4,14 +4,15 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
 #EXTINF:-1 ,GedemTv
 https://raw.githubusercontent.com/suzukantv/IPTV/main/FreeGedemTV.m3u
 
-
-
+#EXTINF:-1 ,win_prog tv
+http://cominet.do.am/IPTV/win_prog_2.m3u
 #EXTINF:-1 , CeburTv
 https://gclnk.com/1KGcCXTv
 
 
 #EXTINF:-1 , dmi3y-tv
 http://dmi3y-tv.ru/iptv/d-tv.m3u
+
 #EXTINF:-1 , FreeBestTV
 http://topplay.do.am/FreeBestTV.m3u
 
@@ -119,19 +120,23 @@ https://iptv.org.ua/iptv/kino-plus.m3u
 #EXTINF:-1 ,freetv_32
 https://m3url.ru/freetv_32.m3u
 
+
 #EXTINF:-1 ,TvoneTv
-m3u+http://troya.one/pl/3/62fb84863910b/playlist.m3u8
+m3u+http://troya.tv/pl/21/6210a9b0edf2c/playlist.m3u8
 
 #EXTINF:-1 ,TvoneTv1
-m3u+http://troya.one/pl/21/x4pey8tw7wo73/playlist.m3u8
+m3u+http://troya.one/pl/3/62fb84863910b/playlist.m3u8
 
 #EXTINF:-1 ,TvoneTv2
-m3u+http://1usd.tv/pl-5eb94c64432a3-hls
+m3u+http://troya.one/pl/21/x4pey8tw7wo73/playlist.m3u8
 
 #EXTINF:-1 ,TvoneTv3
 m3u+http://1usd.tv/pl-5eb94c64432a3-hls
 
 #EXTINF:-1 ,TvoneTv4
+m3u+http://1usd.tv/pl-5eb94c64432a3-hls
+
+#EXTINF:-1 ,TvoneTv5
 m3u+http://tv-nasha.ru/iptv/M4f082ab4c/m3u8
 
 
