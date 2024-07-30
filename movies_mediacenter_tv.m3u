@@ -6,9 +6,12 @@ https://raw.githubusercontent.com/suzukantv/IPTV/main/FreeGedemTV.m3u
 
 #EXTINF:-1 ,win_prog tv
 http://cominet.do.am/IPTV/win_prog_2.m3u
+
 #EXTINF:-1 , CeburTv
 https://gclnk.com/1KGcCXTv
 
+#EXTINF:-1 , CeburTv+
+ m3u+http://chiburator.monster:8000/playlist/chebur_best/bXnGSRThVK/m3u_plus?output=rtmp
 
 #EXTINF:-1 , dmi3y-tv
 http://dmi3y-tv.ru/iptv/d-tv.m3u
@@ -50,10 +53,10 @@ m3u+http://ba94e01b8a4a.ottclub.net/playlists/uplist/15b384e7001513a9d1bb03fee92
 #EXTINF:-1 ,  seronTV5
 m3u+http://myott.top/playlist/ZDEXVE5CQC/m3u
 
+#EXTINF:-1 ,  seronTV6
+m3u+https://view.my-tv.biz/playlist/44634ef664
 
 
-#EXTINF:-1 ,  seronTV4
-m3u+https://cdntv.online/high/1b5et49chp/playlist.m3u8
 
 #EXTINF:-1 , bitTV
 m3u+https://bit.ly/4axHzL5
