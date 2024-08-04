@@ -123,6 +123,8 @@ https://iptv.org.ua/iptv/kino-plus.m3u
 #EXTINF:-1 ,freetv_32
 https://m3url.ru/freetv_32.m3u
 
+#EXTINF:-1 ,TvoneTv0
+m3u+http://1usd.tv/pl-5eb94c4eb80ac-hls
 
 #EXTINF:-1 ,TvoneTv
 m3u+http://troya.tv/pl/21/6210a9b0edf2c/playlist.m3u8
