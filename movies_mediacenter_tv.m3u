@@ -58,6 +58,11 @@ m3u+https://view.my-tv.biz/playlist/44634ef664
 
 
 
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV7
+m3u+https://m3url.ru/Zoloto_tv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", bitTV
 m3u+https://bit.ly/4axHzL5
 
@@ -147,7 +152,7 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tvtest.m3u
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,DITv
-https://pbox.su/E8xp8n1hyxY2.m3u
+m3u+http://pagertv.ru/userfiles/lrIxW1ectOyUKGz
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,DITv2
