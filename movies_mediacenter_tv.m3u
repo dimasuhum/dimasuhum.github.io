@@ -1,250 +1,238 @@
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Cyxymtv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
 
-#EXTINF:-1 ,GedemTv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",GedemTv
 https://raw.githubusercontent.com/suzukantv/IPTV/main/FreeGedemTV.m3u
 
-#EXTINF:-1 ,win_prog tv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",win_prog tv
 http://cominet.do.am/IPTV/win_prog_2.m3u
 
-#EXTINF:-1 , CeburTv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", CeburTv
 https://gclnk.com/1KGcCXTv
 
-#EXTINF:-1 , CeburTv+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", CeburTv+
  m3u+http://chiburator.monster:8000/playlist/chebur_best/bXnGSRThVK/m3u_plus?output=rtmp
 
-#EXTINF:-1 , dmi3y-tv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", dmi3y-tv
 http://dmi3y-tv.ru/iptv/d-tv.m3u
 
-#EXTINF:-1 , FreeBestTV
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", FreeBestTV
 http://topplay.do.am/FreeBestTV.m3u
 
-#EXTINF:-1 , Zabava
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", Zabava
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 
 
 
-#EXTINF:-1 , LoganetXAll
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", LoganetXAll
 https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
 
-#EXTINF:-1 , Loganetmega
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", Loganetmega
 http://loganet.ru/mega.m3u
 
-#EXTINF:-1 ,  uspehTV
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  uspehTV
 http://pl.uspeh.sbs/8a3b0512/a2128929/tv.m3u
 
-#EXTINF:-1 ,  seronTV
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV
 m3u+https://seron.tv/download/file.php?id=104284
 
-#EXTINF:-1 ,  seronTV1
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV1
 m3u+http://myott.top/playlist/FW77EY74W5/m3u
 
-#EXTINF:-1 ,  seronTV2
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV2
 m3u+http://178.33.37.66/playlist/MEI6N69CKG/m3u
 
-#EXTINF:-1 ,  seronTV3
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV3
 m3u+https://dl.dropboxusercontent.com/s/u9a0m18jmdr44tb/playlist_free.m3u8
 
 
-#EXTINF:-1 ,  seronTV4
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV4
 m3u+http://ba94e01b8a4a.ottclub.net/playlists/uplist/15b384e7001513a9d1bb03fee9207c24/playlist.m3u8
 
 
-#EXTINF:-1 ,  seronTV5
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV5
 m3u+http://myott.top/playlist/ZDEXVE5CQC/m3u
 
-#EXTINF:-1 ,  seronTV6
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV6
 m3u+https://view.my-tv.biz/playlist/44634ef664
 
 
 
-#EXTINF:-1 , bitTV
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", bitTV
 m3u+https://bit.ly/4axHzL5
 
 
-
-#EXTINF:-1 , CESARTV
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", CESARTV
 m3u+https://m3url.ru/CESAR.m3u8
 
 
 
-#EXTINF:-1 ,Tvv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Tvv
 m3u+http://myott.top/playlist/J7619PVV2N/m3u
 
-#EXTINF:-1 ,Wink(free+)
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Wink(free+)
 http://bezbe.my1.ru//t/mzab.m3u
 
-#EXTINF:-1 , RO$TIK_TV
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", RO$TIK_TV
 https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u
 
 
 
-
-#EXTINF:-1 ,FREETv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FREETv
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 
-
-
-#EXTINF:-1 ,FUllTv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv
 m3u+http://cloud.zagdali.keenetic.pro/DiskHttpHFS/%D0%A4%D1%83%D0%BB%D0%BB.m3u8
 
-#EXTINF:-1 ,FUllTv1
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv1
 m3u+https://ilook.epg.one/5TG2DK5T26Z6M3
 
-#EXTINF:-1 ,FUllTv2
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv2
 m3u+https://ilook.epg.one/S9D5KNYWNS633B
 
-#EXTINF:-1 ,FUllTv3
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,FUllTv3
 m3u+https://ilook.epg.one/6628NXND53FE2A
 
 
-#EXTINF:-1 ,FUllTv4
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv4
 m3u+http://57aab41fab96.ottclub.net/playlists/uplist/7700a6ad9605436488a49f29e3518c4f/playlist.m3u8
 
-#EXTINF:-1 ,FUllTv5
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv5
 m3u+http://ab8ca7a5f2b6.faststreem.org/playlists/uplist/f7973889e9709fa2ceb6f119fab84c3b/playlist.m3u8
 
-#EXTINF:-1 , plushtv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", plushtv
 m3u+https://bit.ly/4axHzL5
 
-#EXTINF:-1 ,iptvplay_Social
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,iptvplay_Social
 m3u+http://bit.ly/iptvplay_Social
 
-#EXTINF:-1 ,avto-full
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,avto-full
 https://iptv.org.ua/iptv/avto-full.m3u
 
-#EXTINF:-1 ,avto-iptv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,avto-iptv
 https://tva.org.ua/ip/sam/avto-iptv-tva.m3u
 
-#EXTINF:-1 ,kino-plus
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,kino-plus
 https://iptv.org.ua/iptv/kino-plus.m3u
 
-#EXTINF:-1 ,freetv_32
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,freetv_32
 https://m3url.ru/freetv_32.m3u
 
-#EXTINF:-1 ,TvoneTv0
-m3u+http://1usd.tv/pl-5eb94c4eb80ac-hls
 
-#EXTINF:-1 ,TvoneTv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv
 m3u+http://troya.tv/pl/21/6210a9b0edf2c/playlist.m3u8
 
-#EXTINF:-1 ,TvoneTv1
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",TvoneTv1
 m3u+http://troya.one/pl/3/62fb84863910b/playlist.m3u8
 
-#EXTINF:-1 ,TvoneTv2
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv2
 m3u+http://troya.one/pl/21/x4pey8tw7wo73/playlist.m3u8
 
-#EXTINF:-1 ,TvoneTv3
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv3
 m3u+http://1usd.tv/pl-5eb94c64432a3-hls
 
-#EXTINF:-1 ,TvoneTv4
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv4
 m3u+http://1usd.tv/pl-5eb94c64432a3-hls
 
-#EXTINF:-1 ,TvoneTv5
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv5
 m3u+http://tv-nasha.ru/iptv/M4f082ab4c/m3u8
 
 
 
 
-
-#EXTINF:-1 ,usdtv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,usdtv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tvtest.m3u
 
 
 
-
-#EXTINF:-1 ,DITv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,DITv
 https://pbox.su/E8xp8n1hyxY2.m3u
 
 
-#EXTINF:-1 ,DITv2
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,DITv2
 https://edemtv.my1.ru/ZAEBURIL-KABAKA-TV.m3u
 
-#EXTINF:-1 ,TvTest
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvTest
 http://osipov.esy.es/test.m3u
 
-#EXTINF:-1 ,TvTest1
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvTest1
 m3u+http://ba6034569951.mylistbest.com/playlists/uplist/13658d41793d200e0f5686cd32c35830/playlist.m3u8
 
-#EXTINF:-1 ,TvTest2
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvTest2
 m3u+https://dl.dropbox.com/scl/fi/7faeipolmf6n6nuvf1zbb/streams-4.m3u?rlkey=tlhmrh1n9oh0ib7g9xyaull7u&st=cmil3a0k&dl
 
 
-#EXTINF:-1 ,TvTest3
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvTest3
 m3u+https://u.to/qrpZHA
 
 
-#EXTINF:-1 ,streams1
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,streams1
 m3u+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/playlist(4).m3u8
 
-#EXTINF:-1 ,streams2
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,streams2
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-2.m3u
 
-#EXTINF:-1 ,streams3
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,streams3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/streams-3.m3u
 
 
 
 
-
-#EXTINF:-1 ,listtv2
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,listtv2
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/list-2.m3u
 
 
 
 
-#EXTINF:-1 ,tuetv2
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,tuetv2
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tue-2.m3u
 
 
-
-#EXTINF:-1 ,stream1
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,stream1
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-1.m3u
 
 
-
-#EXTINF:-1 ,tivi1
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,tivi1
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-1.m3u
 
 
-#EXTINF:-1 ,tivi3
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,tivi3
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-3.m3u
 
 
 
-#EXTINF:-1 ,tivi6
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,tivi6
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tivi-monday-6.m3u
 
 
 
 
 
-#EXTINF:-1 ,TvKino
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvKino
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cineman%2Bbcu.m3u
 
-#EXTINF:-1 ,TvKino2
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvKino2
 https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/Russia-Cinema.m3u
 
 
 
-#EXTINF:-1 ,Tv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Tv
 m3u+http://troya.today/pl/3/64f5f24bf3e94/playlist.m3u8
 
-#EXTINF:-1 ,tv-snd
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,tv-snd
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/sunday-1.m3u
 
 
 
-
-#EXTINF:-1 ,tv-snd6
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,tv-snd6
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/tv-snd-6.m3u
 
 
-#EXTINF:-1 ,SportTv
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,SportTv
 https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/Sport.m3u
 
 
-#EXTINF:-1 ,mediateka
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,mediateka
 https://raw.githubusercontent.com/suzukantv/IPTV/main/mediateka.m3u
 
