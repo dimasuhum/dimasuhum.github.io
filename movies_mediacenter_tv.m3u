@@ -73,6 +73,10 @@ m3u+http://woobl.ru/all/WVd4bGVHVjVOell3TkVCNVlXNWtaWGd1Y25VPQ/w.m3u8
 m3u+http://dfa8e06d672f.mylistbest.net/playlists/uplist/195a346b3dd3787b993787d26d540c8a/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV10
+m3u+http://bobor.pm/play/F56B3427ACBD623/m3u8
+
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", bitTV
 m3u+https://bit.ly/4axHzL5
 
