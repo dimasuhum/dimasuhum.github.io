@@ -41,7 +41,7 @@ m3u+https://seron.tv/download/file.php?id=104284
 m3u+http://myott.top/playlist/FW77EY74W5/m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV2
-m3u+https://blinktv.cc/Roki/qazxsw321/hls/playlist.m3u8
+m3u+http://e0b887348fa9.goodstreem.org/playlists/uplist/3e8f95c9564ca907597250f64d44a13e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV3
 m3u+https://dl.dropboxusercontent.com/s/u9a0m18jmdr44tb/playlist_free.m3u8
@@ -141,10 +141,10 @@ https://m3url.ru/freetv_32.m3u
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv
-m3u+http://troya.tv/pl/21/6210a9b0edf2c/playlist.m3u8
+m3u+http://662deb789d02.zatikov.net/playlists/uplist/68fdce8ebec600f86cbc45daf9cd2bdc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",TvoneTv1
-m3u+http://troya.one/pl/3/62fb84863910b/playlist.m3u8
+m3u+https://blinktv.cc/Jonson/11111111/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv2
 m3u+http://troya.one/pl/21/x4pey8tw7wo73/playlist.m3u8
