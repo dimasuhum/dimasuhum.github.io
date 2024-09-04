@@ -35,7 +35,7 @@ http://loganet.ru/mega.m3u
 http://pl.uspeh.sbs/8a3b0512/a2128929/tv.m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV
-m3u+https://seron.tv/download/file.php?id=104284
+m3u+http://cdntv.online/high/mwxyvd8tpz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV1
 m3u+http://myott.top/playlist/FW77EY74W5/m3u
@@ -103,10 +103,10 @@ m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv
-m3u+http://cloud.zagdali.keenetic.pro/DiskHttpHFS/%D0%A4%D1%83%D0%BB%D0%BB.m3u8
+m3u+https://dl.dropbox.com/scl/fi/oavw59hk9yg2rj5i9prnp/Drm-play.m3u8?rlkey=15mkm84rpbd6awleyvse49iev
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv1
-m3u+https://ilook.epg.one/5TG2DK5T26Z6M3
+http://u.vipl.one/high/cnikqmzafl/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv2
 m3u+https://ilook.epg.one/S9D5KNYWNS633B
