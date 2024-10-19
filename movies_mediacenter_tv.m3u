@@ -13,6 +13,10 @@ https://gclnk.com/1KGcCXTv
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", CeburTv+
  m3u+http://chiburator.monster:8000/playlist/chebur_best/bXnGSRThVK/m3u_plus?output=rtmp
 
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", KolobokTv+
+ m3u+https://raw.githubusercontent.com/suzukantv/IPTV/main/KolobokHatNet2.m3u
+
+
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", dmi3y-tv
 http://dmi3y-tv.ru/iptv/d-tv.m3u
