@@ -144,18 +144,21 @@ https://iptv.org.ua/iptv/kino-plus.m3u
 https://m3url.ru/freetv_32.m3u
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv
-m3u+http://662deb789d02.zatikov.net/playlists/uplist/68fdce8ebec600f86cbc45daf9cd2bdc/playlist.m3u8
+m3u+http://troya.info/pl/11/674d53d19cff0/playlist.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",TvoneTv1
-m3u+https://m3url.ru/Playlist.m3u8
+m3u+http://troya.info/pl/19/674d53d19cff0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv2
-m3u+https://m3url.ru/11.m3u
+m3u+http://troya.info/pl/21/674d53d19cff0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv3
 m3u+http://1usd.tv/pl-5eb94c64432a3-hls
