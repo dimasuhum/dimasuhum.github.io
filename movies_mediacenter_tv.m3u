@@ -10,8 +10,8 @@ http://cominet.do.am/IPTV/win_prog_2.m3u
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", CeburTv
 https://gclnk.com/1KGcCXTv
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", CeburTv+
- m3u+http://chiburator.monster:8000/playlist/chebur_best/bXnGSRThVK/m3u_plus?output=rtmp
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", cdntv
+ m3u+http://cdntv.online/high/ynemik5cl9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", KolobokTv+
  m3u+https://raw.githubusercontent.com/suzukantv/IPTV/main/KolobokHatNet2.m3u
@@ -27,6 +27,9 @@ http://topplay.do.am/FreeBestTV.m3u
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", Zabava
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
 
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", DITV
+ m3u+http://pagertv.ru/userfiles/e9oWXB02iGdbOTn
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", LoganetXAll
