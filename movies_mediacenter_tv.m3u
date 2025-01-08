@@ -18,6 +18,10 @@ https://gclnk.com/1KGcCXTv
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", dmi3y-tv
 http://dmi3y-tv.ru/iptv/d-tv.m3u
 
@@ -152,28 +156,35 @@ https://m3url.ru/freetv_32.m3u
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv
-m3u+http://troya.info/pl/11/674d53d19cff0/playlist.m3u8
-
-
-
-
+m3u+https://only4.tv/pl/81ZHGzig0D/107/only4tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",TvoneTv1
-m3u+http://troya.info/pl/19/674d53d19cff0/playlist.m3u8
+m3u+https://only4.tv/pl/rskfeUvETR/107/only4tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv2
-m3u+http://troya.info/pl/21/674d53d19cff0/playlist.m3u8
+m3u+https://only4.tv/pl/XSgPay65Fq/107/only4tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv3
-m3u+http://1usd.tv/pl-5eb94c64432a3-hls
+m3u+https://only4.tv/pl/ynbR4Xf03c/only4tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv4
-m3u+http://1usd.tv/pl-5eb94c64432a3-hls
+m3u+https://only4.tv/pl/1dDYKU5KAT/only4tv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv5
-m3u+http://tv-nasha.ru/iptv/M4f082ab4c/m3u8
+m3u+http://only4.tv/pl/AI5VL9lOXm/107/only4tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv6
+m3u+https://only4.tv/pl/eRW4eiz8Bj/only4tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv7
+m3u+https://only4.tv/pl/MwAj1yrihf/only4tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv8
+m3u+https://only4.tv/pl/DWeuwHcY9v/only4tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv9
+m3u+https://only4.tv/pl/y3ewzNBDox/only4tv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,usdtv
