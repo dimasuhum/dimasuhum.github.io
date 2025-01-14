@@ -476,14 +476,16 @@ http://172.30.10.66:80/tv_kino_uhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Киноужас HD
 http://172.30.10.66:80/tv_kinouzhas_hd/index.m3u8
 
-#EXTINF:-1 group-title="Кино", Страшное HD
-http://172.30.10.66:80/tv_strashnoe_hd/index.m3u8
-#EXTINF:-1 group-title="Кино", Страшное HD
-http://158.101.214.187:8080/channel/42c15d29/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
 
 
-#EXTINF:-1 group-title="Кино", Страх HD
-http://195.9.195.3:8080/hls/202127.m3u8
+
+#EXTINF:-1 group-title="Кино", Свежаки
+https://vsd235.okcdn.ru/cmaf/7908453452500/sig/PXSV_p-ifeQ/expires/1736952445007/srcIp/185.228.133.208/urls/185.226.55.71/clientType/36/srcAg/UNKNOWN/mid/9315021965268/get/hls_9315021965268.CctRC7sle78.m3u8
+
+#EXTINF:-1 group-title="Кино", Ужастик
+https://vsd256.okcdn.ru/hls/7927986260589.m3u8/sig/sxX_NZSctfI/expires/1736952119762/srcIp/185.228.133.208/urls/45.136.20.60/clientType/36/srcAg/UNKNOWN/mid/9412288464749/video.m3u8?p
+
+
 
 #EXTINF:-1 group-title="Кино", Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
