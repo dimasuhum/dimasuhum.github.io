@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXA
 http://loganet.ru/mega.m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  uspehTV
-http://pl.uspeh.sbs/8a3b0512/a2128929/tv.m3u
+http://pl.uspeh.sbs/ae05cfae/908535cb/tv.m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  seronTV
 m3u+http://tinyurl.com/23y6sydo
@@ -115,10 +115,10 @@ m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv
-m3u+https://dl.dropbox.com/scl/fi/oavw59hk9yg2rj5i9prnp/Drm-play.m3u8?rlkey=15mkm84rpbd6awleyvse49iev
+m3u+https://usnd.to/JbEw
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv1
-http://u.vipl.one/high/cnikqmzafl/playlist.m3u
+http://api.ttv.run/k/XHNSIxi5bC/3732996/tv.m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv2
 m3u+https://ilook.epg.one/S9D5KNYWNS633B
@@ -159,10 +159,10 @@ https://m3url.ru/freetv_32.m3u
 m3u+https://pl.m3u.life/hls/token=5U2tSqGMYcDWQAAQ
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",TvoneTv1
-m3u+https://only4.tv/pl/rskfeUvETR/107/only4tv.m3u8
+m3u+https://cdntv.online/high/mi6zbpyhnj/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv2
-m3u+https://only4.tv/pl/XSgPay65Fq/107/only4tv.m3u8
+m3u+http://woobl.ru/all/YTNaaFpISmhkSFl5TURJMlFHZHRZV2xzTG1OdmJRPT0/w.m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvoneTv3
 m3u+https://only4.tv/pl/ynbR4Xf03c/only4tv.m3u8
