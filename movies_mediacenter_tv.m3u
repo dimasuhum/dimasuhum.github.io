@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",20TV
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_0.m3u
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",20+TV
+http://dmi3y-tv.ru/iptv/Playlist-05.m3u
+
+
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Cyxymtv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
 
@@ -8,8 +16,6 @@ http://pl.uspeh.sbs/0724e892/017bd293/tv.m3u
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Wink(free+)
 http://bezbe.my1.ru//t/mzab.m3u
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",nashaTV
-m3u+http://tv-nasha.ru/iptv/M4f082ab4c/m3u8
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",tinyurl
 m3u+http://tinyurl.com/23y6sydo
