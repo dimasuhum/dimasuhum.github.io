@@ -2,14 +2,22 @@
 http://dmi3y-tv.ru/iptv/DVB-T2/CH_0.m3u
 
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",ottv
-m3u+http://ottv.tk/public/plst/plstfb/teleCity-47n_no_save.m3u
-
-
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",20+TV
 http://dmi3y-tv.ru/iptv/Playlist-05.m3u
 
 
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Sharavoz
+https://sh365.org/iptv/p/QqPuXSXLuU6u8f/Sharavoz.Tv.ott.m3u
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",IPTVstable
+m3u+https://smolnp.github.io/IPTVru//IPTVstable.m3u8
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",ottv
+m3u+http://ottv.tk/public/plst/plstfb/teleCity-47n_no_save.m3u
+
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",ottv2
+m3u+https://u.to/Dbw_IA
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Cyxymtv
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cyxymtv.m3u
