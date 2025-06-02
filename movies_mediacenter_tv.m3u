@@ -209,6 +209,8 @@ https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/Russia-Ci
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,SportTv
 https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/Sport.m3u
 
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,Ktv
+https://raw.githubusercontent.com/suzukantv/IPTV/main/ktv1.m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,mediateka
 https://raw.githubusercontent.com/suzukantv/IPTV/main/mediateka.m3u
