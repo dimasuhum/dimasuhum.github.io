@@ -1,6 +1,10 @@
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",UspehTV
 m3u+https://m3u.admuspeh.my/non18/token=th2SEoD2uCnBuUio
 
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",KIZUG
+m3u+https://www.dropbox.com/scl/fi/ujqstzvomch9aimwr12oz/KIZUG.m3u?rlkey=mnayuoylryjwlriij4t45oum2&st=vndmxfku&dl=1
+
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Homtv
 https://homtv.ru/homtv.m3u
 
