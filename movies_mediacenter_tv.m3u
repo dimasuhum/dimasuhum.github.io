@@ -1,6 +1,17 @@
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",UspehTV
 m3u+https://m3u.admuspeh.my/non18/token=th2SEoD2uCnBuUio
 
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",TricolorTV
+m3u+http://iptvin.ru/p/?trico&dimasuhum&DimaAsida1330
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",MovixTV
+m3u+http://iptvin.ru/p/?movix&dimasuhum&DimaAsida1330
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Denisoft
+http://iptvin.ru/playlists/Denisoft/ru.m3u
+
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",KIZUG
 m3u+https://www.dropbox.com/scl/fi/ujqstzvomch9aimwr12oz/KIZUG.m3u?rlkey=mnayuoylryjwlriij4t45oum2&st=vndmxfku&dl=1
 
@@ -102,11 +113,10 @@ https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/
  m3u+http://pagertv.ru/userfiles/e9oWXB02iGdbOTn
 
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", LoganetXAll
-https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", LoganetXAll2
-https://loganet.vercel.app/LoganetXAll.m3u
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", LoganetAll
+https://loganettv.vercel.app/all.m3u
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", Loganetmega
