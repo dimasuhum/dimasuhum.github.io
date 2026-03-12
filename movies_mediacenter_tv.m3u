@@ -117,11 +117,9 @@ https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", LoganetAll
-https://loganettv.vercel.app/all.m3u
+https://loganet.vercel.app/LoganetXAll.m3u
 
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", Loganetmega
-http://loganet.ru/mega.m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  uspehTV
 http://pl.uspeh.sbs/0724e892/017bd293/tv.m3u
