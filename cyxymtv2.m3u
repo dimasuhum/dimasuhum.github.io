@@ -8,8 +8,8 @@ http://10.10.255.100:80/tv_agtrk_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", АБАЗА-ТВ
 http://10.10.255.100:80/tv_abaza_tv/tracks-v1a1/mono.m3u8
 
-
-
+#EXTINF:-1 tvg-id="1" group-title="Абхазские", MOOORE
+http://10.10.255.100:80/tv_mooore_tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1" group-title="Абхазские", ГАГРА-ТВ
 http://10.10.255.100:80/tv_gagra_tv/tracks-v1a1/mono.m3u8
@@ -275,6 +275,10 @@ http://10.10.255.100:80/tv_history_hd/tracks-v1a1/mono.m3u8
 http://10.10.255.100:80/tv_travel_channel_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="26006" group-title="Познавательное", Travel and Adventure
 http://10.10.255.100:80/tv_travel_and_adventure_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="26005" group-title="Познавательное", Galaxy hd
+http://10.10.255.100:80/tv_galaxy_hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="26005" group-title="Познавательное", TLC hd
 http://10.10.255.100:80/tv_tlc_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательное", Fine Living
