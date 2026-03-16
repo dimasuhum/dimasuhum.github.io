@@ -273,6 +273,11 @@ http://10.10.255.100:80/tv_doctor_hd/tracks-v1a1/mono.m3u8
 http://10.10.255.100:80/tv_istoriya_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="17105" group-title="Познавательное", History
 http://10.10.255.100:80/tv_history_hd/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="17105" group-title="Познавательное", H2 HD
+http://summer-wildflower-8ba2.kinooboomru.workers.dev/H2HD/index.m3u8?token=749b4376e042fccdf9629d04fae5233836ae4880-69e1074848d5126e5659e42710febf58-1773703020-1773659820
+
 #EXTINF:-1 tvg-id="26006" group-title="Познавательное", Travel Channel hd
 http://10.10.255.100:80/tv_travel_channel_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="26006" group-title="Познавательное", Travel and Adventure
