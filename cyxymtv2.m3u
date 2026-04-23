@@ -71,6 +71,11 @@ http://10.10.255.100:80/tv_rentv_sd_plus2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="16109" group-title="Эфирные", Домашний
 http://10.10.255.100:80/tv_domashniy_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="16109" group-title="Эфирные", Домашний
+https://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+
 #EXTINF:-1 tvg-id="10303" group-title="Эфирные", ПЯТНИЦА
 http://10.10.255.100:80/tv_piatnitsa_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="10309" group-title="Эфирные", Звезда
@@ -162,15 +167,34 @@ http://10.10.255.100:80/tv_match_tv_sd/tracks-v1a1/mono.m3u8
 http://10.10.255.100:80/tv_match_tv_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! ПРЕМЬЕР 
-http://summer-wildflower-8ba2.kinooboomru.workers.dev/Premiermach/index.m3u8?token=33e18143a6fa13ee10dd99e77cfecde5dd823387-8aa0360f1036f2da715f69ed3196054b-1773699484-1773656284
+https://ritsatv.ru/p2p/3818
+
+#EXTINF:-1 group-title="Спорт", Матч! ПРЕМЬЕР 
+https://ritsatv.ru/p2p/3817
+
+
+#EXTINF:-1 group-title="Спорт", Матч! ПРЕМЬЕР 
+https://live20.bozztv.com/akamaissh101/ssh101/foot/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="Спорт", Матч! ПРЕМЬЕР HD
 http://10.10.255.100:80/tv_ntvplus_match_premier_hd/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="14105" group-title="Спорт", Матч! Футбол 1 hd
 http://10.10.255.100:80/tv_match_football_1_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="20101" group-title="Спорт", Матч! Футбол 2 hd
 http://10.10.255.100:80/tv_match_football_2_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="17101" group-title="Спорт", Матч! Футбол 3 hd
 http://10.10.255.100:80/tv_match_football_3_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="17101" group-title="Спорт", Матч! Футбол 3 hd
+https://cdn01.poster-abh.ru/Match_Football_3_HD/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="20104" group-title="Спорт", Футбольный HD
 http://10.10.255.100:80/tv_footbolniy_hd/tracks-v1a1/mono.m3u8
 
