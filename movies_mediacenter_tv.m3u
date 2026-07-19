@@ -1,13 +1,23 @@
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",UspehTV
-m3u+https://iptv.online/play/42B790600A50DFF/m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",VivamaxTV
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/vimatv.IMC.zip
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",M3urlTV
-m3u+https://m3url.ru/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",ilookTV
+m3u+https://ilook.epg.one/YN2H92MFHBQ5HH/2/img
+
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",KatrinaTV
+m3u+https://see-tv.eu/play/5B6BE23678322BD/m3u
+
+
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",hottest.vip_LIVE_TV
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/hottest.vip_LIVE_TV_ru_russia_18_10_2026.m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",WinkTV
 m3u+https://segaz.my1.ru/tv/zz.m3u8
@@ -16,8 +26,7 @@ m3u+https://segaz.my1.ru/tv/zz.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",VoxTV
 https://raw.githubusercontent.com/Voxlist/voxlist/refs/heads/main/voxlist.m3u
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",VromTV
-m3u+https://segaz.my1.ru/tv/vrom.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", Zabava
 https://raw.githubusercontent.com/Karnei4/Karnei4.github.io/master/s/Mediacentr/Zabava-FREE-Karnei4.m3u
@@ -29,8 +38,6 @@ m3u+http://iptvin.ru/p/?movix&dimasuhum&DimaAsida1330
 http://iptvin.ru/playlists/Denisoft/ru.m3u
 
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",KIZUG
-m3u+https://www.dropbox.com/scl/fi/ujqstzvomch9aimwr12oz/KIZUG.m3u?rlkey=mnayuoylryjwlriij4t45oum2&st=vndmxfku&dl=1
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Homtv
@@ -67,10 +74,6 @@ m3u+https://smolnp.github.io/IPTVru//IPTVstable.m3u8
 m3u+https://u.to/Dbw_IA
 
 
-
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  uspehTV
-http://pl.uspeh.sbs/0724e892/017bd293/tv.m3u
 
 
 
@@ -112,11 +115,6 @@ https://loganet.vercel.app/LoganetXAll.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",  uspehTV
-http://pl.uspeh.sbs/0724e892/017bd293/tv.m3u
-
-
-
 
 
 
@@ -130,14 +128,6 @@ https://dl.dropbox.com/s/sfcqivm9jtq279g/RO$TIK_TV.m3u
 m3u+https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV
 
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv
-m3u+https://usnd.to/JbEw
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv1
-http://api.ttv.run/k/XHNSIxi5bC/3732996/tv.m3u
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",FUllTv2
-m3u+https://ilook.epg.one/S9D5KNYWNS633B
 
 
 
@@ -153,41 +143,9 @@ https://iptv.org.ua/iptv/kino-plus.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,streams1
-m3u+https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/xml/playlist(4).m3u8
-
-
-
-
 
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,stream1
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-1.m3u
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvKino
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/cineman%2Bbcu.m3u
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,TvKino2
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/Russia-Cinema.m3u
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,SportTv
-https://raw.githubusercontent.com/dimasuhum/dimasuhum.github.io/master/Sport.m3u
-
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,media
-m3u+http://kb-team.club/?do=/plugin&bid=federaltv&m3u&box_mac=acace24b8434
-
-
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,mediateka
-https://raw.githubusercontent.com/suzukantv/IPTV/main/mediateka.m3u
