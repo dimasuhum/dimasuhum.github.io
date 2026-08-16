@@ -1,6 +1,7 @@
 
 
-
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", CyxymTV
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/24ctv.IMC.zip
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",VivamaxTV
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/vimatv.IMC.zip
@@ -17,7 +18,7 @@ m3u+https://see-tv.eu/play/5B6BE23678322BD/m3u
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",hottest.vip_LIVE_TV
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/hottest.vip_LIVE_TV_ru_russia_18_10_2026.m3u
+m3u+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/hottest.vip_LIVE_TV_ru_russia_18_10_2026.m3u
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",WinkTV
 m3u+https://segaz.my1.ru/tv/zz.m3u8
