@@ -147,6 +147,6 @@ https://iptv.org.ua/iptv/kino-plus.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,stream1
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/xml/stream-1.m3u
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13" ,StreamS
+m3u+https://nstreamportal.ru/iptv/index.php?source=iptv5&box_mac=40163b66e658
 
