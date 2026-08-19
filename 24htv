@@ -29,6 +29,8 @@ http://stream19.24h.tv/mbrjwt/b5ef0bc702cb85eab346598e389ff7846ece0dde-5046-0-24
 http://stream19.24h.tv/mbrjwt/b5ef0bc702cb85eab346598e389ff7846ece0dde-5046-0-24h1912958-5-1600741738-1624048644-e128-sevyihtjbs3fudnG2BAAxy1qiI7llqj5ifCNmhuv9Ks/ch2614/ch2614.m3u8
 #EXTINF:-1 tvg-id="flixsnip" group-title="Кино" tvg-logo="http://epg.it999.ru/img/774.png",FlixSnip [576p]
 http://stream19.24h.tv/mbrjwt/b5ef0bc702cb85eab346598e389ff7846ece0dde-5046-0-24h1912958-5-1600741738-1624048644-e128-sevyihtjbs3fudnG2BAAxy1qiI7llqj5ifCNmhuv9Ks/ch263/ch263.m3u8
+#EXTINF:-1 tvg-id="horror" group-title="Кино" tvg-logo="https://cdn.media.24h.tv/img/ch/14/84/148416459c54594b13d219e4294a85ae.png",Ужас.ТВ
+http://stream19.24h.tv/mbrjwt/b5ef0bc702cb85eab346598e389ff7846ece0dde-5046-0-24h1912958-5-1600741738-1624048644-e128-sevyihtjbs3fudnG2BAAxy1qiI7llqj5ifCNmhuv9Ks/ch8856/ch8856.m3u8
 #EXTINF:-1 tvg-id="fox" group-title="Кино" tvg-logo="http://epg.it999.ru/img/1031.png",FOX [576p]
 http://stream19.24h.tv/mbrjwt/b5ef0bc702cb85eab346598e389ff7846ece0dde-5046-0-24h1912958-5-1600741738-1624048644-e128-sevyihtjbs3fudnG2BAAxy1qiI7llqj5ifCNmhuv9Ks/ch95/ch95.m3u8
 #EXTINF:-1 tvg-id="fox" group-title="Кино" tvg-logo="http://epg.it999.ru/img/1031.png",FOX HD [1080p]
