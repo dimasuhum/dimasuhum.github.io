@@ -12,6 +12,7 @@ https://github.com/dimasuhum/dimasuhum.github.io/raw/master/vimatv.IMC.zip
 m3u+https://ilook.epg.one/YN2H92MFHBQ5HH/2/img
 
 
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",KatrinaTV
 m3u+https://see-tv.eu/play/5B6BE23678322BD/m3u
 
@@ -38,7 +39,8 @@ m3u+http://iptvin.ru/p/?movix&dimasuhum&DimaAsida1330
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Denisoft
 http://iptvin.ru/playlists/Denisoft/ru.m3u
 
-
+#EXTINF:-1 ,MediaTV 
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/mediatv.IMC.zip
 
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Homtv
@@ -100,11 +102,9 @@ https://dl.dropbox.com/scl/fi/ur595ef4cqmfst951kboh/.NET_2.m3u?rlkey=0cw1ficfrq0
 
 
 
-#EXTINF:-1 ,KTV 
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/KTV.IMC.zip
 
-#EXTINF:-1 ,KTV1 
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/KTV1.IMC.zip
+
+
 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", dmi3y-tv
 http://dmi3y-tv.ru/iptv/d-tv.m3u
