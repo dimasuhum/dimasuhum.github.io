@@ -39,6 +39,9 @@ m3u+http://iptvin.ru/p/?movix&dimasuhum&DimaAsida1330
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",Denisoft
 http://iptvin.ru/playlists/Denisoft/ru.m3u
 
+#EXTINF:-1 ,VseTV 
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/vsetv.IMC.zip
+
 #EXTINF:-1 ,MediaTV 
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/mediatv.IMC.zip
 
