@@ -45,8 +45,10 @@ http://iptvin.ru/playlists/Denisoft/ru.m3u
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/mediatv.IMC.zip
 
 #EXTINF:-1 ,GulTV 
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/freegultv2.IMC.zip
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/freegultv.IMC.zip
 
+#EXTINF:-1 ,GulTV2 
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/freegultv2.IMC.zip
 
 
 
