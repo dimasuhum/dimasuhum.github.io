@@ -44,6 +44,10 @@ http://iptvin.ru/playlists/Denisoft/ru.m3u
 #EXTINF:-1 ,MediaTV 
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/mediatv.IMC.zip
 
+
+#EXTINF:-1 ,VimaTV
+https://github.com/dimasuhum/dimasuhum.github.io/raw/master/vimatv1.IMC.zip
+
 #EXTINF:-1 ,GulTV 
 https://github.com/dimasuhum/dimasuhum.github.io/raw/master/freegultv.IMC.zip
 
@@ -107,10 +111,10 @@ https://raw.githubusercontent.com/suzukantv/IPTV/refs/heads/main/SuzuSCloudFreeG
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13", CeburTv
-https://dl.dropbox.com/scl/fi/ur595ef4cqmfst951kboh/.NET_2.m3u?rlkey=0cw1ficfrq0m6yg2udh16qn78&st=.m3u
-
-
+m3u+https://dl.dropboxusercontent.com/scl/fi/ur595ef4cqmfst951kboh/.NET_2.m3u?rlkey=0cw1ficfrq0m6yg2udh16qn78&dl=0
 
 
 
@@ -156,8 +160,7 @@ https://iptv.org.ua/iptv/kino-plus.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8b6447f4f213d6903b568beaaf07cad5_l-5260797-images-thumbs&n=13",VimaTV
-https://github.com/dimasuhum/dimasuhum.github.io/raw/master/vimatv1.IMC.zip
+
 
 
 
