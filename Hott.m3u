@@ -1,0 +1,964 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| MTV XMAS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVXMAS.png" tvg-chno="26777" group-title="UK| MUSIC",UK| MTV XMAS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014290&extension=m3u8
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK| MTV FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTV.png" tvg-chno="26778" group-title="UK| MUSIC",UK| MTV FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=45326&extension=m3u8
+#EXTINF:-1 tvg-id="uk.MTV Live HD" tvg-name="UK| MTV LIVE FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png" tvg-chno="26779" group-title="UK| MUSIC",UK| MTV LIVE FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=45325&extension=m3u8
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="UK| MTV BASE" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVBASE.png" tvg-chno="26780" group-title="UK| MUSIC",UK| MTV BASE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=45267&extension=m3u8
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="UK| MTV CLASSIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVCLASSIC.png" tvg-chno="26781" group-title="UK| MUSIC",UK| MTV CLASSIC
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=45266&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MTV CLUB" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVCLUB.png" tvg-chno="26782" group-title="UK| MUSIC",UK| MTV CLUB
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=45265&extension=m3u8
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="UK| MTV HITS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVHITS.png" tvg-chno="26783" group-title="UK| MUSIC",UK| MTV HITS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=45264&extension=m3u8
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="UK| MTV MUSIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVMUSIC.png" tvg-chno="26784" group-title="UK| MUSIC",UK| MTV MUSIC
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=163792&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-TODDLER JAMS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26785" group-title="UK| MUSIC",UK| MC-TODDLER JAMS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014292&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-KIDS ONLY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26786" group-title="UK| MUSIC",UK| MC-KIDS ONLY
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014291&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-THROWBACK JAMS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26787" group-title="UK| MUSIC",UK| MC-THROWBACK JAMS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014289&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-90S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26788" group-title="UK| MUSIC",UK| MC-90S
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014288&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-TROPICALES" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26789" group-title="UK| MUSIC",UK| MC-TROPICALES
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014287&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-TODAYS COUNTRY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26790" group-title="UK| MUSIC",UK| MC-TODAYS COUNTRY
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014286&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-TEEN BEATS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26791" group-title="UK| MUSIC",UK| MC-TEEN BEATS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014285&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-ROCK" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26792" group-title="UK| MUSIC",UK| MC-ROCK
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014284&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-RAP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26793" group-title="UK| MUSIC",UK| MC-RAP
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014283&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-R&B SOUL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26794" group-title="UK| MUSIC",UK| MC-R&B SOUL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014282&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-POP LATINO" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26795" group-title="UK| MUSIC",UK| MC-POP LATINO
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014281&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-POP HITS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26796" group-title="UK| MUSIC",UK| MC-POP HITS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014280&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-POP & COUNTRY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26797" group-title="UK| MUSIC",UK| MC-POP & COUNTRY
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014279&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-MUSICA URBANA" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26798" group-title="UK| MUSIC",UK| MC-MUSICA URBANA
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014278&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-MEXICANA" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26799" group-title="UK| MUSIC",UK| MC-MEXICANA
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014277&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-HIT LIST" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26800" group-title="UK| MUSIC",UK| MC-HIT LIST
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014276&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-HIP HOP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26801" group-title="UK| MUSIC",UK| MC-HIP HOP
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014275&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-DANCE EDM" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26802" group-title="UK| MUSIC",UK| MC-DANCE EDM
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014274&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MC-ALTERNATIVE" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" tvg-chno="26803" group-title="UK| MUSIC",UK| MC-ALTERNATIVE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014273&extension=m3u8
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK| 4 MUSIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/4MUSIC.png" tvg-chno="26804" group-title="UK| MUSIC",UK| 4 MUSIC
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014272&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MTV 90S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTV90S.png" tvg-chno="26805" group-title="UK| MUSIC",UK| MTV 90S
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1014270&extension=m3u8
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="UK| CLUBLAND TV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CLUBLAND.png" tvg-chno="26806" group-title="UK| MUSIC",UK| CLUBLAND TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=163793&extension=m3u8
+#EXTINF:-1 tvg-id="uk.Trace Urban" tvg-name="UK| TRACE URBAN" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TRACEURBAN.png" tvg-chno="26807" group-title="UK| MUSIC",UK| TRACE URBAN
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=163791&extension=m3u8
+#EXTINF:-1 tvg-id="VH1.uk" tvg-name="UK| VH1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VH1.png" tvg-chno="26808" group-title="UK| MUSIC",UK| VH1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=45234&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| KARAOKE 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" tvg-chno="26809" group-title="UK| MUSIC",UK| KARAOKE 1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=890208&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| KARAOKE 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" tvg-chno="26810" group-title="UK| MUSIC",UK| KARAOKE 2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=890209&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| KARAOKE 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" tvg-chno="26811" group-title="UK| MUSIC",UK| KARAOKE 3
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=890211&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| KARAOKE 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" tvg-chno="26812" group-title="UK| MUSIC",UK| KARAOKE 4
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=890210&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| KARAOKE 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" tvg-chno="26813" group-title="UK| MUSIC",UK| KARAOKE 5
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=890215&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN| KARAOKE 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" tvg-chno="26814" group-title="UK| MUSIC",EN| KARAOKE 6
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=890212&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| KARAOKE 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" tvg-chno="26815" group-title="UK| MUSIC",UK| KARAOKE 7
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=890214&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| KARAOKE 8" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" tvg-chno="26816" group-title="UK| MUSIC",UK| KARAOKE 8
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=890213&extension=m3u8
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="UK| NOW 70S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOW70S.png" tvg-chno="26817" group-title="UK| MUSIC",UK| NOW 70S
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=164022&extension=m3u8
+#EXTINF:-1 tvg-id="NOW80s.uk" tvg-name="UK| NOW 80S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOW80S.png" tvg-chno="26818" group-title="UK| MUSIC",UK| NOW 80S
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=164012&extension=m3u8
+#EXTINF:-1 tvg-id="Now90s.uk" tvg-name="UK| NOW 90S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOW90S.png" tvg-chno="26819" group-title="UK| MUSIC",UK| NOW 90S
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=163796&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="####### MC VIDEO ᴴᴰ #######" tvg-logo="http://51.158.145.100/picons/logos/UK/1921466.png" tvg-chno="26820" group-title="UK| MC VIDEO ᴴᴰ",####### MC VIDEO ᴴᴰ #######
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921466&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| 80'S - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921465.png" tvg-chno="26821" group-title="UK| MC VIDEO ᴴᴰ",UK| 80'S - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921465&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| 90'S - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921464.png" tvg-chno="26822" group-title="UK| MC VIDEO ᴴᴰ",UK| 90'S - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921464&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| ALTERNATIVE - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921463.png" tvg-chno="26823" group-title="UK| MC VIDEO ᴴᴰ",UK| ALTERNATIVE - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921463&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| COUNTRY HITS - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921462.png" tvg-chno="26824" group-title="UK| MC VIDEO ᴴᴰ",UK| COUNTRY HITS - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921462&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| DANCE/ EDM - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921461.png" tvg-chno="26825" group-title="UK| MC VIDEO ᴴᴰ",UK| DANCE/ EDM - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921461&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| HIP-HOP AND R&B - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921460.png" tvg-chno="26826" group-title="UK| MC VIDEO ᴴᴰ",UK| HIP-HOP AND R&B - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921460&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| HIT LIST - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921459.png" tvg-chno="26827" group-title="UK| MC VIDEO ᴴᴰ",UK| HIT LIST - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921459&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| KIDZ BOP - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921458.png" tvg-chno="26828" group-title="UK| MC VIDEO ᴴᴰ",UK| KIDZ BOP - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921458&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| KIDZ ONLY! - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921457.png" tvg-chno="26829" group-title="UK| MC VIDEO ᴴᴰ",UK| KIDZ ONLY! - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921457&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MUSICA URBANA - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921456.png" tvg-chno="26830" group-title="UK| MC VIDEO ᴴᴰ",UK| MUSICA URBANA - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921456&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MUSIC CHOICE MAX - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921455.png" tvg-chno="26831" group-title="UK| MC VIDEO ᴴᴰ",UK| MUSIC CHOICE MAX - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921455&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| POP & COUNTRY - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921454.png" tvg-chno="26832" group-title="UK| MC VIDEO ᴴᴰ",UK| POP & COUNTRY - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921454&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| POP HITS - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921453.png" tvg-chno="26833" group-title="UK| MC VIDEO ᴴᴰ",UK| POP HITS - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921453&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| POP LATINO - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921452.png" tvg-chno="26834" group-title="UK| MC VIDEO ᴴᴰ",UK| POP LATINO - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921452&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| R&B SOUL - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921451.png" tvg-chno="26835" group-title="UK| MC VIDEO ᴴᴰ",UK| R&B SOUL - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921451&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| RAP - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921450.png" tvg-chno="26836" group-title="UK| MC VIDEO ᴴᴰ",UK| RAP - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921450&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| RAP 2K - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921449.png" tvg-chno="26837" group-title="UK| MC VIDEO ᴴᴰ",UK| RAP 2K - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921449&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| SOFT ROCK - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921448.png" tvg-chno="26838" group-title="UK| MC VIDEO ᴴᴰ",UK| SOFT ROCK - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921448&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| TEEN BEATS - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921447.png" tvg-chno="26839" group-title="UK| MC VIDEO ᴴᴰ",UK| TEEN BEATS - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921447&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| THROWBACK JAMZ - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921446.png" tvg-chno="26840" group-title="UK| MC VIDEO ᴴᴰ",UK| THROWBACK JAMZ - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921446&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| TODAY'S COUNTRY: CMA AWARDS - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921445.png" tvg-chno="26841" group-title="UK| MC VIDEO ᴴᴰ",UK| TODAY'S COUNTRY: CMA AWARDS - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921445&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| TODDLER TUNES - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921444.png" tvg-chno="26842" group-title="UK| MC VIDEO ᴴᴰ",UK| TODDLER TUNES - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921444&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| TROPICALES - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921443.png" tvg-chno="26843" group-title="UK| MC VIDEO ᴴᴰ",UK| TROPICALES - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921443&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| Y2K - DIRECT ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/UK/1921442.png" tvg-chno="26844" group-title="UK| MC VIDEO ᴴᴰ",UK| Y2K - DIRECT ᴴᴰ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1921442&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| OKKO SPORT HD" tvg-logo="" tvg-chno="44281" group-title="RU| RUSSIA",RU| OKKO SPORT HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=2133642&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### RU GENERAL #####" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RUSSIA.png" tvg-chno="44282" group-title="RU| RUSSIA",##### RU GENERAL #####
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1733763&extension=m3u8
+#EXTINF:-1 tvg-id="PervyyKanal.ru" tvg-name="RU| ПЕРВЫЙ КАНАЛ HD" tvg-logo="http://picons.cmshulk.com/picons/132645.png" tvg-chno="44283" group-title="RU| RUSSIA",RU| ПЕРВЫЙ КАНАЛ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132645&extension=m3u8
+#EXTINF:-1 tvg-id="PervyyKanal.ru" tvg-name="RU| ПЕРВЫЙ КАНАЛ" tvg-logo="http://picons.cmshulk.com/picons/132644.png" tvg-chno="44284" group-title="RU| RUSSIA",RU| ПЕРВЫЙ КАНАЛ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132644&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| CHANNEL ONE" tvg-logo="http://picons.cmshulk.com/picons/132442.png" tvg-chno="44285" group-title="RU| RUSSIA",RU| CHANNEL ONE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132442&extension=m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="RU| РОССИЯ 1 HD" tvg-logo="http://103.176.90.118/picons/logos/ROSSIYA-1.jpg" tvg-chno="44286" group-title="RU| RUSSIA",RU| РОССИЯ 1 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132671&extension=m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="RU| РОССИЯ 1" tvg-logo="http://103.176.90.118/picons/logos/ROSSIYA-1.jpg" tvg-chno="44287" group-title="RU| RUSSIA",RU| РОССИЯ 1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132669&extension=m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="RU| НТВ HD" tvg-logo="http://picons.cmshulk.com/picons/132619.png" tvg-chno="44288" group-title="RU| RUSSIA",RU| НТВ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132619&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| НТВ" tvg-logo="http://picons.cmshulk.com/picons/132512.png" tvg-chno="44289" group-title="RU| RUSSIA",RU| НТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132512&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| POBEDA HD" tvg-logo="http://picons.cmshulk.com/picons/1523561.png" tvg-chno="44290" group-title="RU| RUSSIA",RU| POBEDA HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1523561&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| PEH TB" tvg-logo="http://picons.cmshulk.com/picons/132642.png" tvg-chno="44291" group-title="RU| RUSSIA",RU| PEH TB
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132642&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| РЕН ТВ" tvg-logo="http://picons.cmshulk.com/picons/132667.png" tvg-chno="44292" group-title="RU| RUSSIA",RU| РЕН ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132667&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ПЕРВЫЙ КАНПЛ ЕВРОПА" tvg-logo="http://picons.cmshulk.com/picons/300913.png" tvg-chno="44293" group-title="RU| RUSSIA",RU| ПЕРВЫЙ КАНПЛ ЕВРОПА
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300913&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| РТР ПЛАНЕТА" tvg-logo="http://picons.cmshulk.com/picons/132677.png" tvg-chno="44294" group-title="RU| RUSSIA",RU| РТР ПЛАНЕТА
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132677&extension=m3u8
+#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="RU| НТВ МИР" tvg-logo="http://picons.cmshulk.com/picons/132620.png" tvg-chno="44295" group-title="RU| RUSSIA",RU| НТВ МИР
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132620&extension=m3u8
+#EXTINF:-1 tvg-id="Che.ru" tvg-name="RU| ЧЕ!" tvg-logo="http://picons.cmshulk.com/picons/132437.png" tvg-chno="44296" group-title="RU| RUSSIA",RU| ЧЕ!
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132437&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| 5 КАНАЛ" tvg-logo="http://picons.cmshulk.com/picons/300700.png" tvg-chno="44297" group-title="RU| RUSSIA",RU| 5 КАНАЛ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300700&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| TBK HD" tvg-logo="http://picons.cmshulk.com/picons/1416596.png" tvg-chno="44298" group-title="RU| RUSSIA",RU| TBK HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1416596&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ТНТ4" tvg-logo="http://picons.cmshulk.com/picons/132737.png" tvg-chno="44299" group-title="RU| RUSSIA",RU| ТНТ4
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132737&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ТНТ" tvg-logo="http://picons.cmshulk.com/picons/132733.png" tvg-chno="44300" group-title="RU| RUSSIA",RU| ТНТ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132733&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ТНТ HD" tvg-logo="http://picons.cmshulk.com/picons/132735.png" tvg-chno="44301" group-title="RU| RUSSIA",RU| ТНТ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132735&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| THT" tvg-logo="http://picons.cmshulk.com/picons/132727.png" tvg-chno="44302" group-title="RU| RUSSIA",RU| THT
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132727&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| THT4" tvg-logo="http://picons.cmshulk.com/picons/132728.png" tvg-chno="44303" group-title="RU| RUSSIA",RU| THT4
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132728&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| TVCI" tvg-logo="http://picons.cmshulk.com/picons/132755.png" tvg-chno="44304" group-title="RU| RUSSIA",RU| TVCI
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132755&extension=m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="RU| ЗВЕЗДА" tvg-logo="http://picons.cmshulk.com/picons/132797.png" tvg-chno="44305" group-title="RU| RUSSIA",RU| ЗВЕЗДА
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132797&extension=m3u8
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="RU| TLC" tvg-logo="http://picons.cmshulk.com/picons/132730.png" tvg-chno="44306" group-title="RU| RUSSIA",RU| TLC
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132730&extension=m3u8
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="RU| TLC HD" tvg-logo="http://picons.cmshulk.com/picons/132731.png" tvg-chno="44307" group-title="RU| RUSSIA",RU| TLC HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132731&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| СТС" tvg-logo="http://picons.cmshulk.com/picons/132710.png" tvg-chno="44308" group-title="RU| RUSSIA",RU| СТС
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132710&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| СТС FHD" tvg-logo="http://picons.cmshulk.com/picons/1148915.png" tvg-chno="44309" group-title="RU| RUSSIA",RU| СТС FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148915&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| СТС KIDS" tvg-logo="http://picons.cmshulk.com/picons/132712.png" tvg-chno="44310" group-title="RU| RUSSIA",RU| СТС KIDS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132712&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| CTC LOVE" tvg-logo="http://picons.cmshulk.com/picons/132441.png" tvg-chno="44311" group-title="RU| RUSSIA",RU| CTC LOVE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132441&extension=m3u8
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="RU| МИР HD" tvg-logo="http://picons.cmshulk.com/picons/132578.png" tvg-chno="44312" group-title="RU| RUSSIA",RU| МИР HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132578&extension=m3u8
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="RU| МИР" tvg-logo="http://picons.cmshulk.com/picons/132576.png" tvg-chno="44313" group-title="RU| RUSSIA",RU| МИР
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132576&extension=m3u8
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="RU| МИР 24" tvg-logo="http://picons.cmshulk.com/picons/132579.png" tvg-chno="44314" group-title="RU| RUSSIA",RU| МИР 24
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132579&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ПЯТНИЦА!" tvg-logo="http://picons.cmshulk.com/picons/132664.png" tvg-chno="44315" group-title="RU| RUSSIA",RU| ПЯТНИЦА!
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132664&extension=m3u8
+#EXTINF:-1 tvg-id="Sarafan.ru" tvg-name="RU| SARAFAN" tvg-logo="http://picons.cmshulk.com/picons/132697.png" tvg-chno="44316" group-title="RU| RUSSIA",RU| SARAFAN
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132697&extension=m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="RU| ДОМАШНИЙ" tvg-logo="http://picons.cmshulk.com/picons/132456.png" tvg-chno="44317" group-title="RU| RUSSIA",RU| ДОМАШНИЙ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132456&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| FINE LIVING" tvg-logo="http://picons.cmshulk.com/picons/132488.png" tvg-chno="44318" group-title="RU| RUSSIA",RU| FINE LIVING
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132488&extension=m3u8
+#EXTINF:-1 tvg-id="FashionTV.ru" tvg-name="RU| FASHION TELEVISION" tvg-logo="http://picons.cmshulk.com/picons/132494.png" tvg-chno="44319" group-title="RU| RUSSIA",RU| FASHION TELEVISION
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132494&extension=m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannel.ru" tvg-name="RU| WORLD FASHION" tvg-logo="http://picons.cmshulk.com/picons/132792.png" tvg-chno="44320" group-title="RU| RUSSIA",RU| WORLD FASHION
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132792&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ZEE TV" tvg-logo="http://picons.cmshulk.com/picons/132794.png" tvg-chno="44321" group-title="RU| RUSSIA",RU| ZEE TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132794&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### RU NEWS #####" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RUSSIA.png" tvg-chno="44322" group-title="RU| RUSSIA",##### RU NEWS #####
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1733764&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| EURONEWS" tvg-logo="http://picons.cmshulk.com/picons/132475.png" tvg-chno="44323" group-title="RU| RUSSIA",RU| EURONEWS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132475&extension=m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="RU| РОССИЯ 24" tvg-logo="http://picons.cmshulk.com/picons/132687.png" tvg-chno="44324" group-title="RU| RUSSIA",RU| РОССИЯ 24
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132687&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МОСКВА 24" tvg-logo="http://picons.cmshulk.com/picons/132582.png" tvg-chno="44325" group-title="RU| RUSSIA",RU| МОСКВА 24
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132582&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ИЗВЕСТИЯ HD" tvg-logo="http://picons.cmshulk.com/picons/1148916.png" tvg-chno="44326" group-title="RU| RUSSIA",RU| ИЗВЕСТИЯ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148916&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| РБК ТВ" tvg-logo="http://picons.cmshulk.com/picons/132666.png" tvg-chno="44327" group-title="RU| RUSSIA",RU| РБК ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132666&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| FREEDOM TV" tvg-logo="http://picons.cmshulk.com/picons/127233.png" tvg-chno="44328" group-title="RU| RUSSIA",RU| FREEDOM TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127233&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### RU MOVIES #####" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RUSSIA.png" tvg-chno="44329" group-title="RU| RUSSIA",##### RU MOVIES #####
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1733765&extension=m3u8
+#EXTINF:-1 tvg-id="TV1000East.ru" tvg-name="RU| TV1000" tvg-logo="http://picons.cmshulk.com/picons/132749.png" tvg-chno="44330" group-title="RU| RUSSIA",RU| TV1000
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132749&extension=m3u8
+#EXTINF:-1 tvg-id="TV1000ActionEast.ru" tvg-name="RU| TV1000 ACTION" tvg-logo="http://picons.cmshulk.com/picons/132750.png" tvg-chno="44331" group-title="RU| RUSSIA",RU| TV1000 ACTION
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132750&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| TV1000 COMEDY HD" tvg-logo="http://picons.cmshulk.com/picons/132751.png" tvg-chno="44332" group-title="RU| RUSSIA",RU| TV1000 COMEDY HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132751&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| TV1000 MEGAHIT HD" tvg-logo="http://picons.cmshulk.com/picons/132752.png" tvg-chno="44333" group-title="RU| RUSSIA",RU| TV1000 MEGAHIT HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132752&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| TV1000 PREMIUM HD" tvg-logo="http://picons.cmshulk.com/picons/132753.png" tvg-chno="44334" group-title="RU| RUSSIA",RU| TV1000 PREMIUM HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132753&extension=m3u8
+#EXTINF:-1 tvg-id="TV1000RusskoeKino.ru" tvg-name="RU| TV1000 РУССКОЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132754.png" tvg-chno="44335" group-title="RU| RUSSIA",RU| TV1000 РУССКОЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132754&extension=m3u8
+#EXTINF:-1 tvg-id="TV1000RusskoeKino.ru" tvg-name="RU| VIASAT TV1000 RUSSKOEKINO" tvg-logo="http://picons.cmshulk.com/picons/132784.png" tvg-chno="44336" group-title="RU| RUSSIA",RU| VIASAT TV1000 RUSSKOEKINO
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132784&extension=m3u8
+#EXTINF:-1 tvg-id="FOX.ru" tvg-name="RU| FX" tvg-logo="http://picons.cmshulk.com/picons/132490.png" tvg-chno="44337" group-title="RU| RUSSIA",RU| FX
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132490&extension=m3u8
+#EXTINF:-1 tvg-id="FoxLife.ru" tvg-name="RU| FX LIFE" tvg-logo="http://picons.cmshulk.com/picons/132492.png" tvg-chno="44338" group-title="RU| RUSSIA",RU| FX LIFE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132492&extension=m3u8
+#EXTINF:-1 tvg-id="FOX.ru" tvg-name="RU| KINEKO HD" tvg-logo="http://picons.cmshulk.com/picons/132491.png" tvg-chno="44339" group-title="RU| RUSSIA",RU| KINEKO HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132491&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| SERIAL" tvg-logo="http://picons.cmshulk.com/picons/132698.png" tvg-chno="44340" group-title="RU| RUSSIA",RU| SERIAL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132698&extension=m3u8
+#EXTINF:-1 tvg-id="KomediaTV.ru" tvg-name="RU| КОМЕДИЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132532.png" tvg-chno="44341" group-title="RU| RUSSIA",RU| КОМЕДИЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132532&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| НАШЕ КРУТОЕ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132623.png" tvg-chno="44342" group-title="RU| RUSSIA",RU| НАШЕ КРУТОЕ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132623&extension=m3u8
+#EXTINF:-1 tvg-id="LyubimoeKino.ru" tvg-name="RU| НАШЕ ЛЮБИМОЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132624.png" tvg-chno="44343" group-title="RU| RUSSIA",RU| НАШЕ ЛЮБИМОЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132624&extension=m3u8
+#EXTINF:-1 tvg-id="NasheNovoyeKino.ru" tvg-name="RU| НАШЕ НОВОЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132608.png" tvg-chno="44344" group-title="RU| RUSSIA",RU| НАШЕ НОВОЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132608&extension=m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="RU| НАШЕ РОДНОЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132625.png" tvg-chno="44345" group-title="RU| RUSSIA",RU| НАШЕ РОДНОЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132625&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| НАШЕ РОДНОЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/300891.png" tvg-chno="44346" group-title="RU| RUSSIA",RU| НАШЕ РОДНОЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300891&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| RTVI НАШЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132680.png" tvg-chno="44347" group-title="RU| RUSSIA",RU| RTVI НАШЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132680&extension=m3u8
+#EXTINF:-1 tvg-id="LyubimoeKino.ru" tvg-name="RU| ЛЮБИМОЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132553.png" tvg-chno="44348" group-title="RU| RUSSIA",RU| ЛЮБИМОЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132553&extension=m3u8
+#EXTINF:-1 tvg-id="DomKino.ru" tvg-name="RU| ДОМ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132454.png" tvg-chno="44349" group-title="RU| RUSSIA",RU| ДОМ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132454&extension=m3u8
+#EXTINF:-1 tvg-id="DomKinoPremium.ru" tvg-name="RU| ДОМ КИНО ПРЕМИУМ HD" tvg-logo="http://picons.cmshulk.com/picons/132457.png" tvg-chno="44350" group-title="RU| RUSSIA",RU| ДОМ КИНО ПРЕМИУМ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132457&extension=m3u8
+#EXTINF:-1 tvg-id="DomKinoPremium.ru" tvg-name="RU| ДОМ КИНО ПРЕМИУМ HD" tvg-logo="http://picons.cmshulk.com/picons/300751.png" tvg-chno="44351" group-title="RU| RUSSIA",RU| ДОМ КИНО ПРЕМИУМ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300751&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| DORAMA" tvg-logo="http://103.176.90.118/picons/logos/DORAMA.png" tvg-chno="44352" group-title="RU| RUSSIA",RU| DORAMA
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132458&extension=m3u8
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="RU| ЕВРОКИНО" tvg-logo="http://picons.cmshulk.com/picons/132482.png" tvg-chno="44353" group-title="RU| RUSSIA",RU| ЕВРОКИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132482&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| СИНЕМА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132438.png" tvg-chno="44354" group-title="RU| RUSSIA",RU| СИНЕМА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132438&extension=m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-name="RU| КИНОХИТ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132540.png" tvg-chno="44355" group-title="RU| RUSSIA",RU| КИНОХИТ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132540&extension=m3u8
+#EXTINF:-1 tvg-id="Kinokomediya.ru" tvg-name="RU| КИНОКОМЕДИЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132539.png" tvg-chno="44356" group-title="RU| RUSSIA",RU| КИНОКОМЕДИЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132539&extension=m3u8
+#EXTINF:-1 tvg-id="Kinokomediya.ru" tvg-name="RU| КИНОКОМЕДИЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/1148926.png" tvg-chno="44357" group-title="RU| RUSSIA",RU| КИНОКОМЕДИЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148926&extension=m3u8
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="RU| КИНОМИКС" tvg-logo="http://picons.cmshulk.com/picons/132541.png" tvg-chno="44358" group-title="RU| RUSSIA",RU| КИНОМИКС
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132541&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| КИНОПОКАЗ 2 HD" tvg-logo="http://103.176.90.118/picons/logos/KINOPOKAZ-2-HD.png" tvg-chno="44359" group-title="RU| RUSSIA",RU| КИНОПОКАЗ 2 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132543&extension=m3u8
+#EXTINF:-1 tvg-id="KinoPremiera.ru" tvg-name="RU| КИНОПРЕМЬЕРА HD" tvg-logo="http://picons.cmshulk.com/picons/132529.png" tvg-chno="44360" group-title="RU| RUSSIA",RU| КИНОПРЕМЬЕРА HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132529&extension=m3u8
+#EXTINF:-1 tvg-id="Kinoserija.ru" tvg-name="RU| КИНОСЕРИЯ" tvg-logo="http://picons.cmshulk.com/picons/132530.png" tvg-chno="44361" group-title="RU| RUSSIA",RU| КИНОСЕРИЯ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132530&extension=m3u8
+#EXTINF:-1 tvg-id="Kinoserija.ru" tvg-name="RU| КИНОСЕРИЯ HD" tvg-logo="http://picons.cmshulk.com/picons/300823.png" tvg-chno="44362" group-title="RU| RUSSIA",RU| КИНОСЕРИЯ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300823&extension=m3u8
+#EXTINF:-1 tvg-id="KinoSvidanie.ru" tvg-name="RU| КИНОСВИДАНИЕ" tvg-logo="http://picons.cmshulk.com/picons/132531.png" tvg-chno="44363" group-title="RU| RUSSIA",RU| КИНОСВИДАНИЕ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132531&extension=m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="RU| КИНО ТВ" tvg-logo="http://picons.cmshulk.com/picons/132528.png" tvg-chno="44364" group-title="RU| RUSSIA",RU| КИНО ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132528&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| КИНО ТВ" tvg-logo="http://picons.cmshulk.com/picons/300814.png" tvg-chno="44365" group-title="RU| RUSSIA",RU| КИНО ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300814&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| VIJU SERIAL FHD" tvg-logo="http://picons.cmshulk.com/picons/1148895.png" tvg-chno="44366" group-title="RU| RUSSIA",RU| VIJU SERIAL FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148895&extension=m3u8
+#EXTINF:-1 tvg-id="MuzhskoyeKino.ru" tvg-name="RU| МУЖСКОЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132604.png" tvg-chno="44367" group-title="RU| RUSSIA",RU| МУЖСКОЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132604&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ДОКУБОКС HD" tvg-logo="http://picons.cmshulk.com/picons/132453.png" tvg-chno="44368" group-title="RU| RUSSIA",RU| ДОКУБОКС HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132453&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ОСТРОСЮЖЕТНОЕ КИНО HD" tvg-logo="http://picons.cmshulk.com/picons/132638.png" tvg-chno="44369" group-title="RU| RUSSIA",RU| ОСТРОСЮЖЕТНОЕ КИНО HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132638&extension=m3u8
+#EXTINF:-1 tvg-id="IndiyskoeKino.ru" tvg-name="RU| ИНДИЙСКОЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132521.png" tvg-chno="44370" group-title="RU| RUSSIA",RU| ИНДИЙСКОЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132521&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| РУССКАЯ КОМЕДИЯ" tvg-logo="http://picons.cmshulk.com/picons/132692.png" tvg-chno="44371" group-title="RU| RUSSIA",RU| РУССКАЯ КОМЕДИЯ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132692&extension=m3u8
+#EXTINF:-1 tvg-id="RusskijDetectiv.ru" tvg-name="RU| РУССКИЙ ДЕТЕКТИВ" tvg-logo="http://picons.cmshulk.com/picons/132694.png" tvg-chno="44372" group-title="RU| RUSSIA",RU| РУССКИЙ ДЕТЕКТИВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132694&extension=m3u8
+#EXTINF:-1 tvg-id="RusskijRoman.ru" tvg-name="RU| РУССКИЙ РОМАН" tvg-logo="http://picons.cmshulk.com/picons/132686.png" tvg-chno="44373" group-title="RU| RUSSIA",RU| РУССКИЙ РОМАН
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132686&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ФЕНИКС КИНО" tvg-logo="http://picons.cmshulk.com/picons/132495.png" tvg-chno="44374" group-title="RU| RUSSIA",RU| ФЕНИКС КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132495&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ФЕНИКС КИНО" tvg-logo="http://picons.cmshulk.com/picons/300783.png" tvg-chno="44375" group-title="RU| RUSSIA",RU| ФЕНИКС КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300783&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| СТРАШНОЕ КИНО" tvg-logo="http://picons.cmshulk.com/picons/132722.png" tvg-chno="44376" group-title="RU| RUSSIA",RU| СТРАШНОЕ КИНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132722&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| СТРАШНОЕ КИНО HD" tvg-logo="http://picons.cmshulk.com/picons/1148936.png" tvg-chno="44377" group-title="RU| RUSSIA",RU| СТРАШНОЕ КИНО HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148936&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| КИНОУЖАС" tvg-logo="http://picons.cmshulk.com/picons/1148925.png" tvg-chno="44378" group-title="RU| RUSSIA",RU| КИНОУЖАС
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148925&extension=m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.ru" tvg-name="RU| МОРСКОЙ" tvg-logo="http://picons.cmshulk.com/picons/132581.png" tvg-chno="44379" group-title="RU| RUSSIA",RU| МОРСКОЙ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132581&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| РУССКИЙ ИЛЛЮЗИОН" tvg-logo="http://picons.cmshulk.com/picons/132693.png" tvg-chno="44380" group-title="RU| RUSSIA",RU| РУССКИЙ ИЛЛЮЗИОН
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132693&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| SET HD" tvg-logo="http://picons.cmshulk.com/picons/132699.png" tvg-chno="44381" group-title="RU| RUSSIA",RU| SET HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132699&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ШОКИРУЮЩЕЕ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132718.png" tvg-chno="44382" group-title="RU| RUSSIA",RU| ШОКИРУЮЩЕЕ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132718&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| SHOT TV" tvg-logo="http://picons.cmshulk.com/picons/132702.png" tvg-chno="44383" group-title="RU| RUSSIA",RU| SHOT TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132702&extension=m3u8
+#EXTINF:-1 tvg-id="SonyTV.ru" tvg-name="RU| SONY CHANNEL" tvg-logo="http://picons.cmshulk.com/picons/132704.png" tvg-chno="44384" group-title="RU| RUSSIA",RU| SONY CHANNEL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132704&extension=m3u8
+#EXTINF:-1 tvg-id="SonySciFi.ru" tvg-name="RU| SONY SCI-FI" tvg-logo="http://picons.cmshulk.com/picons/132720.png" tvg-chno="44385" group-title="RU| RUSSIA",RU| SONY SCI-FI
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132720&extension=m3u8
+#EXTINF:-1 tvg-id="SongTV.ru" tvg-name="RU| SONY TB" tvg-logo="http://picons.cmshulk.com/picons/132705.png" tvg-chno="44386" group-title="RU| RUSSIA",RU| SONY TB
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132705&extension=m3u8
+#EXTINF:-1 tvg-id="SonyTurbo.ru" tvg-name="RU| SONY TURBO" tvg-logo="http://picons.cmshulk.com/picons/132706.png" tvg-chno="44387" group-title="RU| RUSSIA",RU| SONY TURBO
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132706&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| VIP COMEDY HD" tvg-logo="http://picons.cmshulk.com/picons/132785.png" tvg-chno="44388" group-title="RU| RUSSIA",RU| VIP COMEDY HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132785&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| VIP MEGAHIT HD" tvg-logo="http://picons.cmshulk.com/picons/132786.png" tvg-chno="44389" group-title="RU| RUSSIA",RU| VIP MEGAHIT HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132786&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| VIP PREMIERE" tvg-logo="http://picons.cmshulk.com/picons/132787.png" tvg-chno="44390" group-title="RU| RUSSIA",RU| VIP PREMIERE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132787&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| VIP SERIAL" tvg-logo="http://picons.cmshulk.com/picons/132788.png" tvg-chno="44391" group-title="RU| RUSSIA",RU| VIP SERIAL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132788&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МИР СЕРИАЛА" tvg-logo="http://picons.cmshulk.com/picons/300854.png" tvg-chno="44392" group-title="RU| RUSSIA",RU| МИР СЕРИАЛА
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300854&extension=m3u8
+#EXTINF:-1 tvg-id="ParamountComedy.ru" tvg-name="RU| PARAMOUNT COMEDY" tvg-logo="http://103.176.90.118/picons/logos/paramountcomedy.png" tvg-chno="44393" group-title="RU| RUSSIA",RU| PARAMOUNT COMEDY
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132640&extension=m3u8
+#EXTINF:-1 tvg-id="ParamountComedy.ru" tvg-name="RU| PARAMOUNT COMEDY HD" tvg-logo="http://103.176.90.118/picons/logos/paramountcomedy.png" tvg-chno="44394" group-title="RU| RUSSIA",RU| PARAMOUNT COMEDY HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300905&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| РУССКИЙ БЕСТСЕЛЛЕР" tvg-logo="http://picons.cmshulk.com/picons/300933.png" tvg-chno="44395" group-title="RU| RUSSIA",RU| РУССКИЙ БЕСТСЕЛЛЕР
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300933&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ХИТ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132510.png" tvg-chno="44396" group-title="RU| RUSSIA",RU| ХИТ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132510&extension=m3u8
+#EXTINF:-1 tvg-id="А1.ru" tvg-name="RU| A1" tvg-logo="http://picons.cmshulk.com/picons/132398.png" tvg-chno="44397" group-title="RU| RUSSIA",RU| A1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132398&extension=m3u8
+#EXTINF:-1 tvg-id="AMC.ru" tvg-name="RU| AMC" tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png" tvg-chno="44398" group-title="RU| RUSSIA",RU| AMC
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132402&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| AMEDIA" tvg-logo="http://103.176.90.118/picons/logos/AMEDIA.png" tvg-chno="44399" group-title="RU| RUSSIA",RU| AMEDIA
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132403&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| AMEDIA 2" tvg-logo="http://103.176.90.118/picons/logos/amedia2.png" tvg-chno="44400" group-title="RU| RUSSIA",RU| AMEDIA 2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132404&extension=m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="RU| AMEDIA HIT" tvg-logo="http://103.176.90.118/picons/logos/amediahit.png" tvg-chno="44401" group-title="RU| RUSSIA",RU| AMEDIA HIT
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132405&extension=m3u8
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="RU| AMEDIA PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/amediapremium.png" tvg-chno="44402" group-title="RU| RUSSIA",RU| AMEDIA PREMIUM HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132408&extension=m3u8
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="RU| AMEDIA PREMIUM" tvg-logo="http://103.176.90.118/picons/logos/amediapremium.png" tvg-chno="44403" group-title="RU| RUSSIA",RU| AMEDIA PREMIUM
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132407&extension=m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="RU| НОСТАЛЬГИЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132616.png" tvg-chno="44404" group-title="RU| RUSSIA",RU| НОСТАЛЬГИЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132616&extension=m3u8
+#EXTINF:-1 tvg-id="BoberTV.ru" tvg-name="RU| БОБЕР ТВ" tvg-logo="http://picons.cmshulk.com/picons/300721.png" tvg-chno="44405" group-title="RU| RUSSIA",RU| БОБЕР ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300721&extension=m3u8
+#EXTINF:-1 tvg-id="Doktor.ru" tvg-name="RU| ДОКТОР ТВ HD" tvg-logo="http://picons.cmshulk.com/picons/300760.png" tvg-chno="44406" group-title="RU| RUSSIA",RU| ДОКТОР ТВ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300760&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| КТО ЕСТЬ КТО" tvg-logo="http://picons.cmshulk.com/picons/300815.png" tvg-chno="44407" group-title="RU| RUSSIA",RU| КТО ЕСТЬ КТО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300815&extension=m3u8
+#EXTINF:-1 tvg-id="Bollywood.ru" tvg-name="RU| BOLLYWOOD" tvg-logo="http://picons.cmshulk.com/picons/132422.png" tvg-chno="44408" group-title="RU| RUSSIA",RU| BOLLYWOOD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132422&extension=m3u8
+#EXTINF:-1 tvg-id="Bollywood.ru" tvg-name="RU| BOLLYWOOD HD" tvg-logo="http://picons.cmshulk.com/picons/132423.png" tvg-chno="44409" group-title="RU| RUSSIA",RU| BOLLYWOOD HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132423&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU ULTRA 4K" tvg-logo="http://picons.cmshulk.com/picons/1148898.png" tvg-chno="44410" group-title="RU| RUSSIA",RU| BCU ULTRA 4K
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148898&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU VHS FHD" tvg-logo="http://103.176.90.118/picons/logos/BCU-VHS.png" tvg-chno="44411" group-title="RU| RUSSIA",RU| BCU VHS FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148897&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU PREMIER 1 FHD" tvg-logo="http://picons.cmshulk.com/picons/1148906.png" tvg-chno="44412" group-title="RU| RUSSIA",RU| BCU PREMIER 1 FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148906&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU PREMIER 2 FHD" tvg-logo="http://picons.cmshulk.com/picons/1148905.png" tvg-chno="44413" group-title="RU| RUSSIA",RU| BCU PREMIER 2 FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148905&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU PREMIER 3 FHD" tvg-logo="http://picons.cmshulk.com/picons/1148904.png" tvg-chno="44414" group-title="RU| RUSSIA",RU| BCU PREMIER 3 FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148904&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU MARVEL FHD" tvg-logo="http://picons.cmshulk.com/picons/1148903.png" tvg-chno="44415" group-title="RU| RUSSIA",RU| BCU MARVEL FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148903&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU ACTION FHD" tvg-logo="http://picons.cmshulk.com/picons/1148913.png" tvg-chno="44416" group-title="RU| RUSSIA",RU| BCU ACTION FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148913&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU CINEMA FHD" tvg-logo="http://picons.cmshulk.com/picons/1148912.png" tvg-chno="44417" group-title="RU| RUSSIA",RU| BCU CINEMA FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148912&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU CINEMA PLUS FHD" tvg-logo="http://picons.cmshulk.com/picons/1148911.png" tvg-chno="44418" group-title="RU| RUSSIA",RU| BCU CINEMA PLUS FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148911&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU COMEDY FHD" tvg-logo="http://picons.cmshulk.com/picons/1148910.png" tvg-chno="44419" group-title="RU| RUSSIA",RU| BCU COMEDY FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148910&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU FANTASTIC FHD" tvg-logo="http://picons.cmshulk.com/picons/1148909.png" tvg-chno="44420" group-title="RU| RUSSIA",RU| BCU FANTASTIC FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148909&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU KIDS+ FHD" tvg-logo="http://picons.cmshulk.com/picons/1148908.png" tvg-chno="44421" group-title="RU| RUSSIA",RU| BCU KIDS+ FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148908&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU KINORATING FHD" tvg-logo="http://picons.cmshulk.com/picons/1148907.png" tvg-chno="44422" group-title="RU| RUSSIA",RU| BCU KINORATING FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148907&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU MULTSERIAL FHD" tvg-logo="http://picons.cmshulk.com/picons/1148902.png" tvg-chno="44423" group-title="RU| RUSSIA",RU| BCU MULTSERIAL FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148902&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU ROMANTIC FHD" tvg-logo="http://picons.cmshulk.com/picons/1148901.png" tvg-chno="44424" group-title="RU| RUSSIA",RU| BCU ROMANTIC FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148901&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| BCU RUSSIAN FHD" tvg-logo="http://picons.cmshulk.com/picons/1148900.png" tvg-chno="44425" group-title="RU| RUSSIA",RU| BCU RUSSIAN FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148900&extension=m3u8
+#EXTINF:-1 tvg-id="ParamountChannel.ru" tvg-name="RU| PARAMOUNT CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/paramountchannel.png" tvg-chno="44426" group-title="RU| RUSSIA",RU| PARAMOUNT CHANNEL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132639&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| PARAMOUNT CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/Paramount-Channel-Poland.png" tvg-chno="44427" group-title="RU| RUSSIA",RU| PARAMOUNT CHANNEL HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148932&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| AMEDIA HOME OF HBO 1 HD" tvg-logo="http://103.176.90.118/picons/logos/hbo1hd.png" tvg-chno="44428" group-title="RU| RUSSIA",RU| AMEDIA HOME OF HBO 1 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300711&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| A HOME OF HBO 2 HD" tvg-logo="http://103.176.90.118/picons/logos/hbo2hd.png" tvg-chno="44429" group-title="RU| RUSSIA",RU| A HOME OF HBO 2 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300702&extension=m3u8
+#EXTINF:-1 tvg-id="CBSReality.ru" tvg-name="RU| CBS REALITY" tvg-logo="http://picons.cmshulk.com/picons/132433.png" tvg-chno="44430" group-title="RU| RUSSIA",RU| CBS REALITY
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132433&extension=m3u8
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="RU| ТВ3" tvg-logo="http://picons.cmshulk.com/picons/132746.png" tvg-chno="44431" group-title="RU| RUSSIA",RU| ТВ3
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132746&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### RU SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RUSSIA.png" tvg-chno="44432" group-title="RU| RUSSIA",##### RU SPORTS #####
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1733767&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| KHL" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KHL.png" tvg-chno="44433" group-title="RU| RUSSIA",RU| KHL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=2126093&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| KHL HD" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KHL.png" tvg-chno="44434" group-title="RU| RUSSIA",RU| KHL HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=2126092&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| KHL FHD" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KHL.png" tvg-chno="44435" group-title="RU| RUSSIA",RU| KHL FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=2126091&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| KHL HOCKEY HD" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KHL.png" tvg-chno="44436" group-title="RU| RUSSIA",RU| KHL HOCKEY HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=2126090&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| KHL PRIME" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KHL.png" tvg-chno="44437" group-title="RU| RUSSIA",RU| KHL PRIME
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=2126089&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| KHL PRIME HD" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KHLPRIME.png" tvg-chno="44438" group-title="RU| RUSSIA",RU| KHL PRIME HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=2126087&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| KHL PRIME FHD" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/KHLPRIME.png" tvg-chno="44439" group-title="RU| RUSSIA",RU| KHL PRIME FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=2126088&extension=m3u8
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-name="RU| EUROSPORT HD" tvg-logo="http://picons.cmshulk.com/picons/132481.png" tvg-chno="44440" group-title="RU| RUSSIA",RU| EUROSPORT HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132481&extension=m3u8
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-name="RU| EUROSPORT" tvg-logo="http://picons.cmshulk.com/picons/132477.png" tvg-chno="44441" group-title="RU| RUSSIA",RU| EUROSPORT
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132477&extension=m3u8
+#EXTINF:-1 tvg-id="Eurosport2.ru" tvg-name="RU| EUROSPORT 2 HD" tvg-logo="http://picons.cmshulk.com/picons/132478.png" tvg-chno="44442" group-title="RU| RUSSIA",RU| EUROSPORT 2 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132478&extension=m3u8
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-name="RU| МАТЧ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132569.png" tvg-chno="44443" group-title="RU| RUSSIA",RU| МАТЧ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132569&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МАТЧ БОЕЦ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132570.png" tvg-chno="44444" group-title="RU| RUSSIA",RU| МАТЧ БОЕЦ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132570&extension=m3u8
+#EXTINF:-1 tvg-id="MatchBoec.ru" tvg-name="RU| МАТЧ БОЕЦ ТВ" tvg-logo="http://picons.cmshulk.com/picons/300846.png" tvg-chno="44445" group-title="RU| RUSSIA",RU| МАТЧ БОЕЦ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300846&extension=m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="RU| МАТЧ ИГРА HD" tvg-logo="http://picons.cmshulk.com/picons/300843.png" tvg-chno="44446" group-title="RU| RUSSIA",RU| МАТЧ ИГРА HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300843&extension=m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="RU| МАТЧ ИГРА" tvg-logo="http://picons.cmshulk.com/picons/132566.png" tvg-chno="44447" group-title="RU| RUSSIA",RU| МАТЧ ИГРА
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132566&extension=m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-name="RU| МАТЧ ФУТБОЛ 1" tvg-logo="http://picons.cmshulk.com/picons/300836.png" tvg-chno="44448" group-title="RU| RUSSIA",RU| МАТЧ ФУТБОЛ 1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300836&extension=m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-name="RU| МАТЧ ФУТБОЛ 1 HD" tvg-logo="http://picons.cmshulk.com/picons/132561.png" tvg-chno="44449" group-title="RU| RUSSIA",RU| МАТЧ ФУТБОЛ 1 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132561&extension=m3u8
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-name="RU| МАТЧ ФУТБОЛ 2" tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-2.jpeg" tvg-chno="44450" group-title="RU| RUSSIA",RU| МАТЧ ФУТБОЛ 2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132562&extension=m3u8
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-name="RU| МАТЧ ФУТБОЛ 2 HD" tvg-logo="http://103.176.90.118/picons/logos/MATCH!-FUTBOL-2.jpeg" tvg-chno="44451" group-title="RU| RUSSIA",RU| МАТЧ ФУТБОЛ 2 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132596&extension=m3u8
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-name="RU| МАТЧ ФУТБОЛ 2 HD" tvg-logo="http://picons.cmshulk.com/picons/300839.png" tvg-chno="44452" group-title="RU| RUSSIA",RU| МАТЧ ФУТБОЛ 2 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300839&extension=m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="RU| МАТЧ ФУТБОЛ 3" tvg-logo="http://picons.cmshulk.com/picons/132564.png" tvg-chno="44453" group-title="RU| RUSSIA",RU| МАТЧ ФУТБОЛ 3
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132564&extension=m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="RU| МАТЧ ФУТБОЛ 3 HD" tvg-logo="http://picons.cmshulk.com/picons/132565.png" tvg-chno="44454" group-title="RU| RUSSIA",RU| МАТЧ ФУТБОЛ 3 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132565&extension=m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="RU| МАТЧ ФУТБОЛ 3 HD" tvg-logo="http://picons.cmshulk.com/picons/132597.png" tvg-chno="44455" group-title="RU| RUSSIA",RU| МАТЧ ФУТБОЛ 3 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132597&extension=m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="RU| МАТЧ СТРАНА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132595.png" tvg-chno="44456" group-title="RU| RUSSIA",RU| МАТЧ СТРАНА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132595&extension=m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-name="RU| МАТЧ АРЕНА HD" tvg-logo="http://picons.cmshulk.com/picons/132559.png" tvg-chno="44457" group-title="RU| RUSSIA",RU| МАТЧ АРЕНА HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132559&extension=m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-name="RU| МАТЧ АРЕНА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132558.png" tvg-chno="44458" group-title="RU| RUSSIA",RU| МАТЧ АРЕНА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132558&extension=m3u8
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-name="RU| МАТЧ HD" tvg-logo="http://picons.cmshulk.com/picons/300847.png" tvg-chno="44459" group-title="RU| RUSSIA",RU| МАТЧ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300847&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МАТЧ НАШ СПОРТ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132568.png" tvg-chno="44460" group-title="RU| RUSSIA",RU| МАТЧ НАШ СПОРТ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132568&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МАTCH TV" tvg-logo="http://picons.cmshulk.com/picons/1148922.png" tvg-chno="44461" group-title="RU| RUSSIA",RU| МАTCH TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148922&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МАТЧ ПРЕМЬЕРА HD" tvg-logo="http://picons.cmshulk.com/picons/459676.png" tvg-chno="44462" group-title="RU| RUSSIA",RU| МАТЧ ПРЕМЬЕРА HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=459676&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МАТЧ ПРЕМЬЕРА FHD" tvg-logo="http://picons.cmshulk.com/picons/1148938.png" tvg-chno="44463" group-title="RU| RUSSIA",RU| МАТЧ ПРЕМЬЕРА FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148938&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| M1 GLOBAL" tvg-logo="http://picons.cmshulk.com/picons/300832.png" tvg-chno="44464" group-title="RU| RUSSIA",RU| M1 GLOBAL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300832&extension=m3u8
+#EXTINF:-1 tvg-id="ViasatSport.ru" tvg-name="RU| VIASAT SPORT" tvg-logo="http://picons.cmshulk.com/picons/132781.png" tvg-chno="44465" group-title="RU| RUSSIA",RU| VIASAT SPORT
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132781&extension=m3u8
+#EXTINF:-1 tvg-id="ViasatSport.ru" tvg-name="RU| VIASAT SPORT HD" tvg-logo="http://picons.cmshulk.com/picons/132782.png" tvg-chno="44466" group-title="RU| RUSSIA",RU| VIASAT SPORT HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132782&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| VIJU SPORT HD" tvg-logo="http://picons.cmshulk.com/picons/1148896.png" tvg-chno="44467" group-title="RU| RUSSIA",RU| VIJU SPORT HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148896&extension=m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-name="RU| КХЛ TB HD" tvg-logo="http://picons.cmshulk.com/picons/132527.png" tvg-chno="44468" group-title="RU| RUSSIA",RU| КХЛ TB HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132527&extension=m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-name="RU| КХЛ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132526.png" tvg-chno="44469" group-title="RU| RUSSIA",RU| КХЛ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132526&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| БОКС ТВ" tvg-logo="http://picons.cmshulk.com/picons/132421.png" tvg-chno="44470" group-title="RU| RUSSIA",RU| БОКС ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132421&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| БОКС ТВ" tvg-logo="http://picons.cmshulk.com/picons/132430.png" tvg-chno="44471" group-title="RU| RUSSIA",RU| БОКС ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132430&extension=m3u8
+#EXTINF:-1 tvg-id="Avto24.ru" tvg-name="RU| ABTO24" tvg-logo="http://picons.cmshulk.com/picons/132400.png" tvg-chno="44472" group-title="RU| RUSSIA",RU| ABTO24
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132400&extension=m3u8
+#EXTINF:-1 tvg-id="Avto24.ru" tvg-name="RU| AUTO 24" tvg-logo="http://picons.cmshulk.com/picons/132415.png" tvg-chno="44473" group-title="RU| RUSSIA",RU| AUTO 24
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132415&extension=m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="RU| AUTO PLUS" tvg-logo="http://picons.cmshulk.com/picons/132416.png" tvg-chno="44474" group-title="RU| RUSSIA",RU| AUTO PLUS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132416&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| MOTORSPORT TV" tvg-logo="http://picons.cmshulk.com/picons/132601.png" tvg-chno="44475" group-title="RU| RUSSIA",RU| MOTORSPORT TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132601&extension=m3u8
+#EXTINF:-1 tvg-id="ExtremeSports.ru" tvg-name="RU| EXTREME SPORTS" tvg-logo="http://picons.cmshulk.com/picons/132483.png" tvg-chno="44476" group-title="RU| RUSSIA",RU| EXTREME SPORTS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132483&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| RUSSKIY DETEKTIV" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RUSSKIY-DETEKTIV.png" tvg-chno="44477" group-title="RU| RUSSIA",RU| RUSSKIY DETEKTIV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1871989&extension=m3u8
+#EXTINF:-1 tvg-id="RusskijExtreme.ru" tvg-name="RU| RUSSKIY EXTRIM HD" tvg-logo="http://picons.cmshulk.com/picons/132695.png" tvg-chno="44478" group-title="RU| RUSSIA",RU| RUSSKIY EXTRIM HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132695&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| START TV" tvg-logo="http://picons.cmshulk.com/picons/841862.png" tvg-chno="44479" group-title="RU| RUSSIA",RU| START TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=841862&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| START TV" tvg-logo="http://picons.cmshulk.com/picons/1148937.png" tvg-chno="44480" group-title="RU| RUSSIA",RU| START TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148937&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| TELEKANAL FUTBOL" tvg-logo="http://picons.cmshulk.com/picons/132726.png" tvg-chno="44481" group-title="RU| RUSSIA",RU| TELEKANAL FUTBOL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132726&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| SETANTA SPORT" tvg-logo="http://picons.cmshulk.com/picons/132716.png" tvg-chno="44482" group-title="RU| RUSSIA",RU| SETANTA SPORT
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132716&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| SETANTA SPORT 1 FHD" tvg-logo="http://picons.cmshulk.com/picons/1040314.png" tvg-chno="44483" group-title="RU| RUSSIA",RU| SETANTA SPORT 1 FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1040314&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| SETANTA SPORT 2" tvg-logo="http://picons.cmshulk.com/picons/132717.png" tvg-chno="44484" group-title="RU| RUSSIA",RU| SETANTA SPORT 2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132717&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| SETANTA SPORT 2" tvg-logo="http://picons.cmshulk.com/picons/1040315.png" tvg-chno="44485" group-title="RU| RUSSIA",RU| SETANTA SPORT 2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1040315&extension=m3u8
+#EXTINF:-1 tvg-id="KonnyyMir.ru" tvg-name="RU| КОННЫЙ МИР HD" tvg-logo="http://picons.cmshulk.com/picons/132533.png" tvg-chno="44486" group-title="RU| RUSSIA",RU| КОННЫЙ МИР HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132533&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МИР БАСКЕТБОЛА ТВ" tvg-logo="http://picons.cmshulk.com/picons/1148923.png" tvg-chno="44487" group-title="RU| RUSSIA",RU| МИР БАСКЕТБОЛА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148923&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### RU KIDS #####" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RUSSIA.png" tvg-chno="44488" group-title="RU| RUSSIA",##### RU KIDS #####
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1733768&extension=m3u8
+#EXTINF:-1 tvg-id="Detskij.ru" tvg-name="RU| ДЕТСКИЙ" tvg-logo="http://picons.cmshulk.com/picons/132445.png" tvg-chno="44489" group-title="RU| RUSSIA",RU| ДЕТСКИЙ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132445&extension=m3u8
+#EXTINF:-1 tvg-id="DetskijMir.ru" tvg-name="RU| ДЕТСКИЙ МИР" tvg-logo="http://picons.cmshulk.com/picons/132446.png" tvg-chno="44490" group-title="RU| RUSSIA",RU| ДЕТСКИЙ МИР
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132446&extension=m3u8
+#EXTINF:-1 tvg-id="Karusel.ru" tvg-name="RU| КАРУСЕЛЬ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132538.png" tvg-chno="44491" group-title="RU| RUSSIA",RU| КАРУСЕЛЬ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132538&extension=m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="RU| МУЛЬТ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132588.png" tvg-chno="44492" group-title="RU| RUSSIA",RU| МУЛЬТ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132588&extension=m3u8
+#EXTINF:-1 tvg-id="Multimaniya.ru" tvg-name="RU| МУЛЬТИМАНИЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132590.png" tvg-chno="44493" group-title="RU| RUSSIA",RU| МУЛЬТИМАНИЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132590&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МУЛЬТИМАНИЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/300875.png" tvg-chno="44494" group-title="RU| RUSSIA",RU| МУЛЬТИМАНИЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300875&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МУЛЬТ И МУЗЫКА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132589.png" tvg-chno="44495" group-title="RU| RUSSIA",RU| МУЛЬТ И МУЗЫКА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132589&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| В ГОСТЯХ У СКАЗКИ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132500.png" tvg-chno="44496" group-title="RU| RUSSIA",RU| В ГОСТЯХ У СКАЗКИ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132500&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| КАПИТАН ФАНТАСТИКА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132537.png" tvg-chno="44497" group-title="RU| RUSSIA",RU| КАПИТАН ФАНТАСТИКА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132537&extension=m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="RU| NICKELODEON" tvg-logo="http://picons.cmshulk.com/picons/132614.png" tvg-chno="44498" group-title="RU| RUSSIA",RU| NICKELODEON
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132614&extension=m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="RU| NICKELODEON HD" tvg-logo="http://picons.cmshulk.com/picons/132615.png" tvg-chno="44499" group-title="RU| RUSSIA",RU| NICKELODEON HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132615&extension=m3u8
+#EXTINF:-1 tvg-id="NickJr.ru" tvg-name="RU| NICK JUNIOR" tvg-logo="http://picons.cmshulk.com/picons/132629.png" tvg-chno="44500" group-title="RU| RUSSIA",RU| NICK JUNIOR
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132629&extension=m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-name="RU| CARTOON NETWORK" tvg-logo="http://picons.cmshulk.com/picons/132432.png" tvg-chno="44501" group-title="RU| RUSSIA",RU| CARTOON NETWORK
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132432&extension=m3u8
+#EXTINF:-1 tvg-id="Boomerang.ru" tvg-name="RU| BOOMERANG TV" tvg-logo="http://picons.cmshulk.com/picons/132429.png" tvg-chno="44502" group-title="RU| RUSSIA",RU| BOOMERANG TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132429&extension=m3u8
+#EXTINF:-1 tvg-id="JimJam.ru" tvg-name="RU| JIM JAM ТВ" tvg-logo="https://logo.protv.cc/piconsnew/jimjam.png" tvg-chno="44503" group-title="RU| RUSSIA",RU| JIM JAM ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132524&extension=m3u8
+#EXTINF:-1 tvg-id="JimJam.ru" tvg-name="RU| JIM JAM ТВ" tvg-logo="https://logo.protv.cc/piconsnew/jimjam.png" tvg-chno="44504" group-title="RU| RUSSIA",RU| JIM JAM ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132525&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| СТРАНА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132721.png" tvg-chno="44505" group-title="RU| RUSSIA",RU| СТРАНА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132721&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| GULLI" tvg-logo="http://picons.cmshulk.com/picons/132502.png" tvg-chno="44506" group-title="RU| RUSSIA",RU| GULLI
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132502&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| 2X2" tvg-logo="http://103.176.90.118/picons/logos/2X2.jpg" tvg-chno="44507" group-title="RU| RUSSIA",RU| 2X2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132390&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ANI" tvg-logo="http://picons.cmshulk.com/picons/132409.png" tvg-chno="44508" group-title="RU| RUSSIA",RU| ANI
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132409&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| O!" tvg-logo="http://picons.cmshulk.com/picons/132631.png" tvg-chno="44509" group-title="RU| RUSSIA",RU| O!
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132631&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| CTC KIDS HD" tvg-logo="http://picons.cmshulk.com/picons/1148919.png" tvg-chno="44510" group-title="RU| RUSSIA",RU| CTC KIDS HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148919&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| УНИКУМ ТВ" tvg-logo="http://picons.cmshulk.com/picons/1148917.png" tvg-chno="44511" group-title="RU| RUSSIA",RU| УНИКУМ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148917&extension=m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.ru" tvg-name="RU| DISNEY CHANNEL" tvg-logo="http://picons.cmshulk.com/picons/disneych.png" tvg-chno="44512" group-title="RU| RUSSIA",RU| DISNEY CHANNEL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132466&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### RU DOCUMENTAIRE #####" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RUSSIA.png" tvg-chno="44513" group-title="RU| RUSSIA",##### RU DOCUMENTAIRE #####
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1733769&extension=m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="RU| ANIMAL PLANET" tvg-logo="http://picons.cmshulk.com/picons/132414.png" tvg-chno="44514" group-title="RU| RUSSIA",RU| ANIMAL PLANET
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132414&extension=m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="RU| ANIMAL PLANET HD" tvg-logo="http://picons.cmshulk.com/picons/132410.png" tvg-chno="44515" group-title="RU| RUSSIA",RU| ANIMAL PLANET HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132410&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ANIMAL FAMILY HD" tvg-logo="http://103.176.90.118/picons/logos/ANIMAL-KINGDOM.png" tvg-chno="44516" group-title="RU| RUSSIA",RU| ANIMAL FAMILY HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132413&extension=m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.ru" tvg-name="RU| DISCOVERY CHANNEL" tvg-logo="http://picons.cmshulk.com/picons/132463.png" tvg-chno="44517" group-title="RU| RUSSIA",RU| DISCOVERY CHANNEL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132463&extension=m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.ru" tvg-name="RU| DISCOVERY CHANNEL HD" tvg-logo="http://picons.cmshulk.com/picons/132464.png" tvg-chno="44518" group-title="RU| RUSSIA",RU| DISCOVERY CHANNEL HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132464&extension=m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.ru" tvg-name="RU| DISCOVERY SCIENCE" tvg-logo="http://picons.cmshulk.com/picons/132465.png" tvg-chno="44519" group-title="RU| RUSSIA",RU| DISCOVERY SCIENCE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132465&extension=m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.ru" tvg-name="RU| DISCOVERY SCIENCE HD" tvg-logo="http://picons.cmshulk.com/picons/132451.png" tvg-chno="44520" group-title="RU| RUSSIA",RU| DISCOVERY SCIENCE HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132451&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| DISCOVERY SHOWCASE HD" tvg-logo="http://picons.cmshulk.com/picons/132452.png" tvg-chno="44521" group-title="RU| RUSSIA",RU| DISCOVERY SHOWCASE HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132452&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| DISCOVERY DTX" tvg-logo="http://103.176.90.118/picons/logos/DISCOVERY-DTX.png" tvg-chno="44522" group-title="RU| RUSSIA",RU| DISCOVERY DTX
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300743&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| DISCOVERY ID XTRA HD" tvg-logo="http://picons.cmshulk.com/picons/300744.png" tvg-chno="44523" group-title="RU| RUSSIA",RU| DISCOVERY ID XTRA HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300744&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ID INVESTIGATION DISCOVERY" tvg-logo="http://picons.cmshulk.com/picons/132516.png" tvg-chno="44524" group-title="RU| RUSSIA",RU| ID INVESTIGATION DISCOVERY
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132516&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ДИКАЯ ОХОТА HD" tvg-logo="http://picons.cmshulk.com/picons/132461.png" tvg-chno="44525" group-title="RU| RUSSIA",RU| ДИКАЯ ОХОТА HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132461&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ДИКАЯ РЫБАЛКА HD" tvg-logo="http://picons.cmshulk.com/picons/132462.png" tvg-chno="44526" group-title="RU| RUSSIA",RU| ДИКАЯ РЫБАЛКА HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132462&extension=m3u8
+#EXTINF:-1 tvg-id="Okhotarybalka.ru" tvg-name="RU| ОХОТА И РЫБАЛКА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132636.png" tvg-chno="44527" group-title="RU| RUSSIA",RU| ОХОТА И РЫБАЛКА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132636&extension=m3u8
+#EXTINF:-1 tvg-id="Okhotnikrybolov.ru" tvg-name="RU| ОХОТНИК И РЫБОЛОВ HD" tvg-logo="http://picons.cmshulk.com/picons/132637.png" tvg-chno="44528" group-title="RU| RUSSIA",RU| ОХОТНИК И РЫБОЛОВ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132637&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ЕДА HD" tvg-logo="http://picons.cmshulk.com/picons/132479.png" tvg-chno="44529" group-title="RU| RUSSIA",RU| ЕДА HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132479&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ГЛАЗАМИ ТУРИСТА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132504.png" tvg-chno="44530" group-title="RU| RUSSIA",RU| ГЛАЗАМИ ТУРИСТА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132504&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| GLAZELLA HD" tvg-logo="http://picons.cmshulk.com/picons/132505.png" tvg-chno="44531" group-title="RU| RUSSIA",RU| GLAZELLA HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132505&extension=m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="RU| ИСТОРИЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132513.png" tvg-chno="44532" group-title="RU| RUSSIA",RU| ИСТОРИЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132513&extension=m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="RU| ИСТОРИЯ HD" tvg-logo="http://picons.cmshulk.com/picons/132509.png" tvg-chno="44533" group-title="RU| RUSSIA",RU| ИСТОРИЯ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132509&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ИСТОРИЯ 2 HD" tvg-logo="http://picons.cmshulk.com/picons/898806.png" tvg-chno="44534" group-title="RU| RUSSIA",RU| ИСТОРИЯ 2 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=898806&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| HOLLYWOOD" tvg-logo="http://picons.cmshulk.com/picons/132514.png" tvg-chno="44535" group-title="RU| RUSSIA",RU| HOLLYWOOD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132514&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ICONCERTS" tvg-logo="http://picons.cmshulk.com/picons/132804.png" tvg-chno="44536" group-title="RU| RUSSIA",RU| ICONCERTS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132804&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ICONCERTS" tvg-logo="http://picons.cmshulk.com/picons/301029.png" tvg-chno="44537" group-title="RU| RUSSIA",RU| ICONCERTS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=301029&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ID XTRA" tvg-logo="http://picons.cmshulk.com/picons/132517.png" tvg-chno="44538" group-title="RU| RUSSIA",RU| ID XTRA
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132517&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ИЛЛЮЗИОН ПЛЮС ТВ" tvg-logo="http://picons.cmshulk.com/picons/132518.png" tvg-chno="44539" group-title="RU| RUSSIA",RU| ИЛЛЮЗИОН ПЛЮС ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132518&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ЖИВИ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132523.png" tvg-chno="44540" group-title="RU| RUSSIA",RU| ЖИВИ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132523&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| КРИК ТВ" tvg-logo="http://picons.cmshulk.com/picons/132546.png" tvg-chno="44541" group-title="RU| RUSSIA",RU| КРИК ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132546&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| КУХНЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132548.png" tvg-chno="44542" group-title="RU| RUSSIA",RU| КУХНЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132548&extension=m3u8
+#EXTINF:-1 tvg-id="KuxnyaTV.ru" tvg-name="RU| КУХНЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132549.png" tvg-chno="44543" group-title="RU| RUSSIA",RU| КУХНЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132549&extension=m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.ru" tvg-name="RU| NAT GEO WILD" tvg-logo="http://picons.cmshulk.com/picons/132610.png" tvg-chno="44544" group-title="RU| RUSSIA",RU| NAT GEO WILD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132610&extension=m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.ru" tvg-name="RU| NAT GEO WILD HD" tvg-logo="http://picons.cmshulk.com/picons/132626.png" tvg-chno="44545" group-title="RU| RUSSIA",RU| NAT GEO WILD HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132626&extension=m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="RU| NATIONAL GEOGRAPHIC" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" tvg-chno="44546" group-title="RU| RUSSIA",RU| NATIONAL GEOGRAPHIC
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132611&extension=m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="RU| NATIONAL GEOGRAPHIC HD" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" tvg-chno="44547" group-title="RU| RUSSIA",RU| NATIONAL GEOGRAPHIC HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132627&extension=m3u8
+#EXTINF:-1 tvg-id="ViasatNature.ru" tvg-name="RU| VIASAT NATURE" tvg-logo="http://picons.cmshulk.com/picons/132779.png" tvg-chno="44548" group-title="RU| RUSSIA",RU| VIASAT NATURE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132779&extension=m3u8
+#EXTINF:-1 tvg-id="ViasatNature.ru" tvg-name="RU| VIASAT NATURE/HISTORY HD" tvg-logo="http://picons.cmshulk.com/picons/1148928.png" tvg-chno="44549" group-title="RU| RUSSIA",RU| VIASAT NATURE/HISTORY HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148928&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| НАУКА 2.0" tvg-logo="http://103.176.90.118/picons/logos/NAUKA-2-0.png" tvg-chno="44550" group-title="RU| RUSSIA",RU| НАУКА 2.0
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132628&extension=m3u8
+#EXTINF:-1 tvg-id="NastoyashheeStrashnoeTelevidenie.ru" tvg-name="RU| НСТ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132618.png" tvg-chno="44551" group-title="RU| RUSSIA",RU| НСТ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132618&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ОРУЖИЕ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132633.png" tvg-chno="44552" group-title="RU| RUSSIA",RU| ОРУЖИЕ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132633&extension=m3u8
+#EXTINF:-1 tvg-id="NTVPravo.ru" tvg-name="RU| ПРАВО" tvg-logo="http://picons.cmshulk.com/picons/132650.png" tvg-chno="44553" group-title="RU| RUSSIA",RU| ПРАВО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132650&extension=m3u8
+#EXTINF:-1 tvg-id="TravelChannel.ru" tvg-name="RU| TRAVEL" tvg-logo="http://picons.cmshulk.com/picons/132745.png" tvg-chno="44554" group-title="RU| RUSSIA",RU| TRAVEL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132745&extension=m3u8
+#EXTINF:-1 tvg-id="TravelChannel.ru" tvg-name="RU| TRAVEL HD" tvg-logo="http://picons.cmshulk.com/picons/132762.png" tvg-chno="44555" group-title="RU| RUSSIA",RU| TRAVEL HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132762&extension=m3u8
+#EXTINF:-1 tvg-id="TravelAndAdventure.ru" tvg-name="RU| TRAVEL ADVENTURE" tvg-logo="http://picons.cmshulk.com/picons/132761.png" tvg-chno="44556" group-title="RU| RUSSIA",RU| TRAVEL ADVENTURE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132761&extension=m3u8
+#EXTINF:-1 tvg-id="TravelAndAdventure.ru" tvg-name="RU| TRAVEL+ADVENTURE HD" tvg-logo="http://picons.cmshulk.com/picons/132763.png" tvg-chno="44557" group-title="RU| RUSSIA",RU| TRAVEL+ADVENTURE HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132763&extension=m3u8
+#EXTINF:-1 tvg-id="ZagorodnayaJizn.ru" tvg-name="RU| ЗАГОРОДНАЯ ЖИЗНЬ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132793.png" tvg-chno="44558" group-title="RU| RUSSIA",RU| ЗАГОРОДНАЯ ЖИЗНЬ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132793&extension=m3u8
+#EXTINF:-1 tvg-id="ZagorodnayaJizn.ru" tvg-name="RU| ЗАГОРОДНАЯ ЖИЗНЬ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132798.png" tvg-chno="44559" group-title="RU| RUSSIA",RU| ЗАГОРОДНАЯ ЖИЗНЬ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132798&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ЗАГОРОДНАЯ ЖИЗНЬ HD INT" tvg-logo="http://picons.cmshulk.com/picons/301025.png" tvg-chno="44560" group-title="RU| RUSSIA",RU| ЗАГОРОДНАЯ ЖИЗНЬ HD INT
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=301025&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ZAGORODNIY" tvg-logo="http://picons.cmshulk.com/picons/301024.png" tvg-chno="44561" group-title="RU| RUSSIA",RU| ZAGORODNIY
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=301024&extension=m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.ru" tvg-name="RU| VIASAT EXPLORE" tvg-logo="http://picons.cmshulk.com/picons/132772.png" tvg-chno="44562" group-title="RU| RUSSIA",RU| VIASAT EXPLORE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132772&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| VIASAT EXPLORE HD" tvg-logo="http://picons.cmshulk.com/picons/301004.png" tvg-chno="44563" group-title="RU| RUSSIA",RU| VIASAT EXPLORE HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=301004&extension=m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.ru" tvg-name="RU| VIASAT HISTORY" tvg-logo="http://picons.cmshulk.com/picons/132775.png" tvg-chno="44564" group-title="RU| RUSSIA",RU| VIASAT HISTORY
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132775&extension=m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.ru" tvg-name="RU| VIASAT HISTORY HD" tvg-logo="http://picons.cmshulk.com/picons/132776.png" tvg-chno="44565" group-title="RU| RUSSIA",RU| VIASAT HISTORY HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132776&extension=m3u8
+#EXTINF:-1 tvg-id="ZooTV.ru" tvg-name="RU| ЗООПАРК ТВ" tvg-logo="http://picons.cmshulk.com/picons/132796.png" tvg-chno="44566" group-title="RU| RUSSIA",RU| ЗООПАРК ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132796&extension=m3u8
+#EXTINF:-1 tvg-id="Techno24.ru" tvg-name="RU| 24 TECHNO" tvg-logo="http://picons.cmshulk.com/picons/300696.png" tvg-chno="44567" group-title="RU| RUSSIA",RU| 24 TECHNO
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300696&extension=m3u8
+#EXTINF:-1 tvg-id="Domashniyezhivotnye.ru" tvg-name="RU| ДОМАШНИЕ ЖИВОТНЫЕ ТВ" tvg-logo="http://picons.cmshulk.com/picons/300749.png" tvg-chno="44568" group-title="RU| RUSSIA",RU| ДОМАШНИЕ ЖИВОТНЫЕ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300749&extension=m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="RU| FOOD NETWORK" tvg-logo="http://picons.cmshulk.com/picons/300777.png" tvg-chno="44569" group-title="RU| RUSSIA",RU| FOOD NETWORK
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300777&extension=m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="RU| FOOD NETWORK" tvg-logo="http://picons.cmshulk.com/picons/1148934.png" tvg-chno="44570" group-title="RU| RUSSIA",RU| FOOD NETWORK
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148934&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ПЕРВЫЙ АВТОМОБИЛЬНЫЙ УКР" tvg-logo="http://picons.cmshulk.com/picons/300912.png" tvg-chno="44571" group-title="RU| RUSSIA",RU| ПЕРВЫЙ АВТОМОБИЛЬНЫЙ УКР
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300912&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ" tvg-logo="http://picons.cmshulk.com/picons/300909.png" tvg-chno="44572" group-title="RU| RUSSIA",RU| ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300909&extension=m3u8
+#EXTINF:-1 tvg-id="Petro.ru" tvg-name="RU| RETRO TV" tvg-logo="http://picons.cmshulk.com/picons/300920.png" tvg-chno="44573" group-title="RU| RUSSIA",RU| RETRO TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300920&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| SUPER" tvg-logo="http://picons.cmshulk.com/picons/300958.png" tvg-chno="44574" group-title="RU| RUSSIA",RU| SUPER
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300958&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| USADBA TV" tvg-logo="http://picons.cmshulk.com/picons/301000.png" tvg-chno="44575" group-title="RU| RUSSIA",RU| USADBA TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=301000&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ДИАЛОГИ О РЫБАЛКЕ" tvg-logo="http://picons.cmshulk.com/picons/1148935.png" tvg-chno="44576" group-title="RU| RUSSIA",RU| ДИАЛОГИ О РЫБАЛКЕ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148935&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| MUSEUM FHD" tvg-logo="http://picons.cmshulk.com/picons/1148933.png" tvg-chno="44577" group-title="RU| RUSSIA",RU| MUSEUM FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148933&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ВОПРОСЫ И ОТВЕТЫ" tvg-logo="http://picons.cmshulk.com/picons/301016.png" tvg-chno="44578" group-title="RU| RUSSIA",RU| ВОПРОСЫ И ОТВЕТЫ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=301016&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| МОЯ ПЛАНЕТА ТВ" tvg-logo="http://picons.cmshulk.com/picons/1148914.png" tvg-chno="44579" group-title="RU| RUSSIA",RU| МОЯ ПЛАНЕТА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148914&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### RU MUSIC #####" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RUSSIA.png" tvg-chno="44580" group-title="RU| RUSSIA",##### RU MUSIC #####
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1733770&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| 1 HD" tvg-logo="http://picons.cmshulk.com/picons/132387.png" tvg-chno="44581" group-title="RU| RUSSIA",RU| 1 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132387&extension=m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="RU| MUZ" tvg-logo="http://picons.cmshulk.com/picons/132593.png" tvg-chno="44582" group-title="RU| RUSSIA",RU| MUZ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132593&extension=m3u8
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU| RU TV" tvg-logo="http://picons.cmshulk.com/picons/132681.png" tvg-chno="44583" group-title="RU| RUSSIA",RU| RU TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132681&extension=m3u8
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU| RUTV" tvg-logo="http://picons.cmshulk.com/picons/1148930.png" tvg-chno="44584" group-title="RU| RUSSIA",RU| RUTV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148930&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ТНТ МУЗЫКА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132736.png" tvg-chno="44585" group-title="RU| RUSSIA",RU| ТНТ МУЗЫКА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132736&extension=m3u8
+#EXTINF:-1 tvg-id="RussianMusicbox.ru" tvg-name="RU| RUSSIAN MUSICBOX" tvg-logo="http://103.176.90.118/picons/logos/RUSSIAN-MUSICBOX.png" tvg-chno="44586" group-title="RU| RUSSIA",RU| RUSSIAN MUSICBOX
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132684&extension=m3u8
+#EXTINF:-1 tvg-id="RussianMusicbox.ru" tvg-name="RU| RUSSIAN MUSICBOX HD" tvg-logo="http://103.176.90.118/picons/logos/RUSSIAN-MUSICBOX.png" tvg-chno="44587" group-title="RU| RUSSIA",RU| RUSSIAN MUSICBOX HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148931&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| EUROPA PLUS TV" tvg-logo="http://picons.cmshulk.com/picons/132476.png" tvg-chno="44588" group-title="RU| RUSSIA",RU| EUROPA PLUS TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132476&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD" tvg-logo="http://picons.cmshulk.com/picons/132498.png" tvg-chno="44589" group-title="RU| RUSSIA",RU| ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132498&extension=m3u8
+#EXTINF:-1 tvg-id="BridgeTV.ru" tvg-name="RU| BRIDGE HD" tvg-logo="http://picons.cmshulk.com/picons/132427.png" tvg-chno="44590" group-title="RU| RUSSIA",RU| BRIDGE HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132427&extension=m3u8
+#EXTINF:-1 tvg-id="BridgeTV.ru" tvg-name="RU| BRIDGE TV" tvg-logo="http://picons.cmshulk.com/picons/132425.png" tvg-chno="44591" group-title="RU| RUSSIA",RU| BRIDGE TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132425&extension=m3u8
+#EXTINF:-1 tvg-id="BridgeTVRusskiyHit.ru" tvg-name="RU| BRIDGE TV RUSSKIY HIT" tvg-logo="http://103.176.90.118/picons/logos/BRIDGE-TV-HITS.png" tvg-chno="44592" group-title="RU| RUSSIA",RU| BRIDGE TV RUSSKIY HIT
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132431&extension=m3u8
+#EXTINF:-1 tvg-id="Mezzo.ru" tvg-name="RU| MEZZO" tvg-logo="http://picons.cmshulk.com/picons/132573.png" tvg-chno="44593" group-title="RU| RUSSIA",RU| MEZZO
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132573&extension=m3u8
+#EXTINF:-1 tvg-id="MTV.ru" tvg-name="RU| MTV" tvg-logo="http://picons.cmshulk.com/picons/132583.png" tvg-chno="44594" group-title="RU| RUSSIA",RU| MTV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132583&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| MTV HITS" tvg-logo="http://picons.cmshulk.com/picons/132585.png" tvg-chno="44595" group-title="RU| RUSSIA",RU| MTV HITS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132585&extension=m3u8
+#EXTINF:-1 tvg-id="MTVLive.ru" tvg-name="RU| MTV LIVE HD" tvg-logo="http://picons.cmshulk.com/picons/132586.png" tvg-chno="44596" group-title="RU| RUSSIA",RU| MTV LIVE HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132586&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| MYZEN TV HD" tvg-logo="http://picons.cmshulk.com/picons/300877.png" tvg-chno="44597" group-title="RU| RUSSIA",RU| MYZEN TV HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300877&extension=m3u8
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-name="RU| MCM TOP" tvg-logo="http://picons.cmshulk.com/picons/132572.png" tvg-chno="44598" group-title="RU| RUSSIA",RU| MCM TOP
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132572&extension=m3u8
+#EXTINF:-1 tvg-id="EnglishClub.ru" tvg-name="RU| ENGLISH CLUB" tvg-logo="http://picons.cmshulk.com/picons/300766.png" tvg-chno="44599" group-title="RU| RUSSIA",RU| ENGLISH CLUB
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300766&extension=m3u8
+#EXTINF:-1 tvg-id="LyaMinorTV.ru" tvg-name="RU| LA MINOR" tvg-logo="http://picons.cmshulk.com/picons/132551.png" tvg-chno="44600" group-title="RU| RUSSIA",RU| LA MINOR
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132551&extension=m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="RU| МУЗЫКА ПЕРВОГО" tvg-logo="http://picons.cmshulk.com/picons/132594.png" tvg-chno="44601" group-title="RU| RUSSIA",RU| МУЗЫКА ПЕРВОГО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132594&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| DANGE TV" tvg-logo="http://picons.cmshulk.com/picons/132443.png" tvg-chno="44602" group-title="RU| RUSSIA",RU| DANGE TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132443&extension=m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="RU| ШАНСОН ТВ" tvg-logo="http://picons.cmshulk.com/picons/132700.png" tvg-chno="44603" group-title="RU| RUSSIA",RU| ШАНСОН ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132700&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ЖАРА ТВ HD" tvg-logo="http://picons.cmshulk.com/picons/1148927.png" tvg-chno="44604" group-title="RU| RUSSIA",RU| ЖАРА ТВ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148927&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### RU LOCALS #####" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/RUSSIA.png" tvg-chno="44605" group-title="RU| RUSSIA",##### RU LOCALS #####
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1733771&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| САНКТ ПЕТЕРБУРГ" tvg-logo="http://picons.cmshulk.com/picons/132696.png" tvg-chno="44606" group-title="RU| RUSSIA",RU| САНКТ ПЕТЕРБУРГ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132696&extension=m3u8
+#EXTINF:-1 tvg-id="SovershennoSekretno.ru" tvg-name="RU| СОВЕРШЕННО СЕКРЕТНО" tvg-logo="http://picons.cmshulk.com/picons/132707.png" tvg-chno="44607" group-title="RU| RUSSIA",RU| СОВЕРШЕННО СЕКРЕТНО
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132707&extension=m3u8
+#EXTINF:-1 tvg-id="TVXXI.ru" tvg-name="RU| TV XXI" tvg-logo="http://picons.cmshulk.com/picons/132748.png" tvg-chno="44608" group-title="RU| RUSSIA",RU| TV XXI
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132748&extension=m3u8
+#EXTINF:-1 tvg-id="RTVi.ru" tvg-name="RU| RTVI" tvg-logo="http://picons.cmshulk.com/picons/300928.png" tvg-chno="44609" group-title="RU| RUSSIA",RU| RTVI
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300928&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| СТС BALTIC" tvg-logo="http://picons.cmshulk.com/picons/300954.png" tvg-chno="44610" group-title="RU| RUSSIA",RU| СТС BALTIC
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300954&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| CURRENTTIME HD" tvg-logo="http://picons.cmshulk.com/picons/132803.png" tvg-chno="44611" group-title="RU| RUSSIA",RU| CURRENTTIME HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132803&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| РОССИЯ К" tvg-logo="http://picons.cmshulk.com/picons/132689.png" tvg-chno="44612" group-title="RU| RUSSIA",RU| РОССИЯ К
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132689&extension=m3u8
+#EXTINF:-1 tvg-id="Vremya.ru" tvg-name="RU| ВРЕМЯ" tvg-logo="http://picons.cmshulk.com/picons/132791.png" tvg-chno="44613" group-title="RU| RUSSIA",RU| ВРЕМЯ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132791&extension=m3u8
+#EXTINF:-1 tvg-id="365Dney.ru" tvg-name="RU| 365 ДНЕЙ" tvg-logo="http://103.176.90.118/picons/logos/365-DNEI.png" tvg-chno="44614" group-title="RU| RUSSIA",RU| 365 ДНЕЙ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132392&extension=m3u8
+#EXTINF:-1 tvg-id="RTGTVHD.ru" tvg-name="RU| RTG HD" tvg-logo="http://picons.cmshulk.com/picons/132675.png" tvg-chno="44615" group-title="RU| RUSSIA",RU| RTG HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132675&extension=m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RU| RTG TV" tvg-logo="http://picons.cmshulk.com/picons/132676.png" tvg-chno="44616" group-title="RU| RUSSIA",RU| RTG TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132676&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| RT HD" tvg-logo="http://picons.cmshulk.com/picons/132673.png" tvg-chno="44617" group-title="RU| RUSSIA",RU| RT HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132673&extension=m3u8
+#EXTINF:-1 tvg-id="RTDocEnglish.ru" tvg-name="RU| RT DOC" tvg-logo="http://picons.cmshulk.com/picons/132672.png" tvg-chno="44618" group-title="RU| RUSSIA",RU| RT DOC
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132672&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ДОЖДЬ HD" tvg-logo="http://picons.cmshulk.com/picons/300761.png" tvg-chno="44619" group-title="RU| RUSSIA",RU| ДОЖДЬ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300761&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ДОЖДЬ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132470.png" tvg-chno="44620" group-title="RU| RUSSIA",RU| ДОЖДЬ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132470&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| LIFE HD" tvg-logo="http://picons.cmshulk.com/picons/132552.png" tvg-chno="44621" group-title="RU| RUSSIA",RU| LIFE HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132552&extension=m3u8
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="RU| МАМА ТВ" tvg-logo="http://picons.cmshulk.com/picons/132557.png" tvg-chno="44622" group-title="RU| RUSSIA",RU| МАМА ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132557&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| КВН ТВ" tvg-logo="http://picons.cmshulk.com/picons/132536.png" tvg-chno="44623" group-title="RU| RUSSIA",RU| КВН ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132536&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| DAVINCI LEARNING" tvg-logo="http://picons.cmshulk.com/picons/132460.png" tvg-chno="44624" group-title="RU| RUSSIA",RU| DAVINCI LEARNING
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132460&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ЭГОИСТ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132472.png" tvg-chno="44625" group-title="RU| RUSSIA",RU| ЭГОИСТ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132472&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| E TV" tvg-logo="http://picons.cmshulk.com/picons/132471.png" tvg-chno="44626" group-title="RU| RUSSIA",RU| E TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132471&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| EUREKA HD" tvg-logo="http://picons.cmshulk.com/picons/132480.png" tvg-chno="44627" group-title="RU| RUSSIA",RU| EUREKA HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132480&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ПРИКЛЮЧЕНИЯ HD" tvg-logo="http://picons.cmshulk.com/picons/132661.png" tvg-chno="44628" group-title="RU| RUSSIA",RU| ПРИКЛЮЧЕНИЯ HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132661&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ПРОДВИЖЕНИЕ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132651.png" tvg-chno="44629" group-title="RU| RUSSIA",RU| ПРОДВИЖЕНИЕ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132651&extension=m3u8
+#EXTINF:-1 tvg-id="Psychologiya21.ru" tvg-name="RU| ПСИХОЛОГИЯ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132662.png" tvg-chno="44630" group-title="RU| RUSSIA",RU| ПСИХОЛОГИЯ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132662&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| PYATIT KANAL" tvg-logo="http://picons.cmshulk.com/picons/132663.png" tvg-chno="44631" group-title="RU| RUSSIA",RU| PYATIT KANAL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132663&extension=m3u8
+#EXTINF:-1 tvg-id="Telekafe.ru" tvg-name="RU| ТЕЛЕКАФЕ ТВ" tvg-logo="http://picons.cmshulk.com/picons/132759.png" tvg-chno="44632" group-title="RU| RUSSIA",RU| ТЕЛЕКАФЕ ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132759&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| STYLE" tvg-logo="http://picons.cmshulk.com/picons/132714.png" tvg-chno="44633" group-title="RU| RUSSIA",RU| STYLE
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132714&extension=m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="RU| TIJI" tvg-logo="http://picons.cmshulk.com/picons/132729.png" tvg-chno="44634" group-title="RU| RUSSIA",RU| TIJI
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132729&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| TLUM HD" tvg-logo="http://picons.cmshulk.com/picons/132732.png" tvg-chno="44635" group-title="RU| RUSSIA",RU| TLUM HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132732&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| U" tvg-logo="http://picons.cmshulk.com/picons/132764.png" tvg-chno="44636" group-title="RU| RUSSIA",RU| U
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132764&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| U TV" tvg-logo="http://picons.cmshulk.com/picons/132765.png" tvg-chno="44637" group-title="RU| RUSSIA",RU| U TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132765&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ДОМАШНИЙ +7" tvg-logo="http://picons.cmshulk.com/picons/300762.png" tvg-chno="44638" group-title="RU| RUSSIA",RU| ДОМАШНИЙ +7
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=300762&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| ПЯТНИЦА! INTERNATIONAL" tvg-logo="http://picons.cmshulk.com/picons/1148921.png" tvg-chno="44639" group-title="RU| RUSSIA",RU| ПЯТНИЦА! INTERNATIONAL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148921&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| СПАС ТВ" tvg-logo="http://picons.cmshulk.com/picons/1148920.png" tvg-chno="44640" group-title="RU| RUSSIA",RU| СПАС ТВ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1148920&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU| GROZNY TV" tvg-logo="http://picons.cmshulk.com/picons/1298047.png" tvg-chno="44641" group-title="RU| RUSSIA",RU| GROZNY TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1298047&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| 8 CHANNEL" tvg-logo="http://picons.cmshulk.com/picons/1588634.png" tvg-chno="44642" group-title="BY| BELARUS",BY| 8 CHANNEL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588634&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| BELARUS 1" tvg-logo="http://picons.cmshulk.com/picons/1588629.png" tvg-chno="44643" group-title="BY| BELARUS",BY| BELARUS 1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588629&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| BELARUS 2" tvg-logo="http://picons.cmshulk.com/picons/1588628.png" tvg-chno="44644" group-title="BY| BELARUS",BY| BELARUS 2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588628&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| BELARUS 3" tvg-logo="http://picons.cmshulk.com/picons/1588627.png" tvg-chno="44645" group-title="BY| BELARUS",BY| BELARUS 3
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588627&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| BELARUS 4" tvg-logo="http://picons.cmshulk.com/picons/1588626.png" tvg-chno="44646" group-title="BY| BELARUS",BY| BELARUS 4
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588626&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| BELARUS 5" tvg-logo="http://picons.cmshulk.com/picons/1588625.png" tvg-chno="44647" group-title="BY| BELARUS",BY| BELARUS 5
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588625&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| BELARUS 24" tvg-logo="http://picons.cmshulk.com/picons/1588624.png" tvg-chno="44648" group-title="BY| BELARUS",BY| BELARUS 24
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588624&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| BELARUS 24 HD" tvg-logo="http://picons.cmshulk.com/picons/1588621.png" tvg-chno="44649" group-title="BY| BELARUS",BY| BELARUS 24 HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588621&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| BELROS" tvg-logo="http://picons.cmshulk.com/picons/1588633.png" tvg-chno="44650" group-title="BY| BELARUS",BY| BELROS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588633&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| BELROS TV" tvg-logo="http://picons.cmshulk.com/picons/1588631.png" tvg-chno="44651" group-title="BY| BELARUS",BY| BELROS TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588631&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| CTV" tvg-logo="http://picons.cmshulk.com/picons/1588632.png" tvg-chno="44652" group-title="BY| BELARUS",BY| CTV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588632&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| NASHE TV" tvg-logo="http://picons.cmshulk.com/picons/1588630.png" tvg-chno="44653" group-title="BY| BELARUS",BY| NASHE TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588630&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| NTV BELARUS" tvg-logo="http://picons.cmshulk.com/picons/1588622.png" tvg-chno="44654" group-title="BY| BELARUS",BY| NTV BELARUS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588622&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BY| TV3 BELARUS" tvg-logo="http://picons.cmshulk.com/picons/1588623.png" tvg-chno="44655" group-title="BY| BELARUS",BY| TV3 BELARUS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1588623&extension=m3u8
+#EXTINF:-1 tvg-id="8Kanal.ru" tvg-name="UA| 8 КАНАЛ" tvg-logo="http://picons.cmshulk.com/picons/132396.png" tvg-chno="44656" group-title="UKR| UKRAINE",UA| 8 КАНАЛ
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=132396&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| 1PLUS1" tvg-logo="http://picons.cmshulk.com/picons/127167.png" tvg-chno="44657" group-title="UKR| UKRAINE",UA| 1PLUS1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127167&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| 1PLUS1 INTERNATIONAL" tvg-logo="http://picons.cmshulk.com/picons/127168.png" tvg-chno="44658" group-title="UKR| UKRAINE",UA| 1PLUS1 INTERNATIONAL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127168&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| 2 2" tvg-logo="http://picons.cmshulk.com/picons/127169.png" tvg-chno="44659" group-title="UKR| UKRAINE",UA| 2 2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127169&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| 2PLUS2" tvg-logo="http://picons.cmshulk.com/picons/127171.png" tvg-chno="44660" group-title="UKR| UKRAINE",UA| 2PLUS2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127171&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| 5KANAL UKRAINA" tvg-logo="http://picons.cmshulk.com/picons/127177.png" tvg-chno="44661" group-title="UKR| UKRAINE",UA| 5KANAL UKRAINA
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127177&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| ATR HD" tvg-logo="http://picons.cmshulk.com/picons/127179.png" tvg-chno="44662" group-title="UKR| UKRAINE",UA| ATR HD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127179&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| ENTERFILM" tvg-logo="http://picons.cmshulk.com/picons/127187.png" tvg-chno="44663" group-title="UKR| UKRAINE",UA| ENTERFILM
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127187&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| ESPRESOTV" tvg-logo="http://picons.cmshulk.com/picons/127189.png" tvg-chno="44664" group-title="UKR| UKRAINE",UA| ESPRESOTV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127189&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| ICTV" tvg-logo="http://picons.cmshulk.com/picons/127199.png" tvg-chno="44665" group-title="UKR| UKRAINE",UA| ICTV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127199&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| SPORT 1" tvg-logo="http://picons.cmshulk.com/picons/841689.png" tvg-chno="44666" group-title="UKR| UKRAINE",UA| SPORT 1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=841689&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| SPORT 2" tvg-logo="http://picons.cmshulk.com/picons/841688.png" tvg-chno="44667" group-title="UKR| UKRAINE",UA| SPORT 2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=841688&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| SETANTA SPORT FHD" tvg-logo="http://picons.cmshulk.com/picons/1040328.png" tvg-chno="44668" group-title="UKR| UKRAINE",UA| SETANTA SPORT FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1040328&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| SETANTA SPORT PLUS FHD" tvg-logo="http://picons.cmshulk.com/picons/1040327.png" tvg-chno="44669" group-title="UKR| UKRAINE",UA| SETANTA SPORT PLUS FHD
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=1040327&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| INTER" tvg-logo="http://picons.cmshulk.com/picons/127201.png" tvg-chno="44670" group-title="UKR| UKRAINE",UA| INTER
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127201&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| K1" tvg-logo="http://picons.cmshulk.com/picons/127203.png" tvg-chno="44671" group-title="UKR| UKRAINE",UA| K1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127203&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| K2" tvg-logo="http://picons.cmshulk.com/picons/127204.png" tvg-chno="44672" group-title="UKR| UKRAINE",UA| K2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127204&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| KVARTAL TV" tvg-logo="http://picons.cmshulk.com/picons/127207.png" tvg-chno="44673" group-title="UKR| UKRAINE",UA| KVARTAL TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127207&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| M1" tvg-logo="http://picons.cmshulk.com/picons/127209.png" tvg-chno="44674" group-title="UKR| UKRAINE",UA| M1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127209&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| M2" tvg-logo="http://picons.cmshulk.com/picons/127210.png" tvg-chno="44675" group-title="UKR| UKRAINE",UA| M2
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127210&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| MAXXI TV" tvg-logo="http://picons.cmshulk.com/picons/127212.png" tvg-chno="44676" group-title="UKR| UKRAINE",UA| MAXXI TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127212&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| MEGA" tvg-logo="http://picons.cmshulk.com/picons/127213.png" tvg-chno="44677" group-title="UKR| UKRAINE",UA| MEGA
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127213&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| MILADY TELEVISION" tvg-logo="http://picons.cmshulk.com/picons/127214.png" tvg-chno="44678" group-title="UKR| UKRAINE",UA| MILADY TELEVISION
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127214&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| NEWS NETWORK" tvg-logo="http://picons.cmshulk.com/picons/127225.png" tvg-chno="44679" group-title="UKR| UKRAINE",UA| NEWS NETWORK
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127225&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| NIKI KIDS" tvg-logo="http://picons.cmshulk.com/picons/127221.png" tvg-chno="44680" group-title="UKR| UKRAINE",UA| NIKI KIDS
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127221&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| NLOTV" tvg-logo="http://picons.cmshulk.com/picons/127222.png" tvg-chno="44681" group-title="UKR| UKRAINE",UA| NLOTV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127222&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| NOVY KANAL" tvg-logo="http://picons.cmshulk.com/picons/127223.png" tvg-chno="44682" group-title="UKR| UKRAINE",UA| NOVY KANAL
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127223&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| RADA" tvg-logo="http://picons.cmshulk.com/picons/127236.png" tvg-chno="44683" group-title="UKR| UKRAINE",UA| RADA
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127236&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| SONCE TV" tvg-logo="http://picons.cmshulk.com/picons/127238.png" tvg-chno="44684" group-title="UKR| UKRAINE",UA| SONCE TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127238&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| STB" tvg-logo="http://picons.cmshulk.com/picons/127239.png" tvg-chno="44685" group-title="UKR| UKRAINE",UA| STB
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127239&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| TET" tvg-logo="http://picons.cmshulk.com/picons/127244.png" tvg-chno="44686" group-title="UKR| UKRAINE",UA| TET
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127244&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| TYSA 1" tvg-logo="http://picons.cmshulk.com/picons/127250.png" tvg-chno="44687" group-title="UKR| UKRAINE",UA| TYSA 1
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127250&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| UA TV" tvg-logo="http://picons.cmshulk.com/picons/127252.png" tvg-chno="44688" group-title="UKR| UKRAINE",UA| UA TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127252&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| UKRAINA" tvg-logo="http://picons.cmshulk.com/picons/127253.png" tvg-chno="44689" group-title="UKR| UKRAINE",UA| UKRAINA
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127253&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| UNIAN TV" tvg-logo="http://picons.cmshulk.com/picons/127254.png" tvg-chno="44690" group-title="UKR| UKRAINE",UA| UNIAN TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127254&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| VINTAGE TV" tvg-logo="http://picons.cmshulk.com/picons/127256.png" tvg-chno="44691" group-title="UKR| UKRAINE",UA| VINTAGE TV
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127256&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| X SPORT" tvg-logo="http://picons.cmshulk.com/picons/127257.png" tvg-chno="44692" group-title="UKR| UKRAINE",UA| X SPORT
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127257&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA| ZOOM" tvg-logo="http://picons.cmshulk.com/picons/127260.png" tvg-chno="44693" group-title="UKR| UKRAINE",UA| ZOOM
+http://hottest.vip/play/live.php?mac=00%3A1A%3A79%3A9B%3AD3%3AA5&stream=127260&extension=m3u8
